@@ -4,431 +4,1126 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
-<meta name="theme-color" content="#7f1d1d" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="theme-color" content="#0a2540" />
 <title>Shayne M. Guthrie, Realtor · Hawaii Real Estate</title>
-<meta name="description" content="Shayne M. Guthrie, Realtor — licensed Hawaii Real Estate Broker (BC). Ralph S. Foulger, Realtor, Kaneohe. Buyer and seller representation across Oahu." />
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%237f1d1d' rx='14'/%3E%3Cpath d='M30 70 L50 30 L70 70 Z' fill='%23fbbf24'/%3E%3C/svg%3E" />
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<meta name="description" content="Shayne M. Guthrie, Realtor — licensed Hawaii Real Estate Broker (BC). Affiliated with Ralph S. Foulger, Realtor in Kaneohe. Buyer and seller representation across Oahu." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%230a2540' rx='14'/%3E%3Cpath d='M50 22 L70 50 L50 78 L30 50 Z' fill='%23c8956d'/%3E%3C/svg%3E" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet" />
 <style>
+/* ─────────────── reset + tokens ─────────────── */
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
-  --crimson:#b91c1c;
-  --burgundy:#7f1d1d;
-  --burgundy-deep:#450a0a;
-  --rose-pale:#fee2e2;
-  --cream:#fef9f5;
-  --gold:#b8860b;
-  --gold-light:#d4af37;
-  --ink:#1c1917;
-  --muted:#78716c;
-  --dim:#a8a29e;
-  --border:#e7e5e4;
+  --ocean:#0a2540;        /* primary deep ocean navy */
+  --ocean-deep:#061629;   /* footer / cap */
+  --ocean-soft:#1a3a5c;   /* nav active */
+  --sand:#c8956d;         /* premium gold-bronze accent */
+  --sand-light:#e0bb96;
+  --sand-pale:#f5ead9;
+  --cream:#faf7f2;        /* page background */
+  --paper:#ffffff;        /* cards */
+  --ink:#0f1419;          /* near-black text */
+  --muted:#5b6470;        /* secondary text */
+  --dim:#94a0ad;
+  --border:#e8e4dc;       /* warm border */
+  --shadow:0 12px 40px -12px rgba(10,37,64,.18);
+  --shadow-sm:0 2px 8px -2px rgba(10,37,64,.08);
+  --shadow-lg:0 30px 80px -20px rgba(10,37,64,.22);
 }
-html{font-size:16px;scroll-behavior:smooth}
-body{font-family:'Inter',sans-serif;background:var(--cream);color:var(--ink);-webkit-font-smoothing:antialiased;line-height:1.6;min-height:100dvh;overflow-x:hidden}
+html{font-size:16px;scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{
+  font-family:'Poppins',system-ui,-apple-system,sans-serif;
+  background:var(--cream);color:var(--ink);
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;
+  line-height:1.65;min-height:100dvh;overflow-x:hidden;
+  padding:env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
 a{color:inherit;text-decoration:none}
-button{font-family:inherit;border:0;cursor:pointer}
+img{max-width:100%;height:auto;display:block}
+button{font-family:inherit;border:0;cursor:pointer;background:none}
+input,textarea,select{font-family:inherit;font-size:16px}
 
-nav.top{
-  position:fixed;top:0;left:0;right:0;z-index:80;
-  display:flex;align-items:center;justify-content:space-between;
-  padding:14px clamp(20px,4vw,40px);
-  background:rgba(254,249,245,.92);backdrop-filter:blur(20px);
-  border-bottom:1px solid var(--border);
-}
-nav.top .logo{display:flex;align-items:center;gap:12px;font-family:'Playfair Display',serif;font-weight:700;font-size:19px;color:var(--burgundy)}
-nav.top .logo .mark{
-  width:38px;height:38px;border-radius:6px;
-  background:linear-gradient(135deg,var(--crimson),var(--burgundy-deep));
-  display:flex;align-items:center;justify-content:center;
-  color:var(--gold-light);font-weight:700;font-size:20px;font-family:'Playfair Display',serif;
-}
-nav.top .logo .mark::before{content:'S'}
-nav.top .logo small{display:block;font-family:'Inter',sans-serif;font-weight:500;font-size:10px;color:var(--muted);letter-spacing:.15em;text-transform:uppercase;margin-top:2px}
-nav.top ul{display:flex;gap:24px;list-style:none}
-nav.top a{color:var(--muted);font-weight:500;font-size:14px}
-nav.top a:hover{color:var(--burgundy)}
-nav.top .call{
-  padding:11px 20px;background:linear-gradient(135deg,var(--crimson),var(--burgundy));
-  color:#fff;border-radius:6px;font-weight:600;font-size:13px;
-  font-family:'JetBrains Mono',monospace;letter-spacing:.04em;
-}
-@media(max-width:760px){nav.top ul{display:none}}
-
-.hero{
-  min-height:90dvh;
-  padding:140px clamp(20px,5vw,60px) 80px;
-  display:flex;align-items:center;
-  background:
-    radial-gradient(ellipse 70% 40% at 80% 20%,rgba(212,175,55,.1),transparent 60%),
-    radial-gradient(ellipse 70% 60% at 10% 90%,rgba(124,29,29,.06),transparent 70%),
-    var(--cream);
-}
-.hero .inner{max-width:1180px;margin:0 auto;width:100%;display:grid;grid-template-columns:1fr 380px;gap:60px;align-items:center}
-@media(max-width:880px){.hero .inner{grid-template-columns:1fr;gap:36px}}
-.hero .portrait{
-  aspect-ratio:3/4;border-radius:6px;overflow:hidden;
-  background:url('/example-website-assets/shayne/marina.jpg?v=27') center 18%/cover;
-  box-shadow:0 30px 80px rgba(124,29,29,.18);
-  border:5px solid #fff;position:relative;
-}
-.hero .portrait::after{
-  content:'';position:absolute;bottom:0;left:0;right:0;height:120px;
-  background:linear-gradient(180deg,transparent,rgba(124,29,29,.45));
-}
-.hero .portrait .ribbon{
-  position:absolute;bottom:18px;left:18px;right:18px;color:#fff;z-index:2;
-}
-.hero .portrait .ribbon b{display:block;font-family:'Playfair Display',serif;font-size:18px;font-weight:600;margin-bottom:2px}
-.hero .portrait .ribbon span{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.85);font-weight:700}
-@media(max-width:880px){.hero .portrait{max-width:300px;margin:0 auto}}
-.eyebrow{
-  display:inline-flex;align-items:center;gap:10px;
-  padding:8px 16px;background:#fff;border:1px solid var(--rose-pale);border-radius:99px;
-  font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;
-  color:var(--burgundy);font-weight:600;margin-bottom:28px;
-}
-.eyebrow::before{content:'';width:8px;height:8px;border-radius:50%;background:var(--crimson)}
-.hero h1{
-  font-family:'Playfair Display',serif;
-  font-size:clamp(44px,7vw,84px);line-height:1.05;letter-spacing:-.02em;font-weight:400;
-  color:var(--ink);max-width:880px;
-}
-.hero h1 b{font-weight:700}
-.hero h1 em{font-style:italic;color:var(--burgundy)}
-.hero .lede{
-  font-size:18px;color:var(--muted);margin-top:28px;max-width:640px;line-height:1.65;
-}
-.hero .ctas{margin-top:40px;display:flex;gap:12px;flex-wrap:wrap}
-.cta{
-  padding:16px 28px;border-radius:6px;font-weight:600;font-size:13px;letter-spacing:.04em;
-  font-family:'JetBrains Mono',monospace;text-transform:uppercase;
-  display:inline-flex;align-items:center;gap:10px;transition:transform .15s;
-}
-.cta:hover{transform:translateY(-1px)}
-.cta.primary{background:var(--crimson);color:#fff;box-shadow:0 6px 20px rgba(185,28,28,.25)}
-.cta.primary:hover{background:var(--burgundy)}
-.cta.ghost{background:#fff;border:1px solid var(--ink);color:var(--ink)}
-.cta.ghost:hover{background:var(--ink);color:#fff}
-
-section{padding:80px clamp(20px,5vw,60px)}
-.wrap{max-width:1100px;margin:0 auto}
-.snum{
-  font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--burgundy);
-  letter-spacing:.3em;text-transform:uppercase;margin-bottom:18px;font-weight:600;
-  display:inline-flex;align-items:center;gap:10px;
-}
-.snum::before{content:'';width:24px;height:1px;background:var(--burgundy)}
-.stitle{
-  font-family:'Playfair Display',serif;font-weight:400;
-  font-size:clamp(32px,4.5vw,52px);line-height:1.1;letter-spacing:-.02em;
-  margin-bottom:14px;color:var(--ink);
-}
-.stitle em{font-style:italic;color:var(--burgundy)}
-.stitle b{font-weight:700}
-.slede{font-size:16px;color:var(--muted);max-width:680px;line-height:1.65;margin-bottom:40px}
-
-.creds{background:var(--burgundy-deep);color:#fff}
-.creds .snum{color:var(--gold-light)}.creds .snum::before{background:var(--gold-light)}
-.creds .stitle,.creds .stitle b{color:#fff}.creds .stitle em{color:var(--gold-light)}
-.creds .slede{color:rgba(255,255,255,.7)}
-.cred-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px}
-@media(max-width:760px){.cred-grid{grid-template-columns:1fr}}
-.cred{
-  background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);
-  border-radius:4px;padding:28px;
-}
-.cred .lab{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--gold-light);font-weight:600;margin-bottom:10px}
-.cred h4{font-size:18px;font-weight:700;color:#fff;margin-bottom:8px;letter-spacing:-.01em}
-.cred p{font-size:14px;color:rgba(255,255,255,.7);line-height:1.65}
-.cred a{color:var(--gold-light);border-bottom:1px dashed rgba(212,175,55,.4)}
-
-.serve{background:#fff}
-.serve-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-@media(max-width:760px){.serve-grid{grid-template-columns:1fr}}
-.scard{
-  background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:32px;
-}
-.scard .ic{
-  width:44px;height:44px;border-radius:4px;
-  background:linear-gradient(135deg,var(--crimson),var(--burgundy));
-  color:#fff;display:flex;align-items:center;justify-content:center;margin-bottom:18px;
-}
-.scard h3{font-family:'Playfair Display',serif;font-weight:700;font-size:22px;color:var(--ink);margin-bottom:10px;letter-spacing:-.01em}
-.scard p{font-size:14.5px;color:var(--muted);line-height:1.65}
-
-.contact{background:var(--ink);color:#fff;text-align:center}
-.contact .stitle,.contact .stitle b{color:#fff}.contact .stitle em{color:var(--gold-light)}
-.contact-card{
-  background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);
-  border-radius:4px;padding:40px;max-width:520px;margin:30px auto 0;text-align:left;
-}
-.contact-card .row{
-  display:flex;justify-content:space-between;align-items:center;
-  padding:16px 0;border-bottom:1px solid rgba(255,255,255,.08);
-  font-family:'JetBrains Mono',monospace;font-size:13px;
-}
-.contact-card .row:last-child{border-bottom:0}
-.contact-card .row .l{color:rgba(255,255,255,.5);font-size:11px;letter-spacing:.18em;text-transform:uppercase;font-weight:600}
-.contact-card .row .v{color:#fff;font-weight:600}
-.contact-card .row .v a{color:var(--gold-light)}
-.contact-card .cta-row{padding-top:24px;margin-top:14px;border-top:1px solid rgba(255,255,255,.1);text-align:center}
-.contact-card .cta-call{
-  display:inline-block;padding:14px 28px;background:var(--gold-light);color:var(--burgundy-deep);
-  border-radius:4px;font-weight:700;font-size:13px;font-family:'JetBrains Mono',monospace;
-  letter-spacing:.04em;text-transform:uppercase;
-}
-
-footer{
-  padding:40px clamp(20px,5vw,60px);background:var(--ink);color:rgba(255,255,255,.5);
-  text-align:center;font-size:12px;border-top:1px solid rgba(255,255,255,.08);
-}
-footer .brand{font-family:'Playfair Display',serif;font-style:italic;font-size:24px;color:#fff;display:block;margin-bottom:8px;font-weight:400}
-footer .info{font-family:'JetBrains Mono',monospace;font-size:11px;line-height:1.9;color:rgba(255,255,255,.6);letter-spacing:.05em}
-footer .legal{margin-top:20px;font-size:10px;color:rgba(255,255,255,.35);font-family:'JetBrains Mono',monospace;letter-spacing:.1em;line-height:1.7}
-footer .ehl{
-  display:inline-flex;align-items:center;gap:8px;margin-top:14px;padding:5px 12px;
-  background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);border-radius:3px;
-  font-size:10px;font-family:'JetBrains Mono',monospace;letter-spacing:.15em;color:var(--gold-light);
-}
-footer .ehl::before{content:'⌂';color:var(--gold-light)}
-
-.ic{width:22px;height:22px;stroke:currentColor;stroke-width:1.6;fill:none;stroke-linecap:round;stroke-linejoin:round}
-@media(max-width:780px){.approach-grid{grid-template-columns:1fr 1fr !important}}
-@media(max-width:600px){.hero{padding:120px 20px 60px}section{padding:60px 20px}.approach-grid{grid-template-columns:1fr !important}}
-</style>
-<style>
+/* ─────────────── RFS WATERMARK ─────────────── */
 .rfs-watermark{
   position:fixed;top:0;left:0;right:0;z-index:200;
-  background:linear-gradient(180deg,#0e1a26 0%,#14837b 100%);
+  background:linear-gradient(180deg,#14837b 0%,#0e1a26 100%);
   color:#fbf7f0;padding:9px clamp(14px,4vw,32px);
-  font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.14em;
-  text-transform:uppercase;text-align:center;
-  border-bottom:1px solid rgba(255,255,255,.18);
+  font-family:'Poppins',sans-serif;font-size:11px;letter-spacing:.1em;
+  text-transform:uppercase;text-align:center;font-weight:500;
   box-shadow:0 2px 12px rgba(0,0,0,.18);
+  padding-top:max(9px,env(safe-area-inset-top));
 }
-.rfs-watermark a{color:#fbbf24;text-decoration:none;font-weight:700}
+.rfs-watermark a{color:#fbbf24;font-weight:700}
 .rfs-watermark a:hover{text-decoration:underline}
-.rfs-watermark .pill{background:rgba(255,255,255,.12);padding:3px 8px;border-radius:99px;margin-right:10px;font-size:9px}
-nav.top{top:38px !important}
-.hero{padding-top:178px !important}
+.rfs-watermark .pill{background:rgba(255,255,255,.12);padding:3px 9px;border-radius:99px;margin-right:10px;font-size:9px;letter-spacing:.14em}
 @media(max-width:600px){
-  .rfs-watermark{font-size:9px;padding:8px 10px;letter-spacing:.1em}
-  nav.top{top:34px !important}
-  .hero{padding-top:154px !important}
+  .rfs-watermark{font-size:9px;padding:8px 10px;letter-spacing:.08em}
+  .rfs-watermark .pill{font-size:8px;padding:2px 7px;margin-right:6px}
+}
+
+/* ─────────────── NAVIGATION ─────────────── */
+nav.top{
+  position:fixed;top:38px;left:0;right:0;z-index:80;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:18px clamp(20px,4vw,48px);
+  padding-top:max(18px,env(safe-area-inset-top));
+  padding-left:max(20px,env(safe-area-inset-left));
+  padding-right:max(20px,env(safe-area-inset-right));
+  background:rgba(250,247,242,.88);backdrop-filter:blur(24px);-webkit-backdrop-filter:blur(24px);
+  border-bottom:1px solid rgba(232,228,220,.7);
+  transition:padding .2s ease;
+}
+nav.top.scrolled{padding-top:max(12px,env(safe-area-inset-top));padding-bottom:12px;background:rgba(250,247,242,.96)}
+@media(max-width:600px){
+  nav.top{top:34px}
+  nav.top.scrolled{top:34px}
+}
+.brand{display:flex;align-items:center;gap:12px;text-decoration:none}
+.brand-mark{
+  width:42px;height:42px;border-radius:8px;
+  background:linear-gradient(135deg,var(--ocean),var(--ocean-deep));
+  display:flex;align-items:center;justify-content:center;
+  color:var(--sand);font-weight:600;font-size:18px;
+  font-family:'Cormorant Garamond',serif;letter-spacing:.02em;
+  box-shadow:0 4px 12px rgba(10,37,64,.2);
+}
+.brand-mark::before{content:'SG'}
+.brand-text{display:flex;flex-direction:column;line-height:1.1}
+.brand-name{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:19px;color:var(--ocean);letter-spacing:-.01em}
+.brand-tag{font-family:'Poppins',sans-serif;font-weight:400;font-size:10px;color:var(--muted);letter-spacing:.18em;text-transform:uppercase;margin-top:2px}
+
+nav.top ul{display:flex;gap:32px;list-style:none;align-items:center}
+nav.top a.nav-link{color:var(--ink);font-weight:400;font-size:14px;letter-spacing:.01em;position:relative;padding:6px 0;transition:color .15s}
+nav.top a.nav-link:hover{color:var(--ocean)}
+nav.top a.nav-link::after{content:'';position:absolute;bottom:0;left:0;right:0;height:1px;background:var(--ocean);transform:scaleX(0);transition:transform .2s}
+nav.top a.nav-link:hover::after{transform:scaleX(1)}
+
+.nav-cta{
+  padding:11px 22px;background:var(--ocean);color:#fff;
+  border-radius:99px;font-weight:500;font-size:13px;letter-spacing:.02em;
+  transition:all .2s;
+}
+.nav-cta:hover{background:var(--ocean-deep);transform:translateY(-1px);box-shadow:0 8px 20px rgba(10,37,64,.25)}
+
+.hamburger{
+  display:none;width:44px;height:44px;
+  background:transparent;border:1px solid var(--border);border-radius:8px;
+  align-items:center;justify-content:center;flex-shrink:0;cursor:pointer;
+}
+.hamburger svg{width:22px;height:22px;stroke:var(--ink);stroke-width:1.6;fill:none;stroke-linecap:round}
+
+@media(max-width:880px){
+  nav.top ul{
+    position:fixed;top:0;left:0;right:0;
+    flex-direction:column;
+    background:rgba(255,255,255,.98);backdrop-filter:blur(24px);
+    padding:calc(80px + env(safe-area-inset-top)) 24px 32px;
+    transform:translateY(-150%);transition:transform .3s ease,visibility .3s;
+    visibility:hidden;gap:8px;
+    border-bottom:1px solid var(--border);
+    box-shadow:0 20px 60px -20px rgba(10,37,64,.2);
+    z-index:79;
+  }
+  nav.top ul.open{transform:translateY(0);visibility:visible}
+  nav.top ul li{width:100%;border-bottom:1px solid var(--border)}
+  nav.top ul li:last-child{border-bottom:0}
+  nav.top a.nav-link{font-size:18px;padding:18px 0;display:block;font-family:'Cormorant Garamond',serif;font-weight:500}
+  .nav-cta{display:none}
+  .hamburger{display:inline-flex}
+}
+
+/* ─────────────── HERO ─────────────── */
+.hero{
+  min-height:96dvh;
+  padding:160px clamp(20px,5vw,60px) 100px;
+  padding-top:max(160px,calc(38px + env(safe-area-inset-top) + 120px));
+  display:flex;align-items:center;position:relative;
+  background:
+    radial-gradient(ellipse 80% 50% at 90% 10%,rgba(200,149,109,.12),transparent 60%),
+    radial-gradient(ellipse 70% 60% at 0% 100%,rgba(10,37,64,.06),transparent 70%),
+    var(--cream);
+  overflow:hidden;
+}
+.hero::before{
+  content:'';position:absolute;top:0;left:0;right:0;bottom:0;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400' viewBox='0 0 400 400'%3E%3Cdefs%3E%3Cpattern id='grain' x='0' y='0' width='100' height='100' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='50' cy='50' r='1.5' fill='%230a2540' fill-opacity='0.02'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='400' height='400' fill='url(%23grain)'/%3E%3C/svg%3E");
+  pointer-events:none;
+}
+.hero .inner{max-width:1240px;margin:0 auto;width:100%;display:grid;grid-template-columns:1fr 420px;gap:80px;align-items:center;position:relative;z-index:1}
+@media(max-width:960px){.hero .inner{grid-template-columns:1fr;gap:48px;text-align:left}}
+
+.eyebrow{
+  display:inline-flex;align-items:center;gap:12px;
+  padding:8px 18px;background:rgba(255,255,255,.7);
+  border:1px solid var(--sand-pale);border-radius:99px;
+  font-family:'Poppins',sans-serif;font-size:11px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--ocean);font-weight:500;margin-bottom:32px;
+  backdrop-filter:blur(8px);
+}
+.eyebrow::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--sand);box-shadow:0 0 0 4px rgba(200,149,109,.2)}
+
+.hero h1{
+  font-family:'Cormorant Garamond',serif;
+  font-size:clamp(40px,7.5vw,84px);line-height:1.02;letter-spacing:-.02em;font-weight:400;
+  color:var(--ocean);margin-bottom:24px;
+}
+.hero h1 em{font-style:italic;color:var(--sand);font-weight:400}
+.hero h1 b{font-weight:600}
+
+.hero .lede{
+  font-size:clamp(16px,1.8vw,18px);color:var(--muted);max-width:560px;line-height:1.7;font-weight:400;
+}
+
+.hero .credentials{
+  margin-top:36px;display:flex;flex-wrap:wrap;gap:10px;
+}
+.cred-pill{
+  padding:7px 14px;background:var(--paper);border:1px solid var(--border);
+  border-radius:99px;font-size:12px;color:var(--ocean);font-weight:500;
+  display:inline-flex;align-items:center;gap:8px;
+}
+.cred-pill::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--sand)}
+
+.hero .ctas{margin-top:44px;display:flex;gap:14px;flex-wrap:wrap}
+
+.btn{
+  padding:16px 32px;border-radius:99px;font-weight:500;font-size:14px;letter-spacing:.02em;
+  font-family:'Poppins',sans-serif;
+  display:inline-flex;align-items:center;justify-content:center;gap:10px;
+  transition:all .2s ease;cursor:pointer;min-height:52px;white-space:nowrap;
+}
+.btn:hover{transform:translateY(-2px)}
+.btn.primary{background:var(--ocean);color:#fff;box-shadow:0 8px 24px rgba(10,37,64,.25)}
+.btn.primary:hover{background:var(--ocean-deep);box-shadow:0 12px 32px rgba(10,37,64,.35)}
+.btn.gold{background:var(--sand);color:#fff;box-shadow:0 8px 24px rgba(200,149,109,.3)}
+.btn.gold:hover{background:#b07f5a;box-shadow:0 12px 32px rgba(200,149,109,.4)}
+.btn.ghost{background:transparent;border:1px solid var(--ocean);color:var(--ocean)}
+.btn.ghost:hover{background:var(--ocean);color:#fff}
+.btn .ic{width:18px;height:18px;stroke:currentColor;stroke-width:1.8;fill:none;stroke-linecap:round;stroke-linejoin:round}
+
+.hero .portrait{
+  position:relative;aspect-ratio:3/4;border-radius:16px;overflow:hidden;
+  background:#0a2540 url('/example-website-assets/shayne/marina.jpg?v=2026') center 22%/cover;
+  box-shadow:var(--shadow-lg);
+}
+.hero .portrait::after{
+  content:'';position:absolute;bottom:0;left:0;right:0;height:50%;
+  background:linear-gradient(180deg,transparent,rgba(10,37,64,.85));
+}
+.hero .portrait .name-plate{
+  position:absolute;bottom:24px;left:24px;right:24px;color:#fff;z-index:2;
+}
+.name-plate .label{font-family:'Poppins',sans-serif;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--sand-light);font-weight:500;margin-bottom:6px}
+.name-plate b{display:block;font-family:'Cormorant Garamond',serif;font-size:24px;font-weight:600;letter-spacing:-.01em;margin-bottom:4px}
+.name-plate span{font-size:13px;color:rgba(255,255,255,.85);font-weight:400}
+
+.hero .portrait .badge{
+  position:absolute;top:20px;right:20px;
+  background:rgba(255,255,255,.95);backdrop-filter:blur(12px);
+  padding:8px 14px;border-radius:99px;
+  font-family:'Poppins',sans-serif;font-size:10px;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--ocean);font-weight:600;
+  display:inline-flex;align-items:center;gap:6px;
+}
+.hero .portrait .badge::before{content:'';width:6px;height:6px;border-radius:50%;background:#22c55e;box-shadow:0 0 0 2px rgba(34,197,94,.25)}
+
+@media(max-width:960px){.hero .portrait{max-width:320px;margin:0 auto;width:100%}}
+
+/* ─────────────── SECTION SHELL ─────────────── */
+section{padding:96px clamp(20px,5vw,60px);position:relative}
+.wrap{max-width:1180px;margin:0 auto}
+.snum{
+  font-family:'Poppins',sans-serif;font-size:11px;color:var(--sand);
+  letter-spacing:.28em;text-transform:uppercase;margin-bottom:20px;font-weight:600;
+  display:inline-flex;align-items:center;gap:12px;
+}
+.snum::before{content:'';width:28px;height:1px;background:var(--sand)}
+.stitle{
+  font-family:'Cormorant Garamond',serif;font-weight:400;
+  font-size:clamp(30px,4.8vw,52px);line-height:1.08;letter-spacing:-.015em;
+  margin-bottom:18px;color:var(--ocean);
+}
+.stitle em{font-style:italic;color:var(--sand)}
+.stitle b{font-weight:600}
+.slede{font-size:17px;color:var(--muted);max-width:680px;line-height:1.7;margin-bottom:48px;font-weight:400}
+
+/* ─────────────── CREDENTIALS SECTION ─────────────── */
+.creds{background:linear-gradient(180deg,var(--ocean) 0%,var(--ocean-deep) 100%);color:#fff;position:relative;overflow:hidden}
+.creds::before{
+  content:'';position:absolute;top:-50%;right:-20%;width:80%;height:200%;
+  background:radial-gradient(ellipse,rgba(200,149,109,.15) 0%,transparent 60%);
+  pointer-events:none;
+}
+.creds .snum{color:var(--sand-light)}.creds .snum::before{background:var(--sand-light)}
+.creds .stitle,.creds .stitle b{color:#fff}.creds .stitle em{color:var(--sand-light)}
+.creds .slede{color:rgba(255,255,255,.65)}
+
+.cred-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;position:relative;z-index:1}
+@media(max-width:760px){.cred-grid{grid-template-columns:1fr}}
+.cred{
+  background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.1);
+  border-radius:12px;padding:32px;backdrop-filter:blur(8px);
+  transition:all .2s;position:relative;overflow:hidden;
+}
+.cred:hover{background:rgba(255,255,255,.06);border-color:rgba(200,149,109,.4);transform:translateY(-2px)}
+.cred::before{
+  content:'';position:absolute;top:0;left:0;width:3px;height:0;background:var(--sand);transition:height .3s;
+}
+.cred:hover::before{height:100%}
+.cred .lab{font-family:'Poppins',sans-serif;font-size:10px;letter-spacing:.22em;text-transform:uppercase;color:var(--sand-light);font-weight:600;margin-bottom:14px;display:inline-flex;align-items:center;gap:8px}
+.cred .lab::before{content:'';width:5px;height:5px;border-radius:50%;background:var(--sand-light)}
+.cred h4{font-family:'Cormorant Garamond',serif;font-size:22px;font-weight:500;color:#fff;margin-bottom:10px;letter-spacing:-.01em;line-height:1.25}
+.cred p{font-size:14px;color:rgba(255,255,255,.65);line-height:1.7;font-weight:400}
+
+/* ─────────────── SERVICES SECTION ─────────────── */
+.serve{background:var(--paper);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+.serve-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+@media(max-width:880px){.serve-grid{grid-template-columns:1fr}}
+.scard{
+  background:var(--cream);border:1px solid var(--border);border-radius:12px;padding:36px;
+  transition:all .25s;position:relative;overflow:hidden;
+}
+.scard:hover{transform:translateY(-4px);box-shadow:var(--shadow);border-color:var(--sand-light)}
+.scard .ic-wrap{
+  width:52px;height:52px;border-radius:12px;
+  background:linear-gradient(135deg,var(--ocean),var(--ocean-deep));
+  color:var(--sand-light);display:flex;align-items:center;justify-content:center;margin-bottom:22px;
+  box-shadow:0 4px 16px rgba(10,37,64,.2);
+}
+.scard .ic-wrap svg{width:24px;height:24px;stroke:currentColor;stroke-width:1.5;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.scard h3{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:24px;color:var(--ocean);margin-bottom:12px;letter-spacing:-.01em;line-height:1.25}
+.scard p{font-size:15px;color:var(--muted);line-height:1.7;font-weight:400}
+
+/* ─────────────── APPROACH SECTION ─────────────── */
+.approach{background:var(--cream)}
+.approach-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:44px}
+@media(max-width:880px){.approach-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:560px){.approach-grid{grid-template-columns:1fr}}
+.acard{
+  background:var(--paper);border:1px solid var(--border);border-radius:12px;padding:32px;
+  transition:all .2s;
+}
+.acard:hover{border-color:var(--sand-light);box-shadow:var(--shadow-sm)}
+.acard .num{
+  font-family:'Cormorant Garamond',serif;font-style:italic;font-size:18px;
+  color:var(--sand);font-weight:500;margin-bottom:14px;
+  display:inline-block;width:32px;height:32px;line-height:32px;text-align:center;
+  border:1px solid var(--sand-light);border-radius:50%;
+}
+.acard h3{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:22px;color:var(--ocean);margin-bottom:12px;letter-spacing:-.01em;line-height:1.3}
+.acard p{font-size:14.5px;color:var(--muted);line-height:1.7}
+
+.affiliations{
+  margin-top:56px;padding:40px 44px;
+  background:linear-gradient(135deg,var(--ocean),var(--ocean-deep));color:#fff;
+  border-radius:16px;box-shadow:var(--shadow);position:relative;overflow:hidden;
+}
+.affiliations::before{
+  content:'';position:absolute;top:-50%;right:-10%;width:60%;height:200%;
+  background:radial-gradient(circle,rgba(200,149,109,.2),transparent 60%);
+}
+.affiliations .lab{font-family:'Poppins',sans-serif;font-size:10px;color:var(--sand-light);letter-spacing:.22em;text-transform:uppercase;font-weight:600;margin-bottom:20px;display:inline-flex;align-items:center;gap:10px}
+.affiliations .lab::before{content:'';width:24px;height:1px;background:var(--sand-light)}
+.aff-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;position:relative;z-index:1}
+@media(max-width:680px){.aff-grid{grid-template-columns:1fr}}
+.aff-grid div{font-size:15px;line-height:1.6}
+.aff-grid div b{display:block;font-family:'Poppins',sans-serif;font-size:10px;color:var(--sand-light);letter-spacing:.16em;text-transform:uppercase;font-weight:600;margin-bottom:4px}
+
+/* ─────────────── ONBOARDING / INQUIRE ─────────────── */
+.onboard{background:linear-gradient(180deg,var(--paper) 0%,var(--cream) 100%)}
+
+.onboard-shell{
+  background:var(--paper);border:1px solid var(--border);border-radius:20px;
+  box-shadow:var(--shadow);overflow:hidden;margin-top:8px;
+}
+.onboard-progress{
+  display:flex;align-items:center;padding:24px 32px;
+  background:var(--cream);border-bottom:1px solid var(--border);
+  gap:12px;
+}
+.step-dot{
+  display:flex;align-items:center;gap:10px;color:var(--dim);font-size:13px;font-weight:500;
+  flex:1;min-width:0;
+}
+.step-dot .n{
+  width:30px;height:30px;border-radius:50%;background:var(--paper);border:1.5px solid var(--border);
+  display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600;color:var(--dim);
+  flex-shrink:0;transition:all .25s;
+}
+.step-dot.active .n{background:var(--ocean);border-color:var(--ocean);color:#fff;box-shadow:0 0 0 4px rgba(10,37,64,.12)}
+.step-dot.done .n{background:var(--sand);border-color:var(--sand);color:#fff}
+.step-dot.done .n::before{content:'✓';font-size:14px}
+.step-dot.done .n span{display:none}
+.step-dot.active{color:var(--ocean)}
+.step-dot.done{color:var(--sand)}
+.step-sep{flex:0 0 24px;height:1px;background:var(--border)}
+@media(max-width:680px){
+  .onboard-progress{padding:18px 20px;gap:6px}
+  .step-dot .lbl{display:none}
+  .step-sep{flex:1}
+}
+
+.onboard-body{padding:44px 48px}
+@media(max-width:680px){.onboard-body{padding:32px 24px}}
+
+.step{display:none;animation:fadeIn .3s ease}
+.step.active{display:block}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.step h3{font-family:'Cormorant Garamond',serif;font-size:clamp(24px,3.4vw,32px);font-weight:500;color:var(--ocean);margin-bottom:10px;letter-spacing:-.01em;line-height:1.2}
+.step p.help{font-size:15px;color:var(--muted);margin-bottom:28px;line-height:1.65}
+
+.choice-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-bottom:8px}
+.choice{
+  padding:24px 20px;background:var(--paper);border:1.5px solid var(--border);border-radius:12px;
+  text-align:center;cursor:pointer;transition:all .15s;
+  display:flex;flex-direction:column;align-items:center;gap:10px;
+  min-height:120px;justify-content:center;
+}
+.choice:hover{border-color:var(--sand-light);background:var(--sand-pale)}
+.choice.selected{border-color:var(--ocean);background:var(--cream);box-shadow:0 0 0 3px rgba(10,37,64,.1)}
+.choice .ic-c{
+  width:40px;height:40px;border-radius:10px;
+  background:var(--cream);color:var(--ocean);
+  display:flex;align-items:center;justify-content:center;transition:all .15s;
+}
+.choice.selected .ic-c{background:var(--ocean);color:#fff}
+.choice .ic-c svg{width:20px;height:20px;stroke:currentColor;stroke-width:1.6;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.choice .lbl{font-family:'Cormorant Garamond',serif;font-size:18px;font-weight:600;color:var(--ocean);letter-spacing:-.01em}
+.choice .sub{font-size:12px;color:var(--muted);font-weight:400}
+
+.field{margin-bottom:18px}
+.field label{
+  display:block;font-family:'Poppins',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--ocean);margin-bottom:8px;font-weight:600;
+}
+.field input,.field select,.field textarea{
+  width:100%;padding:14px 18px;border:1.5px solid var(--border);border-radius:10px;
+  font-family:'Poppins',sans-serif;font-size:15px;background:var(--paper);color:var(--ink);
+  transition:all .15s;
+}
+.field input:focus,.field select:focus,.field textarea:focus{
+  outline:0;border-color:var(--ocean);box-shadow:0 0 0 4px rgba(10,37,64,.08);
+}
+.field textarea{resize:vertical;min-height:100px;line-height:1.6}
+.field-row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:560px){.field-row{grid-template-columns:1fr}}
+
+.consent{
+  display:flex;gap:12px;align-items:flex-start;padding:18px;
+  background:var(--cream);border:1px solid var(--border);border-radius:10px;
+  font-size:14px;color:var(--muted);line-height:1.55;cursor:pointer;margin-top:8px;
+}
+.consent input{margin-top:3px;flex-shrink:0;width:18px;height:18px;accent-color:var(--ocean)}
+
+.step-nav{
+  display:flex;justify-content:space-between;gap:12px;
+  padding-top:28px;margin-top:32px;border-top:1px solid var(--border);
+}
+.step-nav .btn{padding:14px 28px;min-height:48px;font-size:13px}
+.step-nav .btn.full{flex:1}
+
+.summary-row{
+  display:flex;justify-content:space-between;align-items:flex-start;
+  padding:14px 0;border-bottom:1px solid var(--border);
+  font-size:14px;gap:14px;
+}
+.summary-row:last-child{border-bottom:0}
+.summary-row .k{
+  font-family:'Poppins',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;flex-shrink:0;
+}
+.summary-row .v{color:var(--ink);text-align:right;font-weight:500}
+
+.complete-card{
+  text-align:center;padding:40px 24px;background:var(--cream);border-radius:12px;
+}
+.complete-card .check{
+  width:72px;height:72px;border-radius:50%;background:linear-gradient(135deg,var(--sand),#b07f5a);
+  display:flex;align-items:center;justify-content:center;margin:0 auto 20px;
+  box-shadow:0 8px 24px rgba(200,149,109,.4);
+}
+.complete-card .check svg{width:32px;height:32px;stroke:#fff;stroke-width:2.5;fill:none;stroke-linecap:round;stroke-linejoin:round}
+.complete-card h4{font-family:'Cormorant Garamond',serif;font-size:30px;font-weight:600;color:var(--ocean);margin-bottom:12px}
+.complete-card p{font-size:16px;color:var(--muted);line-height:1.65;max-width:480px;margin:0 auto 24px}
+
+/* ─────────────── CONTACT ─────────────── */
+.contact{background:var(--ocean);color:#fff;position:relative;overflow:hidden;text-align:center}
+.contact::before{
+  content:'';position:absolute;top:-30%;left:-20%;width:140%;height:160%;
+  background:radial-gradient(ellipse,rgba(200,149,109,.12) 0%,transparent 60%);
+  pointer-events:none;
+}
+.contact .snum{color:var(--sand-light)}.contact .snum::before{background:var(--sand-light)}
+.contact .stitle,.contact .stitle b{color:#fff}.contact .stitle em{color:var(--sand-light)}
+.contact .slede{color:rgba(255,255,255,.65);margin-left:auto;margin-right:auto}
+
+.contact-card{
+  background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.12);
+  border-radius:16px;padding:44px;max-width:560px;margin:36px auto 0;text-align:left;
+  backdrop-filter:blur(8px);position:relative;z-index:1;
+}
+.contact-card .row{
+  display:flex;justify-content:space-between;align-items:center;gap:14px;
+  padding:18px 0;border-bottom:1px solid rgba(255,255,255,.08);
+  font-size:14px;
+}
+.contact-card .row:last-of-type{border-bottom:0}
+.contact-card .row .l{
+  color:rgba(255,255,255,.5);font-size:11px;letter-spacing:.18em;
+  text-transform:uppercase;font-weight:600;
+  font-family:'Poppins',sans-serif;
+}
+.contact-card .row .v{color:#fff;font-weight:500;text-align:right}
+.contact-card .row .v a{color:var(--sand-light);font-weight:500;transition:color .15s}
+.contact-card .row .v a:hover{color:#fff}
+
+.contact-card .cta-row{padding-top:28px;margin-top:14px;border-top:1px solid rgba(255,255,255,.12);text-align:center}
+.contact-card .btn{width:100%;background:var(--sand);color:#fff}
+.contact-card .btn:hover{background:#b07f5a}
+
+/* ─────────────── FOOTER ─────────────── */
+footer{
+  padding:56px clamp(20px,5vw,60px) 40px;
+  padding-bottom:max(40px,env(safe-area-inset-bottom));
+  background:var(--ocean-deep);color:rgba(255,255,255,.55);
+  text-align:center;font-size:13px;
+  border-top:1px solid rgba(255,255,255,.06);
+}
+footer .footer-brand{
+  font-family:'Cormorant Garamond',serif;font-style:italic;font-size:28px;
+  color:#fff;display:block;margin-bottom:12px;font-weight:500;letter-spacing:-.01em;
+}
+footer .info{
+  font-family:'Poppins',sans-serif;font-size:13px;line-height:2;color:rgba(255,255,255,.65);font-weight:400;
+}
+footer .ehl{
+  display:inline-flex;align-items:center;gap:10px;margin-top:20px;padding:8px 16px;
+  background:rgba(200,149,109,.1);border:1px solid rgba(200,149,109,.3);border-radius:99px;
+  font-size:11px;font-weight:600;letter-spacing:.18em;color:var(--sand-light);text-transform:uppercase;
+}
+footer .ehl::before{content:'';width:6px;height:6px;border-radius:50%;background:var(--sand-light)}
+footer .legal{
+  margin-top:24px;font-size:11px;color:rgba(255,255,255,.4);line-height:1.8;
+  letter-spacing:.04em;
+}
+footer .powered{
+  margin-top:8px;font-size:11px;color:var(--sand-light);font-weight:500;
+}
+footer .powered a{color:inherit;text-decoration:underline}
+
+/* ─────────────── MOBILE STICKY CALL BAR ─────────────── */
+.sticky-call{
+  display:none;position:fixed;bottom:0;left:0;right:0;z-index:90;
+  padding:12px 16px;
+  padding-bottom:max(12px,env(safe-area-inset-bottom));
+  background:rgba(10,37,64,.96);backdrop-filter:blur(16px);
+  border-top:1px solid rgba(255,255,255,.1);
+}
+.sticky-call a{
+  display:flex;align-items:center;justify-content:center;gap:10px;
+  padding:14px;background:var(--sand);color:#fff;border-radius:99px;
+  font-weight:600;font-size:14px;letter-spacing:.02em;
+  box-shadow:0 8px 24px rgba(200,149,109,.4);
+}
+.sticky-call a svg{width:18px;height:18px;stroke:currentColor;stroke-width:2;fill:none}
+@media(max-width:760px){
+  .sticky-call{display:block}
+  footer{padding-bottom:90px}
+}
+
+/* ─────────────── RESPONSIVE TYPOGRAPHY ─────────────── */
+@media(max-width:600px){
+  section{padding:64px 20px}
+  .hero{padding-left:20px;padding-right:20px}
+  .onboard-body{padding:28px 20px}
 }
 </style>
 </head>
 <body>
 
+<!-- ─────────────── RFS Watermark ─────────────── -->
 <div class="rfs-watermark">
   <span class="pill">RFS Example</span>
-  Live broker site of <a href="/" target="_top">Shayne M. Guthrie, Realtor</a>, a Ralph Foulger graduate &middot; Plus-tier students unlock a site like this on passing
+  Live broker site of <a href="/" target="_top">Shayne M. Guthrie, Realtor</a> — Ralph Foulger graduate · Plus-tier students unlock a site like this on passing
 </div>
 
-<nav class="top">
-  <a href="/" class="logo"><span class="mark"></span><span>Shayne M. Guthrie, Realtor<small>Hawaii Real Estate</small></span></a>
-  <ul>
-    <li><a href="#creds">Credentials</a></li>
-    <li><a href="#serve">Services</a></li>
-    <li><a href="/" target="_top">Academy ↗</a></li>
-    <li><a href="#inquire">Inquire</a></li>
-    <li><a href="#contact">Contact</a></li>
+<!-- ─────────────── Navigation ─────────────── -->
+<nav class="top" id="topNav">
+  <a href="/" class="brand">
+    <span class="brand-mark"></span>
+    <span class="brand-text">
+      <span class="brand-name">Shayne M. Guthrie</span>
+      <span class="brand-tag">Realtor · Hawaii</span>
+    </span>
+  </a>
+  <ul id="navMenu">
+    <li><a href="#about" class="nav-link">About</a></li>
+    <li><a href="#serve" class="nav-link">Services</a></li>
+    <li><a href="#approach" class="nav-link">Approach</a></li>
+    <li><a href="#onboard" class="nav-link">Get Started</a></li>
+    <li><a href="#contact" class="nav-link">Contact</a></li>
+    <li><a href="tel:8083722273" class="nav-cta">(808) 372-2273</a></li>
   </ul>
-  <a href="tel:8083722273" class="call">(808) 372-2273</a>
+  <button class="hamburger" id="hamburger" aria-label="Open menu" aria-expanded="false">
+    <svg viewBox="0 0 24 24"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+  </button>
 </nav>
 
+<!-- ─────────────── Hero ─────────────── -->
 <section class="hero">
   <div class="inner">
     <div>
       <span class="eyebrow">Licensed Hawaii Broker · BC</span>
-      <h1><b>Shayne M. Guthrie, Realtor.</b> <em>Hawaii real estate.</em></h1>
-      <p class="lede">Licensed Hawaii Real Estate Broker affiliated with Ralph S. Foulger, Realtor in Kaneohe. Buyer and seller representation across Oahu.</p>
+      <h1><b>Hawaii real estate,</b><br/><em>done with care.</em></h1>
+      <p class="lede">Buyer and seller representation across Oahu. Twenty-five years of practice, a network that crosses industries, and a way of working that treats discretion and plain language as standard.</p>
+      <div class="credentials">
+        <span class="cred-pill">Hawaii Broker · BC</span>
+        <span class="cred-pill">25+ years on Oahu</span>
+        <span class="cred-pill">Honolulu Board of REALTORS®</span>
+      </div>
       <div class="ctas">
-        <a href="tel:8083722273" class="cta primary">Call (808) 372-2273</a>
-        <a href="#contact" class="cta ghost">Office Info</a>
+        <a href="#onboard" class="btn primary">
+          Start your inquiry
+          <svg class="ic" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+        <a href="tel:8083722273" class="btn ghost">
+          <svg class="ic" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          (808) 372-2273
+        </a>
       </div>
     </div>
     <div class="portrait">
-      <div class="ribbon">
-        <b>Shayne M. Guthrie, Realtor</b>
+      <div class="badge">Available · Accepting clients</div>
+      <div class="name-plate">
+        <div class="label">Realtor</div>
+        <b>Shayne M. Guthrie</b>
         <span>Hawaii Broker · BC · Kaneohe</span>
       </div>
     </div>
   </div>
 </section>
 
-<section class="creds" id="creds">
+<!-- ─────────────── Credentials ─────────────── -->
+<section class="creds" id="about">
   <div class="wrap">
-    <div class="snum">Credentials</div>
-    <h2 class="stitle">Verified, <em>local.</em></h2>
-    <p class="slede">Hawaii real estate is regulated by the DCCA Real Estate Commission under HRS 467. Verifiable credentials below.</p>
+    <div class="snum">About</div>
+    <h2 class="stitle">Verified, <em>local,</em> licensed.</h2>
+    <p class="slede">Hawaii real estate is regulated by the DCCA Real Estate Commission under HRS 467. Every credential below is verifiable through the state. Trust runs through paperwork, not promises.</p>
     <div class="cred-grid">
       <div class="cred">
         <div class="lab">Designation</div>
         <h4>Hawaii Broker · BC</h4>
-        <p>Licensed at the broker level under Hawaii's three-tier real estate licensing system. Listed on the Honolulu Board of REALTORS office directory.</p>
+        <p>Licensed at the broker level under Hawaii's three-tier licensing structure. Listed on the Honolulu Board of REALTORS office directory and verifiable through the DCCA Real Estate Branch.</p>
       </div>
       <div class="cred">
         <div class="lab">Brokerage</div>
         <h4>Ralph S. Foulger, Realtor</h4>
-        <p>Affiliated with Ralph S. Foulger, Realtor. Principal broker: Ralph S. Foulger, CPM.</p>
+        <p>Affiliated with Ralph S. Foulger, Realtor — a Kaneohe brokerage founded by Ralph Foulger, CPM, who has been a fixture in Hawaii real estate education and practice since 1972.</p>
       </div>
       <div class="cred">
         <div class="lab">Education</div>
-        <h4>Ralph Foulger's Real Estate School of Hawaii</h4>
-        <p>Education completed at Ralph Foulger's Real Estate School of Hawaii — established 1972 — a Hawaii Real Estate Commission–approved instructor.</p>
+        <h4>Ralph Foulger's Academy</h4>
+        <p>Education completed at Ralph Foulger's Real Estate School of Hawaii — established 1972 — a Hawaii Real Estate Commission–approved instructor and one of the longest-running schools on the islands.</p>
       </div>
       <div class="cred">
         <div class="lab">Office</div>
-        <h4>Kaneohe</h4>
-        <p>47-388 Hui Iwa Street, Suite 21-A · Kaneohe, HI 96744</p>
+        <h4>Kaneohe, Oahu</h4>
+        <p>47-388 Hui Iwa Street, Suite 21-A · Kaneohe, HI 96744. Walk-in by appointment. Phone and email reach me directly within one business day.</p>
       </div>
     </div>
   </div>
 </section>
 
+<!-- ─────────────── Services ─────────────── -->
 <section class="serve" id="serve">
   <div class="wrap">
     <div class="snum">Services</div>
-    <h2 class="stitle">Buyer + seller<br/><em>representation.</em></h2>
-    <p class="slede">Standard residential brokerage services across Oahu. The first conversation is free and without obligation.</p>
+    <h2 class="stitle">Buyer and seller <em>representation.</em></h2>
+    <p class="slede">Standard residential brokerage services across Oahu. The first conversation is always free and without obligation.</p>
     <div class="serve-grid">
       <div class="scard">
-        <div class="ic"><svg class="ic" viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg></div>
+        <div class="ic-wrap"><svg viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><path d="M9 22V12h6v10"/></svg></div>
         <h3>Buyer Representation</h3>
-        <p>Helping buyers identify, evaluate, and negotiate residential property purchases on Oahu.</p>
+        <p>Helping buyers identify, evaluate, and negotiate residential property purchases on Oahu. Includes neighborhood guidance, valuation review, inspection coordination, and contract negotiation through closing.</p>
       </div>
       <div class="scard">
-        <div class="ic"><svg class="ic" viewBox="0 0 24 24"><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg></div>
+        <div class="ic-wrap"><svg viewBox="0 0 24 24"><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/><path d="M20 19v2H4v-2"/></svg></div>
         <h3>Seller Representation</h3>
-        <p>Listing, marketing, and negotiating the sale of residential property on Oahu.</p>
+        <p>Listing, marketing, and negotiating the sale of residential property on Oahu. Comparative market analysis, photography coordination, listing strategy, and offer evaluation through close of escrow.</p>
       </div>
       <div class="scard">
-        <div class="ic"><svg class="ic" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M8 12h8M12 8v8"/></svg></div>
+        <div class="ic-wrap"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></div>
         <h3>Free Initial Consultation</h3>
-        <p>Twenty-minute call or in-person conversation. No cost, no commitment, no pressure.</p>
+        <p>A twenty-minute call or in-person conversation. No cost, no commitment, no pressure. If the timing isn't right, we'll say so honestly — no follow-up funnel designed to manufacture urgency.</p>
       </div>
     </div>
   </div>
 </section>
 
-<section style="background:#fff;border-top:1px solid var(--border)" id="approach">
+<!-- ─────────────── Approach ─────────────── -->
+<section class="approach" id="approach">
   <div class="wrap">
     <div class="snum">The way I work</div>
     <h2 class="stitle">Discretion, <em>local knowledge,</em><br/>multi-disciplinary background.</h2>
-    <p class="slede">Twenty-five years of practicing on Oahu means a network that runs deeper than any single industry. The way I represent clients reflects that.</p>
+    <p class="slede">Twenty-five years of practicing on Oahu means a network that runs deeper than any single industry. Here's what that means in practice.</p>
 
-    <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:36px" class="approach-grid">
-      <div style="background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:28px">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--burgundy);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:10px">i.</div>
-        <h3 style="font-family:'Playfair Display',serif;font-weight:500;font-size:22px;color:var(--ink);letter-spacing:-.01em;margin-bottom:10px">Response within one business day</h3>
-        <p style="font-size:14px;color:var(--muted);line-height:1.65">Every inquiry receives a personal response within twenty-four hours. No call centers, no auto-responders, no junior associate intercepting the conversation.</p>
+    <div class="approach-grid">
+      <div class="acard">
+        <div class="num">i</div>
+        <h3>Response within one business day</h3>
+        <p>Every inquiry receives a personal response within twenty-four hours. No call centers, no auto-responders, no junior associate intercepting the conversation.</p>
       </div>
-
-      <div style="background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:28px">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--burgundy);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:10px">ii.</div>
-        <h3 style="font-family:'Playfair Display',serif;font-weight:500;font-size:22px;color:var(--ink);letter-spacing:-.01em;margin-bottom:10px">A network that crosses industries</h3>
-        <p style="font-size:14px;color:var(--muted);line-height:1.65">Two-and-a-half decades as a practicing professional on Oahu means access to inspectors, contractors, lenders, and attorneys built on long working relationships, not transactional referrals.</p>
+      <div class="acard">
+        <div class="num">ii</div>
+        <h3>A network that crosses industries</h3>
+        <p>Two-and-a-half decades on Oahu means access to inspectors, contractors, lenders, and attorneys built on long working relationships, not transactional referrals.</p>
       </div>
-
-      <div style="background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:28px">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--burgundy);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:10px">iii.</div>
-        <h3 style="font-family:'Playfair Display',serif;font-weight:500;font-size:22px;color:var(--ink);letter-spacing:-.01em;margin-bottom:10px">No pressure, no urgency tactics</h3>
-        <p style="font-size:14px;color:var(--muted);line-height:1.65">Real estate is a deliberate decision. Initial conversations carry no obligation. If the timing isn't right, the timing isn't right — there is no follow-up funnel designed to manufacture urgency.</p>
+      <div class="acard">
+        <div class="num">iii</div>
+        <h3>No pressure, no urgency tactics</h3>
+        <p>Real estate is a deliberate decision. Initial conversations carry no obligation. If the timing isn't right, the timing isn't right — full stop.</p>
       </div>
-
-      <div style="background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:28px">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--burgundy);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:10px">iv.</div>
-        <h3 style="font-family:'Playfair Display',serif;font-weight:500;font-size:22px;color:var(--ink);letter-spacing:-.01em;margin-bottom:10px">Discretion as standard</h3>
-        <p style="font-size:14px;color:var(--muted);line-height:1.65">Listings, financial details, and personal circumstances are treated as confidential by default. Any disclosure to third parties happens only with explicit written consent.</p>
+      <div class="acard">
+        <div class="num">iv</div>
+        <h3>Discretion as standard</h3>
+        <p>Listings, financial details, and personal circumstances are treated as confidential by default. Any third-party disclosure happens only with explicit written consent.</p>
       </div>
-
-      <div style="background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:28px">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--burgundy);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:10px">v.</div>
-        <h3 style="font-family:'Playfair Display',serif;font-weight:500;font-size:22px;color:var(--ink);letter-spacing:-.01em;margin-bottom:10px">Trained in the Foulger tradition</h3>
-        <p style="font-size:14px;color:var(--muted);line-height:1.65">Ralph Foulger's Academy of Real Estate, founded in 1972, has trained generations of Hawaii agents in the fundamentals of fiduciary representation. That curriculum is the foundation of how I practice.</p>
+      <div class="acard">
+        <div class="num">v</div>
+        <h3>Trained in the Foulger tradition</h3>
+        <p>Ralph Foulger's Academy, founded in 1972, has trained generations of Hawaii agents in the fundamentals of fiduciary representation. That curriculum is the foundation of how I practice.</p>
       </div>
-
-      <div style="background:var(--cream);border:1px solid var(--border);border-radius:4px;padding:28px">
-        <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--burgundy);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:10px">vi.</div>
-        <h3 style="font-family:'Playfair Display',serif;font-weight:500;font-size:22px;color:var(--ink);letter-spacing:-.01em;margin-bottom:10px">Plain language, written records</h3>
-        <p style="font-size:14px;color:var(--muted);line-height:1.65">Every offer, counter, and contingency is explained in plain language before signing. Paper trail kept on every conversation that affects price, timeline, or representation.</p>
+      <div class="acard">
+        <div class="num">vi</div>
+        <h3>Plain language, written records</h3>
+        <p>Every offer, counter, and contingency is explained in plain language before signing. Paper trail kept on every conversation that affects price, timeline, or representation.</p>
       </div>
     </div>
 
-    <div style="margin-top:48px;padding:32px;background:linear-gradient(135deg,var(--burgundy),var(--burgundy-deep));color:#fff;border-radius:4px">
-      <div style="font-family:'JetBrains Mono',monospace;font-size:10px;color:rgba(255,255,255,.6);letter-spacing:.18em;text-transform:uppercase;font-weight:700;margin-bottom:14px">Verified affiliations</div>
-      <div style="display:grid;grid-template-columns:repeat(2,1fr);gap:18px;font-size:14px;line-height:1.7">
-        <div><span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold);letter-spacing:.05em;text-transform:uppercase;display:block;margin-bottom:2px">License</span>Hawaii Real Estate Broker (BC) · Active</div>
-        <div><span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold);letter-spacing:.05em;text-transform:uppercase;display:block;margin-bottom:2px">Brokerage</span>Ralph S. Foulger, Realtor · Kaneohe</div>
-        <div><span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold);letter-spacing:.05em;text-transform:uppercase;display:block;margin-bottom:2px">Mentor lineage</span>Ralph Foulger's Academy of Real Estate · 1972</div>
-        <div><span style="font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--gold);letter-spacing:.05em;text-transform:uppercase;display:block;margin-bottom:2px">Member</span>Honolulu Board of REALTORS®</div>
+    <div class="affiliations">
+      <div class="lab">Verified affiliations</div>
+      <div class="aff-grid">
+        <div><b>License</b>Hawaii Real Estate Broker (BC) · Active</div>
+        <div><b>Brokerage</b>Ralph S. Foulger, Realtor · Kaneohe</div>
+        <div><b>Mentor lineage</b>Ralph Foulger's Academy · 1972</div>
+        <div><b>Member</b>Honolulu Board of REALTORS®</div>
       </div>
     </div>
   </div>
 </section>
 
-<section style="background:var(--cream)" id="inquire">
-  <div class="wrap" style="max-width:720px">
-    <div class="snum">Inquire</div>
-    <h2 class="stitle">Send <em>a note.</em></h2>
-    <p class="slede">Tell me a little about your situation. I'll respond within one business day.</p>
-    <form id="inqForm" onsubmit="submitInquiry(event)" style="background:#fff;border:1px solid var(--border);border-radius:4px;padding:36px;box-shadow:0 4px 12px rgba(124,29,29,.06)">
-      <div id="ok" style="display:none;background:#dcfce7;border:1px solid #86efac;color:#166534;padding:14px;border-radius:4px;margin-bottom:16px;font-size:14px">Mahalo. I'll be in touch within one business day.</div>
-      <div id="err" style="display:none;background:#fef2f2;border:1px solid #fecaca;color:#991b1b;padding:14px;border-radius:4px;margin-bottom:16px;font-size:14px"></div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px">
-        <div><label style="display:block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;font-weight:600">Name *</label><input name="name" required maxlength="80" style="width:100%;padding:12px 14px;border:1px solid var(--border);border-radius:4px;font-family:inherit;font-size:14px;background:var(--cream)" /></div>
-        <div><label style="display:block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;font-weight:600">Email *</label><input name="email" type="email" required style="width:100%;padding:12px 14px;border:1px solid var(--border);border-radius:4px;font-family:inherit;font-size:14px;background:var(--cream)" /></div>
-        <div><label style="display:block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;font-weight:600">Phone</label><input name="phone" type="tel" maxlength="20" style="width:100%;padding:12px 14px;border:1px solid var(--border);border-radius:4px;font-family:inherit;font-size:14px;background:var(--cream)" /></div>
-        <div><label style="display:block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;font-weight:600">I'm a</label><select name="kind" style="width:100%;padding:12px 14px;border:1px solid var(--border);border-radius:4px;font-family:inherit;font-size:14px;background:var(--cream)"><option value="">—</option><option value="buyer">Buyer</option><option value="seller">Seller</option><option value="both">Both</option><option value="curious">Just exploring</option></select></div>
+<!-- ─────────────── Client Onboarding ─────────────── -->
+<section class="onboard" id="onboard">
+  <div class="wrap" style="max-width:780px">
+    <div class="snum">Get started</div>
+    <h2 class="stitle">Tell me a little<br/>about <em>your situation.</em></h2>
+    <p class="slede">Four short questions. I'll respond within one business day with a no-obligation conversation. Your information stays between us — discretion is standard.</p>
+
+    <div class="onboard-shell">
+      <div class="onboard-progress" id="progress">
+        <div class="step-dot active" data-step="1"><div class="n"><span>1</span></div><div class="lbl">Path</div></div>
+        <div class="step-sep"></div>
+        <div class="step-dot" data-step="2"><div class="n"><span>2</span></div><div class="lbl">Details</div></div>
+        <div class="step-sep"></div>
+        <div class="step-dot" data-step="3"><div class="n"><span>3</span></div><div class="lbl">Contact</div></div>
+        <div class="step-sep"></div>
+        <div class="step-dot" data-step="4"><div class="n"><span>4</span></div><div class="lbl">Review</div></div>
       </div>
-      <div style="margin-top:14px"><label style="display:block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;font-weight:600">Timeline</label><select name="timeline" style="width:100%;padding:12px 14px;border:1px solid var(--border);border-radius:4px;font-family:inherit;font-size:14px;background:var(--cream)"><option value="">—</option><option value="now">Now / ASAP</option><option value="1-3mo">Within 3 months</option><option value="3-6mo">3-6 months</option><option value="6-12mo">6-12 months</option><option value="12+mo">12+ months</option></select></div>
-      <div style="margin-top:14px"><label style="display:block;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin-bottom:6px;font-weight:600">Message</label><textarea name="message" maxlength="1000" rows="4" style="width:100%;padding:12px 14px;border:1px solid var(--border);border-radius:4px;font-family:inherit;font-size:14px;background:var(--cream);resize:vertical"></textarea></div>
-      <label style="display:flex;gap:10px;align-items:flex-start;padding:14px;background:var(--cream);border:1px solid var(--border);border-radius:4px;margin:18px 0;font-size:13px;color:var(--muted);line-height:1.5;cursor:pointer"><input type="checkbox" name="consent_marketing" required style="margin-top:2px" /><span>Yes, contact me about my real estate inquiry. I can opt out anytime.</span></label>
-      <button type="submit" style="width:100%;padding:16px;background:var(--crimson);color:#fff;border-radius:4px;font-weight:700;font-size:13px;letter-spacing:.04em;font-family:'JetBrains Mono',monospace;text-transform:uppercase;transition:background .15s">Send Inquiry</button>
-    </form>
+
+      <div class="onboard-body">
+        <form id="onboardForm" onsubmit="finalSubmit(event)">
+
+          <!-- STEP 1: PATH -->
+          <div class="step active" data-step="1">
+            <h3>How can I help?</h3>
+            <p class="help">Choose what best describes where you are right now. You can pick more than one path during the conversation.</p>
+            <div class="choice-grid">
+              <div class="choice" data-field="kind" data-value="buyer">
+                <div class="ic-c"><svg viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg></div>
+                <div class="lbl">Buying</div>
+                <div class="sub">Looking for a home on Oahu</div>
+              </div>
+              <div class="choice" data-field="kind" data-value="seller">
+                <div class="ic-c"><svg viewBox="0 0 24 24"><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg></div>
+                <div class="lbl">Selling</div>
+                <div class="sub">Listing a property I own</div>
+              </div>
+              <div class="choice" data-field="kind" data-value="both">
+                <div class="ic-c"><svg viewBox="0 0 24 24"><path d="M7 17l10-10M7 7h10v10"/></svg></div>
+                <div class="lbl">Both</div>
+                <div class="sub">Selling and buying</div>
+              </div>
+              <div class="choice" data-field="kind" data-value="curious">
+                <div class="ic-c"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg></div>
+                <div class="lbl">Exploring</div>
+                <div class="sub">Just getting information</div>
+              </div>
+            </div>
+            <div class="step-nav">
+              <span></span>
+              <button type="button" class="btn primary" onclick="nextStep()">
+                Continue
+                <svg class="ic" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- STEP 2: DETAILS -->
+          <div class="step" data-step="2">
+            <h3>The details.</h3>
+            <p class="help">Tell me a bit more so the first conversation isn't starting from zero.</p>
+
+            <div class="field">
+              <label>Timeline</label>
+              <select name="timeline">
+                <option value="">Select your timeline</option>
+                <option value="now">Now / ASAP</option>
+                <option value="1-3mo">Within 3 months</option>
+                <option value="3-6mo">3-6 months</option>
+                <option value="6-12mo">6-12 months</option>
+                <option value="12+mo">12+ months</option>
+                <option value="unsure">Not sure yet</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Price range (approximate)</label>
+              <select name="price">
+                <option value="">Select a range</option>
+                <option value="under-500k">Under $500K</option>
+                <option value="500-750k">$500K – $750K</option>
+                <option value="750k-1m">$750K – $1M</option>
+                <option value="1-1.5m">$1M – $1.5M</option>
+                <option value="1.5-2m">$1.5M – $2M</option>
+                <option value="2-3m">$2M – $3M</option>
+                <option value="3m+">$3M+</option>
+                <option value="discuss">Prefer to discuss</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Area of interest on Oahu</label>
+              <select name="area">
+                <option value="">Select an area</option>
+                <option value="windward">Windward (Kaneohe, Kailua, Lanikai)</option>
+                <option value="north-shore">North Shore (Haleiwa, Waialua, Sunset)</option>
+                <option value="honolulu">Honolulu (Kakaako, Waikiki, Ala Moana)</option>
+                <option value="east-honolulu">East Honolulu (Hawaii Kai, Aina Haina)</option>
+                <option value="ewa">Ewa / Kapolei</option>
+                <option value="north-central">Mililani / Wahiawa / Central</option>
+                <option value="all-oahu">Open to all Oahu</option>
+                <option value="unsure">Not sure yet</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Property type</label>
+              <select name="prop_type">
+                <option value="">Select type</option>
+                <option value="single-family">Single-family home</option>
+                <option value="condo">Condo</option>
+                <option value="townhouse">Townhouse</option>
+                <option value="multi-family">Multi-family / investment</option>
+                <option value="land">Land</option>
+                <option value="open">Open to options</option>
+              </select>
+            </div>
+
+            <div class="field">
+              <label>Anything else I should know? (Optional)</label>
+              <textarea name="message" maxlength="1000" placeholder="Anything specific about your situation, timeline constraints, financing questions, or what you're looking for…"></textarea>
+            </div>
+
+            <div class="step-nav">
+              <button type="button" class="btn ghost" onclick="prevStep()">
+                <svg class="ic" viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+                Back
+              </button>
+              <button type="button" class="btn primary" onclick="nextStep()">
+                Continue
+                <svg class="ic" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- STEP 3: CONTACT -->
+          <div class="step" data-step="3">
+            <h3>How can I reach you?</h3>
+            <p class="help">I'll respond within one business day. Your information stays between us.</p>
+
+            <div class="field-row">
+              <div class="field">
+                <label>First name *</label>
+                <input name="first_name" required maxlength="60" autocomplete="given-name" />
+              </div>
+              <div class="field">
+                <label>Last name</label>
+                <input name="last_name" maxlength="60" autocomplete="family-name" />
+              </div>
+            </div>
+
+            <div class="field">
+              <label>Email *</label>
+              <input name="email" type="email" required autocomplete="email" />
+            </div>
+
+            <div class="field">
+              <label>Phone</label>
+              <input name="phone" type="tel" maxlength="20" autocomplete="tel" placeholder="(808) 555-0123" />
+            </div>
+
+            <div class="field">
+              <label>Preferred contact</label>
+              <select name="contact_pref">
+                <option value="email">Email</option>
+                <option value="phone">Phone call</option>
+                <option value="text">Text message</option>
+                <option value="either">Whatever's easiest</option>
+              </select>
+            </div>
+
+            <label class="consent">
+              <input type="checkbox" name="consent" required />
+              <span>Yes, contact me about my real estate inquiry. I understand this is a no-obligation conversation and I can opt out anytime.</span>
+            </label>
+
+            <div class="step-nav">
+              <button type="button" class="btn ghost" onclick="prevStep()">
+                <svg class="ic" viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+                Back
+              </button>
+              <button type="button" class="btn primary" onclick="nextStep()">
+                Review
+                <svg class="ic" viewBox="0 0 24 24"><polyline points="9 18 15 12 9 6"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- STEP 4: REVIEW -->
+          <div class="step" data-step="4">
+            <h3>Review and send.</h3>
+            <p class="help">Take a quick look. Edit any step if something needs fixing.</p>
+
+            <div id="summary" style="background:var(--cream);border-radius:12px;padding:24px 28px;margin-bottom:24px"></div>
+
+            <div class="step-nav">
+              <button type="button" class="btn ghost" onclick="prevStep()">
+                <svg class="ic" viewBox="0 0 24 24"><polyline points="15 18 9 12 15 6"/></svg>
+                Back
+              </button>
+              <button type="submit" class="btn gold full">
+                Send to Shayne
+                <svg class="ic" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+              </button>
+            </div>
+          </div>
+
+          <!-- STEP 5: COMPLETE -->
+          <div class="step" data-step="5">
+            <div class="complete-card">
+              <div class="check"><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg></div>
+              <h4>Mahalo, your inquiry is in.</h4>
+              <p>I'll be in touch within one business day. In the meantime, if anything urgent comes up, you can reach me directly at the number below.</p>
+              <a href="tel:8083722273" class="btn primary">
+                <svg class="ic" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                (808) 372-2273
+              </a>
+            </div>
+          </div>
+
+        </form>
+      </div>
+    </div>
   </div>
 </section>
 
+<!-- ─────────────── Contact ─────────────── -->
 <section class="contact" id="contact">
   <div class="wrap">
-    <div class="snum" style="color:var(--gold-light)">Contact</div>
+    <div class="snum">Contact</div>
     <h2 class="stitle"><em>Get in touch.</em></h2>
+    <p class="slede">Call, email, or walk in by appointment. I respond within one business day to every inquiry.</p>
     <div class="contact-card">
       <div class="row"><span class="l">Phone</span><span class="v"><a href="tel:8083722273">(808) 372-2273</a></span></div>
       <div class="row"><span class="l">Office</span><span class="v">47-388 Hui Iwa St #21-A</span></div>
       <div class="row"><span class="l">City</span><span class="v">Kaneohe, HI 96744</span></div>
-      <div class="row"><span class="l">Brokerage</span><span class="v">Ralph S. Foulger</span></div>
+      <div class="row"><span class="l">Brokerage</span><span class="v">Ralph S. Foulger, Realtor</span></div>
       <div class="row"><span class="l">Designation</span><span class="v">BC · Hawaii Broker</span></div>
+      <div class="row"><span class="l">License</span><span class="v">Active · DCCA Verified</span></div>
       <div class="cta-row">
-        <a href="tel:8083722273" class="cta-call">Call now</a>
+        <a href="tel:8083722273" class="btn gold">
+          <svg class="ic" viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+          Call now
+        </a>
       </div>
     </div>
   </div>
 </section>
 
+<!-- ─────────────── Footer ─────────────── -->
 <footer>
-  <span class="brand">Shayne M. Guthrie, Realtor</span>
+  <span class="footer-brand">Shayne M. Guthrie, Realtor</span>
   <div class="info">
     Hawaii Real Estate Broker · BC<br/>
     Ralph S. Foulger, Realtor<br/>
-    47-388 Hui Iwa Street, Suite 21-A, Kaneohe, HI 96744<br/>
-    (808) 372-2273
+    47-388 Hui Iwa Street, Suite 21-A<br/>
+    Kaneohe, HI 96744<br/>
+    <a href="tel:8083722273" style="color:var(--sand-light);font-weight:500">(808) 372-2273</a>
   </div>
-  <div class="ehl">EQUAL HOUSING OPPORTUNITY</div>
+  <div class="ehl">Equal Housing Opportunity</div>
   <div class="legal">© 2026 Shayne M. Guthrie, Realtor · Licensed under Hawaii REC · HRS 467</div>
-  <div class="legal" style="margin-top:6px;color:#fbbf24;font-weight:600">Site built by Ralph Foulger&apos;s Academy of Real Estate &middot; Plus-tier graduate package &middot; <a href="/" target="_top" style="color:inherit;text-decoration:underline">ralphfoulger.com</a></div>
+  <div class="powered">Site built by <a href="/" target="_top">Ralph Foulger's Academy of Real Estate</a> · Plus-tier graduate package</div>
 </footer>
 
+<!-- ─────────────── Sticky mobile call ─────────────── -->
+<div class="sticky-call">
+  <a href="tel:8083722273">
+    <svg viewBox="0 0 24 24"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+    Call Shayne · (808) 372-2273
+  </a>
+</div>
+
 <script>
-function submitInquiry(e){
+(function(){
+  /* ───── Mobile drawer ───── */
+  const ham = document.getElementById('hamburger');
+  const menu = document.getElementById('navMenu');
+  ham.addEventListener('click', () => {
+    const open = menu.classList.toggle('open');
+    ham.setAttribute('aria-expanded', open ? 'true' : 'false');
+    document.body.style.overflow = open ? 'hidden' : '';
+  });
+  menu.addEventListener('click', e => {
+    if (e.target.tagName === 'A') {
+      menu.classList.remove('open');
+      ham.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+  });
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && menu.classList.contains('open')) {
+      menu.classList.remove('open');
+      ham.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    }
+  });
+
+  /* ───── Nav scroll state ───── */
+  const nav = document.getElementById('topNav');
+  let lastY = 0;
+  window.addEventListener('scroll', () => {
+    const y = window.scrollY;
+    nav.classList.toggle('scrolled', y > 30);
+    lastY = y;
+  }, { passive: true });
+})();
+
+/* ───── Onboarding wizard ───── */
+let currentStep = 1;
+const TOTAL_STEPS = 4; // 5 is the success screen
+
+const state = { kind: null };
+
+document.querySelectorAll('.choice').forEach(c => {
+  c.addEventListener('click', () => {
+    const field = c.dataset.field;
+    const val = c.dataset.value;
+    document.querySelectorAll(`.choice[data-field="${field}"]`).forEach(o => o.classList.remove('selected'));
+    c.classList.add('selected');
+    state[field] = val;
+  });
+});
+
+function showStep(n) {
+  document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+  const el = document.querySelector(`.step[data-step="${n}"]`);
+  if (el) el.classList.add('active');
+
+  document.querySelectorAll('.step-dot').forEach(d => {
+    const i = parseInt(d.dataset.step, 10);
+    d.classList.remove('active', 'done');
+    if (i < n) d.classList.add('done');
+    else if (i === n) d.classList.add('active');
+  });
+  currentStep = n;
+
+  /* Scroll the onboarding section into view but don't shove the user
+     above where the steps live. */
+  document.getElementById('onboard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function nextStep() {
+  if (currentStep === 1) {
+    if (!state.kind) {
+      alert('Please choose one of the options above so we know how to start.');
+      return;
+    }
+  }
+  if (currentStep === 2) {
+    /* No required fields in step 2 — all optional */
+  }
+  if (currentStep === 3) {
+    const form = document.getElementById('onboardForm');
+    const fn = form.first_name.value.trim();
+    const email = form.email.value.trim();
+    const consent = form.consent.checked;
+    if (!fn) { alert('Your first name helps me address the email correctly.'); form.first_name.focus(); return; }
+    if (!email) { alert('I need an email to respond.'); form.email.focus(); return; }
+    if (!consent) { alert('Please confirm consent so I can respond.'); return; }
+  }
+  if (currentStep === 3) {
+    buildSummary();
+  }
+  if (currentStep < TOTAL_STEPS) {
+    showStep(currentStep + 1);
+  }
+}
+
+function prevStep() {
+  if (currentStep > 1) showStep(currentStep - 1);
+}
+
+function buildSummary() {
+  const form = document.getElementById('onboardForm');
+  const get = n => (form[n] && form[n].value) || '';
+  const label = {
+    buyer: 'Buying a home', seller: 'Selling a property', both: 'Both buying and selling', curious: 'Just exploring',
+    now: 'Now / ASAP', '1-3mo': 'Within 3 months', '3-6mo': '3-6 months', '6-12mo': '6-12 months', '12+mo': '12+ months', unsure: 'Not sure yet',
+    'under-500k':'Under $500K','500-750k':'$500K – $750K','750k-1m':'$750K – $1M','1-1.5m':'$1M – $1.5M','1.5-2m':'$1.5M – $2M','2-3m':'$2M – $3M','3m+':'$3M+','discuss':'Prefer to discuss',
+    windward:'Windward', 'north-shore':'North Shore', honolulu:'Honolulu', 'east-honolulu':'East Honolulu', ewa:'Ewa / Kapolei', 'north-central':'Central Oahu', 'all-oahu':'Open to all Oahu',
+    'single-family':'Single-family home', condo:'Condo', townhouse:'Townhouse', 'multi-family':'Multi-family / investment', land:'Land', open:'Open to options',
+    email:'Email', phone:'Phone call', text:'Text message', either:'Either',
+  };
+  const rows = [
+    ['Path',          label[state.kind] || state.kind || '—'],
+    ['Name',          [get('first_name'), get('last_name')].filter(Boolean).join(' ') || '—'],
+    ['Email',         get('email') || '—'],
+    ['Phone',         get('phone') || '—'],
+    ['Preferred',     label[get('contact_pref')] || '—'],
+    ['Timeline',      label[get('timeline')] || '—'],
+    ['Price range',   label[get('price')] || '—'],
+    ['Area',          label[get('area')] || '—'],
+    ['Property type', label[get('prop_type')] || '—'],
+  ];
+  const msg = get('message').trim();
+  let html = rows.map(r => `<div class="summary-row"><span class="k">${r[0]}</span><span class="v">${escapeHtml(r[1])}</span></div>`).join('');
+  if (msg) html += `<div class="summary-row" style="flex-direction:column;align-items:flex-start;gap:8px"><span class="k">Note</span><span class="v" style="text-align:left;font-weight:400;color:var(--muted);font-size:14px;line-height:1.6">${escapeHtml(msg)}</span></div>`;
+  document.getElementById('summary').innerHTML = html;
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[c]));
+}
+
+function finalSubmit(e) {
   e.preventDefault();
-  const err=document.getElementById('err');
-  err.textContent="This is an example website. Inquiries aren't sent — Plus-tier graduates receive a fully wired version with a working CRM and admin portal.";
-  err.style.display='block';
-  err.scrollIntoView({behavior:'smooth',block:'center'});
+  /* This is an example site. In the live Plus-tier delivered version,
+     this POSTs to the student's connected CRM endpoint. */
+  showStep(5);
 }
 </script>
+
 </body>
 </html>
