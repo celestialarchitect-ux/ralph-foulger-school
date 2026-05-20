@@ -26,6 +26,8 @@ const PROTECTED_PREFIXES = [
   '/tutor',
   '/practice',
   '/admin',
+  '/broker', // Tier 4 broker license prep — TierGate at (paid)/broker/layout
+             // enforces the broker tier on top of this auth gate.
 ];
 
 function isProtected(pathname: string): boolean {
