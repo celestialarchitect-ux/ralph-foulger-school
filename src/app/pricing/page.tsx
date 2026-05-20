@@ -183,6 +183,29 @@ export default function PricingPage() {
               {error}
             </div>
           )}
+
+          {/* CONDENSED BROKER CALLOUT — sits right under the 3 salesperson
+              tiers so it's visible above the fold(ish) without making
+              first-time visitors think it's a 4th option for new agents.
+              Links down to the full broker section anchor. */}
+          <a href="#broker" style={{ textDecoration: 'none', display: 'block', marginTop: 28 }}>
+            <div style={{ ...CARD, padding: '22px 26px', borderRadius: 14, borderLeftWidth: 4, borderLeftColor: T.coral, borderLeftStyle: 'solid', cursor: 'pointer', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: 18, flexWrap: 'wrap' }}>
+              <div style={{ flex: '1 1 320px' }}>
+                <div style={{ fontSize: 10, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.22em', color: T.coral, textTransform: 'uppercase', fontWeight: 700, marginBottom: 6 }}>
+                  Already licensed for 3+ years? · Tier 4
+                </div>
+                <div style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: 22, fontWeight: 800, color: T.text, letterSpacing: '-0.01em', lineHeight: 1.25, marginBottom: 6 }}>
+                  Hawaii Broker License Prep &mdash; $1,500
+                </div>
+                <div style={{ fontSize: 14, color: T.textDim, lineHeight: 1.55 }}>
+                  Separate track for current Hawaii salespersons going for their broker license. 17 modules, 300+ math problems, 6 timed mocks, closing statement workshop, 365-day access, pass guarantee.
+                </div>
+              </div>
+              <div style={{ fontSize: 12, fontWeight: 700, color: T.coral, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.06em', whiteSpace: 'nowrap' }}>
+                See the broker track ↓
+              </div>
+            </div>
+          </a>
         </section>
 
         {/* COMPARISON */}
