@@ -67,7 +67,7 @@ export default function PricingPage() {
             One-time payment. <em style={{ color: T.ocean, fontStyle: 'italic' }}>No subscription.</em>
           </h1>
           <p style={{ fontSize: 18, color: T.textDim, lineHeight: 1.6, maxWidth: 760, margin: '0 auto 8px' }}>
-            Four options. Salesperson licensing prep, salesperson prep bundled with your agent website, a standalone website build for agents already licensed, or our Hawaii Broker License Prep for licensed agents going for their broker.
+            Three options for getting your salesperson license: the full system, the system bundled with your agent website on graduation, or a standalone website build for agents already licensed. Plus, when you&rsquo;re ready, a separate Broker License track.
           </p>
           <p style={{ fontSize: 15, color: T.ocean, lineHeight: 1.6, maxWidth: 760, margin: '12px auto 0', fontWeight: 600 }}>
             Hawaii requires 60 study hours. <strong style={{ color: T.text }}>Full-time students finish in about two weeks.</strong> The 3- and 6-month windows below are ceilings &mdash; the cushion for life, not the expected pace.
@@ -106,9 +106,9 @@ export default function PricingPage() {
           </div>
         </section>
 
-        {/* FOUR TIERS */}
-        <section style={{ padding: '32px 32px 64px', maxWidth: 1380, margin: '0 auto' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 18 }} data-stack-mobile="true">
+        {/* THREE SALESPERSON TIERS — broker is its own section below */}
+        <section style={{ padding: '32px 32px 24px', maxWidth: 1180, margin: '0 auto' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 18 }} data-stack-mobile="true">
             <BigTier
               id="standard"
               name="Standard"
@@ -171,28 +171,6 @@ export default function PricingPage() {
               cta={loadingTier === 'solo' ? 'Redirecting…' : 'Order Site'}
               onClick={() => checkout('solo')}
               disabled={loadingTier !== null}
-            />
-            <BigTier
-              id="broker"
-              name="Broker License Prep"
-              price="$1,500"
-              tagline="The Hawaii broker license track. For licensed salespersons going for their broker."
-              features={[
-                '80-hour PSI-aligned broker curriculum (17 modules)',
-                'Closing Statement Workshop — the hero deliverable',
-                '300+ broker math problems · 22 categories',
-                '6 full-length timed mocks · 75% passing target',
-                '24/7 AI Tutor tuned for broker depth',
-                'Hawaii-specific: HARPTA, leasehold, AOAO, SMA, Land Court',
-                'Trust account audit-readiness training',
-                'Pass guarantee · free retake if you don\'t pass first try',
-                '365-day access · study while working full-time',
-                'No subscription, ever',
-              ]}
-              cta={loadingTier === 'broker' ? 'Redirecting…' : 'Enroll in Broker Prep'}
-              onClick={() => checkout('broker')}
-              disabled={loadingTier !== null}
-              tierBadge="Tier 4"
             />
           </div>
           <div style={{ textAlign: 'center', marginTop: 24 }}>
@@ -351,15 +329,48 @@ export default function PricingPage() {
           </div>
         </section>
 
-        {/* BROKER TIER DETAIL */}
-        <section id="broker" style={{ padding: '0 32px 32px', maxWidth: 980, margin: '0 auto', scrollMarginTop: 80 }}>
-          <div style={{ ...CARD, padding: '36px 40px', borderRadius: 18, borderLeftWidth: 4, borderLeftColor: T.coral, borderLeftStyle: 'solid' }}>
-            <div style={{ fontSize: 11, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.22em', color: T.coral, textTransform: 'uppercase', marginBottom: 10, fontWeight: 700 }}>Tier 4 · Broker license prep · $1,500</div>
-            <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: 32, fontWeight: 800, letterSpacing: '-0.02em', color: T.text, marginBottom: 16 }}>
-              The Hawaii broker license track.
-            </h2>
-            <p style={{ fontSize: 16, lineHeight: 1.75, color: T.textDim, marginBottom: 16 }}>
-              You&rsquo;ve been a Hawaii salesperson for 3+ years. You&rsquo;ve closed transactions. You&rsquo;re ready to open your own brokerage &mdash; or just unlock the bigger commissions and supervision authority that come with the broker license. This is the course for that.
+        {/* DIVIDER — broker is its own next-step product */}
+        <section style={{ padding: '24px 32px 0', maxWidth: 980, margin: '0 auto' }}>
+          <div style={{ display: 'flex', alignItems: 'center', gap: 16, opacity: 0.7 }}>
+            <div style={{ flex: 1, height: 1, background: T.border }} />
+            <div style={{ fontSize: 11, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.24em', color: T.textMute, textTransform: 'uppercase', fontWeight: 700, whiteSpace: 'nowrap' }}>
+              When you&rsquo;re ready — the broker track
+            </div>
+            <div style={{ flex: 1, height: 1, background: T.border }} />
+          </div>
+        </section>
+
+        {/* BROKER TIER — standalone section below the salesperson three */}
+        <section id="broker" style={{ padding: '36px 32px 32px', maxWidth: 980, margin: '0 auto', scrollMarginTop: 80 }}>
+          <div style={{ ...CARD, padding: '40px 44px', borderRadius: 18, borderLeftWidth: 4, borderLeftColor: T.coral, borderLeftStyle: 'solid', position: 'relative' }}>
+            <div style={{ position: 'absolute', top: -12, left: 28, background: T.coral, color: T.white, fontSize: 10, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.18em', textTransform: 'uppercase', padding: '4px 12px', borderRadius: 6, fontWeight: 700, whiteSpace: 'nowrap' }}>
+              Tier 4 · Years later
+            </div>
+
+            <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'space-between', flexWrap: 'wrap', gap: 16, marginBottom: 14 }}>
+              <div>
+                <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: 'clamp(28px, 4vw, 38px)', fontWeight: 800, letterSpacing: '-0.02em', color: T.text, marginBottom: 6, lineHeight: 1.15 }}>
+                  Hawaii Broker License Prep
+                </h2>
+                <div style={{ fontSize: 13, color: T.textMute, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.1em' }}>
+                  For salespersons with 3+ years field experience.
+                </div>
+              </div>
+              <div style={{ display: 'flex', alignItems: 'baseline', gap: 14, flexWrap: 'wrap' }}>
+                <span style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: 'clamp(40px, 5vw, 56px)', fontWeight: 900, color: T.text, letterSpacing: '-0.02em', lineHeight: 1 }}>$1,500</span>
+                <button
+                  type="button"
+                  onClick={() => checkout('broker')}
+                  disabled={loadingTier !== null}
+                  style={{ ...BUTTON_3D.primary, padding: '14px 28px', borderRadius: 10, fontSize: 13, fontWeight: 700, letterSpacing: '0.04em', fontFamily: 'inherit', cursor: loadingTier !== null ? 'wait' : 'pointer', opacity: loadingTier !== null ? 0.6 : 1 }}
+                >
+                  {loadingTier === 'broker' ? 'Redirecting…' : 'Enroll in Broker Prep →'}
+                </button>
+              </div>
+            </div>
+
+            <p style={{ fontSize: 16, lineHeight: 1.75, color: T.textDim, marginBottom: 14 }}>
+              This isn&rsquo;t the next step after Standard. It&rsquo;s a separate license you go for years after you&rsquo;ve been an active Hawaii salesperson. The Hawaii REC requires <strong style={{ color: T.text }}>3 full years of full-time activity</strong> before you can even sit for the broker exam. Come back when you&rsquo;re ready.
             </p>
             <p style={{ fontSize: 16, lineHeight: 1.75, color: T.textDim, marginBottom: 22 }}>
               Substantially deeper than salesperson prep. <strong style={{ color: T.text }}>The broker exam tests at 75% to pass &mdash; not 70%</strong> &mdash; and the math goes from ~10% of the exam to roughly 15-20%, with multi-step closing-statement reconciliation that trips up most candidates. We built this for that exam.
