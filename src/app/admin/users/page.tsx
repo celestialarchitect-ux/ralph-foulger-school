@@ -174,7 +174,7 @@ function Table({ users, sortBy, setSortBy, onLogout }: { users: AdminUserRow[]; 
   const [editing, setEditing] = useState<AdminUserRow | null>(null);
   const [rows, setRows] = useState(users);
   const [query, setQuery] = useState('');
-  const [tierFilter, setTierFilter] = useState<'all' | 'free' | 'standard' | 'plus' | 'solo' | 'admin'>('all');
+  const [tierFilter, setTierFilter] = useState<'all' | 'free' | 'standard' | 'plus' | 'solo' | 'broker' | 'admin'>('all');
   useEffect(() => { setRows(users); }, [users]);
 
   const updateUser = async (u: AdminUserRow, patch: Partial<AdminUserRow>) => {
@@ -245,7 +245,7 @@ function Table({ users, sortBy, setSortBy, onLogout }: { users: AdminUserRow[]; 
           }}
         />
         <div style={{ display: 'inline-flex', gap: 4, padding: 4, background: T.bgRaised, borderRadius: 10, border: `1px solid ${T.border}` }}>
-          {(['all', 'free', 'standard', 'plus', 'solo', 'admin'] as const).map(t => (
+          {(['all', 'free', 'standard', 'plus', 'solo', 'broker', 'admin'] as const).map(t => (
             <button key={t} onClick={() => setTierFilter(t)} style={{
               padding: '6px 12px', borderRadius: 6,
               background: tierFilter === t ? T.ocean : 'transparent',

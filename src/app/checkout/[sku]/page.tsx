@@ -74,6 +74,23 @@ const TIER_INFO: Record<string, {
     ],
     note: 'No course component. For active Hawaii brokers and salespersons.',
   },
+  broker: {
+    label: 'Broker — Hawaii Broker License Prep',
+    price: 1500,
+    tagline: 'The complete 80-hour Hawaii broker license preparation. PSI-aligned.',
+    accentColor: 'ocean',
+    bullets: [
+      { icon: 'book',       text: '17 broker-depth modules · ~120 study hours' },
+      { icon: 'tutor',      text: 'Closing Statement Workshop (the hero deliverable)' },
+      { icon: 'flashcards', text: '300+ original broker math problems · 22 categories' },
+      { icon: 'target',     text: '6 full-length timed mocks (3 national 80-Q + 3 HI 50-Q)' },
+      { icon: 'tutor',      text: '24/7 AI Tutor tuned for broker-level questions' },
+      { icon: 'shield',     text: 'Pass guarantee · one free retake if you don\'t pass first try' },
+      { icon: 'graduate',   text: '365-day access · brokers study while working full-time' },
+      { icon: 'audit',      text: 'Hawaii-specific: HARPTA, leasehold, Land Court, AOAO, SMA' },
+    ],
+    note: 'Requires active Hawaii salesperson license + 3 years full-time experience for the PSI exam (HAR §16-99-19.2). The course itself has no prerequisite — but you\'ll need your Broker Experience Certificate from REC to actually sit for the exam.',
+  },
   extension: {
     label: 'Plus Extension — 90 More Days',
     price: 249.99,

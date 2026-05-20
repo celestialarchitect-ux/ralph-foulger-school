@@ -42,7 +42,7 @@ export async function POST(req: NextRequest) {
 
       // Hard fallback: derive SKU from the line-item price if metadata is
       // missing entirely (manual payment links, dashboard-initiated charges).
-      if (!sku || (sku !== 'standard' && sku !== 'plus' && sku !== 'solo' && sku !== 'extension')) {
+      if (!sku || (sku !== 'standard' && sku !== 'plus' && sku !== 'solo' && sku !== 'broker' && sku !== 'extension')) {
         const lineItems = await s.checkout.sessions.listLineItems(sess.id, { limit: 1 });
         const priceId = lineItems.data[0]?.price?.id;
         const derived = priceId ? skuFromPriceId(priceId) : null;
@@ -119,7 +119,7 @@ export async function POST(req: NextRequest) {
       }
 
       // On full refund of a course tier, revoke immediately.
-      if (fullyRefunded && (payment.tier === 'standard' || payment.tier === 'plus' || payment.tier === 'extension')) {
+      if (fullyRefunded && (payment.tier === 'standard' || payment.tier === 'plus' || payment.tier === 'broker' || payment.tier === 'extension')) {
         await db.user.update({
           where: { id: payment.userId },
           data: {
@@ -179,12 +179,12 @@ async function applyPayment(userId: string, sku: CheckoutSku) {
 
   const newExpiry = computeAccessExpiry(sku, current.accessExpiresAt ?? null);
 
-  // For Standard / Plus / Solo: set tier to the SKU.
+  // For Standard / Plus / Solo / Broker: set tier to the SKU.
   // For Extension: keep tier='plus' (user is still a Plus student), just
   // extend the access window. We refuse extensions on non-Plus tiers from
   // the checkout endpoint, but enforce it again here as defense-in-depth.
   let nextTier: string = current.tier;
-  if (sku === 'standard' || sku === 'plus' || sku === 'solo') {
+  if (sku === 'standard' || sku === 'plus' || sku === 'solo' || sku === 'broker') {
     nextTier = sku;
   } else if (sku === 'extension') {
     // Only honor extension top-up if the user is actually on Plus. If a
@@ -208,7 +208,7 @@ async function applyPayment(userId: string, sku: CheckoutSku) {
   });
 
   try {
-    const tpl = welcomePaidTemplate({ name: current.name, tier: nextTier as 'standard' | 'plus' | 'solo' });
+    const tpl = welcomePaidTemplate({ name: current.name, tier: nextTier as 'standard' | 'plus' | 'solo' | 'broker' });
     await sendMail({ to: current.email, ...tpl, category: 'welcome', userId });
   } catch (err) {
     console.warn('webhook: welcome email failed', err);

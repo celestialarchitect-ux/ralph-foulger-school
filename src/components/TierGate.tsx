@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import { T } from '@/lib/theme';
 
-type Requirement = 'auth' | 'paid' | 'admin';
+type Requirement = 'auth' | 'paid' | 'admin' | 'broker';
 
 interface AuthMeUser {
   id: string;
@@ -26,7 +26,9 @@ interface AuthMeResponse {
 // Tiers that grant course access. Solo doesn't (website-build SKU only) but
 // admins frequently have tier=plus or tier=admin for testing — the gate
 // trusts accessStatus from the server, which already accounts for that.
-const PAID_TIERS = new Set(['standard', 'plus', 'solo']);
+// `broker` is Tier 4 ($1,500); it has its own 365-day access window.
+const PAID_TIERS = new Set(['standard', 'plus', 'solo', 'broker']);
+const BROKER_TIERS = new Set(['broker']);
 
 // Server tells us whether course access is currently valid. We trust it.
 function hasActiveCourseAccess(user: AuthMeUser): boolean {
@@ -38,6 +40,14 @@ function hasActiveCourseAccess(user: AuthMeUser): boolean {
   // expired users via accessStatus before reaching this fallback.
   if (!status) return PAID_TIERS.has(user.tier);
   return false;
+}
+
+// Broker-only gate: tier must be 'broker' (or admin) AND access not expired.
+function hasActiveBrokerAccess(user: AuthMeUser): boolean {
+  if (user.isAdmin) return true;
+  if (!BROKER_TIERS.has(user.tier)) return false;
+  const status = user.accessStatus;
+  return status === 'active' || status === 'lifetime';
 }
 
 interface TierGateProps {
@@ -95,6 +105,14 @@ export function TierGate({ require, children }: TierGateProps) {
           if (cancelled) return;
           setState('denied');
           router.push('/profile');
+          return;
+        }
+
+        if (require === 'broker' && !hasActiveBrokerAccess(data.user)) {
+          if (cancelled) return;
+          setState('denied');
+          // Send non-brokers to the broker pricing card on /pricing.
+          router.push(`/pricing?reason=upgrade_broker&next=${encodeURIComponent(pathname)}#broker`);
           return;
         }
 

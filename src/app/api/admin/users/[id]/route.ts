@@ -8,7 +8,7 @@ export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
 const VALID_ROLES = new Set(['admin', 'support', 'instructor', 'finance', 'content']);
-const VALID_TIERS = new Set(['free', 'standard', 'plus', 'solo']);
+const VALID_TIERS = new Set(['free', 'standard', 'plus', 'solo', 'broker']);
 
 // GET = full admin dossier on a single student. Admins + instructor-role
 // staff can read; others 403.

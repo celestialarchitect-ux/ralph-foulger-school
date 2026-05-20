@@ -25,7 +25,7 @@ interface BroadcastBody {
 }
 
 const VALID_AUDIENCES = new Set(['all', 'paid', 'course', 'free']);
-const VALID_TIERS = new Set(['free', 'standard', 'plus', 'solo']);
+const VALID_TIERS = new Set(['free', 'standard', 'plus', 'solo', 'broker']);
 
 export async function POST(req: NextRequest) {
   if (!authConfigured() || !db) return NextResponse.json({ error: 'auth_unavailable' }, { status: 503 });
@@ -56,8 +56,8 @@ export async function POST(req: NextRequest) {
     if (!VALID_TIERS.has(t)) return NextResponse.json({ error: 'invalid_audience' }, { status: 400 });
     tierFilter = { in: [t] };
   } else if (VALID_AUDIENCES.has(audience)) {
-    if (audience === 'paid') tierFilter = { in: ['standard', 'plus', 'solo'] };
-    else if (audience === 'course') tierFilter = { in: ['standard', 'plus'] };
+    if (audience === 'paid') tierFilter = { in: ['standard', 'plus', 'solo', 'broker'] };
+    else if (audience === 'course') tierFilter = { in: ['standard', 'plus', 'broker'] };
     else if (audience === 'free') tierFilter = { in: ['free'] };
     else if (audience === 'all') tierFilter = undefined;
   } else {

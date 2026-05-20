@@ -13,6 +13,7 @@ export const dynamic = 'force-dynamic';
 //   'active'         — user has paid access that has not expired
 //   'expired_plus'   — was Plus, window ended → can buy $249.99 extension
 //   'expired_standard'— was Standard, window ended → must re-enroll at $599
+//   'expired_broker' — was Broker, window ended → must re-enroll at $1,500
 //   'lifetime'       — Solo (website build, no expiry) or admin
 //   'none'           — free user, never paid
 export async function GET() {
@@ -32,7 +33,7 @@ export async function GET() {
   const now = new Date();
   const expired = !!accessExpiresAt && accessExpiresAt <= now;
 
-  let accessStatus: 'active' | 'expired_plus' | 'expired_standard' | 'lifetime' | 'none';
+  let accessStatus: 'active' | 'expired_plus' | 'expired_standard' | 'expired_broker' | 'lifetime' | 'none';
   if (extra?.isAdmin) {
     accessStatus = 'lifetime';
   } else if (tier === 'solo') {
@@ -43,6 +44,8 @@ export async function GET() {
     accessStatus = 'active';
   } else if (tier === 'plus') {
     accessStatus = 'expired_plus';
+  } else if (tier === 'broker') {
+    accessStatus = 'expired_broker';
   } else {
     accessStatus = 'expired_standard';
   }

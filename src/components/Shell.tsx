@@ -14,7 +14,18 @@ const NAV_ITEMS: Array<[string, string]> = [
   ['/pricing', 'Pricing'],
 ];
 
-interface HeaderUser { firstName?: string; name?: string; isAdmin?: boolean }
+// Broker (Tier 4) gets its own nav entry — only shown when the signed-in
+// user has tier='broker' (or isAdmin). Replaces /course in the nav for
+// broker students since they're working out of /broker/course.
+const BROKER_NAV_ITEMS: Array<[string, string]> = [
+  ['/free', 'Free Course'],
+  ['/broker', 'Broker Track'],
+  ['/broker/course', 'Curriculum'],
+  ['/broker/mocks', 'Mocks'],
+  ['/tutor', 'AI Tutor'],
+];
+
+interface HeaderUser { firstName?: string; name?: string; isAdmin?: boolean; tier?: string }
 
 export function Header({ active }: { active?: string }) {
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -75,9 +86,9 @@ export function Header({ active }: { active?: string }) {
         </span>
       </Link>
 
-      {/* Desktop nav */}
+      {/* Desktop nav — broker students see broker-specific nav */}
       <nav className="rf-header-nav-desktop" style={{ gap: 18, alignItems: 'center' }}>
-        {NAV_ITEMS.map(([href, label]) => link(href, label))}
+        {(user?.tier === 'broker' ? BROKER_NAV_ITEMS : NAV_ITEMS).map(([href, label]) => link(href, label))}
         {user === undefined ? (
           // Auth probe in flight — reserve space so the layout doesn't jump
           <span style={{ minWidth: 96, height: 36 }} aria-hidden />
@@ -140,7 +151,7 @@ export function Header({ active }: { active?: string }) {
         role="navigation"
         aria-label="Mobile menu"
       >
-        {NAV_ITEMS.map(([href, label]) => link(href, label, () => setDrawerOpen(false)))}
+        {(user?.tier === 'broker' ? BROKER_NAV_ITEMS : NAV_ITEMS).map(([href, label]) => link(href, label, () => setDrawerOpen(false)))}
         {user ? (
           <Link
             href="/profile"

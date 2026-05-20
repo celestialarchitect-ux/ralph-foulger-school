@@ -186,6 +186,20 @@ The link is good for 1 hour. If you didn't request this, you can ignore it.
 export function welcomePaidTemplate(args: { name: string; tier: string }): { subject: string; html: string; text: string } {
   const greeting = args.name.split(' ')[0] || 'there';
   const tierLabel = args.tier.charAt(0).toUpperCase() + args.tier.slice(1);
+  // Broker tier (Tier 4) is for already-licensed agents pursuing the broker
+  // license. The messaging shifts: 80-hour broker pre-license course, PSI
+  // broker exam at 75% pass, requires Broker Experience Certificate.
+  const isBroker = args.tier === 'broker';
+  const hours = isBroker ? 80 : 60;
+  const examName = isBroker ? 'PSI Hawaii Broker exam' : 'PSI exam';
+  const startHere = isBroker ? `${SITE}/broker` : `${SITE}/profile`;
+  const startHereLabel = isBroker ? 'Open my broker course →' : 'Open my profile →';
+  const brokerCert = isBroker
+    ? `<p style="font-size:13px;line-height:1.65;color:${MUTED};margin:20px 0 0;">Reminder: to schedule the PSI broker exam you also need a Broker Experience Certificate from the Hawaii REC (HAR §16-99-19.2). Apply early &mdash; processing can take weeks.</p>`
+    : '';
+  const brokerCertText = isBroker
+    ? `\nReminder: to sit the PSI broker exam you need a Broker Experience Certificate from REC (HAR §16-99-19.2). Apply early — processing takes weeks.\n`
+    : '';
   return {
     subject: `Welcome to ${tierLabel} — Ralph Foulger Academy`,
     html: wrap(`
@@ -193,11 +207,12 @@ export function welcomePaidTemplate(args: { name: string; tier: string }): { sub
         You&rsquo;re in, ${escape(greeting)}.
       </h1>
       <p style="font-size:15px;line-height:1.65;color:${MUTED};margin:0 0 24px;">
-        Your ${escape(tierLabel)} tier is active. Your study clock is running &mdash; Hawaii state law requires 60 hours of pre-license study before the PSI exam, and we&rsquo;ll show you exactly where you are at every step.
+        Your ${escape(tierLabel)} tier is active. Your study clock is running &mdash; Hawaii state law requires ${hours} hours of pre-license study before the ${escape(examName)}, and we&rsquo;ll show you exactly where you are at every step.
       </p>
-      <a href="${SITE}/profile" style="display:inline-block;background:${BRAND_COLOR};color:#fff;text-decoration:none;padding:14px 28px;border-radius:10px;font-size:14px;font-weight:700;letter-spacing:0.04em;">
-        Open my profile →
+      <a href="${startHere}" style="display:inline-block;background:${BRAND_COLOR};color:#fff;text-decoration:none;padding:14px 28px;border-radius:10px;font-size:14px;font-weight:700;letter-spacing:0.04em;">
+        ${startHereLabel}
       </a>
+      ${brokerCert}
       <p style="font-size:13px;line-height:1.65;color:${MUTED};margin:24px 0 0;">
         Questions? Just reply to this email &mdash; it goes straight to support.
       </p>
@@ -205,10 +220,10 @@ export function welcomePaidTemplate(args: { name: string; tier: string }): { sub
     text: `You're in, ${greeting}.
 
 Your ${tierLabel} tier is active. Your study clock starts now:
-${SITE}/profile
+${startHere}
 
-Hawaii state law requires 60 hours of pre-license study before the PSI exam. We'll show you where you are at every step.
-
+Hawaii state law requires ${hours} hours of pre-license study before the ${examName}. We'll show you where you are at every step.
+${brokerCertText}
 — Ralph Foulger's Academy of Real Estate`,
   };
 }

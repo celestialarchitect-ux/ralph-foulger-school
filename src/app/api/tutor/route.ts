@@ -9,7 +9,7 @@
 
 import { NextRequest } from 'next/server';
 import Anthropic from '@anthropic-ai/sdk';
-import { buildSystemPrompt } from '@/lib/tutor-system-prompt';
+import { buildSystemPrompt, buildBrokerSystemPrompt } from '@/lib/tutor-system-prompt';
 import { authConfigured, getSessionUser } from '@/lib/auth';
 import { db } from '@/lib/db';
 
@@ -31,7 +31,7 @@ interface ChatMessage {
 //
 // All three layers fail fast (auth before rate-limit, before any model call).
 
-const PAID_TIERS = new Set(['standard', 'plus']);
+const PAID_TIERS = new Set(['standard', 'plus', 'broker']);
 const TUTOR_RATE_LIMIT_PER_HOUR = 60;
 
 // Module-level rate limit store. Resets on container restart, which is
@@ -90,10 +90,13 @@ export async function POST(req: NextRequest) {
       error: 'tier_required',
       message: expired
         ? 'Your course access window has ended. Re-enroll or extend (Plus only) to keep using the AI tutor.'
-        : 'The AI tutor is included with Standard and Plus tiers. Upgrade at /pricing.',
+        : 'The AI tutor is included with Standard, Plus, and Broker tiers. Upgrade at /pricing.',
       upgrade: '/pricing',
     }, { status: 402 });
   }
+  // Broker students get a broker-depth system prompt; everyone else gets the
+  // salesperson tutor prompt.
+  const isBroker = u.isAdmin ? false : u.tier === 'broker';
 
   // Gate 3: rate limit. Per-user hourly cap so a runaway client can't
   // drain the budget.
@@ -137,7 +140,9 @@ export async function POST(req: NextRequest) {
     return Response.json({ error: 'no_valid_messages' }, { status: 400 });
   }
 
-  const systemPrompt = buildSystemPrompt(body.focusChapter);
+  const systemPrompt = isBroker
+    ? buildBrokerSystemPrompt(body.focusChapter)
+    : buildSystemPrompt(body.focusChapter);
 
   try {
     const anthropic = new Anthropic({ apiKey });

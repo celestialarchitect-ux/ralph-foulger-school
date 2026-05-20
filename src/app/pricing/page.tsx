@@ -5,7 +5,7 @@ import { useEffect, useState } from 'react';
 import { T, BUTTON_3D, CARD, SHADOW_3D } from '@/lib/theme';
 import { Header, Footer, Backgrounds } from '@/components/Shell';
 
-type CheckoutTier = 'standard' | 'plus' | 'solo';
+type CheckoutTier = 'standard' | 'plus' | 'solo' | 'broker';
 
 export default function PricingPage() {
   const [loadingTier, setLoadingTier] = useState<CheckoutTier | null>(null);
@@ -67,7 +67,7 @@ export default function PricingPage() {
             One-time payment. <em style={{ color: T.ocean, fontStyle: 'italic' }}>No subscription.</em>
           </h1>
           <p style={{ fontSize: 18, color: T.textDim, lineHeight: 1.6, maxWidth: 760, margin: '0 auto 8px' }}>
-            Three options. The full Hawaii licensing system, the same system bundled with a custom agent website on graduation, or a standalone website build for agents who are already licensed.
+            Four options. Salesperson licensing prep, salesperson prep bundled with your agent website, a standalone website build for agents already licensed, or our Hawaii Broker License Prep for licensed agents going for their broker.
           </p>
           <p style={{ fontSize: 15, color: T.ocean, lineHeight: 1.6, maxWidth: 760, margin: '12px auto 0', fontWeight: 600 }}>
             Hawaii requires 60 study hours. <strong style={{ color: T.text }}>Full-time students finish in about two weeks.</strong> The 3- and 6-month windows below are ceilings &mdash; the cushion for life, not the expected pace.
@@ -106,14 +106,14 @@ export default function PricingPage() {
           </div>
         </section>
 
-        {/* THREE TIERS */}
-        <section style={{ padding: '32px 32px 64px', maxWidth: 1180, margin: '0 auto' }}>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 18 }} data-stack-mobile="true">
+        {/* FOUR TIERS */}
+        <section style={{ padding: '32px 32px 64px', maxWidth: 1380, margin: '0 auto' }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(260px, 1fr))', gap: 18 }} data-stack-mobile="true">
             <BigTier
               id="standard"
               name="Standard"
               price="$599"
-              tagline="The complete Hawaii licensing prep system."
+              tagline="The complete Hawaii salesperson licensing prep."
               features={[
                 'All 20 chapters (PSI-aligned)',
                 'Full audiobook narration',
@@ -135,7 +135,7 @@ export default function PricingPage() {
               id="plus"
               name="Plus"
               price="$899"
-              tagline="Standard course + your agent website on graduation."
+              tagline="Standard salesperson course + agent website on graduation."
               features={[
                 'Everything in Standard',
                 'Free agent website on passing the PSI exam',
@@ -171,6 +171,28 @@ export default function PricingPage() {
               cta={loadingTier === 'solo' ? 'Redirecting…' : 'Order Site'}
               onClick={() => checkout('solo')}
               disabled={loadingTier !== null}
+            />
+            <BigTier
+              id="broker"
+              name="Broker License Prep"
+              price="$1,500"
+              tagline="The Hawaii broker license track. For licensed salespersons going for their broker."
+              features={[
+                '80-hour PSI-aligned broker curriculum (17 modules)',
+                'Closing Statement Workshop — the hero deliverable',
+                '300+ broker math problems · 22 categories',
+                '6 full-length timed mocks · 75% passing target',
+                '24/7 AI Tutor tuned for broker depth',
+                'Hawaii-specific: HARPTA, leasehold, AOAO, SMA, Land Court',
+                'Trust account audit-readiness training',
+                'Pass guarantee · free retake if you don\'t pass first try',
+                '365-day access · study while working full-time',
+                'No subscription, ever',
+              ]}
+              cta={loadingTier === 'broker' ? 'Redirecting…' : 'Enroll in Broker Prep'}
+              onClick={() => checkout('broker')}
+              disabled={loadingTier !== null}
+              tierBadge="Tier 4"
             />
           </div>
           <div style={{ textAlign: 'center', marginTop: 24 }}>
@@ -329,6 +351,61 @@ export default function PricingPage() {
           </div>
         </section>
 
+        {/* BROKER TIER DETAIL */}
+        <section id="broker" style={{ padding: '0 32px 32px', maxWidth: 980, margin: '0 auto', scrollMarginTop: 80 }}>
+          <div style={{ ...CARD, padding: '36px 40px', borderRadius: 18, borderLeftWidth: 4, borderLeftColor: T.coral, borderLeftStyle: 'solid' }}>
+            <div style={{ fontSize: 11, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.22em', color: T.coral, textTransform: 'uppercase', marginBottom: 10, fontWeight: 700 }}>Tier 4 · Broker license prep · $1,500</div>
+            <h2 style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: 32, fontWeight: 800, letterSpacing: '-0.02em', color: T.text, marginBottom: 16 }}>
+              The Hawaii broker license track.
+            </h2>
+            <p style={{ fontSize: 16, lineHeight: 1.75, color: T.textDim, marginBottom: 16 }}>
+              You&rsquo;ve been a Hawaii salesperson for 3+ years. You&rsquo;ve closed transactions. You&rsquo;re ready to open your own brokerage &mdash; or just unlock the bigger commissions and supervision authority that come with the broker license. This is the course for that.
+            </p>
+            <p style={{ fontSize: 16, lineHeight: 1.75, color: T.textDim, marginBottom: 22 }}>
+              Substantially deeper than salesperson prep. <strong style={{ color: T.text }}>The broker exam tests at 75% to pass &mdash; not 70%</strong> &mdash; and the math goes from ~10% of the exam to roughly 15-20%, with multi-step closing-statement reconciliation that trips up most candidates. We built this for that exam.
+            </p>
+
+            <div style={{ background: T.bgRaised, borderRadius: 12, padding: 22, border: `1px solid ${T.border}`, marginBottom: 18 }}>
+              <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 10, letterSpacing: '0.22em', color: T.coral, textTransform: 'uppercase', marginBottom: 10, fontWeight: 700 }}>Eligibility — Hawaii Broker License (HAR §16-99-19.2)</div>
+              <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
+                <li style={{ fontSize: 14, color: T.text, lineHeight: 1.6 }}>
+                  <strong style={{ color: T.coral }}>1.</strong> Active Hawaii salesperson license
+                </li>
+                <li style={{ fontSize: 14, color: T.text, lineHeight: 1.6 }}>
+                  <strong style={{ color: T.coral }}>2.</strong> 3 full years of full-time (40+ hrs/wk) HI-licensed salesperson activity within the prior 5 years
+                </li>
+                <li style={{ fontSize: 14, color: T.text, lineHeight: 1.6 }}>
+                  <strong style={{ color: T.coral }}>3.</strong> Broker Experience Certificate from the Hawaii REC (apply before scheduling the exam &mdash; failing to obtain it invalidates your exam score)
+                </li>
+                <li style={{ fontSize: 14, color: T.text, lineHeight: 1.6 }}>
+                  <strong style={{ color: T.coral }}>4.</strong> Completion of an 80-hour REC-approved broker pre-license course
+                </li>
+              </ul>
+              <p style={{ fontSize: 13, color: T.textMute, marginTop: 14, lineHeight: 1.6 }}>
+                Out-of-state license? The REC can grant equivalency for full-time experience with an active out-of-state brokerage firm meeting comparable requirements, or for holders of a current unencumbered out-of-state broker license. See <a href="https://cca.hawaii.gov/reb/" target="_blank" rel="noopener" style={{ color: T.coral, textDecoration: 'underline' }}>cca.hawaii.gov/reb</a>.
+              </p>
+            </div>
+
+            <div style={{ marginBottom: 18 }}>
+              <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 10, letterSpacing: '0.22em', color: T.ocean, textTransform: 'uppercase', marginBottom: 10, fontWeight: 700 }}>What&rsquo;s inside</div>
+              <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: 14 }}>
+                <FeatureCard title="17 broker-depth modules" body="80 hours of REC-aligned curriculum covering all 8 PSI national categories + 9 Hawaii state sections (license law, trust accounts, brokerage ops, HARPTA/FIRPTA/GET, leasehold, condo/AOAO, land use, contracts, property management)." />
+                <FeatureCard title="Closing Statement Workshop" body="The hero deliverable. Full CD reconciliation — every line item, every proration, HARPTA/FIRPTA withholding, conveyance tax, the works. Walks you from zero to confident with worked examples to the penny." />
+                <FeatureCard title="300+ broker math problems" body="22 categories: proration, commissions, cap rate, NOI, DSCR, GRM, depreciation, capital gains, 1031, amortization, points, closing reconciliation, lease economics, and more. Step-by-step solutions with pitfall callouts." />
+                <FeatureCard title="6 full-length timed mocks" body="3 national (80 questions) + 3 state (50 questions). Scored by portion. 75% passing target. Plus diagnostic + final tune-up mocks." />
+                <FeatureCard title="24/7 AI Tutor" body="Tuned for broker-level questions — supervisory liability, trust account reconciliation, investment analysis, antitrust nuances. Ask anything, day or night." />
+                <FeatureCard title="Pass guarantee" body="If you don&rsquo;t pass on the first attempt, your second course access is on us. Complete the program, take all 6 mocks, score 75%+ on the final two — that&rsquo;s the qualifier." />
+                <FeatureCard title="365-day access" body="Brokers study while working full-time. A 12-month window is the right shape — not 3 months, not 6." />
+                <FeatureCard title="Hawaii-specific deep dive" body="HARPTA 7.25% withholding mechanics. Leasehold disclosure. Land Court vs Bureau of Conveyances. AOAO governance under HRS 514B. SMA permits. Hawaiian Home Lands. Short-term rental law county-by-county." />
+              </ul>
+            </div>
+
+            <p style={{ fontSize: 13, color: T.textMute, lineHeight: 1.7, margin: 0 }}>
+              <strong style={{ color: T.text }}>One question to ask yourself before you buy:</strong> have you been an active Hawaii salesperson for the full 3 years required by HAR §16-99-19.2? If yes, you&rsquo;re ready. If not, finish that runway first &mdash; the Tier 1 salesperson course is the right place to start.
+            </p>
+          </div>
+        </section>
+
         {/* SOLO WEBSITE DETAIL */}
         <section style={{ padding: '0 32px 64px', maxWidth: 980, margin: '0 auto' }}>
           <div style={{ ...CARD, padding: '36px 40px', borderRadius: 18, borderLeftWidth: 4, borderLeftColor: T.coral, borderLeftStyle: 'solid' }}>
@@ -378,9 +455,9 @@ export default function PricingPage() {
   );
 }
 
-function BigTier({ id, name, price, tagline, features, cta, onClick, disabled, featured }: {
+function BigTier({ id, name, price, tagline, features, cta, onClick, disabled, featured, tierBadge }: {
   id: string; name: string; price: string; tagline: string; features: string[];
-  cta: string; onClick: () => void; disabled?: boolean; featured?: boolean;
+  cta: string; onClick: () => void; disabled?: boolean; featured?: boolean; tierBadge?: string;
 }) {
   return (
     <div id={id} style={{
@@ -394,6 +471,11 @@ function BigTier({ id, name, price, tagline, features, cta, onClick, disabled, f
       {featured && (
         <div style={{ position: 'absolute', top: -12, left: '50%', transform: 'translateX(-50%)', background: T.ocean, color: T.white, fontSize: 10, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.18em', textTransform: 'uppercase', padding: '4px 12px', borderRadius: 6, fontWeight: 700, whiteSpace: 'nowrap' }}>
           Recommended
+        </div>
+      )}
+      {tierBadge && (
+        <div style={{ position: 'absolute', top: -12, left: '50%', transform: 'translateX(-50%)', background: T.coral, color: T.white, fontSize: 10, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.18em', textTransform: 'uppercase', padding: '4px 12px', borderRadius: 6, fontWeight: 700, whiteSpace: 'nowrap' }}>
+          {tierBadge}
         </div>
       )}
       <div style={{ fontSize: 11, fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.2em', color: T.textMute, textTransform: 'uppercase', marginBottom: 6 }}>{name}</div>
@@ -427,6 +509,15 @@ function BigTier({ id, name, price, tagline, features, cta, onClick, disabled, f
       >
         {cta}
       </button>
+    </div>
+  );
+}
+
+function FeatureCard({ title, body }: { title: string; body: string }) {
+  return (
+    <div style={{ background: T.bg, borderRadius: 10, padding: 16, border: `1px solid ${T.border}` }}>
+      <div style={{ fontFamily: "'Playfair Display', Georgia, serif", fontSize: 16, fontWeight: 800, color: T.text, marginBottom: 6, lineHeight: 1.3 }}>{title}</div>
+      <div style={{ fontSize: 13, color: T.textDim, lineHeight: 1.6 }}>{body}</div>
     </div>
   );
 }
