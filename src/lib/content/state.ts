@@ -7,429 +7,1685 @@
 import type { ChapterContent } from './national';
 
 export const STATE_CONTENT: ChapterContent[] = [
-  // ─── 12. Hawaii Material Facts ───
   {
-    slug: 'hi-material-facts',
-    intro: 'Hawaii has unique disclosure obligations rooted in its land history, leasehold prevalence, and tax rules.',
-    overview: [
-      'Hawaii has two parallel land-recording systems that every licensee must understand. The Bureau of Conveyances (BOC) handles "Regular System" recordings — the standard county-style chain-of-title model used in most of the United States. Documents are recorded in chronological order; subsequent purchasers are presumed on notice; chain of title is searched back to a marketable starting point. The Land Court system, unique to Hawaii, is a Torrens-style registered title system. When property is brought under Land Court, the court issues a Transfer Certificate of Title (TCT); the title shown on the TCT is conclusive against the world, eliminating most chain-of-title disputes. A property may be entirely in the Regular System, entirely in Land Court, or split (a "dual" parcel). Agents must know which when ordering title and preparing closing.',
-      'HARPTA (Hawaii Real Property Tax Act) is a state withholding requirement. When a non-Hawaii resident sells Hawaii real property, the buyer must withhold a percentage (currently 7.25% as of recent rules — verify current rate) of the gross sales price at closing and remit it to the State. This is a withholding against the seller\'s eventual Hawaii income tax liability, not an additional tax. The seller may apply for a reduced or zero withholding by filing forms in advance. Buyers are statutorily responsible — failure to withhold makes the buyer liable. FIRPTA is the federal counterpart, requiring 15% withholding on sales by foreign sellers; both can apply to the same transaction.',
-      'GET (General Excise Tax) is Hawaii\'s tax on business activity, including real estate brokerage commissions and most rental income. It is not a "sales tax" — it falls on the gross receipts of the business and is typically passed to the customer as a "GET visible pass-on." Real estate licensees must factor GET into their commissions and disclose appropriately. Property managers must collect GET on rents (with passthrough by tenant) and remit. The 2026 rate is 4% statewide plus county surcharges in some counties; verify current rates.',
-      'Conveyance tax is Hawaii\'s state-level transfer tax on real property sales. It has tiered rates based on sale price and buyer status (owner-occupant rate is lower than investor rate). The seller typically pays unless contract specifies otherwise. Recording fees are separate, charged by BOC or Land Court per page recorded. These are exam math territory — be prepared for calculation questions on the proper conveyance tax tier.',
-      'The Seller\'s Property Disclosure Statement is required by HRS 508D for residential resales of one to four units. The seller must disclose all known material facts about the property\'s condition. The disclosure form covers known defects in roof, plumbing, electrical, structural, environmental hazards, drainage, prior repairs, and known issues with the unit, the building, the lot, and the immediate neighborhood. Buyers who receive a materially inaccurate disclosure have rescission rights subject to statutory deadlines.',
-      'Leasehold disclosures are uniquely important in Hawaii because so much property is leasehold. HRS 514E and other statutes require disclosure of the remaining lease term, current lease rent, scheduled lease rent step-ups (renegotiation dates), and any reversion of improvements at lease end. A buyer who doesn\'t know they\'re buying leasehold can sue. Distressed-property and short-sale disclosures are required when applicable. The Condominium Public Report (developer disclosure document) must accompany sales of new condo units.',
-      'Environmental conditions specific to Hawaii: lava-zone classification (Hawaii County 1-9 hazard rating), flood zones (especially low-lying coastal areas), tsunami evacuation zones, hurricane-zone wind ratings (insurance impact), agricultural pesticide history (especially on former plantation lands), formaldehyde concerns from prior pesticide treatments, and termite inspection (most resales include a Termite Inspection Report, often called a "termite" report or pest control report). Coastal property has SMA (Special Management Area) considerations. Ag land has restrictions on residential use.',
-      'Hawaii land history affects property rights in unique ways. The Mahele of 1848 began the conversion from communal to fee ownership. Royal Patent Grants and Land Commission Awards from this era still appear in chain of title. Some properties have kuleana rights — descendants\' continued access for cultivation, gathering, or burial sites. The Native Hawaiian Inheritance Act and Hawaiian Homes Commission Act (HHCA) govern Hawaiian Home Lands, which are leased only to qualifying Native Hawaiians and have specific transfer restrictions. These legacy issues occasionally surface in transactions.',
-      'Tax Map Key (TMK) is Hawaii\'s parcel identifier. It has the format Zone-Section-Plat-Parcel(-CPR), e.g., 1-2-3-456-7890. Each county uses its own zone numbering. For Condominium Property Regimes (CPR), additional digits identify the specific unit. TMKs link to county tax assessment, zoning, real-property tax payments, and recorded documents. Always confirm the TMK matches the legal description before any transaction.',
+    "slug": "hi-material-facts",
+    "intro": "Hawaii has unique disclosure obligations rooted in its land history, leasehold prevalence, and tax rules.",
+    "overview": [
+      "Hawaii has two parallel land-recording systems that every licensee must understand. The Bureau of Conveyances (BOC) handles \"Regular System\" recordings — the standard county-style chain-of-title model used in most of the United States. Documents are recorded in chronological order; subsequent purchasers are presumed on notice; chain of title is searched back to a marketable starting point. The Land Court system, unique to Hawaii, is a Torrens-style registered title system. When property is brought under Land Court, the court issues a Transfer Certificate of Title (TCT); the title shown on the TCT is conclusive against the world, eliminating most chain-of-title disputes. A property may be entirely in the Regular System, entirely in Land Court, or split (a \"dual\" parcel). Agents must know which when ordering title and preparing closing.",
+      "HARPTA (Hawaii Real Property Tax Act) is a state withholding requirement. When a non-Hawaii resident sells Hawaii real property, the buyer must withhold a percentage (currently 7.25% as of recent rules — verify current rate) of the gross sales price at closing and remit it to the State. This is a withholding against the seller's eventual Hawaii income tax liability, not an additional tax. The seller may apply for a reduced or zero withholding by filing forms in advance. Buyers are statutorily responsible — failure to withhold makes the buyer liable. FIRPTA is the federal counterpart, requiring 15% withholding on sales by foreign sellers; both can apply to the same transaction.",
+      "GET (General Excise Tax) is Hawaii's tax on business activity, including real estate brokerage commissions and most rental income. It is not a \"sales tax\" — it falls on the gross receipts of the business and is typically passed to the customer as a \"GET visible pass-on.\" Real estate licensees must factor GET into their commissions and disclose appropriately. Property managers must collect GET on rents (with passthrough by tenant) and remit. The 2026 rate is 4% statewide plus county surcharges in some counties; verify current rates.",
+      "Conveyance tax is Hawaii's state-level transfer tax on real property sales. It has tiered rates based on sale price and buyer status (owner-occupant rate is lower than investor rate). The seller typically pays unless contract specifies otherwise. Recording fees are separate, charged by BOC or Land Court per page recorded. These are exam math territory — be prepared for calculation questions on the proper conveyance tax tier.",
+      "The Seller's Property Disclosure Statement is required by HRS 508D for residential resales of one to four units. The seller must disclose all known material facts about the property's condition. The disclosure form covers known defects in roof, plumbing, electrical, structural, environmental hazards, drainage, prior repairs, and known issues with the unit, the building, the lot, and the immediate neighborhood. Buyers who receive a materially inaccurate disclosure have rescission rights subject to statutory deadlines.",
+      "Leasehold disclosures are uniquely important in Hawaii because so much property is leasehold. HRS 514E and other statutes require disclosure of the remaining lease term, current lease rent, scheduled lease rent step-ups (renegotiation dates), and any reversion of improvements at lease end. A buyer who doesn't know they're buying leasehold can sue. Distressed-property and short-sale disclosures are required when applicable. The Condominium Public Report (developer disclosure document) must accompany sales of new condo units.",
+      "Environmental conditions specific to Hawaii: lava-zone classification (Hawaii County 1-9 hazard rating), flood zones (especially low-lying coastal areas), tsunami evacuation zones, hurricane-zone wind ratings (insurance impact), agricultural pesticide history (especially on former plantation lands), formaldehyde concerns from prior pesticide treatments, and termite inspection (most resales include a Termite Inspection Report, often called a \"termite\" report or pest control report). Coastal property has SMA (Special Management Area) considerations. Ag land has restrictions on residential use.",
+      "Hawaii land history affects property rights in unique ways. The Mahele of 1848 began the conversion from communal to fee ownership. Royal Patent Grants and Land Commission Awards from this era still appear in chain of title. Some properties have kuleana rights — descendants' continued access for cultivation, gathering, or burial sites. The Native Hawaiian Inheritance Act and Hawaiian Homes Commission Act (HHCA) govern Hawaiian Home Lands, which are leased only to qualifying Native Hawaiians and have specific transfer restrictions. These legacy issues occasionally surface in transactions.",
+      "Tax Map Key (TMK) is Hawaii's parcel identifier. It has the format Zone-Section-Plat-Parcel(-CPR), e.g., 1-2-3-456-7890. Each county uses its own zone numbering. For Condominium Property Regimes (CPR), additional digits identify the specific unit. TMKs link to county tax assessment, zoning, real-property tax payments, and recorded documents. Always confirm the TMK matches the legal description before any transaction."
     ],
-    concepts: [
-      { term: 'Bureau of Conveyances (BOC)', body: 'State office maintaining the Regular System chain of title for non-Land-Court parcels.', hawaiiNote: 'Located in Honolulu; serves all islands.' },
-      { term: 'Regular System', body: 'Standard chain-of-title recording. Documents in chronological order; subsequent purchasers on constructive notice.' },
-      { term: 'Land Court', body: 'Hawaii\'s Torrens-style registered title system. Transfer Certificate of Title is conclusive.' },
-      { term: 'TCT (Transfer Certificate of Title)', body: 'Land Court\'s conclusive title document. Issued when registered property changes hands.' },
-      { term: 'Dual parcel', body: 'Property partially in Regular System, partially in Land Court.' },
-      { term: 'HARPTA', body: 'Hawaii Real Property Tax Act. Currently 7.25% withholding on non-resident seller proceeds at closing.' },
-      { term: 'FIRPTA', body: 'Federal Foreign Investment in Real Property Tax Act. 15% federal withholding on foreign sellers.' },
-      { term: 'GET', body: 'General Excise Tax. Hawaii\'s gross-receipts business tax. Applies to commissions and rents.' },
-      { term: 'GET visible pass-on', body: 'Common practice of itemizing GET as a separate line item passed to the consumer.' },
-      { term: 'Conveyance tax', body: 'Hawaii state tax on real property transfers. Tiered rate based on price + buyer status.' },
-      { term: 'Owner-occupant rate', body: 'Lower conveyance tax rate when buyer will occupy property as primary residence.' },
-      { term: 'HRS 508D', body: 'Mandatory Seller Disclosures statute for residential resales (1-4 units).' },
-      { term: 'Seller\'s Property Disclosure Statement', body: 'Written disclosure of known material facts. Required under HRS 508D.' },
-      { term: 'HRS 514E', body: 'Time share and leasehold disclosures for condominium properties.' },
-      { term: 'Leasehold disclosure', body: 'Mandatory disclosure of remaining term, rent, step-ups, reversion.' },
-      { term: 'Material fact', body: 'Anything reasonable buyer would consider important. Disclose if known.' },
-      { term: 'Lava-zone disclosure', body: 'Hawaii County requires disclosure of lava-flow hazard zones (1–9). Affects insurance and value.' },
-      { term: 'Tsunami evacuation zone', body: 'Coastal-area disclosure where applicable.' },
-      { term: 'Flood zone', body: 'FEMA-designated flood hazard zone. Affects insurance requirements.' },
-      { term: 'TMK (Tax Map Key)', body: 'Hawaii\'s parcel identifier: Zone-Section-Plat-Parcel(-CPR).' },
-      { term: 'Termite inspection report', body: 'Standard pre-closing inspection in Hawaii. Often required by lender.' },
-      { term: 'Kuleana rights', body: 'Native Hawaiian descendants\' continued access for cultivation, gathering, or burial.' },
-      { term: 'Hawaiian Home Lands (HHCA)', body: 'Lands leased only to qualifying Native Hawaiians under federal Hawaiian Homes Commission Act.' },
-      { term: 'Mahele of 1848', body: 'Transition from communal to fee ownership. Origin of many chain-of-title issues.' },
-      { term: 'Land Commission Award', body: 'Original grant from Hawaiian government, traceable in old chain of title.' },
-      { term: 'Royal Patent Grant', body: 'Title from Hawaiian Kingdom era. Sometimes appears in chain.' },
-      { term: 'Distressed Property Disclosure', body: 'Required when seller is in foreclosure, short sale, or similar.' },
-      { term: 'Condominium Public Report', body: 'Developer disclosure required for new condo sales.' },
+    "concepts": [
+      {
+        "term": "Bureau of Conveyances (BOC)",
+        "body": "State office maintaining the Regular System chain of title for non-Land-Court parcels.",
+        "hawaiiNote": "Located in Honolulu; serves all islands."
+      },
+      {
+        "term": "Regular System",
+        "body": "Standard chain-of-title recording. Documents in chronological order; subsequent purchasers on constructive notice."
+      },
+      {
+        "term": "Land Court",
+        "body": "Hawaii's Torrens-style registered title system. Transfer Certificate of Title is conclusive."
+      },
+      {
+        "term": "TCT (Transfer Certificate of Title)",
+        "body": "Land Court's conclusive title document. Issued when registered property changes hands."
+      },
+      {
+        "term": "Dual parcel",
+        "body": "Property partially in Regular System, partially in Land Court."
+      },
+      {
+        "term": "HARPTA",
+        "body": "Hawaii Real Property Tax Act. Currently 7.25% withholding on non-resident seller proceeds at closing."
+      },
+      {
+        "term": "FIRPTA",
+        "body": "Federal Foreign Investment in Real Property Tax Act. 15% federal withholding on foreign sellers."
+      },
+      {
+        "term": "GET",
+        "body": "General Excise Tax. Hawaii's gross-receipts business tax. Applies to commissions and rents."
+      },
+      {
+        "term": "GET visible pass-on",
+        "body": "Common practice of itemizing GET as a separate line item passed to the consumer."
+      },
+      {
+        "term": "Conveyance tax",
+        "body": "Hawaii state tax on real property transfers. Tiered rate based on price + buyer status."
+      },
+      {
+        "term": "Owner-occupant rate",
+        "body": "Lower conveyance tax rate when buyer will occupy property as primary residence."
+      },
+      {
+        "term": "HRS 508D",
+        "body": "Mandatory Seller Disclosures statute for residential resales (1-4 units)."
+      },
+      {
+        "term": "Seller's Property Disclosure Statement",
+        "body": "Written disclosure of known material facts. Required under HRS 508D."
+      },
+      {
+        "term": "HRS 514E",
+        "body": "Time share and leasehold disclosures for condominium properties."
+      },
+      {
+        "term": "Leasehold disclosure",
+        "body": "Mandatory disclosure of remaining term, rent, step-ups, reversion."
+      },
+      {
+        "term": "Material fact",
+        "body": "Anything reasonable buyer would consider important. Disclose if known."
+      },
+      {
+        "term": "Lava-zone disclosure",
+        "body": "Hawaii County requires disclosure of lava-flow hazard zones (1–9). Affects insurance and value."
+      },
+      {
+        "term": "Tsunami evacuation zone",
+        "body": "Coastal-area disclosure where applicable."
+      },
+      {
+        "term": "Flood zone",
+        "body": "FEMA-designated flood hazard zone. Affects insurance requirements."
+      },
+      {
+        "term": "TMK (Tax Map Key)",
+        "body": "Hawaii's parcel identifier: Zone-Section-Plat-Parcel(-CPR)."
+      },
+      {
+        "term": "Termite inspection report",
+        "body": "Standard pre-closing inspection in Hawaii. Often required by lender."
+      },
+      {
+        "term": "Kuleana rights",
+        "body": "Native Hawaiian descendants' continued access for cultivation, gathering, or burial."
+      },
+      {
+        "term": "Hawaiian Home Lands (HHCA)",
+        "body": "Lands leased only to qualifying Native Hawaiians under federal Hawaiian Homes Commission Act."
+      },
+      {
+        "term": "Mahele of 1848",
+        "body": "Transition from communal to fee ownership. Origin of many chain-of-title issues."
+      },
+      {
+        "term": "Land Commission Award",
+        "body": "Original grant from Hawaiian government, traceable in old chain of title."
+      },
+      {
+        "term": "Royal Patent Grant",
+        "body": "Title from Hawaiian Kingdom era. Sometimes appears in chain."
+      },
+      {
+        "term": "Distressed Property Disclosure",
+        "body": "Required when seller is in foreclosure, short sale, or similar."
+      },
+      {
+        "term": "Condominium Public Report",
+        "body": "Developer disclosure required for new condo sales."
+      }
     ],
-    practice: [
-      { q: 'A seller from California sells a Maui house to a Hawaii resident. The buyer is responsible for withholding under:', options: ['FIRPTA', 'HARPTA', 'GET', 'RESPA'], correctIndex: 1, explain: 'Non-Hawaii-resident seller triggers HARPTA withholding (currently 7.25% of sale price).' },
-      { q: 'Hawaii\'s Torrens-style registered title system is called:', options: ['BOC', 'Land Court', 'CPR', 'TMK'], correctIndex: 1, explain: 'Land Court issues a TCT (Transfer Certificate of Title) — conclusive.' },
-      { q: 'Hawaii\'s tax on real estate commissions falls under:', options: ['HARPTA', 'FIRPTA', 'GET', 'Conveyance tax'], correctIndex: 2, explain: 'GET applies to real estate brokerage business gross receipts.' },
-      { q: 'TMK identifies:', options: ['Tax type', 'Property parcel ID (Zone-Section-Plat-Parcel)', 'Tenant\'s mortgage key', 'Title insurer'], correctIndex: 1, explain: 'TMK = Tax Map Key, the unique parcel identifier.' },
-      { q: 'A foreign national selling Hawaii real estate triggers withholding under:', options: ['HARPTA only', 'FIRPTA only', 'Both HARPTA and FIRPTA', 'Neither'], correctIndex: 2, explain: 'Foreign + non-Hawaii-resident — both can apply to the same transaction.' },
-      { q: 'The Hawaii Mandatory Seller Disclosures statute is:', options: ['HRS 467', 'HRS 514B', 'HRS 521', 'HRS 508D'], correctIndex: 3, explain: 'HRS 508D governs seller property disclosures for residential resales.' },
-      { q: 'A buyer does not know they\'re buying leasehold. The seller failed to disclose. The buyer may:', options: ['Have no remedy', 'Have rescission rights under leasehold disclosure law', 'Only sue for cosmetic damages', 'Force a fee conversion'], correctIndex: 1, explain: 'Failure to disclose leasehold is actionable; buyer has rescission rights.' },
-      { q: 'Hawaii\'s state-level real estate transfer tax is:', options: ['HARPTA', 'GET', 'Conveyance tax', 'FIRPTA'], correctIndex: 2, explain: 'Conveyance tax is the transfer tax. Tiered rates.' },
-      { q: 'A property described in chain of title as deriving from a "Land Commission Award" is:', options: ['A modern grant', 'A relic of the Mahele period requiring careful chain analysis', 'Federal land', 'A condo'], correctIndex: 1, explain: 'Land Commission Awards date from the Mahele era.' },
-      { q: 'Hawaiian Home Lands are:', options: ['Open market for any buyer', 'Leased only to qualifying Native Hawaiians under HHCA', 'Owned by the federal government', 'Tax-exempt for all'], correctIndex: 1, explain: 'HHCA-leased to qualifying Native Hawaiians; specific transfer restrictions.' },
-    ],
+    "practice": [
+      {
+        "q": "A seller from California sells a Maui house to a Hawaii resident. The buyer is responsible for withholding under:",
+        "options": [
+          "GET",
+          "FIRPTA",
+          "RESPA",
+          "HARPTA"
+        ],
+        "correctIndex": 3,
+        "explain": "Non-Hawaii-resident seller triggers HARPTA withholding (currently 7.25% of sale price)."
+      },
+      {
+        "q": "Hawaii's Torrens-style registered title system is called:",
+        "options": [
+          "Land Court",
+          "TMK",
+          "CPR",
+          "BOC"
+        ],
+        "correctIndex": 0,
+        "explain": "Land Court issues a TCT (Transfer Certificate of Title) — conclusive."
+      },
+      {
+        "q": "Hawaii's tax on real estate commissions falls under:",
+        "options": [
+          "GET",
+          "FIRPTA",
+          "Conveyance tax",
+          "HARPTA"
+        ],
+        "correctIndex": 0,
+        "explain": "GET applies to real estate brokerage business gross receipts."
+      },
+      {
+        "q": "TMK identifies:",
+        "options": [
+          "Property parcel ID (Zone-Section-Plat-Parcel)",
+          "Tenant's mortgage key",
+          "Title insurer",
+          "Tax type"
+        ],
+        "correctIndex": 0,
+        "explain": "TMK = Tax Map Key, the unique parcel identifier."
+      },
+      {
+        "q": "A foreign national selling Hawaii real estate triggers withholding under:",
+        "options": [
+          "Neither",
+          "HARPTA only",
+          "FIRPTA only",
+          "Both HARPTA and FIRPTA"
+        ],
+        "correctIndex": 3,
+        "explain": "Foreign + non-Hawaii-resident — both can apply to the same transaction."
+      },
+      {
+        "q": "The Hawaii Mandatory Seller Disclosures statute is:",
+        "options": [
+          "HRS 521",
+          "HRS 514B",
+          "HRS 508D",
+          "HRS 467"
+        ],
+        "correctIndex": 2,
+        "explain": "HRS 508D governs seller property disclosures for residential resales."
+      },
+      {
+        "q": "A buyer does not know they're buying leasehold. The seller failed to disclose. The buyer may:",
+        "options": [
+          "Force a fee conversion",
+          "Have no remedy",
+          "Have rescission rights under leasehold disclosure law",
+          "Only sue for cosmetic damages"
+        ],
+        "correctIndex": 2,
+        "explain": "Failure to disclose leasehold is actionable; buyer has rescission rights."
+      },
+      {
+        "q": "Hawaii's state-level real estate transfer tax is:",
+        "options": [
+          "HARPTA",
+          "FIRPTA",
+          "GET",
+          "Conveyance tax"
+        ],
+        "correctIndex": 3,
+        "explain": "Conveyance tax is the transfer tax. Tiered rates."
+      },
+      {
+        "q": "A property described in chain of title as deriving from a \"Land Commission Award\" is:",
+        "options": [
+          "A modern grant",
+          "A condo",
+          "A relic of the Mahele period requiring careful chain analysis",
+          "Federal land"
+        ],
+        "correctIndex": 2,
+        "explain": "Land Commission Awards date from the Mahele era."
+      },
+      {
+        "q": "Hawaiian Home Lands are:",
+        "options": [
+          "Leased only to qualifying Native Hawaiians under HHCA",
+          "Tax-exempt for all",
+          "Open market for any buyer",
+          "Owned by the federal government"
+        ],
+        "correctIndex": 0,
+        "explain": "HHCA-leased to qualifying Native Hawaiians; specific transfer restrictions."
+      }
+    ]
   },
-
-  // ─── 13. Hawaii Types of Ownership ───
   {
-    slug: 'hi-types-of-ownership',
-    intro: 'Hawaii is condo-heavy and leasehold-rich. The state portion tests these structures more than typical state exams.',
-    overview: [
-      'Condominiums in Hawaii are governed by HRS 514B (the modern Condominium Property Act enacted in 2006) for new and most existing projects, with HRS 514A (the older statute) still applicable to many pre-2006 condos that haven\'t opted into 514B. Every condo project has a recorded Declaration (the foundational document creating the project), Bylaws (governance procedures), and House Rules (day-to-day rules adoptable and amendable by the board). The Association of Apartment Owners (AOAO) is the governing body — Hawaii\'s term for what mainland calls the condo HOA. Owners pay maintenance fees ("monthly common element assessments"); the AOAO can place liens on units for unpaid fees, with priority typically following recording rules.',
-      'CPRs (Condominium Property Regimes) are a uniquely Hawaiian use of condominium law. A single house lot is carved into two or more "units" (typically two stand-alone houses on one parcel, or a primary + ohana unit) under a CPR declaration. Each unit gets its own TMK and can be sold separately. CPRs let two owners share a parcel without a partition action and without the higher cost of subdivision. They\'re common in older neighborhoods being incrementally densified, but they create complexity around maintenance allocation and lender willingness to finance.',
-      'Leasehold is far more common in Hawaii than in mainland markets. Buyers acquire only the leasehold interest; the underlying land remains owned by the lessor (often a major Hawaiian-history landowner like Kamehameha Schools/Bishop Estate, the State of Hawaii, or other large trusts). Lease terms run 30-75+ years with renegotiation provisions. The most critical agent disclosures: (1) remaining lease term, (2) current lease rent, (3) lease rent renegotiation dates and how new rent is determined (often a percentage of land value), (4) what happens to improvements at lease end (do they revert to the lessor, or is there a buyout). A leaseholder approaching renegotiation faces possible dramatic rent increases — an unprepared buyer may suddenly owe multiples of prior lease rent.',
-      'Time share plans are governed by HRS 514E with extensive disclosure requirements. Buyers must receive a public report and have a 7-day right of rescission from contract signing — the buyer may cancel for any reason within seven days and receive a full refund. Hawaii has a separate Time Share Plan Manager license requirement. Aggressive time share marketing is heavily regulated. Resale of time shares is notoriously difficult — secondary market prices are often a tiny fraction of original purchase.',
-      'Cooperatives are rare in Hawaii compared to condos. A few exist in Honolulu but the structure (own shares + proprietary lease, financing complications) hasn\'t taken hold here as it did in New York. Planned Unit Developments (PUDs) exist but are less common than condos because Hawaii\'s land scarcity and historic plantation patterns favored condo development.',
-      'Land trusts exist in Hawaii for various purposes — affordable housing trusts, conservation trusts, family trusts holding ancestral land. The "hui" structure, traditional Hawaiian co-ownership often family-held across many heirs, can lead to partition complications when even one heir wants to sell.',
-      'Common-interest community governance: The AOAO board has duties to all owners, must hold annual meetings, must keep records open to owners, and must act consistently with declaration and bylaws. Many disputes arise from board decisions on common-element repairs, special assessments, and house rule enforcement. Hawaii has detailed statutory protections for owners against board overreach.',
-      'Buyer due diligence on common-interest property: review the project\'s budget and reserves, recent meeting minutes, special assessment history, pending litigation, current and projected maintenance fees, rules on rentals (some projects ban short-term, vacation rentals, or pets), and the project\'s Fannie Mae/Freddie Mac warrantability status (affects financing options). A "non-warrantable" condo is harder to finance because GSE-backed loans are unavailable.',
+    "slug": "hi-types-of-ownership",
+    "intro": "Hawaii is condo-heavy and leasehold-rich. The state portion tests these structures more than typical state exams.",
+    "overview": [
+      "Condominiums in Hawaii are governed by HRS 514B (the modern Condominium Property Act enacted in 2006) for new and most existing projects, with HRS 514A (the older statute) still applicable to many pre-2006 condos that haven't opted into 514B. Every condo project has a recorded Declaration (the foundational document creating the project), Bylaws (governance procedures), and House Rules (day-to-day rules adoptable and amendable by the board). The Association of Apartment Owners (AOAO) is the governing body — Hawaii's term for what mainland calls the condo HOA. Owners pay maintenance fees (\"monthly common element assessments\"); the AOAO can place liens on units for unpaid fees, with priority typically following recording rules.",
+      "CPRs (Condominium Property Regimes) are a uniquely Hawaiian use of condominium law. A single house lot is carved into two or more \"units\" (typically two stand-alone houses on one parcel, or a primary + ohana unit) under a CPR declaration. Each unit gets its own TMK and can be sold separately. CPRs let two owners share a parcel without a partition action and without the higher cost of subdivision. They're common in older neighborhoods being incrementally densified, but they create complexity around maintenance allocation and lender willingness to finance.",
+      "Leasehold is far more common in Hawaii than in mainland markets. Buyers acquire only the leasehold interest; the underlying land remains owned by the lessor (often a major Hawaiian-history landowner like Kamehameha Schools/Bishop Estate, the State of Hawaii, or other large trusts). Lease terms run 30-75+ years with renegotiation provisions. The most critical agent disclosures: (1) remaining lease term, (2) current lease rent, (3) lease rent renegotiation dates and how new rent is determined (often a percentage of land value), (4) what happens to improvements at lease end (do they revert to the lessor, or is there a buyout). A leaseholder approaching renegotiation faces possible dramatic rent increases — an unprepared buyer may suddenly owe multiples of prior lease rent.",
+      "Time share plans are governed by HRS 514E with extensive disclosure requirements. Buyers must receive a public report and have a 7-day right of rescission from contract signing — the buyer may cancel for any reason within seven days and receive a full refund. Hawaii has a separate Time Share Plan Manager license requirement. Aggressive time share marketing is heavily regulated. Resale of time shares is notoriously difficult — secondary market prices are often a tiny fraction of original purchase.",
+      "Cooperatives are rare in Hawaii compared to condos. A few exist in Honolulu but the structure (own shares + proprietary lease, financing complications) hasn't taken hold here as it did in New York. Planned Unit Developments (PUDs) exist but are less common than condos because Hawaii's land scarcity and historic plantation patterns favored condo development.",
+      "Land trusts exist in Hawaii for various purposes — affordable housing trusts, conservation trusts, family trusts holding ancestral land. The \"hui\" structure, traditional Hawaiian co-ownership often family-held across many heirs, can lead to partition complications when even one heir wants to sell.",
+      "Common-interest community governance: The AOAO board has duties to all owners, must hold annual meetings, must keep records open to owners, and must act consistently with declaration and bylaws. Many disputes arise from board decisions on common-element repairs, special assessments, and house rule enforcement. Hawaii has detailed statutory protections for owners against board overreach.",
+      "Buyer due diligence on common-interest property: review the project's budget and reserves, recent meeting minutes, special assessment history, pending litigation, current and projected maintenance fees, rules on rentals (some projects ban short-term, vacation rentals, or pets), and the project's Fannie Mae/Freddie Mac warrantability status (affects financing options). A \"non-warrantable\" condo is harder to finance because GSE-backed loans are unavailable."
     ],
-    concepts: [
-      { term: 'HRS 514B', body: 'Hawaii\'s modern Condominium Property Act (post-2006). Governs declarations, AOAO, owner rights.' },
-      { term: 'HRS 514A', body: 'Older condo act (pre-2006). Some legacy projects still operate under it.' },
-      { term: 'AOAO', body: 'Association of Apartment Owners. The condo HOA equivalent. Manages common elements.' },
-      { term: 'Declaration / Bylaws / House Rules', body: 'The three governing documents recorded against the project.' },
-      { term: 'Common elements', body: 'Project property shared by all unit owners — lobby, pool, roof, grounds.' },
-      { term: 'Limited common elements', body: 'Common elements assigned to specific units — assigned parking, lanai, storage.' },
-      { term: 'Maintenance fee', body: 'Monthly common element assessment paid by each unit owner.' },
-      { term: 'Special assessment', body: 'One-time charge for major capital expense not covered by reserves.' },
-      { term: 'Reserve study', body: 'Engineering analysis of long-term capital needs. Funded by reserves.' },
-      { term: 'CPR', body: 'Condominium Property Regime. Uniquely Hawaiian. Two or more units on one lot, each with own TMK.' },
-      { term: 'Leasehold interest', body: 'Tenant\'s long-term right to occupy land owned by a lessor. Common in Hawaii.' },
-      { term: 'Lessor', body: 'Land owner under a lease. Often a major Hawaiian-history trust.' },
-      { term: 'Lessee / leaseholder', body: 'Holds the leasehold interest. Pays lease rent. May own improvements.' },
-      { term: 'Fee simple', body: 'Outright land ownership. Often distinguished sharply from leasehold here.' },
-      { term: 'Lease rent', body: 'Periodic payment from leaseholder to fee-owner.' },
-      { term: 'Lease step-up / renegotiation', body: 'Scheduled date when lease rent is reset upward, often dramatically.' },
-      { term: 'Reversion of improvements', body: 'At lease end, the building/structures may revert to the lessor without payment.' },
-      { term: 'Time share', body: 'Right to occupy a unit for set period each year. HRS 514E governs disclosure.' },
-      { term: '7-day rescission (time share)', body: 'Buyer\'s statutory right to cancel a time share contract for any reason within seven days.' },
-      { term: 'Time Share Plan Manager', body: 'Licensed individual responsible for time share plan operations.' },
-      { term: 'Hui', body: 'Traditional Hawaiian co-ownership of land. Often family-held across many heirs. Partition complications.' },
-      { term: 'Warrantable condo', body: 'Project meeting Fannie/Freddie standards. Eligible for conventional financing.' },
-      { term: 'Non-warrantable condo', body: 'Project failing Fannie/Freddie standards (excessive rentals, litigation, deferred maintenance, etc.).' },
-      { term: 'Cooperative', body: 'Own shares in corporation owning the building + proprietary lease. Rare in Hawaii.' },
-      { term: 'PUD', body: 'Planned Unit Development. Lot ownership + common areas. Less common in Hawaii than condo.' },
+    "concepts": [
+      {
+        "term": "HRS 514B",
+        "body": "Hawaii's modern Condominium Property Act (post-2006). Governs declarations, AOAO, owner rights."
+      },
+      {
+        "term": "HRS 514A",
+        "body": "Older condo act (pre-2006). Some legacy projects still operate under it."
+      },
+      {
+        "term": "AOAO",
+        "body": "Association of Apartment Owners. The condo HOA equivalent. Manages common elements."
+      },
+      {
+        "term": "Declaration / Bylaws / House Rules",
+        "body": "The three governing documents recorded against the project."
+      },
+      {
+        "term": "Common elements",
+        "body": "Project property shared by all unit owners — lobby, pool, roof, grounds."
+      },
+      {
+        "term": "Limited common elements",
+        "body": "Common elements assigned to specific units — assigned parking, lanai, storage."
+      },
+      {
+        "term": "Maintenance fee",
+        "body": "Monthly common element assessment paid by each unit owner."
+      },
+      {
+        "term": "Special assessment",
+        "body": "One-time charge for major capital expense not covered by reserves."
+      },
+      {
+        "term": "Reserve study",
+        "body": "Engineering analysis of long-term capital needs. Funded by reserves."
+      },
+      {
+        "term": "CPR",
+        "body": "Condominium Property Regime. Uniquely Hawaiian. Two or more units on one lot, each with own TMK."
+      },
+      {
+        "term": "Leasehold interest",
+        "body": "Tenant's long-term right to occupy land owned by a lessor. Common in Hawaii."
+      },
+      {
+        "term": "Lessor",
+        "body": "Land owner under a lease. Often a major Hawaiian-history trust."
+      },
+      {
+        "term": "Lessee / leaseholder",
+        "body": "Holds the leasehold interest. Pays lease rent. May own improvements."
+      },
+      {
+        "term": "Fee simple",
+        "body": "Outright land ownership. Often distinguished sharply from leasehold here."
+      },
+      {
+        "term": "Lease rent",
+        "body": "Periodic payment from leaseholder to fee-owner."
+      },
+      {
+        "term": "Lease step-up / renegotiation",
+        "body": "Scheduled date when lease rent is reset upward, often dramatically."
+      },
+      {
+        "term": "Reversion of improvements",
+        "body": "At lease end, the building/structures may revert to the lessor without payment."
+      },
+      {
+        "term": "Time share",
+        "body": "Right to occupy a unit for set period each year. HRS 514E governs disclosure."
+      },
+      {
+        "term": "7-day rescission (time share)",
+        "body": "Buyer's statutory right to cancel a time share contract for any reason within seven days."
+      },
+      {
+        "term": "Time Share Plan Manager",
+        "body": "Licensed individual responsible for time share plan operations."
+      },
+      {
+        "term": "Hui",
+        "body": "Traditional Hawaiian co-ownership of land. Often family-held across many heirs. Partition complications."
+      },
+      {
+        "term": "Warrantable condo",
+        "body": "Project meeting Fannie/Freddie standards. Eligible for conventional financing."
+      },
+      {
+        "term": "Non-warrantable condo",
+        "body": "Project failing Fannie/Freddie standards (excessive rentals, litigation, deferred maintenance, etc.)."
+      },
+      {
+        "term": "Cooperative",
+        "body": "Own shares in corporation owning the building + proprietary lease. Rare in Hawaii."
+      },
+      {
+        "term": "PUD",
+        "body": "Planned Unit Development. Lot ownership + common areas. Less common in Hawaii than condo."
+      }
     ],
-    practice: [
-      { q: 'A "CPR" in Hawaii most commonly means:', options: ['Cardiopulmonary resuscitation', 'Condominium Property Regime — multiple units on one lot', 'Continuous Property Recording', 'County Property Rule'], correctIndex: 1, explain: 'In Hawaii real estate, CPR = Condominium Property Regime.' },
-      { q: 'A buyer acquires a 50-year leasehold condo. They own:', options: ['The land + building', 'The leasehold interest in the unit only', 'The fee + lease', 'Stock in the AOAO'], correctIndex: 1, explain: 'Leasehold = right to occupy. Land remains with lessor.' },
-      { q: 'A modern condo declaration in Hawaii is governed primarily by:', options: ['HRS 514A', 'HRS 514B', 'HRS 521', 'HRS 467'], correctIndex: 1, explain: 'HRS 514B governs post-2006 condominiums.' },
-      { q: 'A time share buyer in Hawaii has the right to rescind within:', options: ['3 days', '7 days', '14 days', '30 days'], correctIndex: 1, explain: 'HRS 514E gives a 7-day rescission window.' },
-      { q: 'Lease rent step-up means:', options: ['The lease can be assigned', 'Lease rent resets at a scheduled date, often higher', 'The lessee gains fee', 'The lease terminates'], correctIndex: 1, explain: 'Step-up = scheduled rent reset, frequently a steep increase.' },
-      { q: 'Specific parking stalls assigned to specific units in a condo project are:', options: ['Common elements', 'Limited common elements', 'Fee parcels', 'Trade fixtures'], correctIndex: 1, explain: 'Limited common elements = common in nature but assigned to specific units.' },
-      { q: 'A non-warrantable condo:', options: ['Cannot be sold', 'Is harder to finance via conventional loans', 'Is automatically illegal', 'Costs more in property taxes'], correctIndex: 1, explain: 'Non-warrantable = doesn\'t meet Fannie/Freddie standards; harder to finance.' },
-      { q: 'A Hawaiian "hui" is:', options: ['A government agency', 'Traditional family co-ownership of land', 'A type of HOA', 'A real estate brokerage'], correctIndex: 1, explain: 'Hui = traditional family-held co-ownership, often complex across generations.' },
-      { q: 'At end of a Hawaii leasehold, what happens to the building?', options: ['Always belongs to leaseholder forever', 'May revert to lessor without payment, depending on lease terms', 'Federal government takes it', 'It\'s automatically demolished'], correctIndex: 1, explain: 'Reversion of improvements is lease-specific; many leases require reversion to lessor.' },
-      { q: 'AOAO stands for:', options: ['Association of Apartment Owners', 'Active Ownership Authority Organization', 'Association of All Owners', 'Apartment Operations Authority Office'], correctIndex: 0, explain: 'AOAO = Association of Apartment Owners = Hawaii\'s condo HOA.' },
-    ],
+    "practice": [
+      {
+        "q": "A \"CPR\" in Hawaii most commonly means:",
+        "options": [
+          "Continuous Property Recording",
+          "County Property Rule",
+          "Condominium Property Regime — multiple units on one lot",
+          "Cardiopulmonary resuscitation"
+        ],
+        "correctIndex": 2,
+        "explain": "In Hawaii real estate, CPR = Condominium Property Regime."
+      },
+      {
+        "q": "A buyer acquires a 50-year leasehold condo. They own:",
+        "options": [
+          "The land + building",
+          "The fee + lease",
+          "Stock in the AOAO",
+          "The leasehold interest in the unit only"
+        ],
+        "correctIndex": 3,
+        "explain": "Leasehold = right to occupy. Land remains with lessor."
+      },
+      {
+        "q": "A modern condo declaration in Hawaii is governed primarily by:",
+        "options": [
+          "HRS 467",
+          "HRS 514A",
+          "HRS 514B",
+          "HRS 521"
+        ],
+        "correctIndex": 2,
+        "explain": "HRS 514B governs post-2006 condominiums."
+      },
+      {
+        "q": "A time share buyer in Hawaii has the right to rescind within:",
+        "options": [
+          "30 days",
+          "14 days",
+          "7 days",
+          "3 days"
+        ],
+        "correctIndex": 2,
+        "explain": "HRS 514E gives a 7-day rescission window."
+      },
+      {
+        "q": "Lease rent step-up means:",
+        "options": [
+          "Lease rent resets at a scheduled date, often higher",
+          "The lessee gains fee",
+          "The lease terminates",
+          "The lease can be assigned"
+        ],
+        "correctIndex": 0,
+        "explain": "Step-up = scheduled rent reset, frequently a steep increase."
+      },
+      {
+        "q": "Specific parking stalls assigned to specific units in a condo project are:",
+        "options": [
+          "Common elements",
+          "Fee parcels",
+          "Trade fixtures",
+          "Limited common elements"
+        ],
+        "correctIndex": 3,
+        "explain": "Limited common elements = common in nature but assigned to specific units."
+      },
+      {
+        "q": "A non-warrantable condo:",
+        "options": [
+          "Is automatically illegal",
+          "Costs more in property taxes",
+          "Cannot be sold",
+          "Is harder to finance via conventional loans"
+        ],
+        "correctIndex": 3,
+        "explain": "Non-warrantable = doesn't meet Fannie/Freddie standards; harder to finance."
+      },
+      {
+        "q": "A Hawaiian \"hui\" is:",
+        "options": [
+          "Traditional family co-ownership of land",
+          "A government agency",
+          "A real estate brokerage",
+          "A type of HOA"
+        ],
+        "correctIndex": 0,
+        "explain": "Hui = traditional family-held co-ownership, often complex across generations."
+      },
+      {
+        "q": "At end of a Hawaii leasehold, what happens to the building?",
+        "options": [
+          "Always belongs to leaseholder forever",
+          "Federal government takes it",
+          "May revert to lessor without payment, depending on lease terms",
+          "It's automatically demolished"
+        ],
+        "correctIndex": 2,
+        "explain": "Reversion of improvements is lease-specific; many leases require reversion to lessor."
+      },
+      {
+        "q": "AOAO stands for:",
+        "options": [
+          "Association of All Owners",
+          "Apartment Operations Authority Office",
+          "Active Ownership Authority Organization",
+          "Association of Apartment Owners"
+        ],
+        "correctIndex": 3,
+        "explain": "AOAO = Association of Apartment Owners = Hawaii's condo HOA."
+      }
+    ]
   },
-
-  // ─── 14. Hawaii Property Management ───
   {
-    slug: 'hi-property-management',
-    intro: 'HRS 521 (Residential Landlord-Tenant Code) controls every long-term rental in Hawaii.',
-    overview: [
-      'HRS 521 (the Residential Landlord-Tenant Code) covers most residential rentals in Hawaii — residential premises rented for dwelling purposes. Key tenant protections: a written rental agreement is required for terms over a year (Statute of Frauds), security deposit is capped at one month\'s rent (with separate allowance for pet deposits), security deposit must be returned within 14 days of move-out with itemized deductions (or full refund), notice for periodic-tenancy termination, and prohibitions against retaliatory eviction.',
-      'Specific notice periods to memorize: 5-day notice for non-payment of rent (gives tenant 5 days to pay or vacate), 10-day notice for material breach that\'s curable (tenant has 10 days to cure or vacate), 28-day notice from tenant to terminate month-to-month (most common tenant exit), 45-day notice from landlord to terminate month-to-month or to raise rent, 5-day notice for landlord termination after non-payment notice expires, longer notices for fixed-term ends without breach.',
-      'Eviction (called "summary possession" in Hawaii) requires court order. Self-help eviction — changing locks, removing belongings, cutting utilities, threats to vacate — is illegal and creates statutory damages payable to the tenant (often actual damages plus a multiple plus attorney fees). Landlord must follow the formal process: serve proper notice → file complaint in district court → obtain judgment → engage sheriff for actual removal if tenant doesn\'t vacate.',
-      'Disclosures and required practices: lead-paint disclosure (federal, pre-1978 housing), security-deposit accounting at move-out, written notice of contact information for landlord/agent, written notice of rent increases (45 days for month-to-month). Landlord must maintain habitable premises (HRS 521 includes warranty of habitability), make timely repairs after notice from tenant, and comply with building codes. Tenant has rights including to repair-and-deduct in some situations and to terminate for landlord\'s material breach of habitability.',
-      'A property manager managing rental property for compensation must hold a Hawaii real estate broker license. Salespersons may assist under broker supervision but cannot independently manage. Trust account rules from HRS 467 + HAR Title 16 Chapter 99 apply rigorously to property managers: tenant security deposits must be held in a separate trust account, separate from the broker\'s operating funds, properly identified, reconciled regularly. Mishandling deposits is one of the top three license-revocation triggers.',
-      'Commercial property management (governed by lease contract more than statute) typically follows different rules. HRS 521 generally does not apply to commercial leases. Commercial tenants have less statutory protection and greater contract freedom. PMs handling commercial property should clearly distinguish residential from commercial accounting and disclosure practices.',
-      'Vacation rental and short-term rental (STR) regulation is increasingly significant. Each Hawaii county has its own STR rules — Honolulu has some of the strictest, requiring registration, limiting locations, and capping rental terms. Operating an unregistered STR can trigger fines and permit denial. Property managers must verify legal status before listing or managing any vacation rental.',
+    "slug": "hi-property-management",
+    "intro": "HRS 521 (Residential Landlord-Tenant Code) controls every long-term rental in Hawaii.",
+    "overview": [
+      "HRS 521 (the Residential Landlord-Tenant Code) covers most residential rentals in Hawaii — residential premises rented for dwelling purposes. Key tenant protections: a written rental agreement is required for terms over a year (Statute of Frauds), security deposit is capped at one month's rent (with separate allowance for pet deposits), security deposit must be returned within 14 days of move-out with itemized deductions (or full refund), notice for periodic-tenancy termination, and prohibitions against retaliatory eviction.",
+      "Specific notice periods to memorize: 5-day notice for non-payment of rent (gives tenant 5 days to pay or vacate), 10-day notice for material breach that's curable (tenant has 10 days to cure or vacate), 28-day notice from tenant to terminate month-to-month (most common tenant exit), 45-day notice from landlord to terminate month-to-month or to raise rent, 5-day notice for landlord termination after non-payment notice expires, longer notices for fixed-term ends without breach.",
+      "Eviction (called \"summary possession\" in Hawaii) requires court order. Self-help eviction — changing locks, removing belongings, cutting utilities, threats to vacate — is illegal and creates statutory damages payable to the tenant (often actual damages plus a multiple plus attorney fees). Landlord must follow the formal process: serve proper notice → file complaint in district court → obtain judgment → engage sheriff for actual removal if tenant doesn't vacate.",
+      "Disclosures and required practices: lead-paint disclosure (federal, pre-1978 housing), security-deposit accounting at move-out, written notice of contact information for landlord/agent, written notice of rent increases (45 days for month-to-month). Landlord must maintain habitable premises (HRS 521 includes warranty of habitability), make timely repairs after notice from tenant, and comply with building codes. Tenant has rights including to repair-and-deduct in some situations and to terminate for landlord's material breach of habitability.",
+      "A property manager managing rental property for compensation must hold a Hawaii real estate broker license. Salespersons may assist under broker supervision but cannot independently manage. Trust account rules from HRS 467 + HAR Title 16 Chapter 99 apply rigorously to property managers: tenant security deposits must be held in a separate trust account, separate from the broker's operating funds, properly identified, reconciled regularly. Mishandling deposits is one of the top three license-revocation triggers.",
+      "Commercial property management (governed by lease contract more than statute) typically follows different rules. HRS 521 generally does not apply to commercial leases. Commercial tenants have less statutory protection and greater contract freedom. PMs handling commercial property should clearly distinguish residential from commercial accounting and disclosure practices.",
+      "Vacation rental and short-term rental (STR) regulation is increasingly significant. Each Hawaii county has its own STR rules — Honolulu has some of the strictest, requiring registration, limiting locations, and capping rental terms. Operating an unregistered STR can trigger fines and permit denial. Property managers must verify legal status before listing or managing any vacation rental."
     ],
-    concepts: [
-      { term: 'HRS 521', body: 'Hawaii Residential Landlord-Tenant Code. Governs nearly all residential leases.' },
-      { term: 'Rental agreement', body: 'Required in writing for terms over one year (Statute of Frauds).' },
-      { term: 'Security deposit cap', body: 'One month\'s rent (separate pet deposit allowed for some pets).' },
-      { term: 'Deposit return', body: '14 days after move-out, with itemized deductions or full return.' },
-      { term: 'Summary possession', body: 'Hawaii\'s formal eviction process. Court-supervised. Self-help eviction is illegal.' },
-      { term: 'Self-help eviction', body: 'Changing locks, removing belongings, cutting utilities. Illegal under HRS 521.' },
-      { term: 'Retaliatory eviction', body: 'Eviction in response to tenant\'s lawful action. Illegal under HRS 521.' },
-      { term: '5-day notice', body: 'Non-payment of rent. Tenant has 5 days to pay or vacate.' },
-      { term: '10-day notice', body: 'Material breach (curable). Tenant has 10 days to cure or vacate.' },
-      { term: '28-day notice', body: 'Standard tenant termination of periodic tenancy.' },
-      { term: '45-day notice', body: 'Landlord termination of periodic tenancy or rent increase.' },
-      { term: 'Warranty of habitability', body: 'Implied warranty that premises are fit for human habitation.' },
-      { term: 'Repair and deduct', body: 'Tenant remedy in some circumstances when landlord fails to repair.' },
-      { term: 'Trust account (PM)', body: 'Tenant deposits held separately from broker funds. HRS 467 + admin rules apply.' },
-      { term: 'Property management license', body: 'Compensated PM management requires Hawaii broker license.' },
-      { term: 'Short-term rental (STR)', body: 'Rentals under set duration (varies by county). Heavy regulation.' },
-      { term: 'Vacation rental', body: 'Specific license/permit required in many Hawaii counties.' },
-      { term: 'Commercial lease', body: 'Generally outside HRS 521. Governed by lease contract.' },
+    "concepts": [
+      {
+        "term": "HRS 521",
+        "body": "Hawaii Residential Landlord-Tenant Code. Governs nearly all residential leases."
+      },
+      {
+        "term": "Rental agreement",
+        "body": "Required in writing for terms over one year (Statute of Frauds)."
+      },
+      {
+        "term": "Security deposit cap",
+        "body": "One month's rent (separate pet deposit allowed for some pets)."
+      },
+      {
+        "term": "Deposit return",
+        "body": "14 days after move-out, with itemized deductions or full return."
+      },
+      {
+        "term": "Summary possession",
+        "body": "Hawaii's formal eviction process. Court-supervised. Self-help eviction is illegal."
+      },
+      {
+        "term": "Self-help eviction",
+        "body": "Changing locks, removing belongings, cutting utilities. Illegal under HRS 521."
+      },
+      {
+        "term": "Retaliatory eviction",
+        "body": "Eviction in response to tenant's lawful action. Illegal under HRS 521."
+      },
+      {
+        "term": "5-day notice",
+        "body": "Non-payment of rent. Tenant has 5 days to pay or vacate."
+      },
+      {
+        "term": "10-day notice",
+        "body": "Material breach (curable). Tenant has 10 days to cure or vacate."
+      },
+      {
+        "term": "28-day notice",
+        "body": "Standard tenant termination of periodic tenancy."
+      },
+      {
+        "term": "45-day notice",
+        "body": "Landlord termination of periodic tenancy or rent increase."
+      },
+      {
+        "term": "Warranty of habitability",
+        "body": "Implied warranty that premises are fit for human habitation."
+      },
+      {
+        "term": "Repair and deduct",
+        "body": "Tenant remedy in some circumstances when landlord fails to repair."
+      },
+      {
+        "term": "Trust account (PM)",
+        "body": "Tenant deposits held separately from broker funds. HRS 467 + admin rules apply."
+      },
+      {
+        "term": "Property management license",
+        "body": "Compensated PM management requires Hawaii broker license."
+      },
+      {
+        "term": "Short-term rental (STR)",
+        "body": "Rentals under set duration (varies by county). Heavy regulation."
+      },
+      {
+        "term": "Vacation rental",
+        "body": "Specific license/permit required in many Hawaii counties."
+      },
+      {
+        "term": "Commercial lease",
+        "body": "Generally outside HRS 521. Governed by lease contract."
+      }
     ],
-    practice: [
-      { q: 'A landlord must return the security deposit within how many days of move-out?', options: ['7', '14', '30', '60'], correctIndex: 1, explain: 'HRS 521 — 14 days, with itemized deductions if any.' },
-      { q: 'The maximum security deposit allowed in Hawaii is:', options: ['½ month\'s rent', '1 month\'s rent', '2 months\' rent', '3 months\' rent'], correctIndex: 1, explain: 'Capped at one month\'s rent (separate pet deposit allowed).' },
-      { q: 'Self-help eviction (changing locks) is:', options: ['Allowed after 5-day notice', 'Allowed in Hawaii', 'Illegal — must use summary possession', 'Allowed only for non-payment'], correctIndex: 2, explain: 'Court order required; self-help is illegal.' },
-      { q: 'For a month-to-month rent increase, landlord must give:', options: ['14 days notice', '28 days notice', '45 days notice', '60 days notice'], correctIndex: 2, explain: '45 days advance written notice required.' },
-      { q: 'Hawaii\'s formal eviction process is called:', options: ['Forcible detainer', 'Summary possession', 'Quiet title', 'Suit for ejectment'], correctIndex: 1, explain: 'Hawaii term is "summary possession."' },
-      { q: 'A tenant must give what notice to terminate month-to-month?', options: ['7 days', '14 days', '28 days', '45 days'], correctIndex: 2, explain: '28-day tenant notice for month-to-month termination.' },
-      { q: 'Compensated property management requires:', options: ['No license', 'A salesperson license only', 'A broker license', 'A general business license only'], correctIndex: 2, explain: 'Property management for compensation requires a broker license in Hawaii.' },
-      { q: 'A 5-day notice is for:', options: ['Lease end', 'Non-payment of rent', 'Annual inspection', 'Routine maintenance'], correctIndex: 1, explain: '5-day = non-payment of rent.' },
-      { q: 'Tenant security deposits must be held:', options: ['In broker operating account', 'In a separate trust account', 'By tenant\'s bank', 'In safe deposit box'], correctIndex: 1, explain: 'Trust account separate from broker funds.' },
-    ],
+    "practice": [
+      {
+        "q": "A landlord must return the security deposit within how many days of move-out?",
+        "options": [
+          "14",
+          "7",
+          "30",
+          "60"
+        ],
+        "correctIndex": 0,
+        "explain": "HRS 521 — 14 days, with itemized deductions if any."
+      },
+      {
+        "q": "The maximum security deposit allowed in Hawaii is:",
+        "options": [
+          "½ month's rent",
+          "3 months' rent",
+          "2 months' rent",
+          "1 month's rent"
+        ],
+        "correctIndex": 3,
+        "explain": "Capped at one month's rent (separate pet deposit allowed)."
+      },
+      {
+        "q": "Self-help eviction (changing locks) is:",
+        "options": [
+          "Allowed in Hawaii",
+          "Allowed after 5-day notice",
+          "Allowed only for non-payment",
+          "Illegal — must use summary possession"
+        ],
+        "correctIndex": 3,
+        "explain": "Court order required; self-help is illegal."
+      },
+      {
+        "q": "For a month-to-month rent increase, landlord must give:",
+        "options": [
+          "60 days notice",
+          "45 days notice",
+          "14 days notice",
+          "28 days notice"
+        ],
+        "correctIndex": 1,
+        "explain": "45 days advance written notice required."
+      },
+      {
+        "q": "Hawaii's formal eviction process is called:",
+        "options": [
+          "Suit for ejectment",
+          "Summary possession",
+          "Forcible detainer",
+          "Quiet title"
+        ],
+        "correctIndex": 1,
+        "explain": "Hawaii term is \"summary possession.\""
+      },
+      {
+        "q": "A tenant must give what notice to terminate month-to-month?",
+        "options": [
+          "7 days",
+          "45 days",
+          "28 days",
+          "14 days"
+        ],
+        "correctIndex": 2,
+        "explain": "28-day tenant notice for month-to-month termination."
+      },
+      {
+        "q": "Compensated property management requires:",
+        "options": [
+          "A broker license",
+          "A general business license only",
+          "No license",
+          "A salesperson license only"
+        ],
+        "correctIndex": 0,
+        "explain": "Property management for compensation requires a broker license in Hawaii."
+      },
+      {
+        "q": "A 10-day notice is for:",
+        "options": [
+          "Annual inspection",
+          "Lease end",
+          "Non-payment of rent",
+          "Routine maintenance"
+        ],
+        "correctIndex": 2,
+        "explain": "10-day = non-payment of rent."
+      },
+      {
+        "q": "Tenant security deposits must be held:",
+        "options": [
+          "By tenant's bank",
+          "In safe deposit box",
+          "In a separate trust account",
+          "In broker operating account"
+        ],
+        "correctIndex": 2,
+        "explain": "Trust account separate from broker funds."
+      }
+    ]
   },
-
-  // ─── 15. Hawaii Land Utilization ───
   {
-    slug: 'hi-land-utilization',
-    intro: 'Hawaii has a unique two-tier land-use system: state district + county zoning.',
-    overview: [
-      'The State Land Use Commission (LUC) classifies all Hawaii land into four districts: Urban, Rural, Agricultural, and Conservation. This is the primary classification — county zoning operates within state districts. Urban district allows the highest density development; Conservation is the most restrictive. Boundary changes require petition to LUC, public hearings, and substantial justification.',
-      'Conservation district is the most heavily restricted, with development requiring a Conservation District Use Permit (CDUP) from the Department of Land and Natural Resources (DLNR). Most ordinary residential or commercial development is forbidden in Conservation. Forest reserves, mountain wilderness, watershed areas typically fall here. Reclassification to allow development is rare and politically contested.',
-      'Agricultural district covers the largest land area in Hawaii (former plantation lands, ranches, etc.). Residential development on Ag is permitted but with significant restrictions: typically one dwelling per minimum lot area (varies by county), use must be agriculturally compatible, often a "farm dwelling" requirement requiring genuine agricultural activity. Buyers of "ag" homes should verify they aren\'t living in violation of agricultural-use requirements.',
-      'County zoning is the second tier. Each of Hawaii\'s four counties (Honolulu/Oahu, Hawaii/Big Island, Maui, Kauai) has its own zoning ordinance. Honolulu uses the Land Use Ordinance (LUO). Each county has standard residential, commercial, industrial, mixed-use, and special districts, with detailed standards on density, setbacks, height, parking, lot coverage. Variances and special permits are issued by county boards.',
-      'Special Management Areas (SMAs) are coastal-zone areas where development is heavily regulated under the Coastal Zone Management Act (CZMA). Any "development" within an SMA — broadly defined to include construction, demolition, grading, change of use, even some additions — requires an SMA permit from the county planning department. The line between minor and major SMA permits depends on scale and impact. SMAs typically extend roughly to the 350-foot setback from the high tide line, but boundaries vary.',
-      'Restrictive covenants (CC&Rs) and HOA rules layer on top of county zoning. Many older neighborhoods (especially planned developments from the 1970s-90s) have strict architectural rules, paint colors, fence heights, and landscaping requirements. Race-restrictive covenants from earlier eras are unenforceable but often still appear in title chains — Hawaii recognizes them as void but agents should know the issue.',
-      'Subdivision in Hawaii follows county subdivision ordinances. Major subdivisions require formal platting, infrastructure dedication, environmental review, often public hearings. Minor subdivisions and consolidations are simpler. CPR can sometimes accomplish similar densification goals without formal subdivision.',
+    "slug": "hi-land-utilization",
+    "intro": "Hawaii has a unique two-tier land-use system: state district + county zoning.",
+    "overview": [
+      "The State Land Use Commission (LUC) classifies all Hawaii land into four districts: Urban, Rural, Agricultural, and Conservation. This is the primary classification — county zoning operates within state districts. Urban district allows the highest density development; Conservation is the most restrictive. Boundary changes require petition to LUC, public hearings, and substantial justification.",
+      "Conservation district is the most heavily restricted, with development requiring a Conservation District Use Permit (CDUP) from the Department of Land and Natural Resources (DLNR). Most ordinary residential or commercial development is forbidden in Conservation. Forest reserves, mountain wilderness, watershed areas typically fall here. Reclassification to allow development is rare and politically contested.",
+      "Agricultural district covers the largest land area in Hawaii (former plantation lands, ranches, etc.). Residential development on Ag is permitted but with significant restrictions: typically one dwelling per minimum lot area (varies by county), use must be agriculturally compatible, often a \"farm dwelling\" requirement requiring genuine agricultural activity. Buyers of \"ag\" homes should verify they aren't living in violation of agricultural-use requirements.",
+      "County zoning is the second tier. Each of Hawaii's four counties (Honolulu/Oahu, Hawaii/Big Island, Maui, Kauai) has its own zoning ordinance. Honolulu uses the Land Use Ordinance (LUO). Each county has standard residential, commercial, industrial, mixed-use, and special districts, with detailed standards on density, setbacks, height, parking, lot coverage. Variances and special permits are issued by county boards.",
+      "Special Management Areas (SMAs) are coastal-zone areas where development is heavily regulated under the Coastal Zone Management Act (CZMA). Any \"development\" within an SMA — broadly defined to include construction, demolition, grading, change of use, even some additions — requires an SMA permit from the county planning department. The line between minor and major SMA permits depends on scale and impact. SMAs typically extend roughly to the 350-foot setback from the high tide line, but boundaries vary.",
+      "Restrictive covenants (CC&Rs) and HOA rules layer on top of county zoning. Many older neighborhoods (especially planned developments from the 1970s-90s) have strict architectural rules, paint colors, fence heights, and landscaping requirements. Race-restrictive covenants from earlier eras are unenforceable but often still appear in title chains — Hawaii recognizes them as void but agents should know the issue.",
+      "Subdivision in Hawaii follows county subdivision ordinances. Major subdivisions require formal platting, infrastructure dedication, environmental review, often public hearings. Minor subdivisions and consolidations are simpler. CPR can sometimes accomplish similar densification goals without formal subdivision."
     ],
-    concepts: [
-      { term: 'Land Use Commission (LUC)', body: 'State body that classifies all land into four districts.' },
-      { term: 'State land-use districts', body: 'Urban, Rural, Agricultural, Conservation.' },
-      { term: 'Urban district', body: 'Highest-density development. Most cities and towns.' },
-      { term: 'Rural district', body: 'Lower density, residential + light agricultural mix.' },
-      { term: 'Agricultural district', body: 'Largest land area. Ag-compatible uses; residential restrictions.' },
-      { term: 'Conservation district', body: 'Most restrictive. CDUP required for development. Mountain, forest, watershed.' },
-      { term: 'CDUP', body: 'Conservation District Use Permit. Required for development in Conservation district.' },
-      { term: 'County zoning', body: 'Second tier within state districts. Each of 4 counties has own ordinance.' },
-      { term: 'Land Use Ordinance (LUO)', body: 'Honolulu (Oahu) county zoning code.' },
-      { term: 'Special Management Area (SMA)', body: 'Coastal-zone heavy regulation. Permits required for most development.' },
-      { term: 'SMA permit', body: 'Coastal development permit. Major or minor depending on scale.' },
-      { term: 'CZMA', body: 'Coastal Zone Management Act. Federal/state coastal regulation framework.' },
-      { term: 'Lava zones', body: 'Hawaii County 1-9 hazard rating. Disclose; affects insurance.' },
-      { term: 'Tsunami evacuation zone', body: 'Coastal disclosure required where applicable.' },
-      { term: 'Flood zone', body: 'FEMA zone affecting insurance + development.' },
-      { term: 'Variance', body: 'County-level exception to zoning for unique hardship.' },
-      { term: 'Special use permit', body: 'County-level permission for use allowed under conditions.' },
-      { term: 'Subdivision', body: 'Division of land into lots. Major and minor procedures.' },
-      { term: 'Farm dwelling requirement', body: 'Some Ag-district dwellings require genuine agricultural activity.' },
+    "concepts": [
+      {
+        "term": "Land Use Commission (LUC)",
+        "body": "State body that classifies all land into four districts."
+      },
+      {
+        "term": "State land-use districts",
+        "body": "Urban, Rural, Agricultural, Conservation."
+      },
+      {
+        "term": "Urban district",
+        "body": "Highest-density development. Most cities and towns."
+      },
+      {
+        "term": "Rural district",
+        "body": "Lower density, residential + light agricultural mix."
+      },
+      {
+        "term": "Agricultural district",
+        "body": "Largest land area. Ag-compatible uses; residential restrictions."
+      },
+      {
+        "term": "Conservation district",
+        "body": "Most restrictive. CDUP required for development. Mountain, forest, watershed."
+      },
+      {
+        "term": "CDUP",
+        "body": "Conservation District Use Permit. Required for development in Conservation district."
+      },
+      {
+        "term": "County zoning",
+        "body": "Second tier within state districts. Each of 4 counties has own ordinance."
+      },
+      {
+        "term": "Land Use Ordinance (LUO)",
+        "body": "Honolulu (Oahu) county zoning code."
+      },
+      {
+        "term": "Special Management Area (SMA)",
+        "body": "Coastal-zone heavy regulation. Permits required for most development."
+      },
+      {
+        "term": "SMA permit",
+        "body": "Coastal development permit. Major or minor depending on scale."
+      },
+      {
+        "term": "CZMA",
+        "body": "Coastal Zone Management Act. Federal/state coastal regulation framework."
+      },
+      {
+        "term": "Lava zones",
+        "body": "Hawaii County 1-9 hazard rating. Disclose; affects insurance."
+      },
+      {
+        "term": "Tsunami evacuation zone",
+        "body": "Coastal disclosure required where applicable."
+      },
+      {
+        "term": "Flood zone",
+        "body": "FEMA zone affecting insurance + development."
+      },
+      {
+        "term": "Variance",
+        "body": "County-level exception to zoning for unique hardship."
+      },
+      {
+        "term": "Special use permit",
+        "body": "County-level permission for use allowed under conditions."
+      },
+      {
+        "term": "Subdivision",
+        "body": "Division of land into lots. Major and minor procedures."
+      },
+      {
+        "term": "Farm dwelling requirement",
+        "body": "Some Ag-district dwellings require genuine agricultural activity."
+      }
     ],
-    practice: [
-      { q: 'Hawaii\'s four state land use districts are:', options: ['Residential, Commercial, Industrial, Agricultural', 'Urban, Rural, Agricultural, Conservation', 'Honolulu, Maui, Kauai, Hawaii', 'Single, Multi, Mixed, Open'], correctIndex: 1, explain: 'LUC classifies land into Urban, Rural, Ag, and Conservation.' },
-      { q: 'A coastal-zone area requiring development permit is called:', options: ['CPR', 'AOAO', 'SMA', 'TMK'], correctIndex: 2, explain: 'Special Management Area requires SMA permit.' },
-      { q: 'County zoning in Honolulu is governed by:', options: ['HRS 521', 'LUO', 'TCT', 'GET'], correctIndex: 1, explain: 'Honolulu Land Use Ordinance.' },
-      { q: 'Development in the Conservation district typically requires:', options: ['No permit', 'Conservation District Use Permit (CDUP)', 'Building permit only', 'County variance only'], correctIndex: 1, explain: 'CDUP from DLNR required for Conservation development.' },
-      { q: 'Agricultural-district residential homes:', options: ['Have no restrictions', 'May require genuine farm-related activity (farm dwelling)', 'Are illegal in Hawaii', 'Are taxed at urban rates'], correctIndex: 1, explain: 'Farm dwelling requirement on some Ag-district residential.' },
-      { q: 'Hawaii has how many counties with their own zoning?', options: ['1', '2', '4', '8'], correctIndex: 2, explain: 'Honolulu, Hawaii, Maui, and Kauai counties.' },
-    ],
+    "practice": [
+      {
+        "q": "Hawaii's four state land use districts are:",
+        "options": [
+          "Urban, Rural, Agricultural, Conservation",
+          "Single, Multi, Mixed, Open",
+          "Honolulu, Maui, Kauai, Hawaii",
+          "Residential, Commercial, Industrial, Agricultural"
+        ],
+        "correctIndex": 0,
+        "explain": "LUC classifies land into Urban, Rural, Ag, and Conservation."
+      },
+      {
+        "q": "A coastal-zone area requiring development permit is called:",
+        "options": [
+          "AOAO",
+          "SMA",
+          "TMK",
+          "CPR"
+        ],
+        "correctIndex": 1,
+        "explain": "Special Management Area requires SMA permit."
+      },
+      {
+        "q": "County zoning in Honolulu is governed by:",
+        "options": [
+          "GET",
+          "TCT",
+          "HRS 521",
+          "LUO"
+        ],
+        "correctIndex": 3,
+        "explain": "Honolulu Land Use Ordinance."
+      },
+      {
+        "q": "Development in the Conservation district typically requires:",
+        "options": [
+          "Building permit only",
+          "County variance only",
+          "No permit",
+          "Conservation District Use Permit (CDUP)"
+        ],
+        "correctIndex": 3,
+        "explain": "CDUP from DLNR required for Conservation development."
+      },
+      {
+        "q": "Agricultural-district residential homes:",
+        "options": [
+          "Are illegal in Hawaii",
+          "Have no restrictions",
+          "May require genuine farm-related activity (farm dwelling)",
+          "Are taxed at urban rates"
+        ],
+        "correctIndex": 2,
+        "explain": "Farm dwelling requirement on some Ag-district residential."
+      },
+      {
+        "q": "Hawaii has how many counties with their own zoning?",
+        "options": [
+          "4",
+          "1",
+          "8",
+          "2"
+        ],
+        "correctIndex": 0,
+        "explain": "Honolulu, Hawaii, Maui, and Kauai counties."
+      }
+    ]
   },
-
-  // ─── 16. Hawaii Title & Conveyances ───
   {
-    slug: 'hi-title-conveyances',
-    intro: 'Two title systems, leasehold dominance, and unique Hawaiian estates.',
-    overview: [
-      'Title in Hawaii lives in two systems. Regular System uses the Bureau of Conveyances chain-of-title model — recording protects subsequent purchasers, chain is searched back to a marketable starting point, and clouds are resolved through ordinary title actions. Land Court uses the Torrens model: a Transfer Certificate of Title (TCT) is conclusive against the world. Once a parcel is registered in Land Court, ownership cannot be challenged outside the registration system except in narrow statutory exceptions. Most older Hawaii title work involves checking which system the parcel is in.',
-      'Tenancies in Hawaii follow standard categories with some local nuances. Tenancy in common — separate, inheritable, often unequal shares; default form when intent is unclear. Joint tenancy with right of survivorship — must use the express language "as joint tenants with right of survivorship" or substantially equivalent words; survivorship eliminates probate of that interest. Tenancy by the entirety — only available to married couples (and same-sex married couples), with both survivorship and protection from individual-spouse creditors on the marital home.',
-      'Liens in Hawaii: real property tax liens take priority over almost everything except prior recorded mortgages on Land Court parcels (Land Court rules differ slightly). Mechanic\'s liens (HRS 507) protect contractors, suppliers, architects, and design professionals for unpaid work or materials — must be filed within statutory time limits. AOAO liens for unpaid maintenance fees in condos take their priority based on recording. State and federal tax liens follow recording priority within their classes. Judgment liens attach when a judgment is recorded.',
-      'Foreclosure in Hawaii has two paths. Judicial foreclosure is court-supervised: lender files complaint, court issues judgment, property sold at court-confirmed auction. Slower (often 12-18 months) but with more borrower protections. Non-judicial (power-of-sale) foreclosure — used when the security instrument contains a power-of-sale clause — is faster, governed by the Mortgage Foreclosure Act\'s notice and auction procedures (HRS 667). Hawaii also has alternate Mortgage Foreclosure Dispute Resolution (MFDR) for owner-occupied homes, requiring the lender to engage in dispute resolution before non-judicial foreclosure.',
-      'Quiet title actions are court proceedings to resolve title clouds and confirm ownership. Common in Hawaii where chain-of-title issues from the Mahele era, undocumented family transfers in older neighborhoods, or unrecorded deeds create disputes. Adverse possession is recognized in Hawaii but the requirements are stringent: open, notorious, hostile, exclusive, continuous occupation for the statutory period (varies; 20 years is a common figure for Hawaii but verify current).',
-      'Estates in Hawaii: standard fee simple, life estate (can be created in deed or will), leasehold (40-65 year residential leases common, longer for commercial), Hawaiian Home Lands (federal HHCA-restricted), and special homestead exemptions for primary residence. The state\'s old "ahupuaʻa" land divisions occasionally surface in older deeds and modern conservation/Native Hawaiian rights cases.',
-      'Recording fees and conveyance tax. Conveyance tax is paid by the seller (typically) at closing, calculated as a tiered rate on sale price with reduced rates for owner-occupant buyers and homestead exemptions. Recording fees at BOC or Land Court are charged per page; clean documents save money. Closing escrow handles recording and tax payment as part of the closing settlement.',
+    "slug": "hi-title-conveyances",
+    "intro": "Two title systems, leasehold dominance, and unique Hawaiian estates.",
+    "overview": [
+      "Title in Hawaii lives in two systems. Regular System uses the Bureau of Conveyances chain-of-title model — recording protects subsequent purchasers, chain is searched back to a marketable starting point, and clouds are resolved through ordinary title actions. Land Court uses the Torrens model: a Transfer Certificate of Title (TCT) is conclusive against the world. Once a parcel is registered in Land Court, ownership cannot be challenged outside the registration system except in narrow statutory exceptions. Most older Hawaii title work involves checking which system the parcel is in.",
+      "Tenancies in Hawaii follow standard categories with some local nuances. Tenancy in common — separate, inheritable, often unequal shares; default form when intent is unclear. Joint tenancy with right of survivorship — must use the express language \"as joint tenants with right of survivorship\" or substantially equivalent words; survivorship eliminates probate of that interest. Tenancy by the entirety — only available to married couples (and same-sex married couples), with both survivorship and protection from individual-spouse creditors on the marital home.",
+      "Liens in Hawaii: real property tax liens take priority over almost everything except prior recorded mortgages on Land Court parcels (Land Court rules differ slightly). Mechanic's liens (HRS 507) protect contractors, suppliers, architects, and design professionals for unpaid work or materials — must be filed within statutory time limits. AOAO liens for unpaid maintenance fees in condos take their priority based on recording. State and federal tax liens follow recording priority within their classes. Judgment liens attach when a judgment is recorded.",
+      "Foreclosure in Hawaii has two paths. Judicial foreclosure is court-supervised: lender files complaint, court issues judgment, property sold at court-confirmed auction. Slower (often 12-18 months) but with more borrower protections. Non-judicial (power-of-sale) foreclosure — used when the security instrument contains a power-of-sale clause — is faster, governed by the Mortgage Foreclosure Act's notice and auction procedures (HRS 667). Hawaii also has alternate Mortgage Foreclosure Dispute Resolution (MFDR) for owner-occupied homes, requiring the lender to engage in dispute resolution before non-judicial foreclosure.",
+      "Quiet title actions are court proceedings to resolve title clouds and confirm ownership. Common in Hawaii where chain-of-title issues from the Mahele era, undocumented family transfers in older neighborhoods, or unrecorded deeds create disputes. Adverse possession is recognized in Hawaii but the requirements are stringent: open, notorious, hostile, exclusive, continuous occupation for the statutory period (varies; 20 years is a common figure for Hawaii but verify current).",
+      "Estates in Hawaii: standard fee simple, life estate (can be created in deed or will), leasehold (40-65 year residential leases common, longer for commercial), Hawaiian Home Lands (federal HHCA-restricted), and special homestead exemptions for primary residence. The state's old \"ahupuaʻa\" land divisions occasionally surface in older deeds and modern conservation/Native Hawaiian rights cases.",
+      "Recording fees and conveyance tax. Conveyance tax is paid by the seller (typically) at closing, calculated as a tiered rate on sale price with reduced rates for owner-occupant buyers and homestead exemptions. Recording fees at BOC or Land Court are charged per page; clean documents save money. Closing escrow handles recording and tax payment as part of the closing settlement."
     ],
-    concepts: [
-      { term: 'Regular System', body: 'Standard recorded chain-of-title at Bureau of Conveyances.' },
-      { term: 'Land Court', body: 'Hawaii\'s Torrens system. TCT is conclusive.' },
-      { term: 'TCT', body: 'Transfer Certificate of Title issued by Land Court.' },
-      { term: 'Tenancy in common', body: 'Default co-ownership in Hawaii. Separate inheritable shares.' },
-      { term: 'Joint tenancy', body: 'Co-ownership with survivorship. Express language required.' },
-      { term: 'Tenancy by the entirety', body: 'Spousal co-ownership with survivorship + creditor protection on marital home.' },
-      { term: 'Mechanic\'s lien (HRS 507)', body: 'Contractor/supplier lien for unpaid work or materials. Strict filing deadlines.' },
-      { term: 'AOAO lien', body: 'Condo association lien for unpaid maintenance fees.' },
-      { term: 'Judicial foreclosure', body: 'Court-supervised. Slower but more protections.' },
-      { term: 'Non-judicial foreclosure', body: 'Power-of-sale. Faster. Governed by HRS 667.' },
-      { term: 'MFDR', body: 'Mortgage Foreclosure Dispute Resolution. Alternative for owner-occupied homes.' },
-      { term: 'Quiet title action', body: 'Court proceeding to resolve title clouds and confirm ownership.' },
-      { term: 'Adverse possession', body: 'Acquiring title by open, notorious, hostile, continuous occupation for statutory period.' },
-      { term: 'Homestead exemption', body: 'Property tax + creditor protection for primary residence.' },
-      { term: 'Conveyance tax', body: 'Hawaii state transfer tax. Tiered by price + owner-occupant status.' },
-      { term: 'Recording fee', body: 'BOC or Land Court charge per page. Paid at closing.' },
-      { term: 'Ahupuaʻa', body: 'Traditional Hawaiian land division (mountain to sea). Occasionally referenced in deeds.' },
+    "concepts": [
+      {
+        "term": "Regular System",
+        "body": "Standard recorded chain-of-title at Bureau of Conveyances."
+      },
+      {
+        "term": "Land Court",
+        "body": "Hawaii's Torrens system. TCT is conclusive."
+      },
+      {
+        "term": "TCT",
+        "body": "Transfer Certificate of Title issued by Land Court."
+      },
+      {
+        "term": "Tenancy in common",
+        "body": "Default co-ownership in Hawaii. Separate inheritable shares."
+      },
+      {
+        "term": "Joint tenancy",
+        "body": "Co-ownership with survivorship. Express language required."
+      },
+      {
+        "term": "Tenancy by the entirety",
+        "body": "Spousal co-ownership with survivorship + creditor protection on marital home."
+      },
+      {
+        "term": "Mechanic's lien (HRS 507)",
+        "body": "Contractor/supplier lien for unpaid work or materials. Strict filing deadlines."
+      },
+      {
+        "term": "AOAO lien",
+        "body": "Condo association lien for unpaid maintenance fees."
+      },
+      {
+        "term": "Judicial foreclosure",
+        "body": "Court-supervised. Slower but more protections."
+      },
+      {
+        "term": "Non-judicial foreclosure",
+        "body": "Power-of-sale. Faster. Governed by HRS 667."
+      },
+      {
+        "term": "MFDR",
+        "body": "Mortgage Foreclosure Dispute Resolution. Alternative for owner-occupied homes."
+      },
+      {
+        "term": "Quiet title action",
+        "body": "Court proceeding to resolve title clouds and confirm ownership."
+      },
+      {
+        "term": "Adverse possession",
+        "body": "Acquiring title by open, notorious, hostile, continuous occupation for statutory period."
+      },
+      {
+        "term": "Homestead exemption",
+        "body": "Property tax + creditor protection for primary residence."
+      },
+      {
+        "term": "Conveyance tax",
+        "body": "Hawaii state transfer tax. Tiered by price + owner-occupant status."
+      },
+      {
+        "term": "Recording fee",
+        "body": "BOC or Land Court charge per page. Paid at closing."
+      },
+      {
+        "term": "Ahupuaʻa",
+        "body": "Traditional Hawaiian land division (mountain to sea). Occasionally referenced in deeds."
+      }
     ],
-    practice: [
-      { q: 'A parcel registered in Land Court is evidenced by:', options: ['Quitclaim deed', 'TCT', 'Plat map', 'CPR declaration'], correctIndex: 1, explain: 'Land Court issues a Transfer Certificate of Title.' },
-      { q: 'Hawaii\'s mechanic\'s lien statute is:', options: ['HRS 467', 'HRS 507', 'HRS 514B', 'HRS 521'], correctIndex: 1, explain: 'HRS 507 governs mechanic\'s and materialman\'s liens.' },
-      { q: 'Non-judicial foreclosure procedures are governed by:', options: ['HRS 521', 'HRS 667', 'HRS 514B', 'HRS 467'], correctIndex: 1, explain: 'HRS 667 governs Hawaii foreclosure procedures.' },
-      { q: 'Hawaii\'s alternative dispute process for owner-occupied foreclosures is:', options: ['MFDR', 'HARPTA', 'CPR', 'TMK'], correctIndex: 0, explain: 'Mortgage Foreclosure Dispute Resolution under HRS 667.' },
-      { q: 'In Hawaii, the default form of co-ownership when intent isn\'t specified is:', options: ['Joint tenancy', 'Tenancy in common', 'Tenancy by the entirety', 'Severalty'], correctIndex: 1, explain: 'Tenancy in common is default; joint tenancy requires express language.' },
-      { q: 'A married couple takes title with both survivorship and creditor protection. They likely hold:', options: ['Tenancy in common', 'Joint tenancy', 'Tenancy by the entirety', 'Severalty'], correctIndex: 2, explain: 'Tenancy by the entirety = spousal-only with both features.' },
-      { q: 'Quiet title is:', options: ['A type of deed', 'A court action to resolve title clouds', 'A mortgage clause', 'An encumbrance'], correctIndex: 1, explain: 'Court action to confirm ownership and resolve clouds.' },
-    ],
+    "practice": [
+      {
+        "q": "A parcel registered in Land Court is evidenced by:",
+        "options": [
+          "TCT",
+          "CPR declaration",
+          "Plat map",
+          "Quitclaim deed"
+        ],
+        "correctIndex": 0,
+        "explain": "Land Court issues a Transfer Certificate of Title."
+      },
+      {
+        "q": "Hawaii's mechanic's lien statute is:",
+        "options": [
+          "HRS 521",
+          "HRS 514B",
+          "HRS 467",
+          "HRS 507"
+        ],
+        "correctIndex": 3,
+        "explain": "HRS 507 governs mechanic's and materialman's liens."
+      },
+      {
+        "q": "Non-judicial foreclosure procedures are governed by:",
+        "options": [
+          "HRS 521",
+          "HRS 467",
+          "HRS 514B",
+          "HRS 667"
+        ],
+        "correctIndex": 3,
+        "explain": "HRS 667 governs Hawaii foreclosure procedures."
+      },
+      {
+        "q": "Hawaii's alternative dispute process for owner-occupied foreclosures is:",
+        "options": [
+          "CPR",
+          "HARPTA",
+          "TMK",
+          "MFDR"
+        ],
+        "correctIndex": 3,
+        "explain": "Mortgage Foreclosure Dispute Resolution under HRS 667."
+      },
+      {
+        "q": "In Hawaii, the default form of co-ownership when intent isn't specified is:",
+        "options": [
+          "Joint tenancy",
+          "Tenancy in common",
+          "Severalty",
+          "Tenancy by the entirety"
+        ],
+        "correctIndex": 1,
+        "explain": "Tenancy in common is default; joint tenancy requires express language."
+      },
+      {
+        "q": "A married couple takes title with both survivorship and creditor protection. They likely hold:",
+        "options": [
+          "Joint tenancy",
+          "Tenancy by the entirety",
+          "Severalty",
+          "Tenancy in common"
+        ],
+        "correctIndex": 1,
+        "explain": "Tenancy by the entirety = spousal-only with both features."
+      },
+      {
+        "q": "Quiet title is:",
+        "options": [
+          "A mortgage clause",
+          "A court action to resolve title clouds",
+          "A type of deed",
+          "An encumbrance"
+        ],
+        "correctIndex": 1,
+        "explain": "Court action to confirm ownership and resolve clouds."
+      }
+    ]
   },
-
-  // ─── 17. Hawaii Contracts & Addenda ───
   {
-    slug: 'hi-contracts-addenda',
-    intro: 'Hawaii uses standardized purchase forms with required addenda. Know which addendum attaches when.',
-    overview: [
-      'The Hawaii Association of REALTORS® (HAR) publishes the most-used standard residential purchase contract — the Deposit Receipt Offer and Acceptance ("DROA"). Every Hawaii agent should be able to read it cold and identify each section: parties, property, price, deposit, financing, closing date, contingencies (inspection, financing, appraisal, condo docs review), prorations, conveyance tax, escrow, signatures. The DROA is a starting template — modifications require careful drafting and ideally attorney review for non-standard terms.',
-      'Required addenda by transaction type. Lead-based paint addendum for pre-1978 housing (federal). Seller\'s Real Property Disclosure Statement under HRS 508D. Condominium Public Report addendum for new condo sales (developer disclosure). HAR\'s lead-based paint addendum, often combined with the federal form. As-is addendum if applicable. Various contingency addenda — inspection, appraisal, financing, sale-of-buyer\'s-current-home. Counter-offer forms when responses change material terms.',
-      'Listing agreements in Hawaii follow standard categories: Exclusive Right to Sell (most common), Exclusive Agency, Open Listing. The HAR listing agreement form covers commission rate, term, listing price, agent obligations, seller obligations, MLS authorization, and dispute resolution. Net listings are generally avoided due to conflict-of-interest concerns.',
-      'Dual-agency consent forms (Form RR105C or current equivalent) are mandatory in Hawaii before any dual representation begins. The form explains the consumer\'s options: representation by seller\'s agent, representation by buyer\'s agent, dual agency (with informed consent), or customer status (no representation). The form must be delivered "before any substantive interaction" — practically, before showings or any negotiation. Designated-agency arrangements within a brokerage are also typical and require their own disclosure.',
-      'Common contract pitfalls: failing to specify whether contingencies are passive ("expires unless objected to within X days") or active ("requires written notice to remove or contract terminates"); failing to state whether closing date is "time of the essence"; ambiguity on who pays which closing costs (some traditional Hawaii allocations differ from mainland); missing addenda that void disclosure protection; failing to identify the proper TMK including any CPR designation.',
-      'Counter-offers on the standard HAR form preserve all unchanged terms. Multiple counters can occur. Each counter resets prior offers — the most recent counter is the live one. "Acceptance" of a counter must be unconditional; a further change is itself a new counter. Time to respond is governed by the form\'s terms (often 24-72 hours).',
-      'Earnest money deposit handling: typically held in the listing brokerage\'s trust account or by the escrow company. Hawaii custom is to deposit with escrow rather than the listing brokerage in most resale transactions. Failure to deposit promptly can void the contract and creates broker liability.',
-      'Distressed property and short-sale contracts add layers: lender approval contingencies, additional disclosures, longer timelines, often "subject to lender approval" language. Hawaii also has Distressed Property Conveyance (DPC) protections under HRS 480E for certain transactions involving residences in default.',
+    "slug": "hi-contracts-addenda",
+    "intro": "Hawaii uses standardized purchase forms with required addenda. Know which addendum attaches when.",
+    "overview": [
+      "The Hawaii Association of REALTORS® (HAR) publishes the most-used standard residential purchase contract — the Deposit Receipt Offer and Acceptance (\"DROA\"). Every Hawaii agent should be able to read it cold and identify each section: parties, property, price, deposit, financing, closing date, contingencies (inspection, financing, appraisal, condo docs review), prorations, conveyance tax, escrow, signatures. The DROA is a starting template — modifications require careful drafting and ideally attorney review for non-standard terms.",
+      "Required addenda by transaction type. Lead-based paint addendum for pre-1978 housing (federal). Seller's Real Property Disclosure Statement under HRS 508D. Condominium Public Report addendum for new condo sales (developer disclosure). HAR's lead-based paint addendum, often combined with the federal form. As-is addendum if applicable. Various contingency addenda — inspection, appraisal, financing, sale-of-buyer's-current-home. Counter-offer forms when responses change material terms.",
+      "Listing agreements in Hawaii follow standard categories: Exclusive Right to Sell (most common), Exclusive Agency, Open Listing. The HAR listing agreement form covers commission rate, term, listing price, agent obligations, seller obligations, MLS authorization, and dispute resolution. Net listings are generally avoided due to conflict-of-interest concerns.",
+      "Dual-agency consent forms (Form RR105C or current equivalent) are mandatory in Hawaii before any dual representation begins. The form explains the consumer's options: representation by seller's agent, representation by buyer's agent, dual agency (with informed consent), or customer status (no representation). The form must be delivered \"before any substantive interaction\" — practically, before showings or any negotiation. Designated-agency arrangements within a brokerage are also typical and require their own disclosure.",
+      "Common contract pitfalls: failing to specify whether contingencies are passive (\"expires unless objected to within X days\") or active (\"requires written notice to remove or contract terminates\"); failing to state whether closing date is \"time of the essence\"; ambiguity on who pays which closing costs (some traditional Hawaii allocations differ from mainland); missing addenda that void disclosure protection; failing to identify the proper TMK including any CPR designation.",
+      "Counter-offers on the standard HAR form preserve all unchanged terms. Multiple counters can occur. Each counter resets prior offers — the most recent counter is the live one. \"Acceptance\" of a counter must be unconditional; a further change is itself a new counter. Time to respond is governed by the form's terms (often 24-72 hours).",
+      "Earnest money deposit handling: typically held in the listing brokerage's trust account or by the escrow company. Hawaii custom is to deposit with escrow rather than the listing brokerage in most resale transactions. Failure to deposit promptly can void the contract and creates broker liability.",
+      "Distressed property and short-sale contracts add layers: lender approval contingencies, additional disclosures, longer timelines, often \"subject to lender approval\" language. Hawaii also has Distressed Property Conveyance (DPC) protections under HRS 480E for certain transactions involving residences in default."
     ],
-    concepts: [
-      { term: 'DROA', body: 'Deposit Receipt Offer and Acceptance — Hawaii\'s standard residential purchase form (HAR-published).' },
-      { term: 'Hawaii Association of REALTORS® (HAR)', body: 'Statewide REALTOR® organization. Publishes standard forms.' },
-      { term: 'Lead-paint addendum', body: 'Federal mandate for pre-1978 housing. Buyer 10-day inspection right.' },
-      { term: 'HRS 508D disclosure', body: 'Seller\'s Real Property Disclosure Statement. Required for residential resales.' },
-      { term: 'Condominium Public Report', body: 'Required developer disclosure for new condo sales.' },
-      { term: 'As-is addendum', body: 'Buyer accepts current condition. Doesn\'t override mandatory disclosures.' },
-      { term: 'RR105C / Mandatory Agency Disclosure', body: 'Required form delivered before substantive interaction.' },
-      { term: 'Dual agency consent', body: 'Written consent from both parties. Required before dual representation.' },
-      { term: 'Designated agency', body: 'Different agents in same firm represent opposite sides.' },
-      { term: 'Counter-offer', body: 'Conditional acceptance with changed terms. Cancels prior offer.' },
-      { term: 'Earnest money handling', body: 'Typically held in escrow; deposited promptly.' },
-      { term: 'Distressed Property Conveyance Act (HRS 480E)', body: 'Protections for residences in default during sale.' },
-      { term: 'Inspection contingency', body: 'Buyer\'s right to inspect and request repairs or terminate.' },
-      { term: 'Financing contingency', body: 'Buyer must obtain financing within X days.' },
-      { term: 'Condo document review contingency', body: 'Buyer\'s right to review AOAO documents and terminate if unacceptable.' },
+    "concepts": [
+      {
+        "term": "DROA",
+        "body": "Deposit Receipt Offer and Acceptance — Hawaii's standard residential purchase form (HAR-published)."
+      },
+      {
+        "term": "Hawaii Association of REALTORS® (HAR)",
+        "body": "Statewide REALTOR® organization. Publishes standard forms."
+      },
+      {
+        "term": "Lead-paint addendum",
+        "body": "Federal mandate for pre-1978 housing. Buyer 10-day inspection right."
+      },
+      {
+        "term": "HRS 508D disclosure",
+        "body": "Seller's Real Property Disclosure Statement. Required for residential resales."
+      },
+      {
+        "term": "Condominium Public Report",
+        "body": "Required developer disclosure for new condo sales."
+      },
+      {
+        "term": "As-is addendum",
+        "body": "Buyer accepts current condition. Doesn't override mandatory disclosures."
+      },
+      {
+        "term": "RR105C / Mandatory Agency Disclosure",
+        "body": "Required form delivered before substantive interaction."
+      },
+      {
+        "term": "Dual agency consent",
+        "body": "Written consent from both parties. Required before dual representation."
+      },
+      {
+        "term": "Designated agency",
+        "body": "Different agents in same firm represent opposite sides."
+      },
+      {
+        "term": "Counter-offer",
+        "body": "Conditional acceptance with changed terms. Cancels prior offer."
+      },
+      {
+        "term": "Earnest money handling",
+        "body": "Typically held in escrow; deposited promptly."
+      },
+      {
+        "term": "Distressed Property Conveyance Act (HRS 480E)",
+        "body": "Protections for residences in default during sale."
+      },
+      {
+        "term": "Inspection contingency",
+        "body": "Buyer's right to inspect and request repairs or terminate."
+      },
+      {
+        "term": "Financing contingency",
+        "body": "Buyer must obtain financing within X days."
+      },
+      {
+        "term": "Condo document review contingency",
+        "body": "Buyer's right to review AOAO documents and terminate if unacceptable."
+      }
     ],
-    practice: [
-      { q: 'Hawaii\'s standard residential purchase contract is:', options: ['CC&R', 'DROA', 'CPR', 'TCT'], correctIndex: 1, explain: 'Deposit Receipt Offer and Acceptance.' },
-      { q: 'For a 1965-built house, a buyer must receive:', options: ['Conservation easement disclosure', 'Lead-paint addendum + EPA pamphlet', 'Time share rescission notice', 'CPR declaration'], correctIndex: 1, explain: 'Pre-1978 housing requires lead-paint disclosure.' },
-      { q: 'Dual agency in Hawaii requires:', options: ['Verbal consent only', 'Written consent from both parties', 'Broker\'s sole consent', 'No consent if commission is disclosed'], correctIndex: 1, explain: 'HRS 467 + best practice: written informed consent from both.' },
-      { q: 'The Mandatory Agency Disclosure form must be delivered:', options: ['At closing', 'Before substantive interaction with consumer', 'After offer signed', 'Only if asked'], correctIndex: 1, explain: 'Before any substantive interaction — showings or negotiation.' },
-      { q: 'A counter-offer at the negotiating table:', options: ['Locks in original price', 'Cancels the original offer and replaces it', 'Must be rejected', 'Voids the listing'], correctIndex: 1, explain: 'Counter cancels prior; new live offer.' },
-      { q: 'New condominium sales typically require which special disclosure to the buyer?', options: ['CC&R abstract', 'Condominium Public Report', 'TCT abstract', 'HARPTA waiver'], correctIndex: 1, explain: 'Developer must provide Public Report on new condo sales.' },
-      { q: 'Hawaii\'s Distressed Property Conveyance protections are at:', options: ['HRS 467', 'HRS 480E', 'HRS 508D', 'HRS 521'], correctIndex: 1, explain: 'HRS 480E covers distressed property conveyance.' },
-    ],
+    "practice": [
+      {
+        "q": "Hawaii's standard residential purchase contract is:",
+        "options": [
+          "TCT",
+          "CC&R",
+          "CPR",
+          "DROA"
+        ],
+        "correctIndex": 3,
+        "explain": "Deposit Receipt Offer and Acceptance."
+      },
+      {
+        "q": "For a 1965-built house, a buyer must receive:",
+        "options": [
+          "Lead-paint addendum + EPA pamphlet",
+          "Conservation easement disclosure",
+          "CPR declaration",
+          "Time share rescission notice"
+        ],
+        "correctIndex": 0,
+        "explain": "Pre-1978 housing requires lead-paint disclosure."
+      },
+      {
+        "q": "Dual agency in Hawaii requires:",
+        "options": [
+          "Broker's sole consent",
+          "Written consent from both parties",
+          "Verbal consent only",
+          "No consent if commission is disclosed"
+        ],
+        "correctIndex": 1,
+        "explain": "HRS 467 + best practice: written informed consent from both."
+      },
+      {
+        "q": "The Mandatory Agency Disclosure form must be delivered:",
+        "options": [
+          "Before substantive interaction with consumer",
+          "After offer signed",
+          "Only if asked",
+          "At closing"
+        ],
+        "correctIndex": 0,
+        "explain": "Before any substantive interaction — showings or negotiation."
+      },
+      {
+        "q": "A counter-offer at the negotiating table:",
+        "options": [
+          "Voids the listing",
+          "Locks in original price",
+          "Must be rejected",
+          "Cancels the original offer and replaces it"
+        ],
+        "correctIndex": 3,
+        "explain": "Counter cancels prior; new live offer."
+      },
+      {
+        "q": "New condominium sales typically require which special disclosure to the buyer?",
+        "options": [
+          "HARPTA waiver",
+          "CC&R abstract",
+          "Condominium Public Report",
+          "TCT abstract"
+        ],
+        "correctIndex": 2,
+        "explain": "Developer must provide Public Report on new condo sales."
+      },
+      {
+        "q": "Hawaii's Distressed Property Conveyance protections are at:",
+        "options": [
+          "HRS 521",
+          "HRS 480E",
+          "HRS 508D",
+          "HRS 467"
+        ],
+        "correctIndex": 1,
+        "explain": "HRS 480E covers distressed property conveyance."
+      }
+    ]
   },
-
-  // ─── 18. Hawaii Financing ───
   {
-    slug: 'hi-financing',
-    intro: 'Beyond standard mortgages, Hawaii sees more agreement-of-sale financing and unique lender quirks.',
-    overview: [
-      'Agreement of Sale ("AOS") is a Hawaii-flavored installment land contract. The buyer takes possession but legal title stays with seller until purchase price is paid. Common when a buyer can\'t qualify for conventional financing, in leasehold-conversion deals where lender financing is unusual, or for unique properties. AOS is recordable and creates an equitable interest in the buyer. Default remedies typically follow the contract terms but generally require notice and a cure period; harsh forfeiture is disfavored.',
-      'Purchase Money Mortgage (PMM) is seller financing where the seller takes back a mortgage instead of all-cash. Common in Hawaii for high-end and unique properties where conventional lenders are slow or skeptical. The PMM is junior to any senior institutional financing and creates a recorded lien against the property. Common terms: 30-year amortization, 5-15 year balloon, market interest rate.',
-      'Hawaii institutional lenders include local credit unions (HSFCU, Aloha Pacific FCU, others), Bank of Hawaii, First Hawaiian Bank, Central Pacific Bank, plus mainland-headquartered banks and online lenders. Local lenders often have better insight into leasehold deals, condo project warrantability, and CPR quirks. Many condo projects are non-warrantable for Fannie/Freddie and require a portfolio lender.',
-      'Hawaii has a usury statute (HRS 478) capping consumer loan interest. Most institutional loans are exempt from the statutory cap (federal preemption + statutory exemption), but the cap matters mostly in private lending and seller financing. Verify the current cap and exemption rules; statutes update.',
-      'FHA, VA, and USDA loans are available in Hawaii but with state-specific caveats. FHA condo project approval is required — many Hawaii condos are not FHA-approved. VA loans work in Hawaii but the VA appraisal can be conservative on leasehold properties. USDA rural housing applies to specific eligible areas, more limited in Hawaii than mainland.',
-      'Closing costs in Hawaii: conveyance tax (state), recording fees, escrow fee, title insurance, lender fees, prorated taxes and condo fees, prepaid insurance and interest. Some allocations differ from mainland custom — agents should reference HAR\'s standard closing-cost allocation for guidance and customize per contract.',
-      'Lease conversion: the process of buying out the underlying fee on a leasehold property. Often complex, requiring lessor cooperation (sometimes legally compelled under certain statutes), professional appraisal of fee value, financing arrangement for the fee purchase, and recording of the deed-in-fee. Major lessors (Bishop Estate/Kamehameha Schools, others) have established processes for many of their leases.',
+    "slug": "hi-financing",
+    "intro": "Beyond standard mortgages, Hawaii sees more agreement-of-sale financing and unique lender quirks.",
+    "overview": [
+      "Agreement of Sale (\"AOS\") is a Hawaii-flavored installment land contract. The buyer takes possession but legal title stays with seller until purchase price is paid. Common when a buyer can't qualify for conventional financing, in leasehold-conversion deals where lender financing is unusual, or for unique properties. AOS is recordable and creates an equitable interest in the buyer. Default remedies typically follow the contract terms but generally require notice and a cure period; harsh forfeiture is disfavored.",
+      "Purchase Money Mortgage (PMM) is seller financing where the seller takes back a mortgage instead of all-cash. Common in Hawaii for high-end and unique properties where conventional lenders are slow or skeptical. The PMM is junior to any senior institutional financing and creates a recorded lien against the property. Common terms: 30-year amortization, 5-15 year balloon, market interest rate.",
+      "Hawaii institutional lenders include local credit unions (HSFCU, Aloha Pacific FCU, others), Bank of Hawaii, First Hawaiian Bank, Central Pacific Bank, plus mainland-headquartered banks and online lenders. Local lenders often have better insight into leasehold deals, condo project warrantability, and CPR quirks. Many condo projects are non-warrantable for Fannie/Freddie and require a portfolio lender.",
+      "Hawaii has a usury statute (HRS 478) capping consumer loan interest. Most institutional loans are exempt from the statutory cap (federal preemption + statutory exemption), but the cap matters mostly in private lending and seller financing. Verify the current cap and exemption rules; statutes update.",
+      "FHA, VA, and USDA loans are available in Hawaii but with state-specific caveats. FHA condo project approval is required — many Hawaii condos are not FHA-approved. VA loans work in Hawaii but the VA appraisal can be conservative on leasehold properties. USDA rural housing applies to specific eligible areas, more limited in Hawaii than mainland.",
+      "Closing costs in Hawaii: conveyance tax (state), recording fees, escrow fee, title insurance, lender fees, prorated taxes and condo fees, prepaid insurance and interest. Some allocations differ from mainland custom — agents should reference HAR's standard closing-cost allocation for guidance and customize per contract.",
+      "Lease conversion: the process of buying out the underlying fee on a leasehold property. Often complex, requiring lessor cooperation (sometimes legally compelled under certain statutes), professional appraisal of fee value, financing arrangement for the fee purchase, and recording of the deed-in-fee. Major lessors (Bishop Estate/Kamehameha Schools, others) have established processes for many of their leases."
     ],
-    concepts: [
-      { term: 'Agreement of Sale (AOS)', body: 'Hawaii installment land contract. Buyer occupies; seller holds title until paid.' },
-      { term: 'Purchase Money Mortgage (PMM)', body: 'Seller-financed mortgage taken back at sale.' },
-      { term: 'Wraparound mortgage', body: 'New larger loan "wraps" existing senior loan. Seller financing structure.' },
-      { term: 'HRS 478', body: 'Hawaii usury statute. Caps interest on certain non-institutional loans.' },
-      { term: 'Warrantable condo', body: 'Condo project meeting Fannie/Freddie standards. Easier to finance.' },
-      { term: 'Non-warrantable condo', body: 'Project failing Fannie/Freddie standards. Requires portfolio lender.' },
-      { term: 'FHA condo approval', body: 'Required for FHA financing on condos. Many Hawaii projects not approved.' },
-      { term: 'Lease conversion', body: 'Buying out underlying fee on leasehold property.' },
-      { term: 'Bishop Estate / Kamehameha Schools', body: 'Major Hawaiian-history landowner. Many lease properties.' },
-      { term: 'Portfolio lender', body: 'Lender holding loans on own books rather than selling to GSEs.' },
-      { term: 'Equitable interest', body: 'Buyer\'s interest in property under AOS or contract for deed.' },
+    "concepts": [
+      {
+        "term": "Agreement of Sale (AOS)",
+        "body": "Hawaii installment land contract. Buyer occupies; seller holds title until paid."
+      },
+      {
+        "term": "Purchase Money Mortgage (PMM)",
+        "body": "Seller-financed mortgage taken back at sale."
+      },
+      {
+        "term": "Wraparound mortgage",
+        "body": "New larger loan \"wraps\" existing senior loan. Seller financing structure."
+      },
+      {
+        "term": "HRS 478",
+        "body": "Hawaii usury statute. Caps interest on certain non-institutional loans."
+      },
+      {
+        "term": "Warrantable condo",
+        "body": "Condo project meeting Fannie/Freddie standards. Easier to finance."
+      },
+      {
+        "term": "Non-warrantable condo",
+        "body": "Project failing Fannie/Freddie standards. Requires portfolio lender."
+      },
+      {
+        "term": "FHA condo approval",
+        "body": "Required for FHA financing on condos. Many Hawaii projects not approved."
+      },
+      {
+        "term": "Lease conversion",
+        "body": "Buying out underlying fee on leasehold property."
+      },
+      {
+        "term": "Bishop Estate / Kamehameha Schools",
+        "body": "Major Hawaiian-history landowner. Many lease properties."
+      },
+      {
+        "term": "Portfolio lender",
+        "body": "Lender holding loans on own books rather than selling to GSEs."
+      },
+      {
+        "term": "Equitable interest",
+        "body": "Buyer's interest in property under AOS or contract for deed."
+      }
     ],
-    practice: [
-      { q: 'In an Agreement of Sale, legal title:', options: ['Passes to buyer immediately', 'Stays with seller until paid in full', 'Passes to escrow', 'Passes to lender'], correctIndex: 1, explain: 'AOS = installment land contract; title held by seller pending full payment.' },
-      { q: 'A PMM is typically:', options: ['Senior to institutional financing', 'Junior to senior institutional liens', 'Identical to a HELOC', 'Required by FHA'], correctIndex: 1, explain: 'PMMs typically sit junior to existing senior loans.' },
-      { q: 'A non-warrantable condo means:', options: ['It cannot be sold', 'Conventional financing through Fannie/Freddie is unavailable', 'It\'s illegal', 'It\'s tax-exempt'], correctIndex: 1, explain: 'Non-warrantable = doesn\'t meet GSE standards; portfolio loan needed.' },
-      { q: 'Hawaii\'s usury statute is at:', options: ['HRS 467', 'HRS 478', 'HRS 514B', 'HRS 521'], correctIndex: 1, explain: 'HRS 478 governs interest rate caps.' },
-      { q: 'Lease conversion in Hawaii means:', options: ['Converting a sale to a lease', 'Buying out the underlying fee on leasehold property', 'Subletting', 'AOAO restructuring'], correctIndex: 1, explain: 'Buying the fee from the lessor to convert leasehold to fee simple.' },
-    ],
+    "practice": [
+      {
+        "q": "In an Agreement of Sale, legal title:",
+        "options": [
+          "Passes to escrow",
+          "Passes to buyer immediately",
+          "Passes to lender",
+          "Stays with seller until paid in full"
+        ],
+        "correctIndex": 3,
+        "explain": "AOS = installment land contract; title held by seller pending full payment."
+      },
+      {
+        "q": "A PMM is typically:",
+        "options": [
+          "Identical to a HELOC",
+          "Required by FHA",
+          "Senior to institutional financing",
+          "Junior to senior institutional liens"
+        ],
+        "correctIndex": 3,
+        "explain": "PMMs typically sit junior to existing senior loans."
+      },
+      {
+        "q": "A non-warrantable condo means:",
+        "options": [
+          "It's tax-exempt",
+          "Conventional financing through Fannie/Freddie is unavailable",
+          "It cannot be sold",
+          "It's illegal"
+        ],
+        "correctIndex": 1,
+        "explain": "Non-warrantable = doesn't meet GSE standards; portfolio loan needed."
+      },
+      {
+        "q": "Hawaii's usury statute is at:",
+        "options": [
+          "HRS 478",
+          "HRS 521",
+          "HRS 467",
+          "HRS 514B"
+        ],
+        "correctIndex": 0,
+        "explain": "HRS 478 governs interest rate caps."
+      },
+      {
+        "q": "Lease conversion in Hawaii means:",
+        "options": [
+          "AOAO restructuring",
+          "Buying out the underlying fee on leasehold property",
+          "Converting a sale to a lease",
+          "Subletting"
+        ],
+        "correctIndex": 1,
+        "explain": "Buying the fee from the lessor to convert leasehold to fee simple."
+      }
+    ]
   },
-
-  // ─── 19. Hawaii Escrow & Closing ───
   {
-    slug: 'hi-escrow-closing',
-    intro: 'Hawaii is an "escrow state" — a neutral escrow holds everything and disburses on closing.',
-    overview: [
-      'In Hawaii, virtually all residential real estate transactions go through escrow. The escrow agent (a licensed escrow company under HRS 449 — Hawaii Escrow Depositories statute) is a neutral third party holding funds, deeds, and instructions. Escrow opens with the executed purchase contract and earnest money deposit. Escrow closes only when all conditions are satisfied: inspection waivers or repair completions, financing commitments, title clearance, signed deed, buyer\'s funds, payoff of seller\'s loans, and any required disclosures, releases, and approvals.',
-      'The escrow agent\'s duties are strictly defined by escrow instructions agreed by both parties. The agent is NOT a party advocate — it\'s neutral. It cannot disburse funds without proper authority, cannot release the deed without payment, and cannot waive contract conditions. Escrow officers handle title searches, prepare closing documents, calculate prorations, coordinate with lenders and title insurers, and ultimately fund and record the transaction.',
-      'Closing statements summarize every credit and debit. Modern closings use the federal Closing Disclosure form for residential mortgage loans (replaces HUD-1 for TRID-covered loans). Items include sales price, deposits, loan proceeds, prorations (taxes, condo fees, lease rent), conveyance tax (often Hawaii line item), GET on commissions, escrow fee, title insurance premiums, recording fees, lender fees, and net to seller.',
-      'Conveyance tax: Hawaii imposes a state-level transfer tax based on sale price and buyer category. Owner-occupant rates are lower than investor rates. The current schedule is tiered (rate per $100 of sale price, increasing at higher price brackets). Verify the current rate schedule annually — they update. The seller typically pays unless contract specifies otherwise. Failure to pay conveyance tax can void recording of the deed.',
-      'Common Hawaii prorations: real property taxes (semiannual; July 1 to December 31 is one billing period), condo maintenance fees (monthly), lease rent (varies by lease — often quarterly or annually), tenant rents on income property. Hawaii contracts typically prorate using actual day count (365-day year), though contracts may specify 360-day banker\'s year. Confirm in contract.',
-      'Title insurance in Hawaii: standard policies cover the typical risks. Owner\'s policy is a one-time premium protecting buyer for as long as they own. Lender\'s policy is required by lender, covers loan amount, decreases as loan balance drops. Hawaii title insurance carriers commonly include Title Guaranty, First American, Old Republic, others. Special endorsements address Hawaii-specific issues like leasehold and AOAO.',
-      'Common closing-day issues: missing signatures or notarizations, last-minute lender conditions, failed wire transfers, undisclosed liens discovered at title pull, AOAO estoppel showing back fees owed. Smooth closings come from thorough pre-closing review and proactive communication among agents, escrow, lender, and title insurer.',
+    "slug": "hi-escrow-closing",
+    "intro": "Hawaii is an \"escrow state\" — a neutral escrow holds everything and disburses on closing.",
+    "overview": [
+      "In Hawaii, virtually all residential real estate transactions go through escrow. The escrow agent (a licensed escrow company under HRS 449 — Hawaii Escrow Depositories statute) is a neutral third party holding funds, deeds, and instructions. Escrow opens with the executed purchase contract and earnest money deposit. Escrow closes only when all conditions are satisfied: inspection waivers or repair completions, financing commitments, title clearance, signed deed, buyer's funds, payoff of seller's loans, and any required disclosures, releases, and approvals.",
+      "The escrow agent's duties are strictly defined by escrow instructions agreed by both parties. The agent is NOT a party advocate — it's neutral. It cannot disburse funds without proper authority, cannot release the deed without payment, and cannot waive contract conditions. Escrow officers handle title searches, prepare closing documents, calculate prorations, coordinate with lenders and title insurers, and ultimately fund and record the transaction.",
+      "Closing statements summarize every credit and debit. Modern closings use the federal Closing Disclosure form for residential mortgage loans (replaces HUD-1 for TRID-covered loans). Items include sales price, deposits, loan proceeds, prorations (taxes, condo fees, lease rent), conveyance tax (often Hawaii line item), GET on commissions, escrow fee, title insurance premiums, recording fees, lender fees, and net to seller.",
+      "Conveyance tax: Hawaii imposes a state-level transfer tax based on sale price and buyer category. Owner-occupant rates are lower than investor rates. The current schedule is tiered (rate per $100 of sale price, increasing at higher price brackets). Verify the current rate schedule annually — they update. The seller typically pays unless contract specifies otherwise. Failure to pay conveyance tax can void recording of the deed.",
+      "Common Hawaii prorations: real property taxes (semiannual; July 1 to December 31 is one billing period), condo maintenance fees (monthly), lease rent (varies by lease — often quarterly or annually), tenant rents on income property. Hawaii contracts typically prorate using actual day count (365-day year), though contracts may specify 360-day banker's year. Confirm in contract.",
+      "Title insurance in Hawaii: standard policies cover the typical risks. Owner's policy is a one-time premium protecting buyer for as long as they own. Lender's policy is required by lender, covers loan amount, decreases as loan balance drops. Hawaii title insurance carriers commonly include Title Guaranty, First American, Old Republic, others. Special endorsements address Hawaii-specific issues like leasehold and AOAO.",
+      "Common closing-day issues: missing signatures or notarizations, last-minute lender conditions, failed wire transfers, undisclosed liens discovered at title pull, AOAO estoppel showing back fees owed. Smooth closings come from thorough pre-closing review and proactive communication among agents, escrow, lender, and title insurer."
     ],
-    concepts: [
-      { term: 'Escrow', body: 'Neutral third party holding funds + documents until conditions met.' },
-      { term: 'HRS 449', body: 'Hawaii Escrow Depositories statute. Governs escrow companies.' },
-      { term: 'Escrow instructions', body: 'Written agreement from both parties directing escrow agent\'s actions.' },
-      { term: 'Closing Disclosure', body: 'Federal CD form replacing HUD-1 for most residential loans.' },
-      { term: 'HUD-1 Settlement Statement', body: 'Older closing form. Still used for some non-TRID loans.' },
-      { term: 'Conveyance tax', body: 'Hawaii state transfer tax. Tiered rates by price + buyer status.' },
-      { term: 'Owner-occupant rate', body: 'Lower conveyance tax rate for primary-residence buyers.' },
-      { term: 'Recording fees', body: 'Bureau of Conveyances or Land Court charges per page recorded.' },
-      { term: 'Net to seller', body: 'Sale price minus all seller debits; the wire-out at closing.' },
-      { term: 'Estoppel certificate', body: 'AOAO statement of fees owed. Required at closing for condos.' },
-      { term: '365-day proration', body: 'Hawaii contracts usually prorate on actual day count. Verify in contract.' },
-      { term: 'Title insurance', body: 'Protects against title defects existing at closing. Owner\'s + lender\'s policies.' },
-      { term: 'Wire transfer', body: 'Standard method for closing-day funding. Subject to fraud risk; verify wire instructions.' },
-      { term: 'Wire fraud', body: 'Increasing risk. Always verify wire instructions by phone with known number.' },
+    "concepts": [
+      {
+        "term": "Escrow",
+        "body": "Neutral third party holding funds + documents until conditions met."
+      },
+      {
+        "term": "HRS 449",
+        "body": "Hawaii Escrow Depositories statute. Governs escrow companies."
+      },
+      {
+        "term": "Escrow instructions",
+        "body": "Written agreement from both parties directing escrow agent's actions."
+      },
+      {
+        "term": "Closing Disclosure",
+        "body": "Federal CD form replacing HUD-1 for most residential loans."
+      },
+      {
+        "term": "HUD-1 Settlement Statement",
+        "body": "Older closing form. Still used for some non-TRID loans."
+      },
+      {
+        "term": "Conveyance tax",
+        "body": "Hawaii state transfer tax. Tiered rates by price + buyer status."
+      },
+      {
+        "term": "Owner-occupant rate",
+        "body": "Lower conveyance tax rate for primary-residence buyers."
+      },
+      {
+        "term": "Recording fees",
+        "body": "Bureau of Conveyances or Land Court charges per page recorded."
+      },
+      {
+        "term": "Net to seller",
+        "body": "Sale price minus all seller debits; the wire-out at closing."
+      },
+      {
+        "term": "Estoppel certificate",
+        "body": "AOAO statement of fees owed. Required at closing for condos."
+      },
+      {
+        "term": "365-day proration",
+        "body": "Hawaii contracts usually prorate on actual day count. Verify in contract."
+      },
+      {
+        "term": "Title insurance",
+        "body": "Protects against title defects existing at closing. Owner's + lender's policies."
+      },
+      {
+        "term": "Wire transfer",
+        "body": "Standard method for closing-day funding. Subject to fraud risk; verify wire instructions."
+      },
+      {
+        "term": "Wire fraud",
+        "body": "Increasing risk. Always verify wire instructions by phone with known number."
+      }
     ],
-    practice: [
-      { q: 'In a Hawaii residential sale, who typically holds funds and documents during the transaction?', options: ['Listing agent', 'Buyer\'s attorney', 'Neutral escrow company', 'Lender'], correctIndex: 2, explain: 'Hawaii is an escrow state — a neutral escrow handles closing.' },
-      { q: 'Hawaii state-level tax on real property transfers is:', options: ['HARPTA', 'GET', 'Conveyance tax', 'Stamp tax'], correctIndex: 2, explain: 'Conveyance tax is the transfer tax.' },
-      { q: 'Escrow companies in Hawaii are governed by:', options: ['HRS 467', 'HRS 449', 'HRS 514B', 'HRS 521'], correctIndex: 1, explain: 'HRS 449 = Escrow Depositories.' },
-      { q: 'A condominium sale typically requires what document from the AOAO?', options: ['Estoppel certificate', 'CDUP', 'TCT', 'CPR'], correctIndex: 0, explain: 'Estoppel certificate showing fees owed and project status.' },
-      { q: 'Wire fraud risk at closing should be addressed by:', options: ['Trusting all email instructions', 'Verifying wire instructions by phone with known number', 'Sending without verification', 'Using only personal checks'], correctIndex: 1, explain: 'Always verify by phone — wire fraud is common.' },
-    ],
+    "practice": [
+      {
+        "q": "In a Hawaii residential sale, who typically holds funds and documents during the transaction?",
+        "options": [
+          "Buyer's attorney",
+          "Neutral escrow company",
+          "Lender",
+          "Listing agent"
+        ],
+        "correctIndex": 1,
+        "explain": "Hawaii is an escrow state — a neutral escrow handles closing."
+      },
+      {
+        "q": "Hawaii state-level tax on real property transfers is:",
+        "options": [
+          "Conveyance tax",
+          "GET",
+          "Stamp tax",
+          "HARPTA"
+        ],
+        "correctIndex": 0,
+        "explain": "Conveyance tax is the transfer tax."
+      },
+      {
+        "q": "Escrow companies in Hawaii are governed by:",
+        "options": [
+          "HRS 449",
+          "HRS 514B",
+          "HRS 521",
+          "HRS 467"
+        ],
+        "correctIndex": 0,
+        "explain": "HRS 449 = Escrow Depositories."
+      },
+      {
+        "q": "A condominium sale typically requires what document from the AOAO?",
+        "options": [
+          "CDUP",
+          "CPR",
+          "TCT",
+          "Estoppel certificate"
+        ],
+        "correctIndex": 3,
+        "explain": "Estoppel certificate showing fees owed and project status."
+      },
+      {
+        "q": "Wire fraud risk at closing should be addressed by:",
+        "options": [
+          "Verifying wire instructions by phone with known number",
+          "Using only personal checks",
+          "Sending without verification",
+          "Trusting all email instructions"
+        ],
+        "correctIndex": 0,
+        "explain": "Always verify by phone — wire fraud is common."
+      }
+    ]
   },
-
-  // ─── 20. Hawaii Professional Practices & Conduct ───
   {
-    slug: 'hi-professional-conduct',
-    intro: 'HRS 467 + HAR Title 16 Chapter 99 are the bedrock of Hawaii license law. This section is the largest weight on the state portion (14 items).',
-    overview: [
-      'Hawaii has two real estate license categories regulated under HRS 467: Salesperson and Broker. A Salesperson must be 18+, have a valid Social Security number, complete the 60-hour Salesperson Pre-Licensing Course at a REC-approved school, pass the PSI examination (national + state portions, 70%+ on each), be sponsored by a Hawaii-licensed real estate broker (an "employing" or "sponsoring" broker), and pay the licensing fees. A criminal background check applies; certain criminal histories can disqualify or require explanation. Salespersons may not collect fees directly from a customer — fees flow through their employing broker.',
-      'A Broker must hold a current valid Salesperson license, have at least three years of active full-time experience as a salesperson within the prior five years (the experience requirement) along with a minimum number of completed transactions, complete the 80-hour Broker Pre-Licensing Course, pass the broker examination, provide additional documentation including evidence of experience, and pay the broker license fees. Brokers can practice independently as a sole-broker firm, supervise salespersons, or operate under a brokerage entity.',
-      'Continuing education (CE) requirements: 20 hours every 2-year license cycle (the cycle ends on the last day of December of even-numbered years for individual licensees on the standard cycle; verify current). The 20 hours must include the state-mandated Core Course (typically 6 hours, updated each cycle to reflect law changes). The remaining hours come from approved electives. Late renewal incurs fees and possible inactive status. CE must be completed at REC-approved providers.',
-      'Trust account rules under HRS 467 + HAR §16-99: client funds must be held in a Hawaii bank or savings institution, separate from the broker\'s operating account, properly identified ("Trust Account" or similar). Funds must be deposited promptly (typically 2 business days). Records must be retained for the period state rules require (commonly 3 years). Monthly reconciliation is standard. Audits by REC are unannounced. The penalties for trust-fund violations are severe — typically license revocation, sometimes felony charges.',
-      'Disciplinary grounds under HRS 467: misrepresentation or fraud in transactions, commingling, conversion, undisclosed dual agency or other conflicts of interest, discrimination violating state or federal law, failure to supervise (broker), advertising violations, paying or receiving undisclosed referral fees in violation of RESPA, conviction of crime involving moral turpitude, drug or alcohol abuse impairing practice, and violation of any other duty imposed on licensees. The Real Estate Commission may revoke, suspend, fine, place on probation, require additional education, or impose other discipline. Civil and criminal liability layer on top of license discipline.',
-      'Mandatory Agency Disclosure: Hawaii requires written agency disclosure to consumers before any "substantive interaction" — meaning before any showing, listing presentation, or detailed negotiation. The form (commonly known by its current code, historically RR105C; verify current form name) explains the consumer\'s representation options: Seller\'s Agent, Buyer\'s Agent, Dual Agent (with informed consent), or Customer (no representation). Failure to deliver the form on time is a license-law violation.',
-      'Advertising rules under HAR §16-99: every ad must include the firm name as licensed (not just the agent\'s name). Out-of-state advertising for Hawaii property must comply. Internet advertising follows the same standards as print and broadcast. Cannot advertise as the listing broker on a property under another broker\'s exclusive listing. Cannot use misleading terms or imply qualifications not held. Team or group names are permitted only if certain disclosure rules are met. Photos and information must accurately represent the property and licensee.',
-      'Procuring cause and commission disputes are common. Hawaii follows general principles: the agent who initiated the unbroken chain leading to the sale is typically the procuring cause. Disputes between cooperating brokers are often resolved through the listing broker\'s offer of cooperation in MLS. Hawaii REALTORS® can use NAR\'s arbitration process. Non-REALTORS® rely on contract terms and possibly civil litigation.',
-      'Practicing within scope: salespersons cannot operate independently of their broker; cannot sign listing agreements in their own name; cannot accept fees directly. Broker liability is broad — the broker is responsible for all licensees affiliated with the firm, including independent contractors. Switching brokers requires release from the prior broker or appropriate procedures under HRS 467 and REC rules. Inactive licensees (those without an employing broker, or who haven\'t paid renewal) cannot list, show, negotiate, or be paid for real estate services.',
+    "slug": "hi-professional-conduct",
+    "intro": "HRS 467 + HAR Title 16 Chapter 99 are the bedrock of Hawaii license law. This section is the largest weight on the state portion (14 items).",
+    "overview": [
+      "Hawaii has two real estate license categories regulated under HRS 467: Salesperson and Broker. A Salesperson must be 18+, have a valid Social Security number, complete the 60-hour Salesperson Pre-Licensing Course at a REC-approved school, pass the PSI examination (national + state portions, 70%+ on each), be sponsored by a Hawaii-licensed real estate broker (an \"employing\" or \"sponsoring\" broker), and pay the licensing fees. A criminal background check applies; certain criminal histories can disqualify or require explanation. Salespersons may not collect fees directly from a customer — fees flow through their employing broker.",
+      "A Broker must hold a current valid Salesperson license, have at least three years of active full-time experience as a salesperson within the prior five years (the experience requirement) along with a minimum number of completed transactions, complete the 80-hour Broker Pre-Licensing Course, pass the broker examination, provide additional documentation including evidence of experience, and pay the broker license fees. Brokers can practice independently as a sole-broker firm, supervise salespersons, or operate under a brokerage entity.",
+      "Continuing education (CE) requirements: 20 hours every 2-year license cycle (the cycle ends on the last day of December of even-numbered years for individual licensees on the standard cycle; verify current). The 20 hours must include the state-mandated Core Course (typically 6 hours, updated each cycle to reflect law changes). The remaining hours come from approved electives. Late renewal incurs fees and possible inactive status. CE must be completed at REC-approved providers.",
+      "Trust account rules under HRS 467 + HAR §16-99: client funds must be held in a Hawaii bank or savings institution, separate from the broker's operating account, properly identified (\"Trust Account\" or similar). Funds must be deposited promptly (typically 2 business days). Records must be retained for the period state rules require (commonly 3 years). Monthly reconciliation is standard. Audits by REC are unannounced. The penalties for trust-fund violations are severe — typically license revocation, sometimes felony charges.",
+      "Disciplinary grounds under HRS 467: misrepresentation or fraud in transactions, commingling, conversion, undisclosed dual agency or other conflicts of interest, discrimination violating state or federal law, failure to supervise (broker), advertising violations, paying or receiving undisclosed referral fees in violation of RESPA, conviction of crime involving moral turpitude, drug or alcohol abuse impairing practice, and violation of any other duty imposed on licensees. The Real Estate Commission may revoke, suspend, fine, place on probation, require additional education, or impose other discipline. Civil and criminal liability layer on top of license discipline.",
+      "Mandatory Agency Disclosure: Hawaii requires written agency disclosure to consumers before any \"substantive interaction\" — meaning before any showing, listing presentation, or detailed negotiation. The form (commonly known by its current code, historically RR105C; verify current form name) explains the consumer's representation options: Seller's Agent, Buyer's Agent, Dual Agent (with informed consent), or Customer (no representation). Failure to deliver the form on time is a license-law violation.",
+      "Advertising rules under HAR §16-99: every ad must include the firm name as licensed (not just the agent's name). Out-of-state advertising for Hawaii property must comply. Internet advertising follows the same standards as print and broadcast. Cannot advertise as the listing broker on a property under another broker's exclusive listing. Cannot use misleading terms or imply qualifications not held. Team or group names are permitted only if certain disclosure rules are met. Photos and information must accurately represent the property and licensee.",
+      "Procuring cause and commission disputes are common. Hawaii follows general principles: the agent who initiated the unbroken chain leading to the sale is typically the procuring cause. Disputes between cooperating brokers are often resolved through the listing broker's offer of cooperation in MLS. Hawaii REALTORS® can use NAR's arbitration process. Non-REALTORS® rely on contract terms and possibly civil litigation.",
+      "Practicing within scope: salespersons cannot operate independently of their broker; cannot sign listing agreements in their own name; cannot accept fees directly. Broker liability is broad — the broker is responsible for all licensees affiliated with the firm, including independent contractors. Switching brokers requires release from the prior broker or appropriate procedures under HRS 467 and REC rules. Inactive licensees (those without an employing broker, or who haven't paid renewal) cannot list, show, negotiate, or be paid for real estate services."
     ],
-    concepts: [
-      { term: 'HRS 467', body: 'Hawaii Real Estate Brokers and Salespersons statute. Foundation of license law.' },
-      { term: 'HAR Title 16 Chapter 99', body: 'Real Estate Commission administrative rules. Implements HRS 467.' },
-      { term: 'Salesperson license', body: '18+, 60-hour course, PSI exam, sponsoring broker, fees, background check.' },
-      { term: 'Broker license', body: 'Active salesperson + 3 years experience + 80-hour broker course + broker exam.' },
-      { term: 'Sponsoring / employing broker', body: 'Broker who employs/supervises a salesperson.' },
-      { term: 'CE: 20 hours / 2 years', body: 'Includes mandatory Core Course; balance is electives.' },
-      { term: 'Core Course', body: 'State-mandated 6-hour CE update each cycle. Reflects law changes.' },
-      { term: 'License renewal', body: 'Biennial. Late renewal carries fees + possible inactive status.' },
-      { term: 'Trust account', body: 'Client funds in Hawaii bank, separate, identified, reconciled, records 3+ years.' },
-      { term: 'Commingling', body: 'Mixing personal and trust funds. Per se license violation.' },
-      { term: 'Conversion', body: 'Using trust funds for own benefit. Felony in many cases.' },
-      { term: 'RR105C / Mandatory Agency Disclosure', body: 'Required form delivered to consumer before substantive interaction. Verify current form name.' },
-      { term: 'Real Estate Commission (REC)', body: 'Hawaii regulator. Sets rules, investigates, disciplines. Under DCCA.' },
-      { term: 'DCCA', body: 'Hawaii Department of Commerce and Consumer Affairs. Oversees REC.' },
-      { term: 'PVL', body: 'Professional and Vocational Licensing Division within DCCA.' },
-      { term: 'Inactive license', body: 'Licensee not currently practicing. Cannot list, show, negotiate.' },
-      { term: 'Discrimination (HRS 515)', body: 'Hawaii Fair Housing — adds classes beyond federal: ancestry, age, marital status, sexual orientation, gender identity, HIV/AIDS, source of income.' },
-      { term: 'Procuring cause', body: 'Origin of unbroken chain producing a sale. Determines commission entitlement.' },
-      { term: 'Advertising rules (HAR §16-99)', body: 'Must include firm name. Cannot mislead. Cannot solicit currently-listed property.' },
-      { term: 'Failure to supervise', body: 'Broker liability for licensee\'s violations. Can revoke broker license.' },
-      { term: 'Suspension / revocation', body: 'License sanctions for serious violations. May be stayed with probation.' },
-      { term: 'Fine', body: 'Monetary penalty. Levied separately or with other discipline.' },
-      { term: 'Probation', body: 'License continuance under conditions (additional education, supervision, audits).' },
-      { term: 'Background check', body: 'Required at licensure. Certain convictions require explanation or disqualify.' },
-      { term: 'Moral turpitude', body: 'Crime involving baseness, vileness, or depravity. Disciplinary trigger.' },
-      { term: 'NAR arbitration', body: 'Voluntary dispute resolution for REALTOR® member commission disputes.' },
-      { term: 'License switching', body: 'Salesperson moving to new broker — requires proper release/transfer procedure.' },
+    "concepts": [
+      {
+        "term": "HRS 467",
+        "body": "Hawaii Real Estate Brokers and Salespersons statute. Foundation of license law."
+      },
+      {
+        "term": "HAR Title 16 Chapter 99",
+        "body": "Real Estate Commission administrative rules. Implements HRS 467."
+      },
+      {
+        "term": "Salesperson license",
+        "body": "18+, 60-hour course, PSI exam, sponsoring broker, fees, background check."
+      },
+      {
+        "term": "Broker license",
+        "body": "Active salesperson + 3 years experience + 80-hour broker course + broker exam."
+      },
+      {
+        "term": "Sponsoring / employing broker",
+        "body": "Broker who employs/supervises a salesperson."
+      },
+      {
+        "term": "CE: 20 hours / 2 years",
+        "body": "Includes mandatory Core Course; balance is electives."
+      },
+      {
+        "term": "Core Course",
+        "body": "State-mandated 6-hour CE update each cycle. Reflects law changes."
+      },
+      {
+        "term": "License renewal",
+        "body": "Biennial. Late renewal carries fees + possible inactive status."
+      },
+      {
+        "term": "Trust account",
+        "body": "Client funds in Hawaii bank, separate, identified, reconciled, records 3+ years."
+      },
+      {
+        "term": "Commingling",
+        "body": "Mixing personal and trust funds. Per se license violation."
+      },
+      {
+        "term": "Conversion",
+        "body": "Using trust funds for own benefit. Felony in many cases."
+      },
+      {
+        "term": "RR105C / Mandatory Agency Disclosure",
+        "body": "Required form delivered to consumer before substantive interaction. Verify current form name."
+      },
+      {
+        "term": "Real Estate Commission (REC)",
+        "body": "Hawaii regulator. Sets rules, investigates, disciplines. Under DCCA."
+      },
+      {
+        "term": "DCCA",
+        "body": "Hawaii Department of Commerce and Consumer Affairs. Oversees REC."
+      },
+      {
+        "term": "PVL",
+        "body": "Professional and Vocational Licensing Division within DCCA."
+      },
+      {
+        "term": "Inactive license",
+        "body": "Licensee not currently practicing. Cannot list, show, negotiate."
+      },
+      {
+        "term": "Discrimination (HRS 515)",
+        "body": "Hawaii Fair Housing — adds classes beyond federal: ancestry, age, marital status, sexual orientation, gender identity, HIV/AIDS, source of income."
+      },
+      {
+        "term": "Procuring cause",
+        "body": "Origin of unbroken chain producing a sale. Determines commission entitlement."
+      },
+      {
+        "term": "Advertising rules (HAR §16-99)",
+        "body": "Must include firm name. Cannot mislead. Cannot solicit currently-listed property."
+      },
+      {
+        "term": "Failure to supervise",
+        "body": "Broker liability for licensee's violations. Can revoke broker license."
+      },
+      {
+        "term": "Suspension / revocation",
+        "body": "License sanctions for serious violations. May be stayed with probation."
+      },
+      {
+        "term": "Fine",
+        "body": "Monetary penalty. Levied separately or with other discipline."
+      },
+      {
+        "term": "Probation",
+        "body": "License continuance under conditions (additional education, supervision, audits)."
+      },
+      {
+        "term": "Background check",
+        "body": "Required at licensure. Certain convictions require explanation or disqualify."
+      },
+      {
+        "term": "Moral turpitude",
+        "body": "Crime involving baseness, vileness, or depravity. Disciplinary trigger."
+      },
+      {
+        "term": "NAR arbitration",
+        "body": "Voluntary dispute resolution for REALTOR® member commission disputes."
+      },
+      {
+        "term": "License switching",
+        "body": "Salesperson moving to new broker — requires proper release/transfer procedure."
+      }
     ],
-    practice: [
-      { q: 'How many hours of pre-licensing education are required for a Hawaii salesperson license?', options: ['30', '45', '60', '90'], correctIndex: 2, explain: '60-hour Salesperson Pre-Licensing Course at REC-approved school.' },
-      { q: 'Hawaii continuing education for license renewal is:', options: ['10 hours / year', '20 hours every 2 years (license cycle)', '30 hours every 2 years', '40 hours every 4 years'], correctIndex: 1, explain: '20 CE hours per biennial cycle, including mandatory Core Course.' },
-      { q: 'Mixing client trust funds with broker\'s operating funds is:', options: ['Allowed if reconciled', 'Commingling — license violation', 'Conversion only', 'Allowed for under-$1,000 amounts'], correctIndex: 1, explain: 'Any mixing is commingling, regardless of amount.' },
-      { q: 'Hawaii\'s real estate licensing law is found at:', options: ['HRS 514B', 'HRS 521', 'HRS 467', 'HRS 478'], correctIndex: 2, explain: 'HRS 467 governs real estate brokers and salespersons.' },
-      { q: 'The Hawaii regulator overseeing real estate licensees is:', options: ['HUD', 'IRS', 'Real Estate Commission (REC) under DCCA', 'NAR'], correctIndex: 2, explain: 'REC under the Department of Commerce and Consumer Affairs.' },
-      { q: 'Hawaii\'s state fair housing statute (HRS 515) ADDS protected classes beyond federal, including:', options: ['Income only', 'Sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, age', 'Only race and religion', 'No additional classes'], correctIndex: 1, explain: 'HRS 515 expands federal Fair Housing to additional Hawaii-specific protected classes.' },
-      { q: 'A licensee\'s required minimum age is:', options: ['16', '18', '21', '25'], correctIndex: 1, explain: '18 years old to apply for salesperson license.' },
-      { q: 'A salesperson can practice while holding an "inactive" license:', options: ['Yes, with broker permission', 'No — inactive licensees cannot practice', 'Only for past clients', 'Only as a referral agent'], correctIndex: 1, explain: 'Inactive license = cannot list, show, negotiate, or be paid.' },
-      { q: 'A broker license requires how many hours of pre-licensing education in addition to active salesperson experience?', options: ['40', '60', '80', '120'], correctIndex: 2, explain: '80-hour Broker Pre-Licensing Course on top of salesperson licensure + experience.' },
-      { q: 'A broker is responsible for the acts of:', options: ['Only their own personal transactions', 'All licensees affiliated with the firm, including independent contractors', 'Only employees', 'Only licensees in writing'], correctIndex: 1, explain: 'Broker liability extends to all affiliated licensees.' },
-      { q: 'Salespersons cannot:', options: ['Show property', 'Sign listing agreements in their own name or accept fees directly from customers', 'Negotiate offers', 'Provide CMA'], correctIndex: 1, explain: 'Salesperson activities flow through and are paid through the employing broker.' },
-      { q: 'Trust account records must be retained for at least:', options: ['1 year', '3 years (commonly)', '5 years', 'Forever'], correctIndex: 1, explain: 'Hawaii rules typically require 3 years; verify current.' },
-      { q: 'The Mandatory Agency Disclosure must be delivered:', options: ['At closing', 'Before any substantive interaction', 'Only if asked', 'After offer signed'], correctIndex: 1, explain: 'Before showing/negotiation/listing presentation — substantive interaction.' },
-      { q: 'A "Core Course" in Hawaii CE is:', options: ['Optional elective', 'A state-mandated update reflecting recent law changes', 'A national course', 'A test, not training'], correctIndex: 1, explain: 'Core Course is mandatory portion of CE updated each cycle.' },
-      { q: 'A licensee paying an undisclosed referral fee to a settlement service provider may violate:', options: ['Only RESPA', 'Only HRS 467', 'Both RESPA and HRS 467', 'Neither'], correctIndex: 2, explain: 'RESPA Section 8 + HRS 467 prohibitions on undisclosed referral fees.' },
-      { q: 'Failure to supervise a licensee:', options: ['Cannot affect the broker\'s license', 'Can result in broker license discipline', 'Is only a tort', 'Only applies to employees'], correctIndex: 1, explain: 'Broker license can be sanctioned for failure to supervise.' },
-    ],
-  },
+    "practice": [
+      {
+        "q": "How many hours of pre-licensing education are required for a Hawaii salesperson license?",
+        "options": [
+          "45",
+          "60",
+          "90",
+          "30"
+        ],
+        "correctIndex": 1,
+        "explain": "60-hour Salesperson Pre-Licensing Course at REC-approved school."
+      },
+      {
+        "q": "Hawaii continuing education for license renewal is:",
+        "options": [
+          "20 hours every 2 years (license cycle)",
+          "40 hours every 4 years",
+          "30 hours every 2 years",
+          "10 hours / year"
+        ],
+        "correctIndex": 0,
+        "explain": "20 CE hours per biennial cycle, including mandatory Core Course."
+      },
+      {
+        "q": "Mixing client trust funds with broker's operating funds is:",
+        "options": [
+          "Conversion only",
+          "Allowed if reconciled",
+          "Allowed for under-$1,000 amounts",
+          "Commingling — license violation"
+        ],
+        "correctIndex": 3,
+        "explain": "Any mixing is commingling, regardless of amount."
+      },
+      {
+        "q": "Hawaii's real estate licensing law is found at:",
+        "options": [
+          "HRS 467",
+          "HRS 478",
+          "HRS 514B",
+          "HRS 521"
+        ],
+        "correctIndex": 0,
+        "explain": "HRS 467 governs real estate brokers and salespersons."
+      },
+      {
+        "q": "The Hawaii regulator overseeing real estate licensees is:",
+        "options": [
+          "NAR",
+          "Real Estate Commission (REC) under DCCA",
+          "HUD",
+          "IRS"
+        ],
+        "correctIndex": 1,
+        "explain": "REC under the Department of Commerce and Consumer Affairs."
+      },
+      {
+        "q": "Hawaii's state fair housing statute (HRS 515) ADDS protected classes beyond federal, including:",
+        "options": [
+          "Only race and religion",
+          "Sexual orientation, gender identity, marital status, HIV status, ancestry, age",
+          "Income only",
+          "No additional classes"
+        ],
+        "correctIndex": 1,
+        "explain": "HRS 515 expands federal Fair Housing to additional Hawaii-specific protected classes."
+      },
+      {
+        "q": "A licensee's required minimum age is:",
+        "options": [
+          "21",
+          "25",
+          "16",
+          "18"
+        ],
+        "correctIndex": 3,
+        "explain": "18 years old to apply for salesperson license."
+      },
+      {
+        "q": "A salesperson can practice while holding an \"inactive\" license:",
+        "options": [
+          "Yes, with broker permission",
+          "Only for past clients",
+          "No — inactive licensees cannot practice",
+          "Only as a referral agent"
+        ],
+        "correctIndex": 2,
+        "explain": "Inactive license = cannot list, show, negotiate, or be paid."
+      },
+      {
+        "q": "A broker license requires how many hours of pre-licensing education in addition to active salesperson experience?",
+        "options": [
+          "60",
+          "80",
+          "120",
+          "40"
+        ],
+        "correctIndex": 1,
+        "explain": "80-hour Broker Pre-Licensing Course on top of salesperson licensure + experience."
+      },
+      {
+        "q": "A broker is responsible for the acts of:",
+        "options": [
+          "Only employees",
+          "All licensees affiliated with the firm, including independent contractors",
+          "Only licensees in writing",
+          "Only their own personal transactions"
+        ],
+        "correctIndex": 1,
+        "explain": "Broker liability extends to all affiliated licensees."
+      },
+      {
+        "q": "Salespersons cannot:",
+        "options": [
+          "Provide CMA",
+          "Sign listing agreements in their own name or accept fees directly from customers",
+          "Show property",
+          "Negotiate offers"
+        ],
+        "correctIndex": 1,
+        "explain": "Salesperson activities flow through and are paid through the employing broker."
+      },
+      {
+        "q": "Trust account records must be retained for at least:",
+        "options": [
+          "3 years (commonly)",
+          "5 years",
+          "Forever",
+          "1 year"
+        ],
+        "correctIndex": 0,
+        "explain": "Hawaii rules typically require 3 years; verify current."
+      },
+      {
+        "q": "The Mandatory Agency Disclosure must be delivered:",
+        "options": [
+          "After offer signed",
+          "Only if asked",
+          "Before any substantive interaction",
+          "At closing"
+        ],
+        "correctIndex": 2,
+        "explain": "Before showing/negotiation/listing presentation — substantive interaction."
+      },
+      {
+        "q": "A \"Core Course\" in Hawaii CE is:",
+        "options": [
+          "A test, not training",
+          "A national course",
+          "A state-mandated update reflecting recent law changes",
+          "Optional elective"
+        ],
+        "correctIndex": 2,
+        "explain": "Core Course is mandatory portion of CE updated each cycle."
+      },
+      {
+        "q": "A licensee paying an undisclosed referral fee to a settlement service provider may violate:",
+        "options": [
+          "Both RESPA and HRS 467",
+          "Only RESPA",
+          "Only HRS 467",
+          "Neither"
+        ],
+        "correctIndex": 0,
+        "explain": "RESPA Section 8 + HRS 467 prohibitions on undisclosed referral fees."
+      },
+      {
+        "q": "Failure to supervise a licensee:",
+        "options": [
+          "Is only a tort",
+          "Can result in broker license discipline",
+          "Only applies to employees",
+          "Cannot affect the broker's license"
+        ],
+        "correctIndex": 1,
+        "explain": "Broker license can be sanctioned for failure to supervise."
+      }
+    ]
+  }
 ];

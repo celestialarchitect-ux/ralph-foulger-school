@@ -16,337 +16,1412 @@ export interface GlossaryEntry {
 }
 
 export const GLOSSARY: GlossaryEntry[] = [
-  // ─── National foundational ───
-  { term: 'Acceleration clause', definition: 'Mortgage provision allowing lender to demand full balance on default.', category: 'finance' },
-  { term: 'Accretion', definition: 'Gradual addition of soil to land by natural causes; the new soil belongs to the owner.', category: 'national' },
-  { term: 'Acknowledgment', definition: 'Notarized statement that signature was made voluntarily. Required for recording.', category: 'title' },
-  { term: 'Acre', definition: '43,560 square feet.', category: 'math' },
-  { term: 'Adjustable Rate Mortgage (ARM)', definition: 'Loan with rate that adjusts on a schedule based on an index plus margin.', category: 'finance' },
-  { term: 'Ad valorem tax', definition: 'Tax based on assessed value (e.g., property tax).', category: 'national' },
-  { term: 'Adverse possession', definition: 'Acquiring title by open, notorious, hostile, continuous occupation for the statutory period.', category: 'title' },
-  { term: 'Agency', definition: 'Legal relationship where one person acts on behalf of another.', category: 'agency' },
-  { term: 'Agreement of Sale (AOS)', definition: 'Hawaii installment land contract; buyer occupies, seller holds title until paid.', category: 'hawaii', hawaiiNote: 'Common alternative to bank financing.' },
-  { term: 'Alienation clause', definition: 'Loan provision triggering due-on-sale on transfer.', category: 'finance' },
-  { term: 'Amortization', definition: 'Gradual loan repayment via periodic principal-and-interest payments.', category: 'finance' },
-  { term: 'AOAO', definition: 'Association of Apartment Owners — Hawaii term for condo HOA.', category: 'hawaii' },
-  { term: 'APR', definition: 'Annual Percentage Rate. Loan cost including interest + points + fees.', category: 'finance' },
-  { term: 'Appraisal', definition: 'Licensed appraiser\'s opinion of value. Required for federally related transactions.', category: 'national' },
-  { term: 'Appurtenant', definition: 'Attached to or running with the land (e.g., easement appurtenant).', category: 'national' },
-  { term: 'Assessed value', definition: 'Tax value placed on property by county assessor. Often less than market value.', category: 'national' },
-  { term: 'Assignment', definition: 'Transfer of contract rights to another party.', category: 'contracts' },
-  { term: 'Attornment', definition: 'Tenant\'s acknowledgment of new owner as landlord.', category: 'national' },
-  { term: 'Bilateral contract', definition: 'Both parties make promises to each other.', category: 'contracts' },
-  { term: 'Blanket mortgage', definition: 'One mortgage covering multiple parcels with partial release clause.', category: 'finance' },
-  { term: 'Blockbusting', definition: 'Inducing sales by representing protected-class entry. Fair housing violation.', category: 'national' },
-  { term: 'BOC', definition: 'Bureau of Conveyances — Hawaii\'s Regular System title office.', category: 'hawaii' },
-  { term: 'Bundle of rights', definition: 'Set of legal rights of ownership: possess, use, enjoy, exclude, dispose.', category: 'national' },
-  { term: 'Capacity', definition: 'Legal ability to contract.', category: 'contracts' },
-  { term: 'Capitalization rate', definition: 'NOI ÷ Value. Higher rate = higher risk or lower price.', category: 'math' },
-  { term: 'Caveat emptor', definition: '"Let the buyer beware" — largely supplanted by mandatory disclosure laws.', category: 'national' },
-  { term: 'CC&Rs', definition: 'Covenants, Conditions, and Restrictions. Private deed-based rules running with land.', category: 'national' },
-  { term: 'CERCLA', definition: 'Superfund. Federal hazardous-waste cleanup law with strict liability.', category: 'national' },
-  { term: 'Chain of title', definition: 'Recorded history of ownership. Gaps = clouds.', category: 'title' },
-  { term: 'Closing Disclosure', definition: 'Federal form summarizing loan terms + closing costs. Delivered 3 days before closing.', category: 'finance' },
-  { term: 'Cloud on title', definition: 'Defect or unresolved claim affecting marketability.', category: 'title' },
-  { term: 'CMA', definition: 'Comparative Market Analysis. Agent-prepared pricing recommendation.', category: 'national' },
-  { term: 'COALD', definition: 'Care, Obedience, Accounting, Loyalty, Disclosure. Five fiduciary duties.', category: 'agency' },
-  { term: 'Commingling', definition: 'Mixing trust funds with personal funds. License-law violation.', category: 'agency' },
-  { term: 'Common elements', definition: 'Condo property shared by all unit owners (lobby, pool, roof).', category: 'hawaii' },
-  { term: 'Comparables (comps)', definition: 'Recent sales used to estimate subject\'s value.', category: 'national' },
-  { term: 'Condemnation', definition: 'Government\'s exercise of eminent domain.', category: 'national' },
-  { term: 'Conditional use', definition: 'Use allowed in zone subject to specific conditions/permit.', category: 'national' },
-  { term: 'Condominium', definition: 'Fee ownership of unit + undivided interest in common elements.', category: 'national' },
-  { term: 'Consideration', definition: 'Something of value exchanged in a contract.', category: 'contracts' },
-  { term: 'Contingency', definition: 'Condition that must be met for contract to proceed.', category: 'contracts' },
-  { term: 'Conversion', definition: 'Using trust funds for own benefit. Felony in most states.', category: 'agency' },
-  { term: 'Conveyance', definition: 'Transfer of real property interest.', category: 'title' },
-  { term: 'Conveyance tax', definition: 'Hawaii state tax on real property transfers. Tiered rate.', category: 'hawaii' },
-  { term: 'Cooperative', definition: 'Own shares in corporation that owns building + proprietary lease.', category: 'national' },
-  { term: 'Counteroffer', definition: 'Rejection + new offer. Cancels original.', category: 'contracts' },
-  { term: 'Covenant', definition: 'Promise running with land. Binds future owners.', category: 'national' },
-  { term: 'CPR', definition: 'Condominium Property Regime. Multiple units on one lot, each with TMK. Hawaii-specific.', category: 'hawaii' },
-  { term: 'Curtesy', definition: 'Common-law husband\'s interest in deceased wife\'s real property. Largely abolished.', category: 'national' },
-  { term: 'Datum', definition: 'Reference point for elevation measurements.', category: 'national' },
-  { term: 'DCCA', definition: 'Hawaii Department of Commerce and Consumer Affairs. Oversees REC.', category: 'hawaii' },
-  { term: 'Dedication', definition: 'Voluntary transfer of private land to public use.', category: 'national' },
-  { term: 'Deed', definition: 'Document transferring title from grantor to grantee.', category: 'title' },
-  { term: 'Deed restriction', definition: 'Private use restriction in deed. Runs with land.', category: 'title' },
-  { term: 'Default', definition: 'Failure to perform contract obligation.', category: 'contracts' },
-  { term: 'Delivery', definition: 'Transfer of deed with intent to convey. Required for valid transfer.', category: 'title' },
-  { term: 'Depreciation (appraisal)', definition: 'Loss in value from physical, functional, or external causes.', category: 'national' },
-  { term: 'Discount points', definition: 'Prepaid interest. 1 point = 1% of loan. Lowers rate.', category: 'finance' },
-  { term: 'DROA', definition: 'Deposit Receipt Offer and Acceptance — Hawaii standard residential purchase form.', category: 'hawaii' },
-  { term: 'Dual agency', definition: 'One agent represents both buyer and seller. Requires written informed consent.', category: 'agency' },
-  { term: 'DUST', definition: 'Demand, Utility, Scarcity, Transferability. Four characteristics required for value.', category: 'national' },
-  { term: 'Earnest money', definition: 'Buyer\'s good-faith deposit, typically held by escrow.', category: 'contracts' },
-  { term: 'Easement', definition: 'Right to use another\'s land. Appurtenant runs with land; in gross is personal.', category: 'national' },
-  { term: 'ECOA', definition: 'Equal Credit Opportunity Act. Bans lending discrimination.', category: 'finance' },
-  { term: 'Emblements', definition: 'Tenant\'s annual crops; treated as personal property.', category: 'national' },
-  { term: 'Eminent domain', definition: 'Government power to take private property for public use with just compensation.', category: 'national' },
-  { term: 'Encroachment', definition: 'Unauthorized physical intrusion onto another\'s property.', category: 'national' },
-  { term: 'Encumbrance', definition: 'Non-possessory claim affecting property (lien, easement, restriction).', category: 'national' },
-  { term: 'Equity', definition: 'Property value minus liens.', category: 'finance' },
-  { term: 'Escheat', definition: 'Property reverts to state when owner dies intestate with no heirs.', category: 'national' },
-  { term: 'Escrow', definition: 'Neutral third party holding funds + documents until conditions met.', category: 'national' },
-  { term: 'Estate', definition: 'Interest in land. Includes fee simple, life estate, leasehold.', category: 'national' },
-  { term: 'Estoppel', definition: 'Bar against asserting a position contrary to one\'s prior conduct.', category: 'contracts' },
-  { term: 'Exclusive Agency Listing', definition: 'Broker earns commission unless seller produces buyer.', category: 'agency' },
-  { term: 'Exclusive Right to Sell', definition: 'Broker earns regardless of who finds buyer.', category: 'agency' },
-  { term: 'Fair Housing Act', definition: 'Federal law banning housing discrimination on 7 protected classes.', category: 'national' },
-  { term: 'Fee simple absolute', definition: 'Greatest possible ownership interest. Perpetual, inheritable, unconditional.', category: 'national' },
-  { term: 'FHA', definition: 'Federal Housing Administration. Insures low-down-payment loans.', category: 'finance' },
-  { term: 'Fiduciary', definition: 'Person owing duties of trust (care, loyalty, etc.).', category: 'agency' },
-  { term: 'FIRPTA', definition: 'Federal Foreign Investment in Real Property Tax Act. 15% withholding on foreign sellers.', category: 'finance' },
-  { term: 'Fixture', definition: 'Item that has become real property by attachment, adaptation, or intent.', category: 'national' },
-  { term: 'Foreclosure', definition: 'Lender\'s remedy on default. Judicial or non-judicial.', category: 'finance' },
-  { term: 'Fraud', definition: 'Intentional misrepresentation of material fact causing harm.', category: 'contracts' },
-  { term: 'Freehold estate', definition: 'Indeterminate-duration estate (fee, life estate). Contrast leasehold.', category: 'national' },
-  { term: 'GET', definition: 'Hawaii General Excise Tax. Applies to real estate commissions and rents.', category: 'hawaii' },
-  { term: 'GIM', definition: 'Gross Income Multiplier. Sale Price ÷ Annual Gross Income.', category: 'math' },
-  { term: 'Grantor / Grantee', definition: 'Grantor = transferor. Grantee = recipient.', category: 'title' },
-  { term: 'GRM', definition: 'Gross Rent Multiplier. Sale Price ÷ Monthly Gross Rent.', category: 'math' },
-  { term: 'HARPTA', definition: 'Hawaii Real Property Tax Act. 7.25% withholding on non-resident seller.', category: 'hawaii' },
-  { term: 'Highest and best use', definition: 'Legally permissible, physically possible, financially feasible, maximally productive use.', category: 'national' },
-  { term: 'HOA', definition: 'Homeowners Association. Manages common-interest community.', category: 'national' },
-  { term: 'HRS 467', definition: 'Hawaii Real Estate Brokers and Salespersons statute.', category: 'hawaii' },
-  { term: 'HRS 514B', definition: 'Hawaii modern Condominium Property Act.', category: 'hawaii' },
-  { term: 'HRS 521', definition: 'Hawaii Residential Landlord-Tenant Code.', category: 'hawaii' },
-  { term: 'HRS 508D', definition: 'Hawaii Mandatory Seller Disclosures statute.', category: 'hawaii' },
-  { term: 'HRS 515', definition: 'Hawaii state fair housing statute. Adds classes beyond federal.', category: 'hawaii' },
-  { term: 'Hui', definition: 'Traditional Hawaiian co-ownership of land, often family-held.', category: 'hawaii' },
-  { term: 'Hypothecation', definition: 'Pledging property as security without giving up possession.', category: 'finance' },
-  { term: 'Implied agency', definition: 'Agency created by parties\' conduct without express agreement.', category: 'agency' },
-  { term: 'In-gross easement', definition: 'Easement held by a person, not attached to a specific parcel.', category: 'national' },
-  { term: 'Joint tenancy', definition: 'Co-ownership with right of survivorship. Requires four unities.', category: 'national' },
-  { term: 'Land Court', definition: 'Hawaii\'s Torrens-style registered title system. TCT is conclusive.', category: 'hawaii' },
-  { term: 'Latent defect', definition: 'Hidden defect not discoverable on reasonable inspection.', category: 'national' },
-  { term: 'Lease', definition: 'Contract transferring possession + use for term in exchange for rent.', category: 'contracts' },
-  { term: 'Leasehold estate', definition: 'Tenant\'s right to possess and use property for term.', category: 'national' },
-  { term: 'Lessor / Lessee', definition: 'Landlord / Tenant.', category: 'national' },
-  { term: 'Lien', definition: 'Monetary encumbrance attaching to property as security for debt.', category: 'national' },
-  { term: 'Life estate', definition: 'Ownership for duration of measuring life. Reverts to remainderman.', category: 'national' },
-  { term: 'Liquidated damages', definition: 'Pre-agreed damages amount. Often the earnest money in real estate.', category: 'contracts' },
-  { term: 'Listing agreement', definition: 'Contract creating broker-seller relationship.', category: 'agency' },
-  { term: 'LTV', definition: 'Loan-to-Value. Loan ÷ Value. PMI required above 80% conventional.', category: 'finance' },
-  { term: 'Marketable title', definition: 'Title free of significant clouds, acceptable to a reasonable buyer.', category: 'title' },
-  { term: 'Material fact', definition: 'Fact a reasonable buyer/seller would consider important.', category: 'national' },
-  { term: 'Mechanic\'s lien', definition: 'Contractor/supplier lien for unpaid work or materials. HRS 507 in Hawaii.', category: 'hawaii' },
-  { term: 'Megan\'s Law', definition: 'Sex offender registration disclosure. State-specific agent duty rules.', category: 'national' },
-  { term: 'Mill rate', definition: 'Property tax rate. Tax = Assessed Value × (mills ÷ 1,000).', category: 'math' },
-  { term: 'Misrepresentation', definition: 'False statement of material fact. Innocent, negligent, or fraudulent.', category: 'agency' },
-  { term: 'Mortgage', definition: 'Security instrument creating lender\'s lien on property.', category: 'finance' },
-  { term: 'Net listing', definition: 'Broker keeps amount above seller\'s minimum. Disfavored or banned.', category: 'agency' },
-  { term: 'NOI', definition: 'Net Operating Income. Gross Income − Vacancy − Operating Expenses.', category: 'math' },
-  { term: 'Novation', definition: 'Substitution of new party or new contract by mutual agreement.', category: 'contracts' },
-  { term: 'Offer', definition: 'Definite proposal communicated with intent to be bound on acceptance.', category: 'contracts' },
-  { term: 'Option contract', definition: 'Right (not obligation) to buy at stated price within stated time.', category: 'contracts' },
-  { term: 'Patent defect', definition: 'Obvious defect visible on reasonable inspection.', category: 'national' },
-  { term: 'Periodic tenancy', definition: 'Lease that renews automatically (month-to-month).', category: 'national' },
-  { term: 'PITI', definition: 'Principal, Interest, Taxes, Insurance. Total monthly housing payment.', category: 'finance' },
-  { term: 'PMI', definition: 'Private Mortgage Insurance. Required above 80% LTV conventional.', category: 'finance' },
-  { term: 'PMM', definition: 'Purchase Money Mortgage. Seller-financed mortgage at sale.', category: 'finance' },
-  { term: 'Police power', definition: 'Government authority to regulate for health, safety, welfare. Source of zoning.', category: 'national' },
-  { term: 'Power of attorney', definition: 'Written authority for another to act for you.', category: 'agency' },
-  { term: 'Prepayment penalty', definition: 'Fee for paying off loan early. Restricted on most owner-occupied mortgages.', category: 'finance' },
-  { term: 'Principal', definition: '(1) Loan amount. (2) Person agent represents.', category: 'finance' },
-  { term: 'Probate', definition: 'Court process administering deceased\'s estate.', category: 'title' },
-  { term: 'Procuring cause', definition: 'Origin of unbroken chain producing sale. Determines commission entitlement.', category: 'agency' },
-  { term: 'Property management', definition: 'General agency: collect rents, maintain property, handle tenants.', category: 'agency' },
-  { term: 'Proration', definition: 'Splitting shared expenses at closing.', category: 'math' },
-  { term: 'PUD', definition: 'Planned Unit Development. Own lot + share in common areas.', category: 'national' },
-  { term: 'Puffing', definition: 'Subjective sales talk. Not actionable as misrepresentation.', category: 'agency' },
-  { term: 'Quitclaim deed', definition: 'Conveys whatever interest grantor has. No warranties.', category: 'title' },
-  { term: 'Real Estate Commission (REC)', definition: 'Hawaii regulator. Sets rules, investigates, disciplines licensees.', category: 'hawaii' },
-  { term: 'Real property', definition: 'Land + permanent attachments + ownership rights.', category: 'national' },
-  { term: 'Recording', definition: 'Filing document with county recorder. Provides constructive notice.', category: 'title' },
-  { term: 'Redlining', definition: 'Refusing to lend/insure in protected-class areas. Illegal.', category: 'national' },
-  { term: 'Rescission', definition: 'Termination of contract returning parties to pre-contract position.', category: 'contracts' },
-  { term: 'RESPA', definition: 'Real Estate Settlement Procedures Act. Loan Estimate + Closing Disclosure rules.', category: 'finance' },
-  { term: 'Reverse mortgage', definition: 'Loan against home equity for seniors. Repaid when borrower dies/moves/sells.', category: 'finance' },
-  { term: 'Riparian rights', definition: 'Rights of owner of land bordering a watercourse.', category: 'national' },
-  { term: 'Salesperson license', definition: 'Hawaii entry-level license. 18+, 60-hr course, PSI exam, sponsoring broker.', category: 'hawaii' },
-  { term: 'Sellers market', definition: 'Demand exceeds supply; prices rise.', category: 'national' },
-  { term: 'Setback', definition: 'Required distance between structure and property line.', category: 'national' },
-  { term: 'Severalty', definition: 'Sole ownership by one person or entity.', category: 'national' },
-  { term: 'SMA', definition: 'Special Management Area. Hawaii coastal-zone regulation.', category: 'hawaii' },
-  { term: 'Specific performance', definition: 'Court orders actual conveyance. Buyer\'s remedy for seller breach.', category: 'contracts' },
-  { term: 'Spot zoning', definition: 'Singling out one parcel for different treatment. Generally unconstitutional.', category: 'national' },
-  { term: 'Statute of Frauds', definition: 'Real estate contracts must be in writing.', category: 'contracts' },
-  { term: 'Steering', definition: 'Channeling buyers based on protected class. Fair housing violation.', category: 'national' },
-  { term: 'Stigmatized property', definition: 'Property with non-physical issue (death, crime). Disclosure rules vary by state.', category: 'national' },
-  { term: 'Subagency', definition: 'Agent\'s authority delegated to another agent.', category: 'agency' },
-  { term: 'Subdivision', definition: 'Division of land into lots for sale or development.', category: 'national' },
-  { term: 'Subordination', definition: 'Voluntarily lowering lien priority to allow new senior lien.', category: 'finance' },
-  { term: 'Survey', definition: 'Professional measurement and mapping of parcel boundaries.', category: 'national' },
-  { term: 'TCT', definition: 'Transfer Certificate of Title. Hawaii Land Court conclusive title document.', category: 'hawaii' },
-  { term: 'Tenancy at will', definition: 'Lease terminable by either party at any time.', category: 'national' },
-  { term: 'Tenancy by the entirety', definition: 'Spousal co-ownership with survivorship + creditor protection.', category: 'national' },
-  { term: 'Tenancy in common', definition: 'Co-ownership with separate inheritable shares. No survivorship.', category: 'national' },
-  { term: 'Time is of the essence', definition: 'Deadlines strictly enforced. Late performance = breach.', category: 'contracts' },
-  { term: 'Time share', definition: 'Right to occupy unit for set period each year.', category: 'national', hawaiiNote: 'HRS 514E governs disclosures and 7-day rescission.' },
-  { term: 'Title insurance', definition: 'Protects against title defects existing at closing.', category: 'title' },
-  { term: 'TMK', definition: 'Tax Map Key. Hawaii\'s parcel ID: Zone-Section-Plat-Parcel(-CPR).', category: 'hawaii' },
-  { term: 'Trust account', definition: 'Separate account for client/customer funds. No commingling.', category: 'agency' },
-  { term: 'Truth in Lending Act / Reg Z', definition: 'Federal law requiring APR disclosure and standardized loan cost format.', category: 'finance' },
-  { term: 'Unilateral contract', definition: 'One party makes a promise; other accepts by performance (e.g., reward).', category: 'contracts' },
-  { term: 'Universal agent', definition: 'Authority to act in all matters. Power of attorney.', category: 'agency' },
-  { term: 'Usury', definition: 'Charging interest above legal cap. HRS 478 in Hawaii.', category: 'hawaii' },
-  { term: 'VA loan', definition: 'Veterans Affairs guaranteed loan. No PMI; often no down payment.', category: 'finance' },
-  { term: 'Variance', definition: 'Narrow exception to zoning for unique hardship.', category: 'national' },
-  { term: 'Voidable contract', definition: 'Contract one party can elect to void (e.g., minor\'s contract).', category: 'contracts' },
-  { term: 'Warrantable condo', definition: 'Project meeting Fannie/Freddie standards. Easier to finance.', category: 'finance' },
-  { term: 'Warranty deed', definition: 'Deed with grantor warranties of title quality.', category: 'title' },
-  { term: 'Zoning', definition: 'Public regulation dividing land into use districts.', category: 'national' },
-
-  // ─── Property / Ownership (estates, tenancies, ownership forms) ───
-  { term: 'Estate in fee simple', definition: 'Highest form of ownership — indefinite duration, freely transferable, inheritable.', category: 'property' },
-  { term: 'Fee simple defeasible', definition: 'Fee ownership that can be lost if a condition occurs or is violated.', category: 'property' },
-  { term: 'Life estate', definition: 'Ownership for the lifetime of a named person; reverts to grantor or remainderman at death.', category: 'property' },
-  { term: 'Remainderman', definition: 'Party who receives a life estate property after the life tenant dies.', category: 'property' },
-  { term: 'Reversionary interest', definition: 'Grantor\'s right to get the property back after a life estate ends.', category: 'property' },
-  { term: 'Leasehold estate', definition: 'Tenant\'s right to possess property for a fixed term. Common in Hawaii.', category: 'property', hawaiiNote: 'Land owned by trust, tenant owns improvements; lease eventually expires.' },
-  { term: 'Estate for years', definition: 'Lease with definite start and end date. Auto-terminates; no notice required.', category: 'property' },
-  { term: 'Periodic tenancy', definition: 'Lease that auto-renews each period (month-to-month) until proper notice given.', category: 'property' },
-  { term: 'Tenancy at will', definition: 'Lease terminable by either party with proper notice; no fixed term.', category: 'property' },
-  { term: 'Tenancy at sufferance', definition: 'Tenant holds over after lease ends without landlord consent.', category: 'property' },
-  { term: 'Tenancy in common', definition: 'Co-ownership with no right of survivorship; each owner may will their share.', category: 'property' },
-  { term: 'Joint tenancy', definition: 'Co-ownership with right of survivorship; requires 4 unities (time, title, interest, possession).', category: 'property' },
-  { term: 'Tenancy by the entirety', definition: 'Joint tenancy between spouses with extra creditor protection. Recognized in Hawaii.', category: 'property', hawaiiNote: 'HRS 509-2 — Hawaii recognizes this for married couples.' },
-  { term: 'Community property', definition: 'Spousal co-ownership of property acquired during marriage. NOT a Hawaii concept.', category: 'property', hawaiiNote: 'Hawaii is a common-law state, not community property.' },
-  { term: 'Severalty', definition: 'Sole ownership by one person or entity. "Severed" from any other ownership.', category: 'property' },
-  { term: 'Time-share', definition: 'Ownership of intervals of use, typically in resort property. Heavily regulated in Hawaii.', category: 'property', hawaiiNote: 'HRS 514E requires 7-day rescission period for buyers.' },
-  { term: 'Condominium', definition: 'Ownership of an air-space unit plus undivided interest in common elements.', category: 'property' },
-  { term: 'Cooperative (co-op)', definition: 'Ownership of stock in a corporation that owns the building; resident gets proprietary lease.', category: 'property' },
-  { term: 'Planned Unit Development (PUD)', definition: 'Combination of individual unit ownership + shared common areas governed by HOA.', category: 'property' },
-  { term: 'CC&Rs', definition: 'Covenants, Conditions & Restrictions — private deed restrictions running with the land.', category: 'property' },
-
-  // ─── Fair Housing (federal Act + Hawaii additions) ───
-  { term: 'Fair Housing Act', definition: 'Federal law (Title VIII of Civil Rights Act of 1968) prohibiting discrimination in housing.', category: 'fair-housing' },
-  { term: 'Protected classes (federal)', definition: 'Race, color, religion, national origin, sex, familial status, disability. Seven federal classes.', category: 'fair-housing' },
-  { term: 'Hawaii protected classes', definition: 'Federal 7 + ancestry, marital status, age, sexual orientation, gender identity, HIV status, source of income.', category: 'fair-housing', hawaiiNote: 'HRS 515 — Hawaii\'s additions are some of the broadest in the country.' },
-  { term: 'Steering', definition: 'Directing prospects to or away from neighborhoods based on protected-class membership. Illegal.', category: 'fair-housing' },
-  { term: 'Redlining', definition: 'Refusing to lend or insure in certain neighborhoods based on demographics. Illegal.', category: 'fair-housing' },
-  { term: 'Reasonable accommodation', definition: 'Required adjustment to rules/policies so a disabled person can equally use housing (e.g., service animal in no-pet building).', category: 'fair-housing' },
-  { term: 'Reasonable modification', definition: 'Required structural change a disabled tenant may make (at their cost) to use housing.', category: 'fair-housing' },
-  { term: 'Mrs. Murphy exemption', definition: 'Owner-occupied 1-4 unit dwelling — limited federal Fair Housing exemption. Hawaii doesn\'t honor it.', category: 'fair-housing', hawaiiNote: 'HRS 515 has no Mrs. Murphy carve-out; small landlords here must still comply.' },
-  { term: 'Familial status', definition: 'Households with children under 18, pregnant women, or those securing custody. Protected federally + in Hawaii.', category: 'fair-housing' },
-  { term: 'Disparate impact', definition: 'Neutral policy that disproportionately harms a protected class. Can be discrimination even without intent.', category: 'fair-housing' },
-  { term: 'HUD', definition: 'Department of Housing and Urban Development — federal agency enforcing Fair Housing Act.', category: 'fair-housing' },
-  { term: 'HCRC', definition: 'Hawaii Civil Rights Commission — state agency enforcing HRS 515 fair housing.', category: 'fair-housing', hawaiiNote: 'Files most state-level housing-discrimination complaints.' },
-
-  // ─── Land Use / Zoning / Encumbrances ───
-  { term: 'Easement appurtenant', definition: 'Easement that benefits a neighboring (dominant) parcel; runs with the land.', category: 'land-use' },
-  { term: 'Easement in gross', definition: 'Easement benefiting a person or entity, not adjacent land (e.g., utility easement).', category: 'land-use' },
-  { term: 'Prescriptive easement', definition: 'Easement acquired by open, notorious, continuous use for the statutory period (similar to adverse possession but use, not ownership).', category: 'land-use' },
-  { term: 'License (land use)', definition: 'Permission to use land for a specific purpose; revocable at will.', category: 'land-use' },
-  { term: 'Encroachment', definition: 'Improvement (fence, structure) extending past the property line onto a neighbor.', category: 'land-use' },
-  { term: 'Encumbrance', definition: 'Any claim, lien, or restriction limiting full use or transfer (e.g., mortgage, easement).', category: 'land-use' },
-  { term: 'Police power', definition: 'Government\'s right to regulate land use for health, safety, welfare. Source of zoning.', category: 'land-use' },
-  { term: 'Eminent domain', definition: 'Government\'s power to take private property for public use with just compensation.', category: 'land-use' },
-  { term: 'Condemnation', definition: 'Process of exercising eminent domain — court action transferring title to government.', category: 'land-use' },
-  { term: 'Escheat', definition: 'Property reverts to state when owner dies with no will and no legal heirs.', category: 'land-use' },
-  { term: 'Spot zoning', definition: 'Illegal practice of singling out one parcel for different zoning than surrounding area.', category: 'land-use' },
-  { term: 'Nonconforming use', definition: 'Existing use that no longer matches current zoning but is allowed to continue (grandfathered).', category: 'land-use' },
-  { term: 'Conditional use permit', definition: 'Permission for a use not permitted by right in the zone, subject to conditions.', category: 'land-use' },
-  { term: 'Setback', definition: 'Minimum distance a structure must be from a property line.', category: 'land-use' },
-  { term: 'Lateral support', definition: 'Right to have land supported by neighboring land in its natural state.', category: 'land-use' },
-  { term: 'Riparian rights', definition: 'Rights of land abutting a flowing watercourse (river, stream).', category: 'land-use' },
-  { term: 'Littoral rights', definition: 'Rights of land abutting a non-flowing body of water (lake, ocean). Relevant in Hawaii.', category: 'land-use', hawaiiNote: 'Hawaii\'s public-trust doctrine retains state title to land below the high-water mark.' },
-  { term: 'Special Management Area (SMA)', definition: 'Hawaii coastal zone with extra permitting requirements. Restricts shoreline development.', category: 'land-use', hawaiiNote: 'HRS 205A — protects shoreline; permits required for most coastal projects.' },
-  { term: 'Land Use Commission (LUC)', definition: 'Hawaii body that classifies all state land into Urban, Rural, Agricultural, Conservation districts.', category: 'land-use', hawaiiNote: 'HRS 205 — district boundary changes require LUC approval.' },
-
-  // ─── Closing / Settlement / RESPA / TILA ───
-  { term: 'RESPA', definition: 'Real Estate Settlement Procedures Act — federal law requiring closing disclosures, prohibiting kickbacks.', category: 'closing' },
-  { term: 'TILA', definition: 'Truth in Lending Act — requires lender disclosure of APR, finance charge, total loan cost.', category: 'closing' },
-  { term: 'TRID', definition: 'TILA-RESPA Integrated Disclosure rule — combined Loan Estimate + Closing Disclosure forms.', category: 'closing' },
-  { term: 'Loan Estimate', definition: 'TRID form lender must provide within 3 business days of application. Lists costs + terms.', category: 'closing' },
-  { term: 'Closing Disclosure', definition: 'Final TRID form buyer must receive at least 3 business days before closing.', category: 'closing' },
-  { term: 'Escrow', definition: 'Neutral third party holding funds and documents until closing conditions are met.', category: 'closing', hawaiiNote: 'Hawaii closings use escrow officers — not attorneys — to coordinate.' },
-  { term: 'Settlement statement', definition: 'Itemized list of all debits and credits for buyer and seller at closing.', category: 'closing' },
-  { term: 'Proration', definition: 'Splitting an expense between buyer and seller based on time-of-ownership during the period.', category: 'closing' },
-  { term: 'Credit (closing)', definition: 'Amount that reduces what a party owes — buyer credit from seller for repairs, etc.', category: 'closing' },
-  { term: 'Debit (closing)', definition: 'Amount a party owes at closing — buyer\'s purchase price + buyer\'s closing costs, etc.', category: 'closing' },
-  { term: 'Earnest money', definition: 'Buyer\'s good-faith deposit held in escrow until closing. Credited toward purchase or forfeited on breach.', category: 'closing' },
-  { term: 'Conveyance tax (Hawaii)', definition: 'Hawaii state tax on real estate transfers. Rate varies by sale price + buyer\'s primary residence status.', category: 'closing', hawaiiNote: 'HRS 247 — paid by seller unless contract says otherwise. Rates from $0.10 to $1.25 per $100.' },
-  { term: 'HARPTA', definition: 'Hawaii Real Property Tax Act — withholds 7.25% of sale price when seller is non-resident. Refundable when actual tax is lower.', category: 'closing', hawaiiNote: 'HRS 235-68 — ensures Hawaii collects tax from non-resident sellers at closing.' },
-  { term: 'FIRPTA', definition: 'Federal foreign-seller withholding — typically 15% of sale price withheld for IRS.', category: 'closing' },
-  { term: 'Title insurance', definition: 'Indemnity policy protecting against title defects discovered after closing. Owner\'s + lender\'s versions.', category: 'closing' },
-  { term: 'ALTA policy', definition: 'American Land Title Association standardized title insurance form. Extended coverage.', category: 'closing' },
-  { term: 'Chain of title', definition: 'Sequential history of ownership transfers from earliest record to present.', category: 'closing' },
-  { term: 'Marketable title', definition: 'Title reasonably free of defects that a prudent buyer would accept.', category: 'closing' },
-  { term: 'Cloud on title', definition: 'Outstanding claim or defect that impairs marketability of title.', category: 'closing' },
-  { term: 'Quiet title action', definition: 'Lawsuit to remove clouds on title and establish clear ownership.', category: 'closing' },
-
-  // ─── Property Management ───
-  { term: 'Property management agreement', definition: 'Written contract authorizing a manager to operate property for owner. Creates general agency.', category: 'management' },
-  { term: 'Trust account (PM)', definition: 'Separate account where property managers hold rents + deposits. Commingling is illegal.', category: 'management', hawaiiNote: 'HRS 467 requires separate broker trust accounts; misuse = license revocation.' },
-  { term: 'Security deposit (Hawaii)', definition: 'Hawaii caps residential at 1 month\'s rent. Must be returned within 14 days with itemized deductions.', category: 'management', hawaiiNote: 'HRS 521-44 — 14 days, not 30.' },
-  { term: 'Eviction (Hawaii)', definition: 'Hawaii residential evictions follow HRS 666 — proper notice, then court summary possession.', category: 'management', hawaiiNote: '5 days for non-payment, 10 days for other breaches.' },
-  { term: 'Constructive eviction', definition: 'Landlord conduct so severe tenant must leave; treated legally as eviction.', category: 'management' },
-  { term: 'Habitability (warranty of)', definition: 'Landlord must keep residence fit for living. Implied in every Hawaii lease.', category: 'management', hawaiiNote: 'HRS 521-42 codifies implied warranty of habitability.' },
-  { term: 'Sublease', definition: 'Tenant rents some or all of leasehold to a third party while remaining liable to landlord.', category: 'management' },
-  { term: 'Assignment of lease', definition: 'Tenant transfers entire remaining lease term to a new tenant. New tenant becomes liable to landlord.', category: 'management' },
-  { term: 'CAM charges', definition: 'Common Area Maintenance — tenant pays share of shared-area costs in commercial leases.', category: 'management' },
-  { term: 'Gross lease', definition: 'Tenant pays one flat rent; landlord pays taxes, insurance, maintenance.', category: 'management' },
-  { term: 'Net lease', definition: 'Tenant pays rent + some property expenses. Triple-net (NNN) = tenant pays taxes, insurance, AND maintenance.', category: 'management' },
-  { term: 'Percentage lease', definition: 'Rent = base + % of tenant\'s gross sales. Common in retail.', category: 'management' },
-
-  // ─── Investment Real Estate ───
-  { term: 'Capitalization rate (cap rate)', definition: 'Net operating income ÷ purchase price. Quick measure of investment return.', category: 'investment' },
-  { term: 'Net Operating Income (NOI)', definition: 'Gross income − vacancy − operating expenses. Excludes debt service + taxes.', category: 'investment' },
-  { term: 'Gross rent multiplier (GRM)', definition: 'Price ÷ annual gross rent. Crude valuation shortcut.', category: 'investment' },
-  { term: 'Cash-on-cash return', definition: 'Annual pre-tax cash flow ÷ cash invested. Measures leveraged return.', category: 'investment' },
-  { term: 'Leverage', definition: 'Using borrowed funds to amplify returns on invested capital.', category: 'investment' },
-  { term: 'Depreciation (tax)', definition: 'IRS deduction for wear on improvements. Residential = 27.5 yrs straight-line; commercial = 39 yrs.', category: 'investment' },
-  { term: '1031 exchange', definition: 'IRC § 1031 — defer capital gains by exchanging like-kind investment properties within 180 days.', category: 'investment' },
-  { term: 'Boot', definition: 'Non-like-kind consideration received in a 1031 exchange. Taxable.', category: 'investment' },
-  { term: 'Adjusted basis', definition: 'Purchase price + capital improvements − depreciation. Used to compute capital gain.', category: 'investment' },
-  { term: 'Capital gain', definition: 'Profit on sale of investment property. Long-term = held > 1 year, lower tax rate.', category: 'investment' },
-  { term: 'Operating expense ratio', definition: 'Operating expenses ÷ effective gross income. Lower = more efficient property.', category: 'investment' },
-  { term: 'Vacancy and credit loss', definition: 'Estimated lost income from empty units + tenants who don\'t pay. Deducted to find effective gross income.', category: 'investment' },
-
-  // ─── Math (expanded — PSI is ~10% math, deck was too thin) ───
-  { term: 'Commission split', definition: 'Total commission divided among listing broker, listing agent, selling broker, selling agent per agreements.', category: 'math' },
-  { term: 'Loan-to-value (LTV)', definition: 'Loan amount ÷ appraised value. Lenders use this for risk + PMI thresholds.', category: 'math' },
-  { term: 'Debt-to-income (DTI)', definition: 'Monthly debt payments ÷ gross monthly income. Lender qualification ratio.', category: 'math' },
-  { term: 'Front-end ratio', definition: 'Housing payment (PITI) ÷ gross income. Typically capped near 28-31% for conventional.', category: 'math' },
-  { term: 'Back-end ratio', definition: 'Total debt payments ÷ gross income. Typically capped near 36-43% depending on loan program.', category: 'math' },
-  { term: 'Point (discount)', definition: '1% of loan amount, paid at closing to buy down interest rate.', category: 'math' },
-  { term: 'Mill / millage rate', definition: '1/1000 of $1. Property tax expressed as mills per $1 of assessed value.', category: 'math' },
-  { term: 'Square foot pricing', definition: 'Sale price ÷ living-area square feet. Used in comparative market analysis.', category: 'math' },
-  { term: 'PITI', definition: 'Principal, Interest, Taxes, Insurance — the four components of a typical mortgage payment.', category: 'math' },
-  { term: 'Hectare', definition: '10,000 square meters ≈ 2.471 acres. Occasionally appears in Hawaii survey work.', category: 'math' },
-  { term: 'Section (survey)', definition: '1 square mile = 640 acres in the federal rectangular survey system.', category: 'math' },
-  { term: 'Township (survey)', definition: '36 sections = 36 square miles in the rectangular survey system.', category: 'math' },
-  { term: '1031 timeline', definition: '45 days to identify replacement, 180 days total to close. Strict — no extensions.', category: 'math' },
-
-  // ─── Hawaii (additional state-specific terms) ───
-  { term: 'Real Estate Commission (REC)', definition: 'Hawaii agency licensing brokers/salespersons and enforcing real estate law. Under DCCA.', category: 'hawaii', hawaiiNote: 'HRS 467 establishes the commission and its rule-making authority.' },
-  { term: 'DCCA', definition: 'Department of Commerce and Consumer Affairs — Hawaii umbrella agency over REC.', category: 'hawaii' },
-  { term: 'PB (Principal Broker)', definition: 'Hawaii broker designated to supervise a firm. Required by HRS 467.', category: 'hawaii', hawaiiNote: 'Every Hawaii brokerage must have one designated PB.' },
-  { term: 'BIC (Broker In Charge)', definition: 'Broker designated to manage a specific branch office.', category: 'hawaii' },
-  { term: 'RB / RS license', definition: 'Hawaii license abbreviations: RB = Real Estate Broker; RS = Real Estate Salesperson.', category: 'hawaii' },
-  { term: 'Continuing education (Hawaii)', definition: 'Hawaii licensees need 20 hours CE per 2-year renewal cycle. Includes Core class.', category: 'hawaii', hawaiiNote: 'Specific Core topics vary by cycle — published by REC.' },
-  { term: 'Recovery Fund', definition: 'Hawaii fund paying judgments against licensees who can\'t pay. Funded by license fees.', category: 'hawaii', hawaiiNote: 'HRS 467-16 — max $25K per transaction, $50K per licensee.' },
-  { term: 'Earnest Money Deposit (EMD) handling', definition: 'Hawaii brokers must deposit EMD into trust within 5 business days of acceptance.', category: 'hawaii', hawaiiNote: 'Late deposit = license discipline.' },
-  { term: 'Mandatory Seller\'s Disclosure', definition: 'Hawaii sellers must provide Sellers Real Property Disclosure Statement (SRPDS) within timeframes.', category: 'hawaii', hawaiiNote: 'HRS 508D — disclosure must be material, accurate, signed.' },
-  { term: 'Land Court system', definition: 'Hawaii\'s Torrens-style registration system. Title certificates conclusive. Use BoC for Regular System.', category: 'hawaii', hawaiiNote: 'Land Court parcels have a TCT number — title is guaranteed by the state.' },
-  { term: 'Lava zone', definition: 'USGS classification 1-9 of volcanic hazard risk. Lower number = higher risk. Affects insurance.', category: 'hawaii', hawaiiNote: 'Hawaii sellers must disclose lava zone on Big Island parcels.' },
-  { term: 'Sea level rise zone', definition: 'Hawaii planning overlay flagging properties at risk from coastal flooding by 2050+. Disclosure may apply.', category: 'hawaii' },
-  { term: 'Agricultural disclosure (Hawaii)', definition: 'Required notice for properties in or near agricultural-use districts. Pesticide / odor / equipment noise.', category: 'hawaii' },
-  { term: 'Solar water heater requirement', definition: 'Hawaii law requires solar water heaters on most new single-family construction since 2010.', category: 'hawaii', hawaiiNote: 'HRS 196-6.5 — variance available but rarely granted.' },
-
-  // ─── Title (expanded — recording, deeds, defects) ───
-  { term: 'Bargain and sale deed', definition: 'Conveys title without warranties; implies grantor owns but no guarantees.', category: 'title' },
-  { term: 'Quitclaim deed', definition: 'Conveys whatever interest grantor has (if any) — no warranties at all.', category: 'title' },
-  { term: 'Grant deed', definition: 'Implies two warranties: grantor hasn\'t conveyed to anyone else, and property is unencumbered.', category: 'title' },
-  { term: 'Sheriff\'s deed', definition: 'Deed issued by court after judicial foreclosure or execution sale.', category: 'title' },
-  { term: 'Tax deed', definition: 'Deed issued after sale of property for unpaid taxes.', category: 'title' },
-  { term: 'Trustee\'s deed', definition: 'Deed issued by trustee after non-judicial foreclosure under power of sale.', category: 'title' },
-  { term: 'Habendum clause', definition: 'Deed clause defining the estate granted ("to have and to hold").', category: 'title' },
-  { term: 'Granting clause', definition: 'Deed clause naming grantor + grantee and stating intent to convey.', category: 'title' },
-  { term: 'Lis pendens', definition: 'Notice of pending lawsuit that may affect title. Recorded with the land record.', category: 'title' },
-  { term: 'Mechanics lien', definition: 'Lien on property for unpaid labor/materials. Must be filed within statutory window.', category: 'title' },
-  { term: 'Judgment lien', definition: 'Court judgment recorded against debtor\'s real property. General lien on all property in county.', category: 'title' },
-  { term: 'Estoppel certificate', definition: 'Written statement by party (often tenant or lender) that prevents later contradictory claims.', category: 'title' },
+  {
+    "term": "Acceleration clause",
+    "definition": "Mortgage provision allowing lender to demand full balance on default.",
+    "category": "finance"
+  },
+  {
+    "term": "Accretion",
+    "definition": "Gradual addition of soil to land by natural causes; the new soil belongs to the owner.",
+    "category": "national"
+  },
+  {
+    "term": "Acknowledgment",
+    "definition": "Notarized statement that signature was made voluntarily. Required for recording.",
+    "category": "title"
+  },
+  {
+    "term": "Acre",
+    "definition": "43,560 square feet.",
+    "category": "math"
+  },
+  {
+    "term": "Adjustable Rate Mortgage (ARM)",
+    "definition": "Loan with rate that adjusts on a schedule based on an index plus margin.",
+    "category": "finance"
+  },
+  {
+    "term": "Ad valorem tax",
+    "definition": "Tax based on assessed value (e.g., property tax).",
+    "category": "national"
+  },
+  {
+    "term": "Adverse possession",
+    "definition": "Acquiring title by open, notorious, hostile, continuous occupation for the statutory period.",
+    "category": "title"
+  },
+  {
+    "term": "Agency",
+    "definition": "Legal relationship where one person acts on behalf of another.",
+    "category": "agency"
+  },
+  {
+    "term": "Agreement of Sale (AOS)",
+    "definition": "Hawaii installment land contract; buyer occupies, seller holds title until paid.",
+    "category": "hawaii",
+    "hawaiiNote": "Common alternative to bank financing."
+  },
+  {
+    "term": "Alienation clause",
+    "definition": "Loan provision triggering due-on-sale on transfer.",
+    "category": "finance"
+  },
+  {
+    "term": "Amortization",
+    "definition": "Gradual loan repayment via periodic principal-and-interest payments.",
+    "category": "finance"
+  },
+  {
+    "term": "AOAO",
+    "definition": "Association of Apartment Owners — Hawaii term for condo HOA.",
+    "category": "hawaii"
+  },
+  {
+    "term": "APR",
+    "definition": "Annual Percentage Rate. Loan cost including interest + points + fees.",
+    "category": "finance"
+  },
+  {
+    "term": "Appraisal",
+    "definition": "Licensed appraiser's opinion of value. Required for federally related transactions.",
+    "category": "national"
+  },
+  {
+    "term": "Appurtenant",
+    "definition": "Attached to or running with the land (e.g., easement appurtenant).",
+    "category": "national"
+  },
+  {
+    "term": "Assessed value",
+    "definition": "Tax value placed on property by county assessor. Often less than market value.",
+    "category": "national"
+  },
+  {
+    "term": "Assignment",
+    "definition": "Transfer of contract rights to another party.",
+    "category": "contracts"
+  },
+  {
+    "term": "Attornment",
+    "definition": "Tenant's acknowledgment of new owner as landlord.",
+    "category": "national"
+  },
+  {
+    "term": "Bilateral contract",
+    "definition": "Both parties make promises to each other.",
+    "category": "contracts"
+  },
+  {
+    "term": "Blanket mortgage",
+    "definition": "One mortgage covering multiple parcels with partial release clause.",
+    "category": "finance"
+  },
+  {
+    "term": "Blockbusting",
+    "definition": "Inducing sales by representing protected-class entry. Fair housing violation.",
+    "category": "national"
+  },
+  {
+    "term": "BOC",
+    "definition": "Bureau of Conveyances — Hawaii's Regular System title office.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Bundle of rights",
+    "definition": "Set of legal rights of ownership: possess, use, enjoy, exclude, dispose.",
+    "category": "national"
+  },
+  {
+    "term": "Capacity",
+    "definition": "Legal ability to contract.",
+    "category": "contracts"
+  },
+  {
+    "term": "Capitalization rate",
+    "definition": "NOI ÷ Value. Higher rate = higher risk or lower price.",
+    "category": "math"
+  },
+  {
+    "term": "Caveat emptor",
+    "definition": "\"Let the buyer beware\" — largely supplanted by mandatory disclosure laws.",
+    "category": "national"
+  },
+  {
+    "term": "CC&Rs",
+    "definition": "Covenants, Conditions, and Restrictions. Private deed-based rules running with land.",
+    "category": "national"
+  },
+  {
+    "term": "CERCLA",
+    "definition": "Superfund. Federal hazardous-waste cleanup law with strict liability.",
+    "category": "national"
+  },
+  {
+    "term": "Chain of title",
+    "definition": "Recorded history of ownership. Gaps = clouds.",
+    "category": "title"
+  },
+  {
+    "term": "Closing Disclosure",
+    "definition": "Federal form summarizing loan terms + closing costs. Delivered 3 days before closing.",
+    "category": "finance"
+  },
+  {
+    "term": "Cloud on title",
+    "definition": "Defect or unresolved claim affecting marketability.",
+    "category": "title"
+  },
+  {
+    "term": "CMA",
+    "definition": "Comparative Market Analysis. Agent-prepared pricing recommendation.",
+    "category": "national"
+  },
+  {
+    "term": "COALD",
+    "definition": "Care, Obedience, Accounting, Loyalty, Disclosure. Five fiduciary duties.",
+    "category": "agency"
+  },
+  {
+    "term": "Commingling",
+    "definition": "Mixing trust funds with personal funds. License-law violation.",
+    "category": "agency"
+  },
+  {
+    "term": "Common elements",
+    "definition": "Condo property shared by all unit owners (lobby, pool, roof).",
+    "category": "hawaii"
+  },
+  {
+    "term": "Comparables (comps)",
+    "definition": "Recent sales used to estimate subject's value.",
+    "category": "national"
+  },
+  {
+    "term": "Condemnation",
+    "definition": "Government's exercise of eminent domain.",
+    "category": "national"
+  },
+  {
+    "term": "Conditional use",
+    "definition": "Use allowed in zone subject to specific conditions/permit.",
+    "category": "national"
+  },
+  {
+    "term": "Condominium",
+    "definition": "Fee ownership of unit + undivided interest in common elements.",
+    "category": "national"
+  },
+  {
+    "term": "Consideration",
+    "definition": "Something of value exchanged in a contract.",
+    "category": "contracts"
+  },
+  {
+    "term": "Contingency",
+    "definition": "Condition that must be met for contract to proceed.",
+    "category": "contracts"
+  },
+  {
+    "term": "Conversion",
+    "definition": "Using or misappropriating client trust funds for one’s own benefit. A license-law violation under HRS 467 that may also be criminal.",
+    "category": "agency"
+  },
+  {
+    "term": "Conveyance",
+    "definition": "Transfer of real property interest.",
+    "category": "title"
+  },
+  {
+    "term": "Conveyance tax",
+    "definition": "Hawaii state tax on real property transfers. Tiered rate.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Cooperative",
+    "definition": "Own shares in corporation that owns building + proprietary lease.",
+    "category": "national"
+  },
+  {
+    "term": "Counteroffer",
+    "definition": "Rejection + new offer. Cancels original.",
+    "category": "contracts"
+  },
+  {
+    "term": "Covenant",
+    "definition": "Promise running with land. Binds future owners.",
+    "category": "national"
+  },
+  {
+    "term": "CPR",
+    "definition": "Condominium Property Regime. Multiple units on one lot, each with TMK. Hawaii-specific.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Curtesy",
+    "definition": "At common law, a husband’s life interest in his deceased wife’s real property, historically conditioned on the birth of issue. Largely abolished today.",
+    "category": "national"
+  },
+  {
+    "term": "Datum",
+    "definition": "Reference point for elevation measurements.",
+    "category": "national"
+  },
+  {
+    "term": "DCCA",
+    "definition": "Hawaii Department of Commerce and Consumer Affairs. Oversees REC.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Dedication",
+    "definition": "Voluntary transfer of private land to public use.",
+    "category": "national"
+  },
+  {
+    "term": "Deed",
+    "definition": "Document transferring title from grantor to grantee.",
+    "category": "title"
+  },
+  {
+    "term": "Deed restriction",
+    "definition": "Private use restriction in deed. Runs with land.",
+    "category": "title"
+  },
+  {
+    "term": "Default",
+    "definition": "Failure to perform contract obligation.",
+    "category": "contracts"
+  },
+  {
+    "term": "Delivery",
+    "definition": "Transfer of deed with intent to convey. Required for valid transfer.",
+    "category": "title"
+  },
+  {
+    "term": "Depreciation (appraisal)",
+    "definition": "Loss in value from physical, functional, or external causes.",
+    "category": "national"
+  },
+  {
+    "term": "Discount points",
+    "definition": "Prepaid interest. 1 point = 1% of loan. Lowers rate.",
+    "category": "finance"
+  },
+  {
+    "term": "DROA",
+    "definition": "Deposit Receipt Offer and Acceptance — Hawaii standard residential purchase form.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Dual agency",
+    "definition": "One agent represents both buyer and seller. Requires written informed consent.",
+    "category": "agency"
+  },
+  {
+    "term": "DUST",
+    "definition": "Demand, Utility, Scarcity, Transferability. Four characteristics required for value.",
+    "category": "national"
+  },
+  {
+    "term": "Earnest money",
+    "definition": "Buyer's good-faith deposit, typically held by escrow.",
+    "category": "contracts"
+  },
+  {
+    "term": "Easement",
+    "definition": "Right to use another's land. Appurtenant runs with land; in gross is personal.",
+    "category": "national"
+  },
+  {
+    "term": "ECOA",
+    "definition": "Equal Credit Opportunity Act. Bans lending discrimination.",
+    "category": "finance"
+  },
+  {
+    "term": "Emblements",
+    "definition": "Tenant's annual crops; treated as personal property.",
+    "category": "national"
+  },
+  {
+    "term": "Eminent domain",
+    "definition": "Government power to take private property for public use with just compensation.",
+    "category": "national"
+  },
+  {
+    "term": "Encroachment",
+    "definition": "Unauthorized physical intrusion onto another's property.",
+    "category": "national"
+  },
+  {
+    "term": "Encumbrance",
+    "definition": "Non-possessory claim affecting property (lien, easement, restriction).",
+    "category": "national"
+  },
+  {
+    "term": "Equity",
+    "definition": "Property value minus liens.",
+    "category": "finance"
+  },
+  {
+    "term": "Escheat",
+    "definition": "Property reverts to state when owner dies intestate with no heirs.",
+    "category": "national"
+  },
+  {
+    "term": "Escrow",
+    "definition": "Neutral third party holding funds + documents until conditions met.",
+    "category": "national"
+  },
+  {
+    "term": "Estate",
+    "definition": "Interest in land. Includes fee simple, life estate, leasehold.",
+    "category": "national"
+  },
+  {
+    "term": "Estoppel",
+    "definition": "Bar against asserting a position contrary to one's prior conduct.",
+    "category": "contracts"
+  },
+  {
+    "term": "Exclusive Agency Listing",
+    "definition": "Broker earns commission unless seller produces buyer.",
+    "category": "agency"
+  },
+  {
+    "term": "Exclusive Right to Sell",
+    "definition": "Broker earns regardless of who finds buyer.",
+    "category": "agency"
+  },
+  {
+    "term": "Fair Housing Act",
+    "definition": "Federal law banning housing discrimination on 7 protected classes.",
+    "category": "national"
+  },
+  {
+    "term": "Fee simple absolute",
+    "definition": "Greatest possible ownership interest. Perpetual, inheritable, unconditional.",
+    "category": "national"
+  },
+  {
+    "term": "FHA",
+    "definition": "Federal Housing Administration. Insures low-down-payment loans.",
+    "category": "finance"
+  },
+  {
+    "term": "Fiduciary",
+    "definition": "Person owing duties of trust (care, loyalty, etc.).",
+    "category": "agency"
+  },
+  {
+    "term": "FIRPTA",
+    "definition": "Federal Foreign Investment in Real Property Tax Act. 15% withholding on foreign sellers.",
+    "category": "finance"
+  },
+  {
+    "term": "Fixture",
+    "definition": "Item that has become real property by attachment, adaptation, or intent.",
+    "category": "national"
+  },
+  {
+    "term": "Foreclosure",
+    "definition": "Lender's remedy on default. Judicial or non-judicial.",
+    "category": "finance"
+  },
+  {
+    "term": "Fraud",
+    "definition": "Intentional misrepresentation of material fact causing harm.",
+    "category": "contracts"
+  },
+  {
+    "term": "Freehold estate",
+    "definition": "Indeterminate-duration estate (fee, life estate). Contrast leasehold.",
+    "category": "national"
+  },
+  {
+    "term": "GET",
+    "definition": "Hawaii General Excise Tax. Applies to real estate commissions and rents.",
+    "category": "hawaii"
+  },
+  {
+    "term": "GIM",
+    "definition": "Gross Income Multiplier. Sale Price ÷ Annual Gross Income.",
+    "category": "math"
+  },
+  {
+    "term": "Grantor / Grantee",
+    "definition": "Grantor = transferor. Grantee = recipient.",
+    "category": "title"
+  },
+  {
+    "term": "GRM",
+    "definition": "Gross Rent Multiplier. Sale Price ÷ Monthly Gross Rent.",
+    "category": "math"
+  },
+  {
+    "term": "HARPTA",
+    "definition": "Hawai‘i Real Property Tax Act (HRS §235-68): a 7.25% withholding on the amount realized when a non-resident sells Hawai‘i real property — a prepayment of state income tax on the gain, distinct from the county real-property (ad valorem) tax.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Highest and best use",
+    "definition": "Legally permissible, physically possible, financially feasible, maximally productive use.",
+    "category": "national"
+  },
+  {
+    "term": "HOA",
+    "definition": "Homeowners Association. Manages common-interest community.",
+    "category": "national"
+  },
+  {
+    "term": "HRS 467",
+    "definition": "Hawaii Real Estate Brokers and Salespersons statute.",
+    "category": "hawaii"
+  },
+  {
+    "term": "HRS 514B",
+    "definition": "Hawaii modern Condominium Property Act.",
+    "category": "hawaii"
+  },
+  {
+    "term": "HRS 521",
+    "definition": "Hawaii Residential Landlord-Tenant Code.",
+    "category": "hawaii"
+  },
+  {
+    "term": "HRS 508D",
+    "definition": "Hawaii Mandatory Seller Disclosures statute.",
+    "category": "hawaii"
+  },
+  {
+    "term": "HRS 515",
+    "definition": "Hawaii state fair housing statute. Adds classes beyond federal.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Hui",
+    "definition": "Traditional Hawaiian co-ownership of land, often family-held.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Hypothecation",
+    "definition": "Pledging property as security without giving up possession.",
+    "category": "finance"
+  },
+  {
+    "term": "Implied agency",
+    "definition": "Agency created by parties' conduct without express agreement.",
+    "category": "agency"
+  },
+  {
+    "term": "In-gross easement",
+    "definition": "Easement held by a person, not attached to a specific parcel.",
+    "category": "national"
+  },
+  {
+    "term": "Joint tenancy",
+    "definition": "Co-ownership with right of survivorship. Requires four unities.",
+    "category": "national"
+  },
+  {
+    "term": "Land Court",
+    "definition": "Hawaii's Torrens-style registered title system. TCT is conclusive.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Latent defect",
+    "definition": "Hidden defect not discoverable on reasonable inspection.",
+    "category": "national"
+  },
+  {
+    "term": "Lease",
+    "definition": "Contract transferring possession + use for term in exchange for rent.",
+    "category": "contracts"
+  },
+  {
+    "term": "Leasehold estate",
+    "definition": "Tenant's right to possess and use property for term.",
+    "category": "national"
+  },
+  {
+    "term": "Lessor / Lessee",
+    "definition": "Landlord / Tenant.",
+    "category": "national"
+  },
+  {
+    "term": "Lien",
+    "definition": "Monetary encumbrance attaching to property as security for debt.",
+    "category": "national"
+  },
+  {
+    "term": "Life estate",
+    "definition": "Ownership for duration of measuring life. Reverts to remainderman.",
+    "category": "national"
+  },
+  {
+    "term": "Liquidated damages",
+    "definition": "Pre-agreed damages amount. Often the earnest money in real estate.",
+    "category": "contracts"
+  },
+  {
+    "term": "Listing agreement",
+    "definition": "Contract creating broker-seller relationship.",
+    "category": "agency"
+  },
+  {
+    "term": "LTV",
+    "definition": "Loan-to-Value. Loan ÷ Value. PMI required above 80% conventional.",
+    "category": "finance"
+  },
+  {
+    "term": "Marketable title",
+    "definition": "Title free of significant clouds, acceptable to a reasonable buyer.",
+    "category": "title"
+  },
+  {
+    "term": "Material fact",
+    "definition": "Fact a reasonable buyer/seller would consider important.",
+    "category": "national"
+  },
+  {
+    "term": "Mechanic's lien",
+    "definition": "Contractor/supplier lien for unpaid work or materials. HRS 507 in Hawaii.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Megan's Law",
+    "definition": "Sex offender registration disclosure. State-specific agent duty rules.",
+    "category": "national"
+  },
+  {
+    "term": "Mill rate",
+    "definition": "Property tax rate. Tax = Assessed Value × (mills ÷ 1,000).",
+    "category": "math"
+  },
+  {
+    "term": "Misrepresentation",
+    "definition": "False statement of material fact. Innocent, negligent, or fraudulent.",
+    "category": "agency"
+  },
+  {
+    "term": "Mortgage",
+    "definition": "Security instrument creating lender's lien on property.",
+    "category": "finance"
+  },
+  {
+    "term": "Net listing",
+    "definition": "Broker keeps amount above seller's minimum. Disfavored or banned.",
+    "category": "agency"
+  },
+  {
+    "term": "NOI",
+    "definition": "Net Operating Income. Gross Income − Vacancy − Operating Expenses.",
+    "category": "math"
+  },
+  {
+    "term": "Novation",
+    "definition": "Substitution of new party or new contract by mutual agreement.",
+    "category": "contracts"
+  },
+  {
+    "term": "Offer",
+    "definition": "Definite proposal communicated with intent to be bound on acceptance.",
+    "category": "contracts"
+  },
+  {
+    "term": "Option contract",
+    "definition": "Right (not obligation) to buy at stated price within stated time.",
+    "category": "contracts"
+  },
+  {
+    "term": "Patent defect",
+    "definition": "Obvious defect visible on reasonable inspection.",
+    "category": "national"
+  },
+  {
+    "term": "Periodic tenancy",
+    "definition": "Lease that renews automatically (month-to-month).",
+    "category": "national"
+  },
+  {
+    "term": "PITI",
+    "definition": "Principal, Interest, Taxes, Insurance. Total monthly housing payment.",
+    "category": "finance"
+  },
+  {
+    "term": "PMI",
+    "definition": "Private Mortgage Insurance. Required above 80% LTV conventional.",
+    "category": "finance"
+  },
+  {
+    "term": "PMM",
+    "definition": "Purchase Money Mortgage. Seller-financed mortgage at sale.",
+    "category": "finance"
+  },
+  {
+    "term": "Police power",
+    "definition": "Government authority to regulate for health, safety, welfare. Source of zoning.",
+    "category": "national"
+  },
+  {
+    "term": "Power of attorney",
+    "definition": "Written authority for another to act for you.",
+    "category": "agency"
+  },
+  {
+    "term": "Prepayment penalty",
+    "definition": "Fee for paying off loan early. Restricted on most owner-occupied mortgages.",
+    "category": "finance"
+  },
+  {
+    "term": "Principal",
+    "definition": "(1) Loan amount. (2) Person agent represents.",
+    "category": "finance"
+  },
+  {
+    "term": "Probate",
+    "definition": "Court process administering deceased's estate.",
+    "category": "title"
+  },
+  {
+    "term": "Procuring cause",
+    "definition": "Origin of unbroken chain producing sale. Determines commission entitlement.",
+    "category": "agency"
+  },
+  {
+    "term": "Property management",
+    "definition": "General agency: collect rents, maintain property, handle tenants.",
+    "category": "agency"
+  },
+  {
+    "term": "Proration",
+    "definition": "Splitting shared expenses at closing.",
+    "category": "math"
+  },
+  {
+    "term": "PUD",
+    "definition": "Planned Unit Development. Own lot + share in common areas.",
+    "category": "national"
+  },
+  {
+    "term": "Puffing",
+    "definition": "Subjective sales talk. Not actionable as misrepresentation.",
+    "category": "agency"
+  },
+  {
+    "term": "Quitclaim deed",
+    "definition": "Conveys whatever interest grantor has. No warranties.",
+    "category": "title"
+  },
+  {
+    "term": "Real Estate Commission (REC)",
+    "definition": "Hawaii regulator. Sets rules, investigates, disciplines licensees.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Real property",
+    "definition": "Land + permanent attachments + ownership rights.",
+    "category": "national"
+  },
+  {
+    "term": "Recording",
+    "definition": "Filing document with county recorder. Provides constructive notice.",
+    "category": "title"
+  },
+  {
+    "term": "Redlining",
+    "definition": "Refusing to lend/insure in protected-class areas. Illegal.",
+    "category": "national"
+  },
+  {
+    "term": "Rescission",
+    "definition": "Termination of contract returning parties to pre-contract position.",
+    "category": "contracts"
+  },
+  {
+    "term": "RESPA",
+    "definition": "Real Estate Settlement Procedures Act. Loan Estimate + Closing Disclosure rules.",
+    "category": "finance"
+  },
+  {
+    "term": "Reverse mortgage",
+    "definition": "Loan against home equity for seniors. Repaid when borrower dies/moves/sells.",
+    "category": "finance"
+  },
+  {
+    "term": "Riparian rights",
+    "definition": "Rights of owner of land bordering a watercourse.",
+    "category": "national"
+  },
+  {
+    "term": "Salesperson license",
+    "definition": "Hawaii entry-level license. 18+, 60-hr course, PSI exam, sponsoring broker.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Sellers market",
+    "definition": "Demand exceeds supply; prices rise.",
+    "category": "national"
+  },
+  {
+    "term": "Setback",
+    "definition": "Required distance between structure and property line.",
+    "category": "national"
+  },
+  {
+    "term": "Severalty",
+    "definition": "Sole ownership by one person or entity.",
+    "category": "national"
+  },
+  {
+    "term": "SMA",
+    "definition": "Special Management Area. Hawaii coastal-zone regulation.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Specific performance",
+    "definition": "Court orders actual conveyance. Buyer's remedy for seller breach.",
+    "category": "contracts"
+  },
+  {
+    "term": "Spot zoning",
+    "definition": "Singling out one parcel for different treatment. Generally unconstitutional.",
+    "category": "national"
+  },
+  {
+    "term": "Statute of Frauds",
+    "definition": "Real estate contracts must be in writing.",
+    "category": "contracts"
+  },
+  {
+    "term": "Steering",
+    "definition": "Channeling buyers based on protected class. Fair housing violation.",
+    "category": "national"
+  },
+  {
+    "term": "Stigmatized property",
+    "definition": "Property with non-physical issue (death, crime). Disclosure rules vary by state.",
+    "category": "national"
+  },
+  {
+    "term": "Subagency",
+    "definition": "Agent's authority delegated to another agent.",
+    "category": "agency"
+  },
+  {
+    "term": "Subdivision",
+    "definition": "Division of land into lots for sale or development.",
+    "category": "national"
+  },
+  {
+    "term": "Subordination",
+    "definition": "Voluntarily lowering lien priority to allow new senior lien.",
+    "category": "finance"
+  },
+  {
+    "term": "Survey",
+    "definition": "Professional measurement and mapping of parcel boundaries.",
+    "category": "national"
+  },
+  {
+    "term": "TCT",
+    "definition": "Transfer Certificate of Title. Hawaii Land Court conclusive title document.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Tenancy at will",
+    "definition": "Lease terminable by either party at any time.",
+    "category": "national"
+  },
+  {
+    "term": "Tenancy by the entirety",
+    "definition": "Spousal co-ownership with survivorship + creditor protection.",
+    "category": "national"
+  },
+  {
+    "term": "Tenancy in common",
+    "definition": "Co-ownership with separate inheritable shares. No survivorship.",
+    "category": "national"
+  },
+  {
+    "term": "Time is of the essence",
+    "definition": "Deadlines strictly enforced. Late performance = breach.",
+    "category": "contracts"
+  },
+  {
+    "term": "Time share",
+    "definition": "Right to occupy unit for set period each year.",
+    "category": "national",
+    "hawaiiNote": "HRS 514E governs disclosures and 7-day rescission."
+  },
+  {
+    "term": "Title insurance",
+    "definition": "Protects against title defects existing at closing.",
+    "category": "title"
+  },
+  {
+    "term": "TMK",
+    "definition": "Tax Map Key. Hawaii's parcel ID: Zone-Section-Plat-Parcel(-CPR).",
+    "category": "hawaii"
+  },
+  {
+    "term": "Trust account",
+    "definition": "Separate account for client/customer funds. No commingling.",
+    "category": "agency"
+  },
+  {
+    "term": "Truth in Lending Act / Reg Z",
+    "definition": "Federal law requiring APR disclosure and standardized loan cost format.",
+    "category": "finance"
+  },
+  {
+    "term": "Unilateral contract",
+    "definition": "One party makes a promise; other accepts by performance (e.g., reward).",
+    "category": "contracts"
+  },
+  {
+    "term": "Universal agent",
+    "definition": "Authority to act in all matters. Power of attorney.",
+    "category": "agency"
+  },
+  {
+    "term": "Usury",
+    "definition": "Charging interest above legal cap. HRS 478 in Hawaii.",
+    "category": "hawaii"
+  },
+  {
+    "term": "VA loan",
+    "definition": "Veterans Affairs guaranteed loan. No PMI; often no down payment.",
+    "category": "finance"
+  },
+  {
+    "term": "Variance",
+    "definition": "Narrow exception to zoning for unique hardship.",
+    "category": "national"
+  },
+  {
+    "term": "Voidable contract",
+    "definition": "Contract one party can elect to void (e.g., minor's contract).",
+    "category": "contracts"
+  },
+  {
+    "term": "Warrantable condo",
+    "definition": "Project meeting Fannie/Freddie standards. Easier to finance.",
+    "category": "finance"
+  },
+  {
+    "term": "Warranty deed",
+    "definition": "Deed with grantor warranties of title quality.",
+    "category": "title"
+  },
+  {
+    "term": "Zoning",
+    "definition": "Public regulation dividing land into use districts.",
+    "category": "national"
+  },
+  {
+    "term": "Estate in fee simple",
+    "definition": "Highest form of ownership — indefinite duration, freely transferable, inheritable.",
+    "category": "property"
+  },
+  {
+    "term": "Fee simple defeasible",
+    "definition": "Fee ownership that can be lost if a condition occurs or is violated.",
+    "category": "property"
+  },
+  {
+    "term": "Remainderman",
+    "definition": "Party who receives a life estate property after the life tenant dies.",
+    "category": "property"
+  },
+  {
+    "term": "Reversionary interest",
+    "definition": "Grantor's right to get the property back after a life estate ends.",
+    "category": "property"
+  },
+  {
+    "term": "Estate for years",
+    "definition": "Lease with definite start and end date. Auto-terminates; no notice required.",
+    "category": "property"
+  },
+  {
+    "term": "Tenancy at sufferance",
+    "definition": "Tenant holds over after lease ends without landlord consent.",
+    "category": "property"
+  },
+  {
+    "term": "Community property",
+    "definition": "Spousal co-ownership of property acquired during marriage. NOT a Hawaii concept.",
+    "category": "property",
+    "hawaiiNote": "Hawaii is a common-law state, not community property."
+  },
+  {
+    "term": "Time-share",
+    "definition": "Ownership of intervals of use, typically in resort property. Heavily regulated in Hawaii.",
+    "category": "property",
+    "hawaiiNote": "HRS 514E requires 7-day rescission period for buyers."
+  },
+  {
+    "term": "Cooperative (co-op)",
+    "definition": "Ownership of stock in a corporation that owns the building; resident gets proprietary lease.",
+    "category": "property"
+  },
+  {
+    "term": "Planned Unit Development (PUD)",
+    "definition": "Combination of individual unit ownership + shared common areas governed by HOA.",
+    "category": "property"
+  },
+  {
+    "term": "Protected classes (federal)",
+    "definition": "Race, color, religion, national origin, sex, familial status, disability. Seven federal classes.",
+    "category": "fair-housing"
+  },
+  {
+    "term": "Hawaii protected classes",
+    "definition": "Federal 7 + ancestry, marital status, age, sexual orientation, gender identity, HIV status, source of income.",
+    "category": "fair-housing",
+    "hawaiiNote": "HRS 515 — Hawaii's additions are some of the broadest in the country."
+  },
+  {
+    "term": "Reasonable accommodation",
+    "definition": "Required adjustment to rules/policies so a disabled person can equally use housing (e.g., service animal in no-pet building).",
+    "category": "fair-housing"
+  },
+  {
+    "term": "Reasonable modification",
+    "definition": "Required structural change a disabled tenant may make (at their cost) to use housing.",
+    "category": "fair-housing"
+  },
+  {
+    "term": "Mrs. Murphy exemption",
+    "definition": "Owner-occupied 1-4 unit dwelling — limited federal Fair Housing exemption. Hawaii doesn't honor it.",
+    "category": "fair-housing",
+    "hawaiiNote": "HRS 515 has no Mrs. Murphy carve-out; small landlords here must still comply."
+  },
+  {
+    "term": "Familial status",
+    "definition": "Households with children under 18, pregnant women, or those securing custody. Protected federally + in Hawaii.",
+    "category": "fair-housing"
+  },
+  {
+    "term": "Disparate impact",
+    "definition": "Neutral policy that disproportionately harms a protected class. Can be discrimination even without intent.",
+    "category": "fair-housing"
+  },
+  {
+    "term": "HUD",
+    "definition": "Department of Housing and Urban Development — federal agency enforcing Fair Housing Act.",
+    "category": "fair-housing"
+  },
+  {
+    "term": "HCRC",
+    "definition": "Hawaii Civil Rights Commission — state agency enforcing HRS 515 fair housing.",
+    "category": "fair-housing",
+    "hawaiiNote": "Files most state-level housing-discrimination complaints."
+  },
+  {
+    "term": "Easement appurtenant",
+    "definition": "Easement that benefits a neighboring (dominant) parcel; runs with the land.",
+    "category": "land-use"
+  },
+  {
+    "term": "Easement in gross",
+    "definition": "Easement benefiting a person or entity, not adjacent land (e.g., utility easement).",
+    "category": "land-use"
+  },
+  {
+    "term": "Prescriptive easement",
+    "definition": "Easement acquired by open, notorious, continuous use for the statutory period (similar to adverse possession but use, not ownership).",
+    "category": "land-use"
+  },
+  {
+    "term": "License (land use)",
+    "definition": "Permission to use land for a specific purpose; revocable at will.",
+    "category": "land-use"
+  },
+  {
+    "term": "Nonconforming use",
+    "definition": "Existing use that no longer matches current zoning but is allowed to continue (grandfathered).",
+    "category": "land-use"
+  },
+  {
+    "term": "Conditional use permit",
+    "definition": "Permission for a use not permitted by right in the zone, subject to conditions.",
+    "category": "land-use"
+  },
+  {
+    "term": "Lateral support",
+    "definition": "Right to have land supported by neighboring land in its natural state.",
+    "category": "land-use"
+  },
+  {
+    "term": "Littoral rights",
+    "definition": "Rights of land abutting a non-flowing body of water (lake, ocean). Relevant in Hawaii.",
+    "category": "land-use",
+    "hawaiiNote": "Hawaii's public-trust doctrine retains state title to land below the high-water mark."
+  },
+  {
+    "term": "Special Management Area (SMA)",
+    "definition": "Hawaii coastal zone with extra permitting requirements. Restricts shoreline development.",
+    "category": "land-use",
+    "hawaiiNote": "HRS 205A — protects shoreline; permits required for most coastal projects."
+  },
+  {
+    "term": "Land Use Commission (LUC)",
+    "definition": "Hawaii body that classifies all state land into Urban, Rural, Agricultural, Conservation districts.",
+    "category": "land-use",
+    "hawaiiNote": "HRS 205 — district boundary changes require LUC approval."
+  },
+  {
+    "term": "TILA",
+    "definition": "Truth in Lending Act — requires lender disclosure of APR, finance charge, total loan cost.",
+    "category": "closing"
+  },
+  {
+    "term": "TRID",
+    "definition": "TILA-RESPA Integrated Disclosure rule — combined Loan Estimate + Closing Disclosure forms.",
+    "category": "closing"
+  },
+  {
+    "term": "Loan Estimate",
+    "definition": "TRID form lender must provide within 3 business days of application. Lists costs + terms.",
+    "category": "closing"
+  },
+  {
+    "term": "Settlement statement",
+    "definition": "Itemized list of all debits and credits for buyer and seller at closing.",
+    "category": "closing"
+  },
+  {
+    "term": "Credit (closing)",
+    "definition": "Amount that reduces what a party owes — buyer credit from seller for repairs, etc.",
+    "category": "closing"
+  },
+  {
+    "term": "Debit (closing)",
+    "definition": "Amount a party owes at closing — buyer's purchase price + buyer's closing costs, etc.",
+    "category": "closing"
+  },
+  {
+    "term": "Conveyance tax (Hawaii)",
+    "definition": "Hawaii state tax on real estate transfers. Rate varies by sale price + buyer's primary residence status.",
+    "category": "closing",
+    "hawaiiNote": "HRS 247 — paid by seller unless contract says otherwise. Rates from $0.10 to $1.25 per $100."
+  },
+  {
+    "term": "ALTA policy",
+    "definition": "American Land Title Association standardized title insurance form. Extended coverage.",
+    "category": "closing"
+  },
+  {
+    "term": "Quiet title action",
+    "definition": "Lawsuit to remove clouds on title and establish clear ownership.",
+    "category": "closing"
+  },
+  {
+    "term": "Property management agreement",
+    "definition": "Written contract authorizing a manager to operate property for owner. Creates general agency.",
+    "category": "management"
+  },
+  {
+    "term": "Trust account (PM)",
+    "definition": "Separate account where property managers hold rents + deposits. Commingling is illegal.",
+    "category": "management",
+    "hawaiiNote": "HRS 467 requires separate broker trust accounts; misuse = license revocation."
+  },
+  {
+    "term": "Security deposit (Hawaii)",
+    "definition": "Hawaii caps residential at 1 month's rent. Must be returned within 14 days with itemized deductions.",
+    "category": "management",
+    "hawaiiNote": "HRS 521-44 — 14 days, not 30."
+  },
+  {
+    "term": "Eviction (Hawaii)",
+    "definition": "The legal process to remove a tenant: proper written notice, then court summary possession (HRS 521/666).",
+    "category": "management",
+    "hawaiiNote": "As of Feb 5, 2026 (Act 278), residential nonpayment requires 10 days’ written notice (with mediation if the tenant requests); other curable breaches require 10 days under HRS §521-72."
+  },
+  {
+    "term": "Constructive eviction",
+    "definition": "Landlord conduct so severe tenant must leave; treated legally as eviction.",
+    "category": "management"
+  },
+  {
+    "term": "Habitability (warranty of)",
+    "definition": "Landlord must keep residence fit for living. Implied in every Hawaii lease.",
+    "category": "management",
+    "hawaiiNote": "HRS 521-42 codifies implied warranty of habitability."
+  },
+  {
+    "term": "Sublease",
+    "definition": "Tenant rents some or all of leasehold to a third party while remaining liable to landlord.",
+    "category": "management"
+  },
+  {
+    "term": "Assignment of lease",
+    "definition": "Tenant transfers entire remaining lease term to a new tenant. New tenant becomes liable to landlord.",
+    "category": "management"
+  },
+  {
+    "term": "CAM charges",
+    "definition": "Common Area Maintenance — tenant pays share of shared-area costs in commercial leases.",
+    "category": "management"
+  },
+  {
+    "term": "Gross lease",
+    "definition": "Tenant pays one flat rent; landlord pays taxes, insurance, maintenance.",
+    "category": "management"
+  },
+  {
+    "term": "Net lease",
+    "definition": "Tenant pays rent + some property expenses. Triple-net (NNN) = tenant pays taxes, insurance, AND maintenance.",
+    "category": "management"
+  },
+  {
+    "term": "Percentage lease",
+    "definition": "Rent = base + % of tenant's gross sales. Common in retail.",
+    "category": "management"
+  },
+  {
+    "term": "Capitalization rate (cap rate)",
+    "definition": "Net operating income ÷ purchase price. Quick measure of investment return.",
+    "category": "investment"
+  },
+  {
+    "term": "Net Operating Income (NOI)",
+    "definition": "Gross income − vacancy − operating expenses. Excludes debt service + taxes.",
+    "category": "investment"
+  },
+  {
+    "term": "Gross rent multiplier (GRM)",
+    "definition": "Price ÷ annual gross rent. Crude valuation shortcut.",
+    "category": "investment"
+  },
+  {
+    "term": "Cash-on-cash return",
+    "definition": "Annual pre-tax cash flow ÷ cash invested. Measures leveraged return.",
+    "category": "investment"
+  },
+  {
+    "term": "Leverage",
+    "definition": "Using borrowed funds to amplify returns on invested capital.",
+    "category": "investment"
+  },
+  {
+    "term": "Depreciation (tax)",
+    "definition": "IRS deduction for wear on improvements. Residential = 27.5 yrs straight-line; commercial = 39 yrs.",
+    "category": "investment"
+  },
+  {
+    "term": "1031 exchange",
+    "definition": "IRC § 1031 — defer capital gains by exchanging like-kind investment properties within 180 days.",
+    "category": "investment"
+  },
+  {
+    "term": "Boot",
+    "definition": "Non-like-kind consideration received in a 1031 exchange. Taxable.",
+    "category": "investment"
+  },
+  {
+    "term": "Adjusted basis",
+    "definition": "Purchase price + capital improvements − depreciation. Used to compute capital gain.",
+    "category": "investment"
+  },
+  {
+    "term": "Capital gain",
+    "definition": "Profit on sale of investment property. Long-term = held > 1 year, lower tax rate.",
+    "category": "investment"
+  },
+  {
+    "term": "Operating expense ratio",
+    "definition": "Operating expenses ÷ effective gross income. Lower = more efficient property.",
+    "category": "investment"
+  },
+  {
+    "term": "Vacancy and credit loss",
+    "definition": "Estimated lost income from empty units + tenants who don't pay. Deducted to find effective gross income.",
+    "category": "investment"
+  },
+  {
+    "term": "Commission split",
+    "definition": "Total commission divided among listing broker, listing agent, selling broker, selling agent per agreements.",
+    "category": "math"
+  },
+  {
+    "term": "Loan-to-value (LTV)",
+    "definition": "Loan amount ÷ appraised value. Lenders use this for risk + PMI thresholds.",
+    "category": "math"
+  },
+  {
+    "term": "Debt-to-income (DTI)",
+    "definition": "Monthly debt payments ÷ gross monthly income. Lender qualification ratio.",
+    "category": "math"
+  },
+  {
+    "term": "Front-end ratio",
+    "definition": "Housing payment (PITI) ÷ gross income. Typically capped near 28-31% for conventional.",
+    "category": "math"
+  },
+  {
+    "term": "Back-end ratio",
+    "definition": "Total debt payments ÷ gross income. Typically capped near 36-43% depending on loan program.",
+    "category": "math"
+  },
+  {
+    "term": "Point (discount)",
+    "definition": "1% of loan amount, paid at closing to buy down interest rate.",
+    "category": "math"
+  },
+  {
+    "term": "Mill / millage rate",
+    "definition": "1/1000 of $1. Property tax expressed as mills per $1 of assessed value.",
+    "category": "math"
+  },
+  {
+    "term": "Square foot pricing",
+    "definition": "Sale price ÷ living-area square feet. Used in comparative market analysis.",
+    "category": "math"
+  },
+  {
+    "term": "Hectare",
+    "definition": "10,000 square meters ≈ 2.471 acres. Occasionally appears in Hawaii survey work.",
+    "category": "math"
+  },
+  {
+    "term": "Section (survey)",
+    "definition": "1 square mile = 640 acres in the federal rectangular survey system.",
+    "category": "math"
+  },
+  {
+    "term": "Township (survey)",
+    "definition": "36 sections = 36 square miles in the rectangular survey system.",
+    "category": "math"
+  },
+  {
+    "term": "1031 timeline",
+    "definition": "45 days to identify replacement, 180 days total to close. Strict — no extensions.",
+    "category": "math"
+  },
+  {
+    "term": "PB (Principal Broker)",
+    "definition": "Hawaii broker designated to supervise a firm. Required by HRS 467.",
+    "category": "hawaii",
+    "hawaiiNote": "Every Hawaii brokerage must have one designated PB."
+  },
+  {
+    "term": "BIC (Broker In Charge)",
+    "definition": "Broker designated to manage a specific branch office.",
+    "category": "hawaii"
+  },
+  {
+    "term": "RB / RS license",
+    "definition": "Hawaii license abbreviations: RB = Real Estate Broker; RS = Real Estate Salesperson.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Continuing education (Hawaii)",
+    "definition": "Hawaii licensees need 20 hours CE per 2-year renewal cycle. Includes Core class.",
+    "category": "hawaii",
+    "hawaiiNote": "Specific Core topics vary by cycle — published by REC."
+  },
+  {
+    "term": "Recovery Fund",
+    "definition": "Hawaii fund paying judgments against licensees who can't pay. Funded by license fees.",
+    "category": "hawaii",
+    "hawaiiNote": "HRS 467-16 — max $25K per transaction, $50K per licensee."
+  },
+  {
+    "term": "Earnest Money Deposit (EMD) handling",
+    "definition": "A buyer’s good-faith deposit submitted with an offer and held in trust. In Hawai‘i a broker must deposit trust funds (including earnest money) into a federally insured trust account or neutral escrow by the next business day after receipt (HAR §16-99-4).",
+    "category": "hawaii",
+    "hawaiiNote": "Late deposit of trust funds is grounds for license discipline."
+  },
+  {
+    "term": "Mandatory Seller's Disclosure",
+    "definition": "Hawaii sellers must provide Sellers Real Property Disclosure Statement (SRPDS) within timeframes.",
+    "category": "hawaii",
+    "hawaiiNote": "HRS 508D — disclosure must be material, accurate, signed."
+  },
+  {
+    "term": "Land Court system",
+    "definition": "Hawaii's Torrens-style registration system. Title certificates conclusive. Use BoC for Regular System.",
+    "category": "hawaii",
+    "hawaiiNote": "Land Court parcels have a TCT number — title is guaranteed by the state."
+  },
+  {
+    "term": "Lava zone",
+    "definition": "USGS classification 1-9 of volcanic hazard risk. Lower number = higher risk. Affects insurance.",
+    "category": "hawaii",
+    "hawaiiNote": "Hawaii sellers must disclose lava zone on Big Island parcels."
+  },
+  {
+    "term": "Sea level rise zone",
+    "definition": "Hawaii planning overlay flagging properties at risk from coastal flooding by 2050+. Disclosure may apply.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Agricultural disclosure (Hawaii)",
+    "definition": "Required notice for properties in or near agricultural-use districts. Pesticide / odor / equipment noise.",
+    "category": "hawaii"
+  },
+  {
+    "term": "Solar water heater requirement",
+    "definition": "Hawaii law requires solar water heaters on most new single-family construction since 2010.",
+    "category": "hawaii",
+    "hawaiiNote": "HRS 196-6.5 — variance available but rarely granted."
+  },
+  {
+    "term": "Bargain and sale deed",
+    "definition": "Conveys title without warranties; implies grantor owns but no guarantees.",
+    "category": "title"
+  },
+  {
+    "term": "Grant deed",
+    "definition": "Implies two warranties: grantor hasn't conveyed to anyone else, and property is unencumbered.",
+    "category": "title"
+  },
+  {
+    "term": "Sheriff's deed",
+    "definition": "Deed issued by court after judicial foreclosure or execution sale.",
+    "category": "title"
+  },
+  {
+    "term": "Tax deed",
+    "definition": "Deed issued after sale of property for unpaid taxes.",
+    "category": "title"
+  },
+  {
+    "term": "Trustee's deed",
+    "definition": "Deed issued by trustee after non-judicial foreclosure under power of sale.",
+    "category": "title"
+  },
+  {
+    "term": "Habendum clause",
+    "definition": "Deed clause defining the estate granted (\"to have and to hold\").",
+    "category": "title"
+  },
+  {
+    "term": "Granting clause",
+    "definition": "Deed clause naming grantor + grantee and stating intent to convey.",
+    "category": "title"
+  },
+  {
+    "term": "Lis pendens",
+    "definition": "Notice of pending lawsuit that may affect title. Recorded with the land record.",
+    "category": "title"
+  },
+  {
+    "term": "Mechanics lien",
+    "definition": "Lien on property for unpaid labor/materials. Must be filed within statutory window.",
+    "category": "title"
+  },
+  {
+    "term": "Judgment lien",
+    "definition": "Court judgment recorded against debtor's real property. General lien on all property in county.",
+    "category": "title"
+  },
+  {
+    "term": "Estoppel certificate",
+    "definition": "Written statement by party (often tenant or lender) that prevents later contradictory claims.",
+    "category": "title"
+  }
 ];
