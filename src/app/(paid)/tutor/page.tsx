@@ -33,6 +33,17 @@ export default function TutorPage() {
     }
   }, [messages, streaming]);
 
+  // Seed the conversation from a ?q= param (e.g. "Ask the tutor about this
+  // highlight" from a lesson or the profile archive). Runs once on mount.
+  const seededRef = useRef(false);
+  useEffect(() => {
+    if (seededRef.current) return;
+    seededRef.current = true;
+    const q = typeof window !== 'undefined' ? new URLSearchParams(window.location.search).get('q') : null;
+    if (q) send(q.slice(0, 800));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
   async function send(prompt?: string) {
     const text = (prompt ?? input).trim();
     if (!text || loading) return;

@@ -5,6 +5,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { T, CARD } from '@/lib/theme';
 import { CURRICULUM } from '@/lib/curriculum';
 import { getHighlights, removeHighlight, setHighlightNote, HIGHLIGHT_BG, type Highlight } from '@/lib/highlights';
+import { addUserCard } from '@/lib/user-cards';
 
 const TITLE = Object.fromEntries(CURRICULUM.map((c) => [c.slug, c.title]));
 const ORDER = Object.fromEntries(CURRICULUM.map((c, i) => [c.slug, i]));
@@ -14,6 +15,18 @@ export function HighlightsArchive() {
   const [loaded, setLoaded] = useState(false);
   const [editing, setEditing] = useState<string | null>(null);
   const [draft, setDraft] = useState('');
+  const [savedCards, setSavedCards] = useState<Set<string>>(new Set());
+
+  function saveAsCard(h: Highlight) {
+    addUserCard({
+      term: (h.note && h.note.trim()) || `${TITLE[h.chapterSlug] ?? 'Lesson'} — recall`,
+      definition: h.text,
+      sourceSlug: h.chapterSlug,
+    });
+    setSavedCards((prev) => new Set(prev).add(h.id));
+  }
+  const askTutorHref = (h: Highlight) =>
+    `/tutor?q=${encodeURIComponent(`Explain this passage from the "${TITLE[h.chapterSlug] ?? 'course'}" chapter and why it matters for the Hawaii salesperson exam:\n\n"${h.text}"`)}`;
 
   useEffect(() => {
     let alive = true;
@@ -90,6 +103,12 @@ export function HighlightsArchive() {
                     ) : (
                       <button onClick={() => { setEditing(h.id); setDraft(''); }} style={{ ...BTN, marginTop: 6, color: T.textMute }}>+ add note</button>
                     )}
+                    <div style={{ display: 'flex', gap: 16, marginTop: 10, alignItems: 'center' }}>
+                      <button onClick={() => saveAsCard(h)} disabled={savedCards.has(h.id)} style={{ ...BTN, color: savedCards.has(h.id) ? T.green : T.coralDark }}>
+                        {savedCards.has(h.id) ? 'Saved to flashcards ✓' : 'Save as flashcard'}
+                      </button>
+                      <Link href={askTutorHref(h)} style={{ ...BTN, color: T.ocean, textDecoration: 'none' }}>Ask the tutor →</Link>
+                    </div>
                   </div>
                 ))}
               </div>

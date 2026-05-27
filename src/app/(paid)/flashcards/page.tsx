@@ -1,8 +1,9 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import Link from 'next/link';
 import { GLOSSARY } from '@/lib/content/glossary';
+import { loadUserCards, type UserCard } from '@/lib/user-cards';
 import { T, SHADOW_3D, CARD, BUTTON_3D } from '@/lib/theme';
 import { Header, Footer, Backgrounds } from '@/components/Shell';
 
@@ -11,6 +12,7 @@ import { Header, Footer, Backgrounds } from '@/components/Shell';
 // fair-housing, land-use, closing, management, investment.
 const CATEGORIES = [
   'all',
+  'my-cards',
   'national', 'hawaii',
   'property', 'agency', 'contracts', 'title',
   'finance', 'closing', 'investment',
@@ -22,11 +24,17 @@ export default function FlashcardsPage() {
   const [cat, setCat] = useState<typeof CATEGORIES[number]>('all');
   const [idx, setIdx] = useState(0);
   const [flipped, setFlipped] = useState(false);
+  const [userCards, setUserCards] = useState<UserCard[]>([]);
+
+  useEffect(() => { setUserCards(loadUserCards()); }, []);
 
   const deck = useMemo(() => {
-    const filtered = cat === 'all' ? [...GLOSSARY] : GLOSSARY.filter(g => g.category === cat);
-    return filtered.sort(() => Math.random() - 0.5);
-  }, [cat]);
+    if (cat === 'my-cards') return [...userCards].sort(() => Math.random() - 0.5);
+    const base = cat === 'all'
+      ? [...GLOSSARY, ...userCards]
+      : GLOSSARY.filter(g => g.category === cat);
+    return base.sort(() => Math.random() - 0.5);
+  }, [cat, userCards]);
 
   const card = deck[idx % deck.length];
 
@@ -55,7 +63,7 @@ export default function FlashcardsPage() {
                   border: `1px solid ${cat === c ? T.ocean : T.border}`,
                   fontFamily: "'JetBrains Mono', monospace", letterSpacing: '0.1em', textTransform: 'uppercase',
                 }}
-              >{c}</button>
+              >{c === 'my-cards' ? `My cards${userCards.length ? ` (${userCards.length})` : ''}` : c}</button>
             ))}
           </div>
 
@@ -80,9 +88,16 @@ export default function FlashcardsPage() {
               {flipped ? 'definition' : 'term'} · tap to flip
             </div>
             {!flipped ? (
-              <h2 style={{ fontFamily: "'Playfair Display', serif", fontSize: 'clamp(28px, 5vw, 40px)', fontWeight: 900, color: T.text, letterSpacing: '-0.02em', lineHeight: 1.2 }}>
-                {card?.term}
-              </h2>
+              <>
+                <h2 style={{ fontFamily: "'Playfair Display', serif", fontSize: 'clamp(28px, 5vw, 40px)', fontWeight: 900, color: T.text, letterSpacing: '-0.02em', lineHeight: 1.2 }}>
+                  {card?.term ?? (cat === 'my-cards' ? 'No saved cards yet' : '—')}
+                </h2>
+                {!card && cat === 'my-cards' && (
+                  <p style={{ fontSize: 14, color: T.textMute, marginTop: 14, lineHeight: 1.6 }}>
+                    Highlight a passage in any lesson, open it from your profile, and choose “Save as flashcard.”
+                  </p>
+                )}
+              </>
             ) : (
               <div style={{ transform: 'rotateY(180deg)' }}>
                 <p style={{ fontSize: 18, color: T.textDim, lineHeight: 1.6 }}>{card?.definition}</p>
@@ -94,9 +109,9 @@ export default function FlashcardsPage() {
           <div style={{ display: 'flex', gap: 8, justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap' }}>
             <button onClick={() => { setIdx(Math.max(0, idx - 1)); setFlipped(false); }} disabled={idx === 0} style={{ ...BUTTON_3D.secondary, padding: '10px 18px', fontSize: 13, fontWeight: 600, borderRadius: 8, cursor: 'pointer', fontFamily: 'inherit', opacity: idx === 0 ? 0.4 : 1 }}>← Previous</button>
             <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 12, color: T.textMute, fontWeight: 600 }}>
-              {idx + 1} / {deck.length}
+              {deck.length ? idx + 1 : 0} / {deck.length}
             </span>
-            <button onClick={() => { setIdx((idx + 1) % deck.length); setFlipped(false); }} style={{ ...BUTTON_3D.primary, padding: '10px 18px', fontSize: 13, fontWeight: 700, borderRadius: 8, cursor: 'pointer', fontFamily: 'inherit', border: 'none' }}>Next →</button>
+            <button onClick={() => { setIdx(deck.length ? (idx + 1) % deck.length : 0); setFlipped(false); }} style={{ ...BUTTON_3D.primary, padding: '10px 18px', fontSize: 13, fontWeight: 700, borderRadius: 8, cursor: 'pointer', fontFamily: 'inherit', border: 'none' }}>Next →</button>
           </div>
         </main>
         <Footer />
