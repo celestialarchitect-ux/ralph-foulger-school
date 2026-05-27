@@ -4,3 +4,7 @@ node_modules/
 .env.local
 .DS_Store
 *.log
+
+# verification backups (local only)
+*.bak-shuffle
+*.bak-fix

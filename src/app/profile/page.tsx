@@ -20,6 +20,7 @@ import { StudyPlanner } from '@/components/StudyPlanner';
 import { QuizHistory } from '@/components/QuizHistory';
 import { StudentInbox } from '@/components/StudentInbox';
 import { SectionProgressDashboard } from '@/components/SectionProgressDashboard';
+import { HighlightsArchive } from '@/components/HighlightsArchive';
 
 const BUCKET_LABELS: Record<string, string> = {
   chapters: 'Curriculum chapters',
@@ -304,6 +305,9 @@ export default function ProfilePage() {
 
       {/* QUIZ HISTORY — drill into past attempts + review wrong answers */}
       {isServer && <QuizHistory />}
+
+      {/* HIGHLIGHTS — archive of everything the student marked while studying */}
+      {isServer && <div style={{ marginBottom: 22 }}><HighlightsArchive /></div>}
 
       {/* CONTINUE — per-section resume cards. Surfaces the last visited
           path in every major area (chapters, flashcards, math, glossary,

@@ -61,6 +61,7 @@ model User {
   studyPlan        StudyPlan?
   quizAttempts     QuizAttempt[]
   variantOverrides QuestionVariantOverride[] @relation("editor")
+  highlights       Highlight[]
 
   @@index([createdAt])
 }
@@ -282,4 +283,27 @@ model TimeEvent {
   @@index([userId])
   @@index([userId, createdAt])
   @@index([userId, bucket])
+}
+
+// Student text highlights inside lessons. One row per highlighted range.
+// blockId identifies the text block within a chapter (e.g. "intro",
+// "overview:2", "concept:Fixtures", "hawaii:Fixtures"); start/end are character
+// offsets into that block's plain text. `text` is the highlighted substring
+// (denormalized so the profile archive can show it without re-deriving).
+model Highlight {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  chapterSlug String   // curriculum chapter slug
+  blockId     String   // block within the chapter
+  startOffset Int
+  endOffset   Int
+  text        String   // the highlighted substring
+  color       String   @default("gold") // gold | ocean | coral | green
+  note        String?  // optional student annotation
+  createdAt   DateTime @default(now())
+
+  @@index([userId])
+  @@index([userId, chapterSlug])
+  @@index([userId, createdAt])
 }

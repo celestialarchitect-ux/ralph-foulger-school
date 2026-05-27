@@ -12,6 +12,8 @@ import type { ChapterContent } from '@/lib/content/national';
 import { T, SHADOW_3D, CARD, BUTTON_3D } from '@/lib/theme';
 import { Header, Footer, Backgrounds } from '@/components/Shell';
 import { VoicePlayer } from '@/components/VoicePlayer';
+import { Highlightable } from '@/components/Highlightable';
+import { getHighlights, addHighlight, removeHighlight, type Highlight, type HighlightColor } from '@/lib/highlights';
 
 export default function CourseChapterPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = use(params);
@@ -19,8 +21,24 @@ export default function CourseChapterPage({ params }: { params: Promise<{ slug: 
   const meta = getChapter(slug);
   const content: ChapterContent | undefined = [...NATIONAL_CONTENT, ...STATE_CONTENT].find(c => c.slug === slug);
   const [progress, setProgress] = useState<CourseProgress | null>(null);
+  const [highlights, setHighlights] = useState<Highlight[]>([]);
 
   useEffect(() => { setProgress(loadProgress()); }, [slug]);
+  useEffect(() => {
+    let alive = true;
+    getHighlights().then(all => { if (alive) setHighlights(all.filter(h => h.chapterSlug === slug)); });
+    return () => { alive = false; };
+  }, [slug]);
+
+  const hlFor = (blockId: string) => highlights.filter(h => h.blockId === blockId);
+  const handleAdd = async (h: { blockId: string; startOffset: number; endOffset: number; text: string; color: HighlightColor }) => {
+    const saved = await addHighlight({ chapterSlug: slug, ...h });
+    setHighlights(prev => [...prev, saved]);
+  };
+  const handleRemove = async (id: string) => {
+    setHighlights(prev => prev.filter(h => h.id !== id));
+    await removeHighlight(id);
+  };
 
   if (!meta || !content || !progress) {
     return <div style={{ padding: 64, textAlign: 'center', fontFamily: 'Inter, sans-serif', color: T.text }}>Loading…</div>;
@@ -61,7 +79,8 @@ export default function CourseChapterPage({ params }: { params: Promise<{ slug: 
           <h1 style={{ fontFamily: "'Playfair Display', serif", fontSize: 'clamp(36px, 5vw, 48px)', fontWeight: 900, letterSpacing: '-0.025em', color: T.text, lineHeight: 1.1, marginBottom: 12 }}>
             {meta.title}
           </h1>
-          <p style={{ fontSize: 17, color: T.textDim, lineHeight: 1.55, fontStyle: 'italic', marginBottom: 24 }}>{content.intro}</p>
+          <Highlightable blockId="intro" text={content.intro} highlights={hlFor('intro')} onAdd={handleAdd} onRemove={handleRemove}
+            style={{ fontSize: 17, color: T.textDim, lineHeight: 1.55, fontStyle: 'italic', marginBottom: 24 }} />
 
           {/* Voice player */}
           <div style={{ marginBottom: 32 }}>
@@ -76,7 +95,8 @@ export default function CourseChapterPage({ params }: { params: Promise<{ slug: 
           <article style={{ ...CARD, padding: 36, marginBottom: 24 }}>
             <SectionH>Overview</SectionH>
             {content.overview.map((p, i) => (
-              <p key={i} style={{ fontSize: 16, color: T.textDim, lineHeight: 1.75, marginBottom: 16 }}>{p}</p>
+              <Highlightable key={i} blockId={`overview:${i}`} text={p} highlights={hlFor(`overview:${i}`)} onAdd={handleAdd} onRemove={handleRemove}
+                style={{ fontSize: 16, color: T.textDim, lineHeight: 1.75, marginBottom: 16 }} />
             ))}
           </article>
 
@@ -87,8 +107,10 @@ export default function CourseChapterPage({ params }: { params: Promise<{ slug: 
               {content.concepts.map(k => (
                 <div key={k.term} style={{ padding: 16, background: T.bgRaised, borderRadius: 8, borderLeft: `3px solid ${accent}` }}>
                   <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 17, fontWeight: 800, color: T.text, marginBottom: 6 }}>{k.term}</div>
-                  <p style={{ fontSize: 14, color: T.textDim, lineHeight: 1.6 }}>{k.body}</p>
-                  {k.hawaiiNote && <p style={{ fontSize: 12, color: T.coralDark, marginTop: 6, fontStyle: 'italic' }}>Hawaii: {k.hawaiiNote}</p>}
+                  <Highlightable blockId={`concept:${k.term}`} text={k.body} highlights={hlFor(`concept:${k.term}`)} onAdd={handleAdd} onRemove={handleRemove}
+                    style={{ fontSize: 14, color: T.textDim, lineHeight: 1.6 }} />
+                  {k.hawaiiNote && <Highlightable blockId={`hawaii:${k.term}`} text={`Hawaii: ${k.hawaiiNote}`} highlights={hlFor(`hawaii:${k.term}`)} onAdd={handleAdd} onRemove={handleRemove}
+                    style={{ fontSize: 12, color: T.coralDark, marginTop: 6, fontStyle: 'italic' }} />}
                 </div>
               ))}
             </div>
