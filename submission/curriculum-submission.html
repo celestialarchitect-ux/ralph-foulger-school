@@ -1,0 +1,1976 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ralph Foulger's Academy of Real Estate — Salesperson Prelicensing Curriculum Submission</title>
+<style>
+@page {
+  size: Letter;
+  margin: 1in 1in 1in 1in;
+  @top-center {
+    content: "RALPH FOULGER'S ACADEMY OF REAL ESTATE  ·  SALESPERSON PRELICENSING CURRICULUM SUBMISSION";
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 8.5pt;
+    color: #6b5a3e;
+    letter-spacing: 0.08em;
+  }
+  @bottom-left {
+    content: "Submitted to Hawai'i Real Estate Commission · DCCA";
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 8pt;
+    color: #6b5a3e;
+  }
+  @bottom-right {
+    content: "Page " counter(page) " of " counter(pages);
+    font-family: 'EB Garamond', Georgia, serif;
+    font-size: 8pt;
+    color: #6b5a3e;
+  }
+}
+@page :first { @top-center { content: ""; } @bottom-left { content: ""; } @bottom-right { content: ""; } }
+@page cover { margin: 0; @top-center { content: ""; } @bottom-left { content: ""; } @bottom-right { content: ""; } }
+
+:root {
+  --ink: #1a1410;
+  --ink-2: #4a3e2c;
+  --ink-3: #6b5a3e;
+  --sand: #f4ead2;
+  --sand-2: #ead9b0;
+  --sand-3: #d9c28c;
+  --sand-deep: #b89e5e;
+  --ocean: #0e5c8a;
+  --ocean-2: #2a8fb8;
+  --gold: #b89e5e;
+  --rule: #c9b375;
+  --rule-soft: #e0cfa5;
+  --serif: 'EB Garamond', 'Adobe Caslon Pro', 'Hoefler Text', Georgia, 'Times New Roman', serif;
+  --sans: 'Inter', -apple-system, 'Helvetica Neue', Arial, sans-serif;
+  --mono: 'JetBrains Mono', 'Consolas', 'Courier New', monospace;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  font-family: var(--serif);
+  font-size: 11pt;
+  line-height: 1.55;
+  color: var(--ink);
+  background: white;
+  font-feature-settings: 'liga', 'kern', 'onum';
+}
+
+p { margin-bottom: 9pt; text-align: justify; hyphens: auto; orphans: 3; widows: 3; }
+p.tight { margin-bottom: 4pt; }
+strong, b { font-weight: 600; color: var(--ink); }
+em, i { font-style: italic; }
+ul, ol { margin: 4pt 0 12pt 22pt; }
+li { margin-bottom: 3pt; line-height: 1.5; }
+sub, sup { font-size: 75%; line-height: 0; }
+
+h1, h2, h3, h4, h5 { font-family: var(--serif); font-weight: 400; color: var(--ink); letter-spacing: 0.005em; page-break-after: avoid; }
+h1 { font-size: 26pt; line-height: 1.1; margin: 0 0 14pt; font-weight: 500; }
+h2 { font-size: 18pt; line-height: 1.2; margin: 28pt 0 12pt; font-weight: 500; border-bottom: 0.5pt solid var(--rule); padding-bottom: 6pt; }
+h2.section-major { font-size: 22pt; margin-top: 0; page-break-before: always; padding-bottom: 10pt; border-bottom: 1pt solid var(--gold); }
+h3 { font-size: 13pt; line-height: 1.3; margin: 18pt 0 6pt; font-weight: 600; color: var(--ink-2); }
+h4 { font-size: 11pt; line-height: 1.3; margin: 12pt 0 4pt; font-weight: 700; font-family: var(--sans); color: var(--ocean); letter-spacing: 0.04em; text-transform: uppercase; }
+h5 { font-size: 10pt; margin: 8pt 0 3pt; font-weight: 700; font-family: var(--sans); color: var(--ink-2); letter-spacing: 0.03em; text-transform: uppercase; }
+
+.eyebrow {
+  font-family: var(--sans);
+  font-size: 8.5pt;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 600;
+  margin-bottom: 6pt;
+}
+
+a, a:link, a:visited { color: var(--ocean); text-decoration: none; }
+
+table { width: 100%; border-collapse: collapse; margin: 12pt 0; font-size: 10pt; page-break-inside: avoid; }
+th, td { padding: 6pt 8pt; text-align: left; vertical-align: top; border-bottom: 0.4pt solid var(--rule-soft); }
+th { background: var(--sand); color: var(--ink); font-weight: 600; font-family: var(--sans); font-size: 9pt; letter-spacing: 0.04em; text-transform: uppercase; border-bottom: 0.8pt solid var(--rule); }
+tr:nth-child(even) td { background: #faf6ed; }
+table.dense th, table.dense td { padding: 4pt 6pt; font-size: 9pt; }
+table.crosswalk th { background: var(--ocean); color: white; }
+table.crosswalk td { font-size: 9pt; }
+
+.callout {
+  background: var(--sand);
+  border-left: 3pt solid var(--gold);
+  padding: 10pt 14pt;
+  margin: 14pt 0;
+  font-size: 10.5pt;
+  page-break-inside: avoid;
+}
+.callout-ocean {
+  background: #eaf3f9;
+  border-left: 3pt solid var(--ocean);
+}
+.callout h4 { margin-top: 0; }
+
+.pullquote {
+  font-style: italic;
+  font-size: 13pt;
+  line-height: 1.5;
+  color: var(--ink-2);
+  margin: 18pt 24pt;
+  padding: 12pt 0;
+  border-top: 0.5pt solid var(--rule);
+  border-bottom: 0.5pt solid var(--rule);
+  text-align: center;
+}
+
+.rule-double { border-top: 0.5pt double var(--gold); margin: 18pt 0; }
+
+.meta-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4pt 18pt;
+  margin: 10pt 0 14pt;
+  font-size: 10pt;
+}
+.meta-grid .l { font-family: var(--sans); font-size: 8.5pt; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-3); font-weight: 600; }
+.meta-grid .v { font-family: var(--serif); color: var(--ink); margin-bottom: 6pt; }
+
+.chapter-block { page-break-inside: avoid; margin-bottom: 18pt; }
+.chapter-block-large { page-break-inside: auto; margin-bottom: 18pt; }
+.chapter-header { display: grid; grid-template-columns: 80pt 1fr 80pt; gap: 14pt; align-items: baseline; border-bottom: 0.5pt solid var(--rule); padding-bottom: 8pt; margin-bottom: 10pt; }
+.chapter-num { font-family: var(--sans); font-size: 28pt; font-weight: 800; color: var(--sand-deep); line-height: 1; letter-spacing: -0.02em; }
+.chapter-title { font-family: var(--serif); font-size: 16pt; line-height: 1.2; color: var(--ink); font-weight: 500; }
+.chapter-portion { font-family: var(--sans); font-size: 8pt; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ocean); font-weight: 700; text-align: right; padding-top: 4pt; }
+.chapter-meta { display: flex; gap: 18pt; font-family: var(--sans); font-size: 9pt; color: var(--ink-3); margin-top: 4pt; }
+.chapter-meta b { color: var(--ink); font-weight: 700; }
+
+.lo-list { list-style: none; margin: 6pt 0 10pt; padding: 0; }
+.lo-list li { padding: 3pt 0 3pt 40pt; position: relative; line-height: 1.5; font-size: 10.5pt; }
+.lo-list li::before { content: "LO." counter(lo-counter, decimal-leading-zero); counter-increment: lo-counter; position: absolute; left: 0; top: 4pt; width: 34pt; white-space: nowrap; font-family: var(--mono); font-size: 8pt; color: var(--gold); font-weight: 600; letter-spacing: 0.05em; }
+.lo-list { counter-reset: lo-counter; }
+
+.topic-grid { columns: 2; column-gap: 18pt; margin: 6pt 0 10pt; font-size: 10pt; }
+.topic-grid p { margin-bottom: 4pt; break-inside: avoid; }
+
+/* COVER PAGE */
+.cover {
+  page: cover;
+  height: 11in;
+  width: 8.5in;
+  background-image: url(cover-hero.jpg);
+  background-size: cover;
+  background-position: center 38%;
+  background-repeat: no-repeat;
+  position: relative;
+  page-break-after: always;
+  overflow: hidden;
+}
+/* Legibility scrim: darken top (eyebrow + title) and bottom (meta), let the sunset breathe in the middle. */
+.cover::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(180deg,
+    rgba(5,12,20,0.90) 0%,
+    rgba(5,12,20,0.78) 26%,
+    rgba(5,12,20,0.70) 46%,
+    rgba(5,12,20,0.80) 66%,
+    rgba(4,9,16,0.95) 100%);
+}
+/* Thin gold hairline frame for a formal, bound-volume feel. */
+.cover::after {
+  content: '';
+  position: absolute;
+  top: 0.32in; left: 0.32in; right: 0.32in; bottom: 0.32in;
+  border: 0.75pt solid rgba(212,194,138,0.55);
+  pointer-events: none;
+}
+.cover-content {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  padding: 2.4in 1in 1in;
+  display: flex;
+  flex-direction: column;
+}
+.cover-eyebrow {
+  font-family: var(--sans);
+  font-size: 10pt;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: #f3e3bf;
+  font-weight: 600;
+  margin-bottom: 14pt;
+}
+.cover-title {
+  font-family: var(--serif);
+  font-size: 44pt;
+  line-height: 1.05;
+  color: #ffffff;
+  margin-bottom: 14pt;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+}
+.cover-title .italic { font-style: italic; color: #bfe2f0; }
+.cover-sub {
+  font-family: var(--serif);
+  font-size: 16pt;
+  line-height: 1.4;
+  color: rgba(255,255,255,0.94);
+  margin-bottom: 28pt;
+  font-style: italic;
+  max-width: 5.6in;
+}
+.cover-meta {
+  margin-top: auto;
+  padding: 18pt 20pt;
+  border-top: 1pt solid rgba(212,194,138,0.7);
+  background: rgba(7,15,25,0.46);
+  border-radius: 3pt;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6pt 18pt;
+  font-family: var(--serif);
+  font-size: 10pt;
+}
+.cover-meta .l { font-family: var(--sans); font-size: 8pt; letter-spacing: 0.14em; text-transform: uppercase; color: #e0cfa5; font-weight: 600; }
+.cover-meta .v { color: #ffffff; font-weight: 500; margin-bottom: 4pt; }
+.cover-meta .v.large { font-size: 14pt; }
+.cover-meta .v[style] { color: #e9eef3 !important; }
+
+/* TOC */
+.toc-list { list-style: none; margin: 14pt 0; padding: 0; }
+.toc-list li { display: flex; justify-content: space-between; padding: 3pt 0; border-bottom: 0.25pt dotted var(--rule-soft); font-size: 10.5pt; line-height: 1.5; }
+.toc-list li.toc-section { font-weight: 600; color: var(--ink); padding-top: 8pt; border-bottom: 0.5pt solid var(--rule); margin-top: 4pt; font-family: var(--sans); font-size: 9.5pt; letter-spacing: 0.04em; text-transform: uppercase; }
+.toc-list li .num { color: var(--ink-3); font-family: var(--mono); font-size: 9.5pt; }
+
+.toc-list-sub { list-style: none; margin: 2pt 0 2pt 16pt; padding: 0; font-size: 9.5pt; color: var(--ink-2); }
+.toc-list-sub li { display: flex; justify-content: space-between; padding: 1pt 0; }
+.toc-list-sub li .num { color: var(--ink-3); font-family: var(--mono); font-size: 9pt; }
+
+.toc-list-sub-2 { margin-left: 32pt; }
+
+.signature {
+  margin-top: 24pt;
+  padding-top: 8pt;
+  border-top: 0.5pt solid var(--ink);
+  width: 3in;
+  font-family: var(--serif);
+  font-size: 10pt;
+}
+.signature .role { font-family: var(--sans); font-size: 8.5pt; color: var(--ink-3); letter-spacing: 0.04em; text-transform: uppercase; }
+
+.disclosure {
+  background: #fdf9ef;
+  border: 0.5pt solid var(--rule);
+  padding: 10pt 14pt;
+  margin: 12pt 0;
+  font-size: 9.5pt;
+  line-height: 1.55;
+  page-break-inside: avoid;
+}
+.disclosure strong { color: var(--ink); }
+
+.bracket-num {
+  font-family: var(--mono);
+  font-size: 8.5pt;
+  color: var(--ocean);
+  font-weight: 600;
+}
+
+.hours-tag {
+  display: inline-block;
+  background: var(--ocean);
+  color: white;
+  font-family: var(--sans);
+  font-size: 8.5pt;
+  font-weight: 700;
+  padding: 2pt 7pt;
+  border-radius: 2pt;
+  letter-spacing: 0.05em;
+}
+.psi-tag {
+  display: inline-block;
+  background: var(--gold);
+  color: white;
+  font-family: var(--sans);
+  font-size: 8.5pt;
+  font-weight: 700;
+  padding: 2pt 7pt;
+  border-radius: 2pt;
+  letter-spacing: 0.05em;
+}
+
+.appendix-marker {
+  font-family: var(--sans);
+  font-size: 11pt;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gold);
+  font-weight: 700;
+  margin: 14pt 0 4pt;
+}
+
+.kpi-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1pt;
+  background: var(--rule-soft);
+  border: 0.5pt solid var(--rule-soft);
+  margin: 14pt 0;
+}
+.kpi { background: white; padding: 12pt; text-align: center; }
+.kpi .v { font-family: var(--serif); font-size: 22pt; color: var(--ocean); font-weight: 500; line-height: 1; }
+.kpi .l { font-family: var(--sans); font-size: 7.5pt; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-3); margin-top: 6pt; font-weight: 600; }
+
+.page-break { page-break-before: always; }
+.no-break { page-break-inside: avoid; }
+</style>
+</head>
+<body>
+
+<!-- ════════════════════════════════════════════════════════
+     COVER PAGE
+     ════════════════════════════════════════════════════════ -->
+<section class="cover">
+  <div class="cover-content">
+    <div class="cover-eyebrow">Curriculum Submission · 2026</div>
+    <h1 class="cover-title">Ralph Foulger's Academy of <span class="italic">Real Estate</span></h1>
+    <p class="cover-sub">Salesperson Prelicensing Curriculum — Sixty-Hour Course of Study for Submission to the State of Hawai'i Real Estate Commission</p>
+    <div class="cover-meta">
+      <div>
+        <div class="l">Submitted To</div>
+        <div class="v large">Hawai'i Real Estate Commission</div>
+        <div class="v" style="font-size:9pt;">Department of Commerce &amp; Consumer Affairs<br>Professional &amp; Vocational Licensing Division<br>King Kalakaua Building, 335 Merchant Street<br>Honolulu, HI 96813</div>
+      </div>
+      <div>
+        <div class="l">Submitted By</div>
+        <div class="v large">Ralph S. Foulger</div>
+        <div class="v" style="font-size:9pt;">Principal Instructor &amp; Founder<br>Ralph Foulger's Academy of Real Estate<br>Honolulu, Hawai'i<br>Hawai'i Broker License (1987 — present)</div>
+        <div class="l" style="margin-top:10pt;">Date</div>
+        <div class="v">May 2026</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     LETTER OF TRANSMITTAL
+     ════════════════════════════════════════════════════════ -->
+<section>
+  <div class="eyebrow">Letter of Transmittal</div>
+  <h1>To the Members of the Hawai'i Real Estate Commission</h1>
+
+  <p style="margin-top:18pt;">May 2026</p>
+
+  <p style="margin-top:14pt;">
+    Hawai'i Real Estate Commission<br>
+    c/o Department of Commerce and Consumer Affairs<br>
+    Professional &amp; Vocational Licensing Division<br>
+    King Kalakaua Building, 335 Merchant Street<br>
+    Honolulu, HI 96813
+  </p>
+
+  <p style="margin-top:18pt;"><strong>Re: Salesperson Prelicensing Curriculum Submission &mdash; Ralph Foulger's Academy of Real Estate</strong></p>
+
+  <p style="margin-top:14pt;">Esteemed Commissioners:</p>
+
+  <p>It is my privilege to submit, for the Commission's review and approval pursuant to Hawai'i Revised Statutes Chapter 467 and Hawai'i Administrative Rules Chapter 16-99 (Subchapter 5, Registered Real Estate Schools), the complete Salesperson Prelicensing Curriculum for Ralph Foulger's Academy of Real Estate.</p>
+
+  <p>This document constitutes the syllabus and student manual contemplated by HAR §16-99-99 and accompanies the school's <em>Registration of Real Estate Prelicense Education School</em> application (form SCHOOLREG_2410). The curriculum has been engineered to satisfy every area of study set forth in the Commission's <em>Hawai'i Real Estate Commission Salespersons' Prelicensing Curriculum</em> (June 2020 edition) and totals not less than sixty (60) classroom-equivalent hours of instruction in accordance with §467-9(a)(2)(B).</p>
+
+  <p>The Academy has been founded by Ralph S. Foulger, who has been continuously licensed in Hawai'i as a real estate salesperson since November 1972 and as a real estate broker since April 1987 — a combined fifty-three years of active licensure — and who is a state-certified instructor across all three license tracks (salesperson, broker, and continuing education). The full instructor curriculum vitae appears at Section II of this submission.</p>
+
+  <p>This document is organized to provide the Commission, in a single bound volume, with every artifact required to render a complete-application determination on first review:</p>
+
+  <ul>
+    <li>The complete timed course outline (sixty hours)</li>
+    <li>A topic-by-topic crosswalk demonstrating coverage of every area listed in the Commission's approved curriculum</li>
+    <li>Measurable learning objectives for each of the twenty chapters</li>
+    <li>The student assessment, progression, and graduation methodology</li>
+    <li>The instructor evaluation instrument completed by every student</li>
+    <li>Admission, progression, completion, dismissal, refund, ADA, and consumer-disclosure policies</li>
+    <li>Appendices containing sample assessment items, glossary excerpts, and supporting compliance documentation</li>
+  </ul>
+
+  <p>I respectfully request the Commission's review at its earliest scheduled meeting. Should the Commission or its Education Evaluation Task Force require additional documentation, clarification, or revisions, the Academy stands ready to respond promptly and in writing.</p>
+
+  <p>I am grateful for the Commission's careful stewardship of our profession and for the opportunity to serve Hawai'i's next generation of licensees.</p>
+
+  <p style="margin-top:18pt;">With aloha and respect,</p>
+
+  <div class="signature">
+    <strong>Ralph S. Foulger</strong><br>
+    <span class="role">Principal Instructor &amp; Founder</span><br>
+    Ralph Foulger's Academy of Real Estate<br>
+    Hawai'i Broker License — Issued April 1987
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     TABLE OF CONTENTS
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Contents</div>
+  <h1>Table of Contents</h1>
+
+  <ul class="toc-list">
+    <li class="toc-section"><span>I &mdash; Academy Information</span><span class="num">5</span></li>
+    <li><span>1.1 &nbsp; School Profile &amp; Registration Particulars</span><span class="num">5</span></li>
+    <li><span>1.2 &nbsp; Mission, Method, and Outcomes</span><span class="num">6</span></li>
+
+    <li class="toc-section"><span>II &mdash; Instructor Qualifications</span><span class="num">7</span></li>
+    <li><span>2.1 &nbsp; Curriculum Vitae &mdash; Ralph S. Foulger</span><span class="num">7</span></li>
+    <li><span>2.2 &nbsp; Certifications &amp; Industry Service</span><span class="num">8</span></li>
+
+    <li class="toc-section"><span>III &mdash; Course Overview</span><span class="num">9</span></li>
+    <li><span>3.1 &nbsp; Statutory Basis &amp; Hour Allocation</span><span class="num">9</span></li>
+    <li><span>3.2 &nbsp; Course-Level Learning Outcomes</span><span class="num">10</span></li>
+    <li><span>3.3 &nbsp; Modes of Instruction</span><span class="num">11</span></li>
+
+    <li class="toc-section"><span>IV &mdash; Timed Course Outline (Sixty Hours)</span><span class="num">12</span></li>
+    <li><span>4.1 &nbsp; National Portion &mdash; Chapters 1 through 11 (36 hours)</span><span class="num">13</span></li>
+    <li><span>4.2 &nbsp; State Portion &mdash; Chapters 12 through 20 (28 hours)</span><span class="num">22</span></li>
+
+    <li class="toc-section"><span>V &mdash; Curriculum Crosswalk Matrix</span><span class="num">30</span></li>
+    <li><span>5.1 &nbsp; State Section &rarr; Academy Chapter Mapping</span><span class="num">30</span></li>
+    <li><span>5.2 &nbsp; Coverage Affidavit</span><span class="num">33</span></li>
+
+    <li class="toc-section"><span>VI &mdash; Assessment &amp; Evaluation</span><span class="num">34</span></li>
+    <li><span>6.1 &nbsp; Formative Assessment &mdash; Chapter Quizzes</span><span class="num">34</span></li>
+    <li><span>6.2 &nbsp; Summative Assessment &mdash; Mock Examinations</span><span class="num">35</span></li>
+    <li><span>6.3 &nbsp; Final Examination &amp; Certification of Completion</span><span class="num">36</span></li>
+    <li><span>6.4 &nbsp; Student Evaluation of Instructor</span><span class="num">37</span></li>
+
+    <li class="toc-section"><span>VII &mdash; School Policies</span><span class="num">38</span></li>
+    <li><span>7.1 &nbsp; Admission Criteria</span><span class="num">38</span></li>
+    <li><span>7.2 &nbsp; Progression Standards</span><span class="num">39</span></li>
+    <li><span>7.3 &nbsp; Completion Criteria</span><span class="num">39</span></li>
+    <li><span>7.4 &nbsp; Dismissal &amp; Disciplinary Policy</span><span class="num">40</span></li>
+    <li><span>7.5 &nbsp; Refund Policy</span><span class="num">41</span></li>
+
+    <li class="toc-section"><span>VIII &mdash; Compliance &amp; Disclosures</span><span class="num">42</span></li>
+    <li><span>8.1 &nbsp; Americans with Disabilities Act (ADA) Statement</span><span class="num">42</span></li>
+    <li><span>8.2 &nbsp; Federal Trade Commission &mdash; Truth-in-Advertising</span><span class="num">43</span></li>
+    <li><span>8.3 &nbsp; FERPA &amp; Hawai'i Privacy Provisions</span><span class="num">44</span></li>
+    <li><span>8.4 &nbsp; License-Eligibility &amp; PSI Examination Notices</span><span class="num">45</span></li>
+
+    <li class="toc-section"><span>Appendices</span><span class="num">46</span></li>
+    <li><span>A &nbsp; Sample Assessment Items (National &amp; State)</span><span class="num">46</span></li>
+    <li><span>B &nbsp; Hawai'i Glossary &mdash; Selected Terms</span><span class="num">52</span></li>
+    <li><span>C &nbsp; Instructor Evaluation Instrument</span><span class="num">56</span></li>
+    <li><span>D &nbsp; Statutory &amp; Regulatory Authorities Cited</span><span class="num">58</span></li>
+  </ul>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     I — ACADEMY INFORMATION
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section I</div>
+  <h1 class="section-major" style="page-break-before:auto;">Academy Information</h1>
+
+  <h2 style="margin-top:0;">1.1 &nbsp; School Profile &amp; Registration Particulars</h2>
+
+  <div class="meta-grid">
+    <div class="l">Legal Name</div><div class="v">Ralph Foulger's Academy of Real Estate</div>
+    <div class="l">Doing Business As</div><div class="v">Ralph Foulger's Academy of Real Estate</div>
+    <div class="l">Founded</div><div class="v">January 1996 (thirty years operating)</div>
+    <div class="l">Principal &amp; Sole Instructor</div><div class="v">Ralph S. Foulger</div>
+    <div class="l">Principal Place of Instruction</div><div class="v">Honolulu, Island of O'ahu, State of Hawai'i</div>
+    <div class="l">Mode(s) of Instruction</div><div class="v">Live-Remote &amp; Online / Independent Study</div>
+    <div class="l">Web Address</div><div class="v">ralphfoulger.com</div>
+    <div class="l">Hawai'i Broker License</div><div class="v">Issued April 1987 — continuously active</div>
+    <div class="l">State-Certified Instructor</div><div class="v">Salesperson, Broker, Continuing Education</div>
+    <div class="l">Curriculum Version</div><div class="v">May 2026 (Revision 1.0)</div>
+  </div>
+
+  <h2>1.2 &nbsp; Mission, Method, and Outcomes</h2>
+
+  <p>The Academy was founded in 1996 with a single mission: to prepare adult learners in the State of Hawai'i to pass the PSI Real Estate Salesperson Examination on first attempt and to enter the profession with the substantive competence required of a fiduciary. Three decades of teaching across Century 21 School (1993–2006) and the Academy itself have refined our pedagogy into three load-bearing principles.</p>
+
+  <div class="callout">
+    <h4>The Three Principles of Instruction</h4>
+    <p style="margin:0;"><strong>Substance over slogan.</strong> Every concept is anchored to the statute, case, or rule that gives it operative force, with the citation provided. Students leave knowing not only what the rule is but where it lives.</p>
+    <p style="margin:0;"><strong>Hawai'i first, Hawai'i last.</strong> National doctrine is taught in service of Hawai'i practice. Where Hawai'i law diverges from the mainland — and it diverges materially in agency, land tenure, taxation, and conveyancing — the divergence is named, contrasted, and re-examined.</p>
+    <p style="margin:0;"><strong>Assessment as feedback.</strong> A passing exam is the floor, not the ceiling. The student who completes this curriculum will be able to defend any answer they gave with reference to first principles.</p>
+  </div>
+
+  <p>The Academy is a small, focused operation. There is no marketing department, no franchise, no contracted curriculum vendor. Instruction is delivered personally by the founder. Course materials are written and revised in-house by the instructor of record. Examination items are drafted and validated against the published PSI content outline by the same hand that grades the work.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     II — INSTRUCTOR QUALIFICATIONS
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section II</div>
+  <h1 class="section-major" style="page-break-before:auto;">Instructor Qualifications</h1>
+
+  <h2 style="margin-top:0;">2.1 &nbsp; Curriculum Vitae &mdash; Ralph S. Foulger</h2>
+
+  <p><strong>RALPH S. FOULGER</strong> &mdash; Founder and Principal Instructor of Ralph Foulger's Academy of Real Estate. Resident of the State of Hawai'i since 1960.</p>
+
+  <h4>Hawai'i Real Estate Licensure</h4>
+  <ul>
+    <li>Hawai'i Real Estate <strong>Salesperson License</strong> &mdash; Issued November 1972. <em>Fifty-three years of continuous active licensure.</em></li>
+    <li>Hawai'i Real Estate <strong>Broker License</strong> &mdash; Issued April 1987. <em>Thirty-eight years as a licensed broker.</em></li>
+    <li>State-Certified <strong>Instructor</strong> &mdash; Salesperson, Broker, and Continuing Education tracks.</li>
+  </ul>
+
+  <h4>Professional Designations</h4>
+  <ul>
+    <li><strong>CPM</strong> &mdash; Certified Property Manager, awarded June 1985 by the Institute of Real Estate Management (IREM).</li>
+    <li><strong>IREM National Faculty Member</strong> &mdash; 1994.</li>
+  </ul>
+
+  <h4>Teaching History</h4>
+  <ul>
+    <li><strong>Ralph Foulger's Academy of Real Estate</strong> &mdash; Founded January 1996. Thirty years and counting as principal instructor.</li>
+    <li><strong>Century 21 School of Real Estate</strong> &mdash; Instructor 1993&ndash;2006 (thirteen years; overlapped with the Academy from 1996 forward).</li>
+  </ul>
+
+  <h4>Leadership in the Profession</h4>
+  <ul>
+    <li><strong>Hawai'i Association of REALTORS</strong> (HARES) &mdash; Past President, 1994&ndash;1995.</li>
+    <li><strong>NAIOP Hawai'i</strong> &mdash; Past President, 1991&ndash;1992.</li>
+    <li><strong>IREM Hawai'i Chapter</strong> &mdash; Past President, 1993.</li>
+  </ul>
+
+  <h4>Education</h4>
+  <ul>
+    <li><strong>B.A.</strong>, Chaminade University of Honolulu &mdash; General Business, Spanish minor.</li>
+  </ul>
+
+  <h4>Military Service</h4>
+  <ul>
+    <li><strong>United States Air Force</strong>, 1967&ndash;1971. C-141 and C-130 aircraft Loadmaster. Honorably discharged 1970.</li>
+  </ul>
+
+  <h2>2.2 &nbsp; Certifications &amp; Industry Service</h2>
+
+  <p>The Instructor's certification across all three Hawai'i real estate education tracks (salesperson, broker, continuing education) is, to our knowledge, an uncommon distinction. It enables Academy graduates progressing from salesperson to broker to remain with a single instructor across the entire arc of their professional formation, while ensuring continuing-education students taught by Mr. Foulger are receiving instruction calibrated to the same Commission-approved curriculum used for initial licensure.</p>
+
+  <p>The combination of three decades of classroom teaching with five decades of active brokerage practice provides students a rare integration of doctrine and operative experience. Statutory provisions are paired with the transactions in which they were tested. Disciplinary cases are taught with the practical conduct that triggered them. The result is a curriculum delivered by a practitioner-teacher, not by a textbook-reader.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     III — COURSE OVERVIEW
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section III</div>
+  <h1 class="section-major" style="page-break-before:auto;">Course Overview</h1>
+
+  <h2 style="margin-top:0;">3.1 &nbsp; Statutory Basis &amp; Hour Allocation</h2>
+
+  <p>The Salesperson Prelicensing Course is offered pursuant to <em>Hawai'i Revised Statutes</em> §467-9(a)(2)(B), which provides that the educational requirement for the salesperson license examination shall be satisfied by successful completion of a curriculum in real estate at an institution accredited by or registered with the Commission, consisting of a minimum of sixty class hours. The Course meets and exceeds that minimum.</p>
+
+  <div class="kpi-row">
+    <div class="kpi"><div class="v">60</div><div class="l">Minimum Hours Required</div></div>
+    <div class="kpi"><div class="v">64</div><div class="l">Hours Delivered</div></div>
+    <div class="kpi"><div class="v">20</div><div class="l">Chapters of Instruction</div></div>
+    <div class="kpi"><div class="v">130</div><div class="l">Aligned PSI Items</div></div>
+  </div>
+
+  <p>Total instruction is allocated across twenty chapters, organized into a National Portion (chapters 1 through 11, 36 hours, aligned to the 80-item National section of the PSI examination) and a State Portion (chapters 12 through 20, 28 hours, aligned to the 50-item Hawai'i State section of the PSI examination). A complete timed outline appears in Section IV; a topic-by-topic crosswalk demonstrating coverage of every area in the Commission's June 2020 approved curriculum appears in Section V.</p>
+
+  <h2>3.2 &nbsp; Course-Level Learning Outcomes</h2>
+
+  <p>Upon successful completion of the Course, the student will be able to:</p>
+
+  <ul class="lo-list">
+    <li>Identify the statutory, regulatory, and ethical authorities that govern the practice of real estate in the State of Hawai'i, including HRS Chapters 436B, 467, 514B, 521, and 484, and HAR Chapter 16-99.</li>
+    <li>Distinguish between real and personal property, articulate the bundle of rights, and apply the doctrines of fixtures, estates, and concurrent ownership to live-fact scenarios.</li>
+    <li>Analyze land-use controls at the federal, state, and county levels, including the State Land Use Districts, Special Management Areas, county zoning, the 'Ohana dwelling laws, and accessory dwelling units.</li>
+    <li>Compute, with the calculator authorized by PSI, every quantitative measure required by the National and State examination outlines, including prorations, commissions, loan-to-value, capitalization, gross rent multiplier, area, and depreciation.</li>
+    <li>Construct a fiduciary analysis under Hawai'i agency law, including identification of the principal, the duties owed (the COALD framework), the disclosures required at first substantive contact, and the operation of dual and designated agency.</li>
+    <li>Apply Hawai'i conveyancing law to a closing fact pattern, including the dual-system Bureau of Conveyances and Land Court, the HARPTA withholding, the conveyance tax, and the role of escrow.</li>
+    <li>Draft and explain each clause of the Hawai'i standard residential purchase agreement, including the contingencies, the financing addendum, and the lead-paint and HOA/condominium addenda where applicable.</li>
+    <li>Recognize the practices that constitute grounds for licensee discipline under HRS 467 and HAR §16-99, including misrepresentation, commingling, undisclosed dual agency, antitrust violation, and fair-housing violation.</li>
+  </ul>
+
+  <h2>3.3 &nbsp; Modes of Instruction</h2>
+
+  <p>The Course is offered in two Commission-recognized modes of instruction:</p>
+
+  <ol>
+    <li><strong>Live-Remote</strong> &mdash; Synchronous instruction delivered by the principal instructor through a secured videoconferencing platform. Attendance is recorded continuously by the platform's session log. Students participate in real-time question-and-answer, polling, and case-method discussion. Sessions are recorded for student review only and are not redistributable.</li>
+    <li><strong>Online / Independent Study</strong> &mdash; Asynchronous instruction delivered through the Academy's web platform. Active-time accrual is measured per IETF-standard heartbeat methodology, with idle detection and tab-visibility tracking, in order to ensure that recorded study hours reflect genuine engaged study rather than elapsed clock time.</li>
+  </ol>
+
+  <p>In both modes, the same syllabus, the same assessment instruments, and the same final examination apply. Both modes culminate in a Certificate of Completion that satisfies §467-9(a)(2)(B) and is presented to PSI as a condition precedent to scheduling the State examination.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     IV — TIMED COURSE OUTLINE
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section IV</div>
+  <h1 class="section-major" style="page-break-before:auto;">Timed Course Outline</h1>
+
+  <p>This outline allocates sixty-four (64) hours of instruction across twenty chapters. Hour allocations are calibrated to PSI examination-item weight, doctrinal complexity, and instructor judgment refined across three decades of teaching this material. All allocations are minimums; the instructor may extend any section in response to student need without reducing time devoted to any other chapter.</p>
+
+  <h3>Summary by Portion</h3>
+  <table class="dense">
+    <thead><tr><th>Portion</th><th>Chapters</th><th>PSI Items</th><th>Hours</th><th>Of Total</th></tr></thead>
+    <tbody>
+      <tr><td>National</td><td>1 &ndash; 11</td><td>80</td><td>36</td><td>56.3%</td></tr>
+      <tr><td>State (Hawai'i)</td><td>12 &ndash; 20</td><td>50</td><td>28</td><td>43.7%</td></tr>
+      <tr><th>Total</th><th>20</th><th>130</th><th>64</th><th>100%</th></tr>
+    </tbody>
+  </table>
+
+  <h2>4.1 &nbsp; National Portion &mdash; Chapters 1 through 11 (36 hours)</h2>
+
+  <!-- CHAPTER 1 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">01</div>
+      <div><div class="chapter-title">Property Ownership</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>2.5 hours</span><span>6 PSI items</span><span>22 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2.5h</span></div>
+    </div>
+    <p>The bundle of rights, the distinction between real and personal property, fixtures and trade fixtures, the spectrum of freehold and leasehold estates, and the principal forms of concurrent ownership. Encumbrances are introduced at a conceptual level and developed in Chapter 8.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Distinguish real from personal property and apply the four-part fixture test.</li>
+      <li>Diagram the bundle of rights and identify which sticks transfer under common conveyances.</li>
+      <li>Compare fee simple absolute, fee simple defeasible, life estate, and the four leasehold estates.</li>
+      <li>Apply tenancy in common, joint tenancy, and tenancy by the entirety to a fact pattern involving Hawai'i co-owners.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Real vs. personal property; the four fixture-test factors (intent, adaptation, method of annexation, agreement); trade fixtures and emblements.</p>
+      <p>The bundle of rights: possession, control, enjoyment, exclusion, disposition.</p>
+      <p>Freehold estates: fee simple absolute, fee simple defeasible (determinable and condition subsequent), life estate (pur autre vie), remainder, reversion.</p>
+      <p>Leasehold estates: estate for years, periodic tenancy, estate at will, estate at sufferance.</p>
+      <p>Concurrent ownership: tenancy in common, joint tenancy, tenancy by the entirety, community property contrast.</p>
+      <p>Encumbrances overview: liens (voluntary, involuntary, general, specific) and non-monetary encumbrances (easements, encroachments, deed restrictions).</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 2 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">02</div>
+      <div><div class="chapter-title">Land Use Controls &amp; Regulations</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>2 hours</span><span>5 PSI items</span><span>18 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2h</span></div>
+    </div>
+    <p>Government powers over private land (police power, eminent domain, taxation, escheat), zoning theory and practice, environmental hazards, and private deed-based controls. Hawai'i-specific implementations are introduced and revisited in depth at Chapter 15.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the four governmental powers affecting real property (PETE).</li>
+      <li>Explain the operation of zoning ordinances, variances, non-conforming use, and spot zoning.</li>
+      <li>Recognize federal environmental statutes &mdash; CERCLA, SARA, Clean Water Act, FWPCA, lead-paint disclosure (Title X) &mdash; and articulate licensee due-diligence duties.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Police power, eminent domain, taxation, escheat (PETE).</p>
+      <p>Zoning: euclidean zoning, variances, special-use permits, conditional-use permits, non-conforming use, spot zoning.</p>
+      <p>Subdivision regulations and master planning; the Uniform Land Sales Practices Act.</p>
+      <p>Building codes: permits, inspections, certificate of occupancy, setbacks.</p>
+      <p>Environmental hazards: asbestos, lead-based paint (Title X), radon, mold, underground storage tanks.</p>
+      <p>Federal environmental statutes: CERCLA, SARA, Clean Water Act, Wetlands (FWPCA), RCRA.</p>
+      <p>Private controls: deed restrictions, CC&amp;Rs, easements appurtenant and in gross.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 3 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">03</div>
+      <div><div class="chapter-title">Valuation &amp; Market Analysis</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>3.5 hours</span><span>8 PSI items</span><span>24 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">3.5h</span></div>
+    </div>
+    <p>The three approaches to value, the comparative market analysis, principles of valuation (substitution, conformity, change, supply and demand, anticipation, contribution, progression, regression), depreciation theory, and the gross rent/income multipliers used in valuing investment property.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Apply the sales-comparison, cost, and income approaches to value to appropriate property types.</li>
+      <li>Compute depreciation under straight-line and per-effective-age methods.</li>
+      <li>Construct a defensible CMA from comparable sales and explain its evidentiary role.</li>
+      <li>Calculate gross rent multiplier and gross income multiplier from market data.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Market value, market price, investment value, value in use; the four characteristics of value (DUST: demand, utility, scarcity, transferability).</p>
+      <p>Sales-comparison approach: identification of comparables, adjustments (subject-to-comp direction), reconciliation.</p>
+      <p>Cost approach: replacement vs. reproduction cost, accrued depreciation (physical, functional, economic).</p>
+      <p>Income approach: NOI, capitalization rate, gross income multiplier, gross rent multiplier.</p>
+      <p>Principles of valuation: substitution, conformity, change, anticipation, contribution, supply and demand, progression, regression, highest and best use.</p>
+      <p>Comparative Market Analysis (CMA) distinguished from appraisal.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 4 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">04</div>
+      <div><div class="chapter-title">Financing</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>3 hours</span><span>7 PSI items</span><span>28 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">3h</span></div>
+    </div>
+    <p>Mortgage and trust-deed instruments, loan types, federal regulation of consumer mortgage origination (RESPA, TILA, ECOA, HMDA), points and yield, and the secondary mortgage market. Hawai'i-specific instruments and lender practices appear in Chapter 18.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Distinguish mortgage from deed of trust; explain promissory note, assumption, novation, and subject-to.</li>
+      <li>Compare loan products (conventional, FHA, VA, USDA, conforming, jumbo, ARM, fixed, interest-only, balloon).</li>
+      <li>Apply RESPA, TILA (Reg Z), ECOA, and HMDA to a residential origination fact pattern.</li>
+      <li>Compute loan-to-value, debt-to-income, points yield, and amortization tables for a fixed-rate loan.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Mortgage instruments: note, security agreement, mortgage vs. deed of trust, theory of title.</p>
+      <p>Clauses: acceleration, due-on-sale, alienation, prepayment, defeasance, exculpation, subordination.</p>
+      <p>Loan types: conventional (conforming and non-conforming), FHA, VA, USDA, ARM, fixed-rate, GPM, GEM.</p>
+      <p>Federal regulation: RESPA (Reg X), TILA (Reg Z) &mdash; TRID disclosure forms (Loan Estimate, Closing Disclosure), ECOA, HMDA, Dodd-Frank ATR/QM.</p>
+      <p>Secondary market: Fannie Mae, Freddie Mac, Ginnie Mae; warehouse lending; mortgage-backed securities at concept level.</p>
+      <p>Points and yield; PITI; PMI and MIP; FHA UFMIP.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 5 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">05</div>
+      <div><div class="chapter-title">Laws of Agency</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>5 hours</span><span>10 PSI items</span><span>20 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">5h</span></div>
+    </div>
+    <p>Agency formation, the fiduciary duties owed to the principal (COALD: care, obedience, accounting, loyalty, disclosure), single agency, dual agency, designated agency, transactional brokerage, termination of agency, and the licensee's duty to non-clients. Hawai'i agency-disclosure law operates within these doctrines and is treated in depth at Chapter 20.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the moment an agency relationship attaches and the duties triggered.</li>
+      <li>Apply the COALD framework to a fact pattern presenting a potential breach.</li>
+      <li>Distinguish disclosed dual agency (lawful with informed consent) from undisclosed dual agency (per se actionable).</li>
+      <li>Explain the operation of designated agency under Hawai'i practice.</li>
+      <li>Articulate the duties owed by a licensee to a non-client (honesty, fair dealing, non-disclosure of confidential information, accurate representation of material facts).</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Formation: express agreement, implied conduct, ratification, estoppel.</p>
+      <p>Types of agency: universal, general, special; single, dual, designated, transactional.</p>
+      <p>The fiduciary duties: care, obedience, accounting, loyalty, disclosure (COALD); plus confidentiality and reasonable diligence.</p>
+      <p>Duties to third parties (customers, non-clients): honesty, fair dealing, disclosure of material facts about the property.</p>
+      <p>Termination: completion, expiration, agreement, revocation, renunciation, operation of law, destruction of subject matter, death/incapacity.</p>
+      <p>Power of attorney: general POA, special POA, durable POA, statutory short-form POA.</p>
+      <p>Procuring cause; commissions and entitlement; antitrust restraint on commission negotiation (Sherman Act §1).</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 6 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">06</div>
+      <div><div class="chapter-title">Mandated Disclosures</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>3 hours</span><span>7 PSI items</span><span>18 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">3h</span></div>
+    </div>
+    <p>Federal- and national-level mandated disclosures: lead-based paint (Title X / 24 CFR Part 35), property condition reports, environmental hazards, stigmatized-property doctrine, and the disclosure duties arising from the licensee's status under agency. Hawai'i statutory disclosures (HRS 508D and the Seller's Real Property Disclosure Statement) appear at Chapter 12.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify federal mandatory disclosures triggered by residential sale of pre-1978 housing (Title X).</li>
+      <li>Distinguish material facts (must be disclosed) from psychological or stigma facts (governed by state law).</li>
+      <li>Explain the licensee's affirmative duty to investigate and disclose hazards within reasonable knowledge.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Federal disclosures: lead-based paint pamphlet, 10-day inspection period, EPA disclosure form requirements.</p>
+      <p>Property condition disclosures: seller's residential property disclosure (state-driven), latent vs. patent defects.</p>
+      <p>Environmental hazards: asbestos, mold, radon, underground storage tanks, urea-formaldehyde, sick-building syndrome.</p>
+      <p>Stigmatized property: deaths, suicides, criminal activity; treatment under state law.</p>
+      <p>Megan's Law and registered-offender disclosures.</p>
+      <p>The licensee's duty: actual knowledge vs. constructive knowledge; what triggers an affirmative duty to investigate.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 7 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">07</div>
+      <div><div class="chapter-title">Contracts</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>5 hours</span><span>10 PSI items</span><span>24 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">5h</span></div>
+    </div>
+    <p>Contract law as it operates in the listing agreement, the purchase agreement, the option, and the buyer-representation agreement. Statute of frauds, parol-evidence rule, conditions and contingencies, breach and remedies. Hawai'i standard forms, addenda, and the operative contract clauses are treated at Chapter 17.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the elements of a valid contract: offer, acceptance, consideration, capacity, legality, and (for real estate) writing under the statute of frauds.</li>
+      <li>Distinguish bilateral, unilateral, executed, executory, express, and implied contracts.</li>
+      <li>Apply contingencies, condition precedent, and condition subsequent to a transaction fact pattern.</li>
+      <li>Compare the four listing types &mdash; exclusive right to sell, exclusive agency, open, net &mdash; and identify those prohibited or restricted in Hawai'i.</li>
+      <li>Articulate the doctrines of mutual mistake, fraud (intentional and negligent), duress, and undue influence, with their respective remedies.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Elements of a valid contract: offer, acceptance, consideration, capacity, legal purpose; writing under the statute of frauds.</p>
+      <p>Classification: bilateral / unilateral; express / implied; executed / executory; valid / void / voidable / unenforceable.</p>
+      <p>Listing agreements: exclusive right to sell, exclusive agency, open listing, net listing (Hawai'i restrictions).</p>
+      <p>Purchase agreements: offer, counteroffer, acceptance; earnest money; closing date; contingencies (financing, inspection, sale-of-other-property).</p>
+      <p>Defenses: fraud, duress, undue influence, mutual mistake, unilateral mistake.</p>
+      <p>Remedies: specific performance, liquidated damages, rescission, compensatory damages.</p>
+      <p>Assignment, novation, accord and satisfaction; merger doctrine at closing.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 8 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">08</div>
+      <div><div class="chapter-title">Transfer of Title</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>1.5 hours</span><span>4 PSI items</span><span>18 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">1.5h</span></div>
+    </div>
+    <p>The mechanics of title transfer: deeds and their elements, methods of acquisition (voluntary and involuntary), title insurance, recording priority, the recording acts, and foreclosure as a method of involuntary transfer. Hawai'i's dual recording system (Land Court vs. Bureau of Conveyances regular system) is detailed at Chapter 16.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the essential elements of a valid deed and distinguish warranty, special warranty, grant, bargain-and-sale, and quitclaim deeds.</li>
+      <li>Explain methods of involuntary transfer: descent, escheat, adverse possession, foreclosure, eminent domain.</li>
+      <li>Compare owner's and lender's title insurance; identify standard and extended-coverage exceptions.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Deeds: granting clause, habendum, consideration, words of conveyance, legal description, signature, acknowledgment, delivery and acceptance.</p>
+      <p>Types of deeds: general warranty, special warranty, bargain and sale, grant, quitclaim, deed in lieu of foreclosure.</p>
+      <p>Title insurance: owner's policy, lender's policy, standard exceptions, ALTA extended coverage; the role of the title plant.</p>
+      <p>Voluntary transfer: sale, gift, dedication.</p>
+      <p>Involuntary transfer: descent and devise, escheat, adverse possession (open, notorious, hostile, continuous, exclusive), foreclosure, eminent domain.</p>
+      <p>Recording acts: race, notice, race-notice; constructive vs. actual notice.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 9 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">09</div>
+      <div><div class="chapter-title">The Practice of Real Estate</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>6 hours</span><span>12 PSI items</span><span>26 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">6h</span></div>
+    </div>
+    <p>The day-to-day operational and ethical environment of brokerage: trust-account management, fair-housing law and its administration, advertising regulation, antitrust constraints on price-fixing and group boycotts, the duty of supervision owed by a broker to affiliated licensees, and the canons of ethics promulgated by the Hawai'i Association of REALTORS.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Operate a client trust account in compliance with HRS 467 and HAR §16-99: deposit timelines, reconciliation, prohibition on commingling.</li>
+      <li>Identify the seven federally protected classes under the Fair Housing Act and applicable Hawai'i extensions.</li>
+      <li>Recognize per se antitrust violations: horizontal price-fixing, group boycotts, tying arrangements, market allocation.</li>
+      <li>Apply the duty of supervision to common compliance breaches by affiliated licensees.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Trust accounts: required deposit timelines, reconciliation, prohibition on commingling, audit requirements, escheat of unclaimed funds.</p>
+      <p>Federal Fair Housing Act (Title VIII, 1968 and amendments): protected classes, prohibited acts (steering, blockbusting, redlining), advertising compliance, exemptions.</p>
+      <p>Section 504 (Rehabilitation Act); ADA Title III; HOPA (1995) and the senior-housing exemption.</p>
+      <p>Antitrust: Sherman Act §1 per se rules &mdash; price-fixing, group boycotts, market allocation, tying arrangements; rule-of-reason analysis.</p>
+      <p>Advertising: truth-in-advertising, blind ads (prohibited), broker identification requirements, electronic-media disclosures.</p>
+      <p>Broker's duty of supervision: training, audit, discipline of affiliated licensees; vicarious liability.</p>
+      <p>Code of ethics: HARES/REALTOR® Code articles and Standards of Practice.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 10 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">10</div>
+      <div><div class="chapter-title">Real Estate Calculations</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>3.5 hours</span><span>7 PSI items</span><span>16 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">3.5h</span></div>
+    </div>
+    <p>Quantitative methods required by both portions of the PSI examination, delivered with the calculator authorized by PSI rules. Each formula is taught conceptually and drilled to fluency through repeated practice items at increasing difficulty.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Compute area for rectangular, triangular, trapezoidal, and irregular parcels.</li>
+      <li>Apply prorations to property tax, rent, mortgage interest, and HOA dues using the 360- and 365-day conventions.</li>
+      <li>Compute commission allocations under listing, selling, and split scenarios.</li>
+      <li>Calculate LTV, LTC, DTI, points yield, monthly P&amp;I amortization, capitalization rate, and gross rent multiplier.</li>
+      <li>Compute depreciation under straight-line and accelerated methods; recognize cost-recovery periods under IRC §168.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Area: rectangle, triangle, trapezoid, circle, irregular polygon decomposition.</p>
+      <p>Linear measurement: feet, yards, rods, chains, links; section/township/range and metes-and-bounds.</p>
+      <p>Percentages: commission, profit, loss, LTV, points (one point = 1% of loan amount).</p>
+      <p>Prorations: 360-day vs. 365-day method, debit-credit conventions, day-of-closing assignment.</p>
+      <p>Loan math: P&amp;I, total interest, qualifying ratios (front-end, back-end), points-to-yield.</p>
+      <p>Investment math: NOI, cap rate, GRM, GIM, equity dividend rate, cash-on-cash return.</p>
+      <p>Depreciation: economic life, effective age, straight-line, accelerated.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 11 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">11</div>
+      <div><div class="chapter-title">Specialty Areas</div>
+        <div class="chapter-meta"><span><b>National</b> portion</span><span>1 hour</span><span>4 PSI items</span><span>14 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">1h</span></div>
+    </div>
+    <p>The principal areas of specialized practice introduced at survey level: property management, common-interest communities (condominium, cooperative, PUD), subdivision development, and commercial brokerage. Each area becomes a discrete continuing-education track. Hawai'i-specific property-management law appears at Chapter 14 and common-interest forms at Chapter 13.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the principal income-producing property classes and their distinguishing valuation considerations.</li>
+      <li>Distinguish condominium from cooperative ownership and from PUD structure.</li>
+      <li>Recognize the licensee's role and limits in subdivision sales under the Uniform Land Sales Practices Act.</li>
+    </ul>
+  </div>
+
+  <!-- ───────────────────────────────────────────────
+       STATE PORTION
+       ─────────────────────────────────────────────── -->
+
+  <h3 class="page-break">Timed Outline Mapped to Commission's Official Sections</h3>
+  <p>The same sixty-four (64) hours of instruction, aggregated by the eighteen sections of the Hawai'i Real Estate Commission's June 2020 approved curriculum. This view satisfies the timed-outline requirement of HAR §16-99 and demonstrates that no Commission section is allocated less time than its content demands.</p>
+
+  <table class="dense crosswalk">
+    <thead>
+      <tr><th style="width:6%;">§</th><th style="width:46%;">Commission Section</th><th style="width:30%;">Academy Chapter(s) Delivering</th><th style="width:18%;">Hours</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>1</td><td>Introduction &amp; Hawaiian History</td><td>Orientation &amp; Ch. 13, 16 (intro)</td><td>1.5</td></tr>
+      <tr><td>2</td><td>Laws, Land Use &amp; Controls</td><td>Ch. 2 + Ch. 15</td><td>4.0</td></tr>
+      <tr><td>3</td><td>Hawai'i Licensing Laws</td><td>Ch. 20 (capstone, full)</td><td>8.0</td></tr>
+      <tr><td>4</td><td>Agency</td><td>Ch. 5 + Ch. 20 disclosure portion</td><td>5.5</td></tr>
+      <tr><td>5</td><td>Property Rights</td><td>Ch. 1</td><td>2.5</td></tr>
+      <tr><td>6</td><td>Transferring Real Property Interest</td><td>Ch. 8 + Ch. 16</td><td>3.5</td></tr>
+      <tr><td>7</td><td>Encumbrances</td><td>Embedded in Ch. 1, 8, 16</td><td>2.0</td></tr>
+      <tr><td>8</td><td>Contracts</td><td>Ch. 7 + Ch. 17</td><td>8.0</td></tr>
+      <tr><td>9</td><td>Closing / Settlement</td><td>Ch. 19</td><td>2.0</td></tr>
+      <tr><td>10</td><td>Disclosures</td><td>Ch. 6 + Ch. 12 (statutory)</td><td>4.5</td></tr>
+      <tr><td>11</td><td>Valuation &amp; Market Analysis</td><td>Ch. 3</td><td>3.5</td></tr>
+      <tr><td>12</td><td>Financing</td><td>Ch. 4 + Ch. 18</td><td>5.0</td></tr>
+      <tr><td>13</td><td>Property Management &amp; Leasing</td><td>Ch. 14 + Ch. 11</td><td>3.0</td></tr>
+      <tr><td>14</td><td>Forms of Ownership</td><td>Ch. 1 + Ch. 13</td><td>4.0</td></tr>
+      <tr><td>15</td><td>Discrimination</td><td>Ch. 9 + Ch. 14 (HRS 515)</td><td>2.5</td></tr>
+      <tr><td>16</td><td>Taxes</td><td>Ch. 12 (HARPTA, GET) + Ch. 19</td><td>2.0</td></tr>
+      <tr><td>17</td><td>Hawai'i Forms</td><td>Ch. 17</td><td>2.0</td></tr>
+      <tr><td>18</td><td>Mathematics</td><td>Ch. 10 + applied throughout</td><td>3.5</td></tr>
+      <tr><th>&nbsp;</th><th>TOTAL</th><th>20 Academy chapters</th><th>64.0</th></tr>
+    </tbody>
+  </table>
+
+  <h2 class="page-break">4.2 &nbsp; State Portion &mdash; Chapters 12 through 20 (28 hours)</h2>
+
+  <!-- CHAPTER 12 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">12</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Ascertaining and Disclosing Material Facts</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>4 hours</span><span>8 PSI items</span><span>20 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">4h</span></div>
+    </div>
+    <p>The Bureau of Conveyances and the Land Court as records of title; HRS 508D and the Seller's Real Property Disclosure Statement; HARPTA withholding (HRS 235-68); the General Excise Tax (HRS 237); leasehold disclosure requirements; statutory exemptions and the licensee's affirmative duty to investigate.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the records maintained by the Bureau of Conveyances and the Land Court and apply Hawai'i's dual-recording system to a search task.</li>
+      <li>Complete a Seller's Real Property Disclosure Statement (HRS 508D) and identify the conditions that trigger amendment.</li>
+      <li>Compute the HARPTA withholding for a non-resident seller and identify the documentation required to claim an exemption.</li>
+      <li>Distinguish General Excise Tax (HRS 237) treatment of brokerage commissions from federal income-tax treatment.</li>
+      <li>Identify the disclosures required when listing or selling leasehold property: lease term, lease rent, fee position, conversion rights.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Hawai'i Bureau of Conveyances (BoC) &mdash; the Regular System; Land Court &mdash; certificate of title system; relationship and migration between systems.</p>
+      <p>Seller's Real Property Disclosure Statement (HRS Chapter 508D): required content, timing, amendments, remedies for non-disclosure.</p>
+      <p>HARPTA withholding (HRS 235-68): 7.25% withholding from non-resident sellers; Form N-289 (exemption certificate), Form N-288 (return), Form N-288A.</p>
+      <p>General Excise Tax (HRS Chapter 237): brokerage commissions, gross-receipts measure, exemptions, license requirement.</p>
+      <p>Leasehold disclosure: lease term remaining, lease rent, fee buyout, renegotiation provisions, surrender vs. extension.</p>
+      <p>Material facts vs. opinions; latent vs. patent defects; the licensee's affirmative duty to inquire when red flags appear.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 13 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">13</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Types of Ownership</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>3 hours</span><span>6 PSI items</span><span>18 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">3h</span></div>
+    </div>
+    <p>The Condominium Property Act (HRS Chapter 514B), cooperatives, time-shares (HRS Chapter 514E), Planned Unit Developments, land trusts, and the historical and operative significance of the Great Māhele in shaping Hawai'i's modern forms of land tenure.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the documents establishing a Hawai'i condominium and the disclosures required at sale.</li>
+      <li>Distinguish cooperative ownership (proprietary lease) from condominium ownership (CPR).</li>
+      <li>Explain the operation of HRS Chapter 514E and the consumer protections it imposes on time-share sales.</li>
+      <li>Trace the evolution of Hawai'i land tenure from the kingdom land system through the Great Māhele to the present.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Condominium Property Act (HRS 514B): declaration, bylaws, house rules, master deed/CPR (Condominium Property Regime), apartment deed; AOAO governance.</p>
+      <p>Condominium disclosures: Public Report (preliminary, contingent final, final), recission rights, reserve study, insurance certificate.</p>
+      <p>Cooperatives: corporation ownership of building, proprietary lease, member shares.</p>
+      <p>Time-shares (HRS 514E): consumer protections, 7-day rescission, registration with the Real Estate Commission.</p>
+      <p>Planned Unit Developments: master association, sub-associations, common-area ownership.</p>
+      <p>Hawaiian land tenure history: Mokupuni, Moku, Ahupua'a, 'Ili, Lele, Mo'o'āina, Kuleana; the Great Māhele (1848) and its present-day implications.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 14 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">14</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Property Management</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>2 hours</span><span>3 PSI items</span><span>14 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2h</span></div>
+    </div>
+    <p>The Hawai'i Residential Landlord-Tenant Code (HRS Chapter 521): landlord and tenant duties, security deposits, notice requirements, summary possession proceedings, and condominium-hotel-operator licensing under the CHO statute.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the duties owed by the landlord and the tenant under HRS 521.</li>
+      <li>Compute and account for security deposits in compliance with HRS 521-44.</li>
+      <li>Apply the required notice periods for rent increase, termination of tenancy, and notice to vacate.</li>
+      <li>Recognize the licensure threshold above which a property manager must hold a Hawai'i real estate license; recognize CHO (condominium hotel operator) licensing.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Hawai'i Residential Landlord-Tenant Code (HRS Chapter 521): scope, applicability, exemptions.</p>
+      <p>Security deposits: one-month maximum, interest, return timing, itemized deductions, treble-damage penalty.</p>
+      <p>Notice requirements: rent increase (45 days), month-to-month termination (28 days landlord, 28 days tenant), notice to vacate, summary possession.</p>
+      <p>Habitability: landlord duty, tenant remedies, repair and deduct.</p>
+      <p>Discrimination in rental: protected classes under HRS 515, source-of-income protection.</p>
+      <p>Condominium Hotel Operator (CHO) statute: HRS 514E and 467; thresholds, registration, accounting.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 15 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">15</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Land Utilization</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>2 hours</span><span>2 PSI items</span><span>10 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2h</span></div>
+    </div>
+    <p>The State Land Use Commission and the four State Land Use Districts (Urban, Rural, Agricultural, Conservation); county zoning relationship; the Special Management Area (SMA) and the Shoreline Setback; the 'Ohana dwelling law; private restrictive covenants in Hawai'i.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the four State Land Use Districts and the regulatory consequences of each classification.</li>
+      <li>Explain the operation of the Special Management Area and the SMA permit requirement.</li>
+      <li>Recognize 'Ohana dwelling and Accessory Dwelling Unit (ADU) eligibility under O'ahu and neighbor-island codes.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>State Land Use Commission and the four State Land Use Districts: Urban, Rural, Agricultural, Conservation; permitted and conditional uses.</p>
+      <p>County zoning relationship; Land Use Boundary Amendment process.</p>
+      <p>Special Management Area (SMA) and the SMA permit; shoreline certification by DLNR; shoreline setback variance.</p>
+      <p>'Ohana dwelling laws and Accessory Dwelling Units (ADU).</p>
+      <p>Restrictive covenants: enforceability, modification, termination by merger or non-enforcement.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 16 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">16</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Title &amp; Conveyances</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>2 hours</span><span>4 PSI items</span><span>16 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2h</span></div>
+    </div>
+    <p>The dual-system architecture of Hawai'i conveyancing: the Land Court (Torrens-style certificate of title) and the Regular System (Bureau of Conveyances, race-notice recording). Estates and tenancies under Hawai'i practice; leasehold conveyancing; foreclosure under HRS 667 (judicial vs. non-judicial).</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Distinguish Land Court certificate of title from Regular-System recording; explain the migration of property between systems.</li>
+      <li>Identify the forms of concurrent ownership recognized in Hawai'i and the consequences of survivorship.</li>
+      <li>Diagram a leasehold conveyance (lessor, lessee, fee buyout) under a typical Hawai'i lease.</li>
+      <li>Compare judicial and non-judicial foreclosure under HRS 667; identify the consumer protections in non-judicial sale.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Land Court: certificate of title, indefeasibility, decree of registration, transfer certificate of title (TCT).</p>
+      <p>Regular System: deed recording at the BoC, race-notice priority, certificate of conveyance.</p>
+      <p>Migration: Land Court &rarr; Regular System; the historical and operative considerations.</p>
+      <p>Estates and tenancies: tenancy in common, joint tenancy, tenancy by the entirety, community property (Hawai'i is not a community-property state).</p>
+      <p>Leaseholds: lease execution, lease rent, fee buyout, surrender vs. extension, mortgaging a leasehold.</p>
+      <p>Foreclosure: HRS 667 judicial; non-judicial (Power of Sale) and its consumer protections; deficiency limits.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 17 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">17</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Contracts &amp; Addenda</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>3 hours</span><span>6 PSI items</span><span>14 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">3h</span></div>
+    </div>
+    <p>The Hawai'i Association of REALTORS® standard residential purchase contract (HARES) clause by clause, the standard listing agreement, and the required addenda (lead-paint, condominium, HOA, AOAO, lease-extension, vacation-rental). Discussion of customary practice in Hawai'i and the consequences of departing from form provisions.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify and explain each of the principal clauses in the HARES standard residential purchase contract.</li>
+      <li>Complete the HARES standard listing agreement for a leasehold property.</li>
+      <li>Select and complete the required addenda for a transaction involving a condominium subject to AOAO governance.</li>
+      <li>Identify the clauses where local custom departs from the form contract and recognize the licensee's duty to disclose.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>HARES standard residential purchase contract: parties, property, price, financing, contingencies, escrow, prorations, default.</p>
+      <p>Standard listing agreement: listing price, term, commission, multiple-listing service authorization, broker protection period.</p>
+      <p>Required addenda: lead-paint (federal Title X), condominium addendum, HOA/AOAO addendum, lease-extension addendum, vacation-rental addendum.</p>
+      <p>Customary clauses: financing contingency timeline, escrow opening, who pays which closing cost (broker, seller, buyer).</p>
+      <p>Counter-offer mechanics and acceptance timing under Hawai'i practice.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 18 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">18</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Financing</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>2 hours</span><span>4 PSI items</span><span>12 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2h</span></div>
+    </div>
+    <p>Hawai'i-specific financing instruments and practices: Agreement of Sale (HRS 480 and HAR §16-99-44 disclosure requirements), Purchase Money Mortgage (PMM), local institutional lenders, the role of cash and offshore capital in the state market, and usury limits under HRS 478.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the parties, the security interest, and the consumer protections in a Hawai'i Agreement of Sale.</li>
+      <li>Distinguish a Purchase Money Mortgage from a third-party-financed mortgage.</li>
+      <li>Compute the maximum interest rate permitted under HRS 478 and recognize transactions exempt from the usury cap.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Agreement of Sale: seller as lender, vendor's lien, recordation, default and forfeiture, equity of redemption.</p>
+      <p>Purchase Money Mortgage (PMM): seller-financed, junior or senior position, recordation.</p>
+      <p>Hawai'i institutional financing landscape; non-bank lenders; cash-buyer market dynamics.</p>
+      <p>Usury: HRS Chapter 478 caps; exemptions for licensed institutions and commercial transactions over threshold.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 19 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">19</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Escrow Process &amp; Closing</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>2 hours</span><span>3 PSI items</span><span>12 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">2h</span></div>
+    </div>
+    <p>Escrow as practiced in Hawai'i: the role of the licensed escrow company, the closing statement and TRID Closing Disclosure, the conveyance tax (HRS Chapter 247), the standard Hawai'i prorations, and the licensee's duties at and after closing.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the responsibilities of the Hawai'i licensed escrow company and distinguish escrow from the lender's closing agent.</li>
+      <li>Compute the Hawai'i conveyance tax on a residential sale, recognizing the graduated rate schedule under HRS 247.</li>
+      <li>Read and verify a Hawai'i closing statement, identifying debits and credits to buyer and seller.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>Escrow companies: licensure (HRS Chapter 449), responsibilities, fiduciary duties, neutral position.</p>
+      <p>The closing process: escrow instructions, document delivery, recordation, disbursement.</p>
+      <p>Conveyance tax (HRS Chapter 247): graduated rate, owner-occupant exemption, exemptions.</p>
+      <p>Prorations: 30/360 vs. actual/365; standard Hawai'i practice on day-of-closing assignment.</p>
+      <p>Title-clearing items: liens, lis pendens, mechanic's liens, judgments.</p>
+    </div>
+  </div>
+
+  <!-- CHAPTER 20 -->
+  <div class="chapter-block">
+    <div class="chapter-header">
+      <div class="chapter-num">20</div>
+      <div><div class="chapter-title">Hawai'i &mdash; Professional Practices &amp; Conduct</div>
+        <div class="chapter-meta"><span><b>State</b> portion</span><span>8 hours</span><span>14 PSI items</span><span>30 key terms</span></div>
+      </div>
+      <div class="chapter-portion"><span class="hours-tag">8h</span></div>
+    </div>
+    <p>The capstone of the State Portion. HRS Chapter 467 (Real Estate Brokers and Salespersons) and HAR Chapter 16-99 in operative depth: licensure structure, trust-account regulation, advertising rules, the Hawai'i agency-disclosure law, the grounds for licensee discipline, the Real Estate Recovery Fund, and the operation of the Real Estate Commission. This chapter is taught with reference to recent Commission disciplinary decisions and consent orders.</p>
+    <h5>Learning Objectives</h5>
+    <ul class="lo-list">
+      <li>Identify the licensure structure under HRS 467: salesperson, broker (broker-in-charge, principal broker, associate broker), corporation/partnership/LLC.</li>
+      <li>Apply the Hawai'i agency-disclosure law &mdash; mandatory disclosure form, timing, and content &mdash; to a first-substantive-contact scenario.</li>
+      <li>Operate a client trust account in compliance with HAR §16-99-12: separate account, accurate records, monthly reconciliation, no commingling.</li>
+      <li>Identify the categories of conduct that constitute grounds for license suspension, revocation, fine, or other discipline under HRS 467-14.</li>
+      <li>Recognize the operation of the Real Estate Recovery Fund and the conditions under which an aggrieved party may claim against it.</li>
+      <li>Apply Hawai'i advertising rules: licensee identification, broker identification, prohibition on misleading advertising, electronic-media compliance.</li>
+    </ul>
+    <h5>Topics Covered</h5>
+    <div class="topic-grid">
+      <p>HRS Chapter 467: structure, definitions, license categories, license requirements.</p>
+      <p>HAR Chapter 16-99: registration of schools and providers, conduct of licensees, trust accounts, advertising rules.</p>
+      <p>Hawai'i agency-disclosure law: mandatory form, timing (at first substantive contact), content, retention.</p>
+      <p>Trust accounts: separate account, deposit timelines, prohibition on commingling, monthly reconciliation, retention of records.</p>
+      <p>Advertising: licensee identification, broker identification, blind ads prohibited, electronic-media rules, MLS compliance.</p>
+      <p>Grounds for discipline (HRS 467-14): misrepresentation, false promises, breach of fiduciary duty, commingling, undisclosed dual agency, antitrust violation, conviction of moral-turpitude crime, failure to supervise.</p>
+      <p>Disciplinary process: complaint, investigation, hearing, settlement; sanctions (revocation, suspension, fine, education).</p>
+      <p>Real Estate Recovery Fund: purpose, claim procedure, maximum recovery.</p>
+      <p>The Real Estate Commission: composition, meetings, rulemaking authority, education evaluation.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     V — CURRICULUM CROSSWALK MATRIX
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section V</div>
+  <h1 class="section-major" style="page-break-before:auto;">Curriculum Crosswalk Matrix</h1>
+
+  <p>This matrix demonstrates, for each of the eighteen sections of the <em>Hawai'i Real Estate Commission Salespersons' Prelicensing Curriculum</em> (June 2020 edition), the chapter or chapters of the Academy's twenty-chapter syllabus in which the corresponding content is delivered. Every area of study listed in the Commission's approved curriculum is covered, in full, within this Course of Study.</p>
+
+  <h2>5.1 &nbsp; State Section &rarr; Academy Chapter Mapping</h2>
+
+  <table class="crosswalk">
+    <thead>
+      <tr>
+        <th style="width:8%;">§</th>
+        <th style="width:34%;">Commission Section (June 2020)</th>
+        <th style="width:38%;">Academy Chapter(s)</th>
+        <th style="width:20%;">Coverage</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>1</td><td>Introduction and Hawaiian History</td><td>Course Introduction; Ch. 13 (Land Tenure History); Ch. 16 (Title Systems)</td><td>Full</td></tr>
+      <tr><td>2</td><td>Laws, Land Use and Controls</td><td>Ch. 2 (National); Ch. 15 (Hawai'i)</td><td>Full</td></tr>
+      <tr><td>3</td><td>Hawai'i Licensing Laws</td><td>Ch. 20 (capstone)</td><td>Full</td></tr>
+      <tr><td>4</td><td>Agency</td><td>Ch. 5 (general); Ch. 20 (Hawai'i disclosure law)</td><td>Full</td></tr>
+      <tr><td>5</td><td>Property Rights</td><td>Ch. 1</td><td>Full</td></tr>
+      <tr><td>6</td><td>Transferring Real Property Interest</td><td>Ch. 8 (national); Ch. 16 (Hawai'i)</td><td>Full</td></tr>
+      <tr><td>7</td><td>Encumbrances</td><td>Ch. 1 (overview); Ch. 8 (mechanics); Ch. 16 (Hawai'i liens)</td><td>Full</td></tr>
+      <tr><td>8</td><td>Contracts</td><td>Ch. 7 (national); Ch. 17 (Hawai'i forms)</td><td>Full</td></tr>
+      <tr><td>9</td><td>Closing / Settlement</td><td>Ch. 19</td><td>Full</td></tr>
+      <tr><td>10</td><td>Disclosures</td><td>Ch. 6 (national); Ch. 12 (Hawai'i 508D)</td><td>Full</td></tr>
+      <tr><td>11</td><td>Valuation and Market Analysis</td><td>Ch. 3</td><td>Full</td></tr>
+      <tr><td>12</td><td>Financing</td><td>Ch. 4 (national); Ch. 18 (Hawai'i)</td><td>Full</td></tr>
+      <tr><td>13</td><td>Property Management and Leasing</td><td>Ch. 14 (HRS 521); Ch. 11 (national overview)</td><td>Full</td></tr>
+      <tr><td>14</td><td>Forms of Ownership</td><td>Ch. 1 (national); Ch. 13 (HRS 514B, 514E)</td><td>Full</td></tr>
+      <tr><td>15</td><td>Discrimination</td><td>Ch. 9 (Fair Housing, HOPA, ADA); Ch. 14 (HRS 515)</td><td>Full</td></tr>
+      <tr><td>16</td><td>Taxes</td><td>Ch. 12 (HARPTA, GET); Ch. 19 (Conveyance Tax); Ch. 8 (federal tax aspects of sale)</td><td>Full</td></tr>
+      <tr><td>17</td><td>Hawai'i Forms</td><td>Ch. 17</td><td>Full</td></tr>
+      <tr><td>18</td><td>Mathematics</td><td>Ch. 10 (national); applied throughout Hawai'i chapters where prorations or computations are required</td><td>Full</td></tr>
+    </tbody>
+  </table>
+
+  <h2>5.2 &nbsp; Coverage Affidavit</h2>
+
+  <p>I, Ralph S. Foulger, Principal Instructor of Ralph Foulger's Academy of Real Estate, do hereby attest under penalty of perjury that the foregoing crosswalk accurately maps each section of the <em>Hawai'i Real Estate Commission Salespersons' Prelicensing Curriculum</em> (June 2020 edition) to one or more chapters of the Academy's twenty-chapter Course of Study, and that every area of study listed in the Commission's approved curriculum is covered in full within this Course.</p>
+
+  <p>I further attest that the Academy's instructional materials &mdash; the printed student manual, the recorded video lessons, the chapter quizzes, the practice examinations, and the final examination &mdash; address every sub-topic enumerated in the Commission's approved curriculum, and that this Course consists of not less than sixty (60) classroom-equivalent hours of instruction in compliance with HRS §467-9(a)(2)(B).</p>
+
+  <div class="signature">
+    <strong>Ralph S. Foulger</strong><br>
+    <span class="role">Principal Instructor</span><br>
+    Hawai'i Broker License (1987)<br>
+    Date: May 2026
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     VI — ASSESSMENT & EVALUATION
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section VI</div>
+  <h1 class="section-major" style="page-break-before:auto;">Assessment &amp; Evaluation</h1>
+
+  <h2 style="margin-top:0;">6.1 &nbsp; Formative Assessment &mdash; Chapter Quizzes</h2>
+
+  <p>Each of the twenty chapters concludes with a formative chapter quiz drawn from the Academy's question bank of more than two thousand items. Quiz items are calibrated to the PSI examination blueprint, presented in the same multiple-choice format, and graded immediately with item-level rationale displayed on incorrect responses. Quiz attempts are unlimited; the student must achieve a minimum score of 70 percent on each chapter quiz before advancing.</p>
+
+  <h2>6.2 &nbsp; Summative Assessment &mdash; Mock Examinations</h2>
+
+  <p>Three mock examinations are administered after the student has accrued the minimum sixty (60) hours of instruction time required under HRS §467-9(a)(2)(B). The mock examinations are gated by active-study time, not elapsed clock time, in order to ensure they are taken by students who are genuinely prepared.</p>
+
+  <table>
+    <thead><tr><th>Mock Examination</th><th>Items</th><th>Difficulty Profile</th><th>Passing Score</th></tr></thead>
+    <tbody>
+      <tr><td>Standard</td><td>130</td><td>Calibrated to PSI baseline</td><td>70%</td></tr>
+      <tr><td>Hard</td><td>130</td><td>Approximately 35% from the elevated-difficulty pool</td><td>70%</td></tr>
+      <tr><td>Gnarly</td><td>130</td><td>Approximately 55% from the elevated-difficulty pool, including double-negative items, "best-answer" picks, and Hawai'i-specific edge cases</td><td>70%</td></tr>
+    </tbody>
+  </table>
+
+  <h2>6.3 &nbsp; Final Examination &amp; Certification of Completion</h2>
+
+  <p>Upon successful completion of all twenty chapter quizzes, accrual of the minimum sixty (60) hours of active study, and achievement of a passing score on at least one of the three mock examinations, the student is admitted to the Final Examination. The Final consists of 130 items proportionally drawn from the National and State pools (80/50) with a passing threshold of 70 percent. Students passing the Final receive a Certificate of Completion, which is the document presented to PSI as a condition precedent to scheduling the State licensing examination.</p>
+
+  <h2>6.4 &nbsp; Student Evaluation of Instructor</h2>
+
+  <p>Every student, upon issuance of the Certificate of Completion, is presented with an Instructor Evaluation Instrument soliciting written and quantitative feedback across nine dimensions of instructional quality. The instrument and its tabulation procedure appear at Appendix C. Completed evaluations are reviewed quarterly by the Principal Instructor and retained for three years in accordance with HAR §16-99 record-retention requirements.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     VII — SCHOOL POLICIES
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section VII</div>
+  <h1 class="section-major" style="page-break-before:auto;">School Policies</h1>
+
+  <h2 style="margin-top:0;">7.1 &nbsp; Admission Criteria</h2>
+  <p>Admission to the Course is open to applicants who:</p>
+  <ul>
+    <li>Are at least eighteen (18) years of age at the date of enrollment;</li>
+    <li>Hold a high-school diploma or its equivalent (GED or accepted foreign equivalent);</li>
+    <li>Are a U.S. citizen or lawful permanent resident;</li>
+    <li>Have remitted payment in full or executed the Academy's authorized installment plan;</li>
+    <li>Have read, signed, and acknowledged this Course of Study and the policies herein.</li>
+  </ul>
+  <p>The Academy does not discriminate in admission on the basis of race, color, religion, sex, national origin, ancestry, age, marital status, sexual orientation, gender identity or expression, disability, or any other status protected by HRS 489, HRS 515, or the federal Civil Rights Act of 1964 as amended.</p>
+
+  <h2>7.2 &nbsp; Progression Standards</h2>
+  <p>Students must progress through the twenty chapters in numerical order. Each chapter must be completed &mdash; defined as the recorded viewing or reading of all instructional content, completion of the chapter exercises, and achievement of a minimum 70 percent score on the chapter quiz &mdash; before the next chapter unlocks. Students may revisit completed chapters without restriction.</p>
+  <p>Students enrolled in the Live-Remote mode are required to attend the synchronous sessions or, where attendance is not possible, view the recorded session within seven (7) days. Continuous absence of more than fourteen (14) days without notification to the Instructor will result in administrative review and may result in withdrawal for non-attendance.</p>
+
+  <h2>7.3 &nbsp; Completion Criteria</h2>
+  <p>A student is deemed to have successfully completed the Course upon satisfaction of all of the following:</p>
+  <ol>
+    <li>Accrual of not less than sixty (60) hours of recorded active study time, as measured by the Academy's active-time tracking system;</li>
+    <li>Completion of all twenty (20) chapter quizzes at not less than 70 percent;</li>
+    <li>Achievement of a passing score (70 percent) on at least one (1) of the three (3) mock examinations;</li>
+    <li>Achievement of a passing score (70 percent) on the Final Examination.</li>
+  </ol>
+  <p>The student is issued a numbered Certificate of Completion bearing the Instructor's signature, the date of completion, and a unique certificate number recorded in the Academy's permanent register. The Certificate satisfies HRS §467-9(a)(2)(B) and is the document presented to PSI as a condition precedent to scheduling the State licensing examination.</p>
+
+  <h2>7.4 &nbsp; Dismissal &amp; Disciplinary Policy</h2>
+  <p>A student may be dismissed from the Course for cause upon any of the following findings:</p>
+  <ul>
+    <li><strong>Academic dishonesty.</strong> Including but not limited to: unauthorized collaboration on a graded quiz or examination; provision of, or solicitation of, examination items to or from another person; misrepresentation of authorship; impersonation of another student in the synchronous classroom.</li>
+    <li><strong>Conduct unbecoming a prospective licensee.</strong> Including but not limited to: harassment of an instructor, classmate, or staff member; disruption of instruction; conduct that would constitute a breach of the licensee's ethical duties under HRS 467 had the student been licensed.</li>
+    <li><strong>Falsification of identity or eligibility documents.</strong> Including but not limited to: misrepresentation of age, residency, citizenship, or educational credentials at admission.</li>
+  </ul>
+  <p>Dismissal is effected by written notice from the Principal Instructor stating the basis for the action. A dismissed student is entitled to written appeal to the Principal Instructor within fourteen (14) days; the decision on appeal is final.</p>
+
+  <h2>7.5 &nbsp; Refund Policy</h2>
+  <div class="disclosure">
+    <p style="margin:0;"><strong>Tuition Refund Schedule.</strong> Refunds are governed by HAR §16-99-100 (a 24) and the following schedule, which exceeds the regulatory floor:</p>
+    <p style="margin:0;">&bull; <strong>Before commencement of instruction:</strong> 100% refund less a $25 administrative processing fee.</p>
+    <p style="margin:0;">&bull; <strong>Within 7 days of enrollment, where no more than 25% of content has been accessed:</strong> 100% refund less a $25 administrative processing fee.</p>
+    <p style="margin:0;">&bull; <strong>Beyond 7 days, before completion of Chapter 5:</strong> 50% refund.</p>
+    <p style="margin:0;">&bull; <strong>After completion of Chapter 5:</strong> No refund. The student may retain access through the term of the original enrollment.</p>
+    <p style="margin:0;">&bull; <strong>Documented medical or family emergency:</strong> Pro-rata refund based on percentage of Course completed, regardless of timing, upon submission of documentation.</p>
+    <p style="margin:0;">All refund requests must be submitted in writing to the Principal Instructor. Refunds are issued within thirty (30) days of approval.</p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     VIII — COMPLIANCE & DISCLOSURES
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section VIII</div>
+  <h1 class="section-major" style="page-break-before:auto;">Compliance &amp; Disclosures</h1>
+
+  <h2 style="margin-top:0;">8.1 &nbsp; Americans with Disabilities Act (ADA) Statement</h2>
+  <p>The Academy is committed to providing access to its educational program for all qualified individuals, in compliance with Title III of the Americans with Disabilities Act of 1990, as amended, and Section 504 of the Rehabilitation Act of 1973. Students with documented disabilities may request reasonable accommodations in writing to the Principal Instructor at the time of enrollment or upon onset of a need. The Academy will engage in an interactive process to identify reasonable accommodations that do not fundamentally alter the educational program. Documented accommodations have included, but are not limited to: extended examination time, screen-reader-compatible course materials, closed-captioned video instruction, and accessible meeting spaces for in-person sessions.</p>
+
+  <h2>8.2 &nbsp; Federal Trade Commission &mdash; Truth-in-Advertising</h2>
+  <div class="disclosure">
+    <p style="margin:0;"><strong>No guarantee of examination passage or income.</strong> The Academy makes no representation, express or implied, that completion of this Course will result in (a) a passing score on the PSI Real Estate Salesperson Examination, (b) issuance of a Hawai'i real estate license, or (c) any specified level of income or commission upon licensure. Examination outcomes depend on the individual student's preparation, aptitude, and performance on the day of the examination; income outcomes depend on market conditions, the licensee's individual practice, and factors beyond the Academy's control.</p>
+    <p style="margin:0;"><strong>Substantiation of statistical claims.</strong> Where the Academy publishes a first-attempt pass-rate statistic, an alumni-income figure, or any other quantitative claim, that claim shall be substantiated by data on file at the Academy and available for inspection by the Commission and by individual students upon request.</p>
+    <p style="margin:0;"><strong>No earnings-claim promises.</strong> The Academy does not solicit applicants on the basis of representations of future earnings as a real estate licensee. Any individual income outcome referenced in marketing materials is identified as such and is not represented as typical, average, or guaranteed.</p>
+    <p style="margin:0;"><strong>Testimonials.</strong> Testimonials from prior students are presented with the student's first name, last initial, and date of completion. Compensated testimonials, where they appear, are identified as such in compliance with the FTC's Endorsement Guides (16 CFR Part 255).</p>
+  </div>
+
+  <h2>8.3 &nbsp; FERPA &amp; Hawai'i Privacy Provisions</h2>
+  <p>While the Academy is not a "school" within the meaning of the federal Family Educational Rights and Privacy Act (FERPA), the Academy voluntarily applies FERPA-equivalent record-handling standards. Student educational records are maintained in confidence and disclosed only (a) to the student, (b) to the Real Estate Commission upon proper request, (c) under subpoena or court order, or (d) with the student's written authorization. The Academy retains student records for a minimum of three (3) years following completion or withdrawal, in accordance with HAR §16-99 record-retention requirements.</p>
+
+  <h2>8.4 &nbsp; License-Eligibility &amp; PSI Examination Notices</h2>
+  <p>Completion of this Course satisfies the educational requirement for the Hawai'i salesperson license examination under HRS §467-9(a)(2)(B). Completion of this Course does not, alone, qualify the student for licensure. The student must additionally:</p>
+  <ul>
+    <li>Pass the PSI Real Estate Salesperson Examination administered by the State's contracted testing vendor;</li>
+    <li>Submit an application for license to the Real Estate Commission, pay the prescribed fees, and undergo the character-and-reputation review;</li>
+    <li>Be at least eighteen (18) years of age at the time of license issuance;</li>
+    <li>Hold a high-school diploma or equivalent;</li>
+    <li>Be a U.S. citizen or lawful permanent resident.</li>
+  </ul>
+  <p>Students with a prior criminal record or a record of disciplinary action by a professional licensing body in any jurisdiction are encouraged to consult with the Real Estate Commission's licensing branch in advance of enrollment to discuss eligibility. The Academy cannot guarantee that any individual student will be found eligible for licensure following completion of the Course.</p>
+
+  <h2>8.5 &nbsp; Anti-Discrimination &amp; Harassment Policy</h2>
+  <p>The Academy maintains and enforces a formal anti-discrimination and anti-harassment policy in admission, instruction, evaluation, and discipline.</p>
+  <p><strong>Prohibited bases of discrimination:</strong> race, color, religion, sex, sexual orientation, gender identity or expression, national origin, ancestry, age, marital status, familial status, disability, source of income, HIV status, arrest and court record (when sealed or expunged), or any other status protected by HRS Chapters 489, 515, or 378, or by federal law including Title VII of the Civil Rights Act of 1964, the Age Discrimination Act of 1975, Section 504 of the Rehabilitation Act, the ADA, and Title IX where applicable.</p>
+  <p><strong>Harassment.</strong> The Academy prohibits harassment of any student, instructor, or staff member by any other student, instructor, or staff member. Harassment includes, but is not limited to, unwelcome verbal or physical conduct directed at a protected status, sexual harassment (quid pro quo and hostile-environment), and retaliation against any person who in good faith reports or participates in the investigation of a complaint.</p>
+  <p><strong>Reporting.</strong> A student or other person who believes that discrimination or harassment has occurred shall report the conduct in writing to the Principal Instructor at <em>support@ralphfoulger.com</em>. The Academy will acknowledge the report within five (5) business days, investigate, and render a written determination within thirty (30) days. The complainant may concurrently file with the Hawai'i Civil Rights Commission or the U.S. Department of Housing and Urban Development as applicable. Retaliation against any reporter is independently prohibited and independently sanctionable.</p>
+
+  <h2>8.6 &nbsp; Professional Liability &amp; Surety Bond</h2>
+  <p><strong>Errors &amp; Omissions Coverage.</strong> The Academy maintains professional-liability (E&amp;O) insurance covering the Principal Instructor and the school's operations, in an amount not less than $1,000,000 per occurrence and $1,000,000 in the aggregate. A current certificate of insurance is on file at the Academy and is available for inspection by the Commission upon request.</p>
+  <p><strong>Surety Bond.</strong> The Academy posts a surety bond in such amount as may be required by HAR §16-99-99(26)(a), or, where applicable, qualifies for the bond exemption available to accredited Hawai'i institutions of higher learning under HAR §16-99-99(26)(b). The current bond instrument or exemption documentation accompanies the registration application as a separate exhibit.</p>
+
+  <h2>8.7 &nbsp; General Excise Tax &amp; Tax Clearance</h2>
+  <p>The Academy holds a current State of Hawai'i General Excise Tax license under HRS Chapter 237. Tuition receipts are reported and the applicable GET is remitted on the schedule prescribed by the Hawai'i Department of Taxation. A current Tax Clearance Certificate (Form A-6) is on file and accompanies this submission as a separate exhibit at the Commission's request.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     IX — COURSE OPERATIONS
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section IX</div>
+  <h1 class="section-major" style="page-break-before:auto;">Course Operations</h1>
+
+  <h2 style="margin-top:0;">9.1 &nbsp; Tuition Disclosure</h2>
+
+  <p>Tuition is disclosed at enrollment and reflected on the Academy's published rate sheet. Hawai'i General Excise Tax (HRS 237) at the rate prescribed by law is included in the rate disclosed to the prospective student before payment is solicited.</p>
+
+  <table>
+    <thead><tr><th>Tier</th><th>Tuition</th><th>Course Access</th><th>What's Included</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Standard</strong></td><td>$599</td><td>90 days from enrollment</td><td>Full 64-hour curriculum, recorded audio narration, AI tutor, chapter quizzes, three mock examinations, Final Examination, Certificate of Completion.</td></tr>
+      <tr><td><strong>Plus</strong> ⭐</td><td>$899</td><td>180 days from enrollment</td><td>Standard tier, plus &mdash; upon passing the PSI examination &mdash; a complete agent website on the licensee's own domain, customer relationship management system, lead capture, broker introductions, and contract template library. Optional hosting and maintenance subscription applies after launch.</td></tr>
+      <tr><td><strong>Free Foundation</strong></td><td>$0</td><td>Limited</td><td>Lead-magnet course consisting of 5 introductory lessons. Does not satisfy the §467-9(a)(2)(B) educational requirement; provided for orientation only.</td></tr>
+    </tbody>
+  </table>
+
+  <p>All tuition is quoted in U.S. dollars and is inclusive of GET. The Academy accepts payment by credit card via Stripe (Visa, Mastercard, American Express, Discover) and by ACH. Installment plans are available upon request and require a signed installment agreement at enrollment. The full Refund Policy appears at Section 7.5.</p>
+
+  <h2>9.2 &nbsp; Course Schedule &amp; Calendar</h2>
+
+  <p>The Academy operates in <strong>continuous open enrollment</strong>. Students may begin the Online / Independent Study mode at any time. The Live-Remote mode operates in monthly cohorts with the first session of each cohort scheduled on the first Monday of each calendar month, Pacific time. The cohort calendar for the current and forthcoming twelve months is published on the Academy's web site and is available to the Commission upon request as a separate exhibit.</p>
+
+  <table>
+    <thead><tr><th>Mode</th><th>Cohort Schedule</th><th>Capacity</th><th>Recording</th></tr></thead>
+    <tbody>
+      <tr><td>Live-Remote (synchronous)</td><td>Monthly cohorts; first Monday of each month</td><td>30 students maximum per cohort</td><td>Each session is recorded; recordings are made available to enrolled students within 24 hours and retained for 180 days from session date.</td></tr>
+      <tr><td>Online / Independent Study (asynchronous)</td><td>Continuous open enrollment</td><td>Uncapped</td><td>Pre-recorded content; on-demand access for the duration of the student's enrollment window.</td></tr>
+    </tbody>
+  </table>
+
+  <h2>9.3 &nbsp; Time to Completion</h2>
+
+  <p>The Course is designed for completion within sixty (60) calendar days of typical engagement (approximately one hour of study per day). The Standard tier provides ninety (90) days from enrollment in which to complete; the Plus tier provides one hundred eighty (180) days. Students requiring additional time beyond their enrollment window may purchase an Extension (per HAR §16-99 standards) for an additional fee disclosed at the time of request.</p>
+
+  <h2>9.4 &nbsp; Technology Requirements (Online Mode)</h2>
+
+  <p>The Academy's online platform is browser-based and requires no installation. Minimum specifications:</p>
+  <ul>
+    <li><strong>Computer or tablet</strong> manufactured within the prior seven (7) years, with a screen size of not less than 10 inches diagonal;</li>
+    <li><strong>Operating system:</strong> Windows 10 or later, macOS 11 or later, ChromeOS current, iPadOS 15 or later, or Android 11 or later;</li>
+    <li><strong>Web browser:</strong> Current version of Google Chrome, Apple Safari, Microsoft Edge, or Mozilla Firefox;</li>
+    <li><strong>Internet connection:</strong> minimum 5 Mbps download for video playback; minimum 10 Mbps for Live-Remote synchronous sessions;</li>
+    <li><strong>Audio output:</strong> speakers or headphones;</li>
+    <li><strong>Microphone</strong> (for Live-Remote mode only);</li>
+    <li><strong>Webcam</strong> (recommended for Live-Remote mode; not required for Online / Independent Study).</li>
+  </ul>
+  <p>Students lacking access to compliant equipment may request loaner equipment from the Principal Instructor at enrollment; the Academy maintains a small loaner pool to support equitable access.</p>
+
+  <h2>9.5 &nbsp; Substitute Instructor &amp; Continuity</h2>
+
+  <p>The Principal Instructor is supported by an approved adjunct instructor of equivalent qualifications, who shall conduct Live-Remote sessions in the event of the Principal Instructor's documented unavailability. The identity, license credentials, and resume of the substitute instructor are on file at the Academy and are provided to the Commission upon request as a separate exhibit. In the event of a sustained unavailability of both Principal and substitute, students enrolled in the Live-Remote mode will be migrated to the Online / Independent Study mode at no additional charge, with the same enrollment window.</p>
+
+  <h2>9.6 &nbsp; Records Retention &amp; Business Continuity</h2>
+
+  <p>Student records, attendance logs, quiz and examination results, and Certificates of Completion are retained for not less than five (5) years from the date of completion or withdrawal, exceeding the three-year minimum under HAR §16-99. Records are stored in encrypted form on a U.S.-hosted, SOC 2 Type II compliant infrastructure with redundant backups located in geographically separate regions. The Academy maintains a documented business-continuity plan covering instructor unavailability, infrastructure outage, and natural disaster, with annual review and tabletop exercise.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     X — STUDENT SERVICES & SUPPORT
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="eyebrow">Section X</div>
+  <h1 class="section-major" style="page-break-before:auto;">Student Services &amp; Support</h1>
+
+  <h2 style="margin-top:0;">10.1 &nbsp; Make-Up Policy (Live-Remote Mode)</h2>
+
+  <p>A student in the Live-Remote cohort who is unable to attend a scheduled synchronous session may satisfy the attendance requirement for that session by:</p>
+  <ol>
+    <li>Notifying the Principal Instructor by email prior to the missed session;</li>
+    <li>Viewing the recorded session in full within seven (7) days of the original session date; and</li>
+    <li>Submitting a one-paragraph written reflection identifying three substantive points from the session and one question the student wishes to raise at the next live meeting.</li>
+  </ol>
+  <p>A student who misses more than two (2) consecutive sessions or more than four (4) sessions across the cohort without using the make-up procedure may be administratively transferred, without prejudice, from the Live-Remote mode to the Online / Independent Study mode for the remainder of the enrollment window.</p>
+
+  <h2>10.2 &nbsp; School Cancellation Policy</h2>
+
+  <p>In the event the Academy cancels a scheduled cohort or session for any reason, the Academy shall (a) notify affected students within twenty-four (24) hours, (b) reschedule or, at the student's option, provide a full refund of any portion of tuition allocable to the cancelled instruction, and (c) where the cancellation results in a delay of more than fourteen (14) days, extend the student's enrollment window by the duration of the delay at no additional charge.</p>
+
+  <h2>10.3 &nbsp; Re-Enrollment Policy</h2>
+
+  <p>A student who does not complete the Course within the enrollment window may re-enroll once at a discounted re-entry rate equal to twenty-five percent (25%) of the original tuition. Re-enrollment grants a new enrollment window of equal duration to the original. Progress, recorded study hours, and completed quiz results from the prior enrollment are retained and credited against the new enrollment. A student who does not complete the Course after two (2) enrollment windows may not re-enroll without the express written consent of the Principal Instructor.</p>
+
+  <h2>10.4 &nbsp; Grievance &amp; Appeals Procedure</h2>
+
+  <p>A student who has a grievance regarding instruction, assessment, conduct of another student, or any other matter related to the Course may follow this procedure:</p>
+  <ol>
+    <li><strong>Informal resolution.</strong> The student is encouraged to raise the matter directly with the Principal Instructor by email within fourteen (14) days of the matter complained of.</li>
+    <li><strong>Formal complaint.</strong> If informal resolution is unsuccessful, the student may file a formal written complaint with the Principal Instructor. The Academy will acknowledge within five (5) business days, investigate, and render a written determination within thirty (30) days.</li>
+    <li><strong>Appeal to the Commission.</strong> A student who is not satisfied with the Academy's determination may file a complaint with the Real Estate Commission at the Department of Commerce and Consumer Affairs, Professional &amp; Vocational Licensing Division. Filing a complaint with the Commission does not require prior exhaustion of the Academy's internal procedure.</li>
+  </ol>
+  <p>Retaliation against any student or other person who in good faith brings a grievance is independently prohibited under Section 8.5 of this Course of Study.</p>
+
+  <h2>10.5 &nbsp; Examination Accommodations</h2>
+
+  <p>A student requesting accommodation on a chapter quiz, mock examination, or Final Examination by reason of a documented disability must submit:</p>
+  <ul>
+    <li>A written request to the Principal Instructor not less than ten (10) business days prior to the assessment;</li>
+    <li>Documentation from a qualified professional describing the nature of the disability and the recommended accommodation.</li>
+  </ul>
+  <p>The Academy will respond within five (5) business days with the accommodation granted or, if the requested accommodation cannot be granted without fundamental alteration of the assessment, with an alternative reasonable accommodation. Common accommodations include extended time (1.5&times; or 2&times;), separate testing environment, screen reader compatibility, and large-print formatting. Accommodations granted by the Academy do not bind PSI for the State licensing examination; separate request to PSI is required.</p>
+
+  <h2>10.6 &nbsp; Continuous Curriculum Improvement</h2>
+
+  <p>The Academy maintains a documented curriculum-review cycle. The Principal Instructor reviews the Course materials in their entirety at minimum once per calendar year, and within ninety (90) days of any amendment to HRS 467, HRS 514B, HAR §16-99, or any other authority cited in this submission. Quarterly student-evaluation tabulations (Appendix C) inform interim revisions. Material revisions to the Course of Study are filed with the Commission as supplements to this submission.</p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     APPENDICES
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="appendix-marker">Appendix A</div>
+  <h1>Sample Assessment Items</h1>
+  <p>The following items are drawn from the Academy's question bank and are representative of the difficulty and format of the chapter quizzes, mock examinations, and Final Examination. Full rationales are presented to students upon submission of each answer.</p>
+
+  <h3>A.1 &nbsp; National Portion &mdash; Sample Items</h3>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item N-1 (Chapter 5, Laws of Agency).</strong> A licensee is approached at an open house by a person who states, "I'm just looking." The licensee proceeds to engage the visitor in substantive conversation about the property's features, the seller's motivations, and the seller's negotiating posture. Under prevailing agency doctrine, the licensee owes which duty to the visitor?</p>
+    <p style="margin:0;">A. Full fiduciary duty, because substantive discussion creates an agency by implication.<br>
+    B. No duty, because no agency agreement was executed.<br>
+    C. Honesty and fair dealing, with a duty to refrain from disclosing the seller's confidential information.<br>
+    D. The duty of confidentiality, because the visitor expressed interest in the property.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> The visitor is a customer (non-client) to whom the licensee owes honesty and fair dealing, plus the duty to refrain from disclosing the seller-principal's confidential information. Substantive discussion does not, without more, create agency by implication. Discussion of the seller's confidential information (such as the seller's bottom-line price) would breach the licensee's duty to the seller.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item N-2 (Chapter 9, Practice of Real Estate).</strong> A broker maintains a single bank account into which she deposits earnest-money receipts, brokerage operating receipts, and her personal income from a rental property she owns. Which of the following best describes this practice?</p>
+    <p style="margin:0;">A. Permissible if reconciled monthly.<br>
+    B. Permissible if the broker maintains accurate sub-ledgers identifying each fund's source.<br>
+    C. Commingling, per se a violation regardless of intent.<br>
+    D. Permissible because earnest-money receipts become brokerage property upon deposit.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> The maintenance of client funds (earnest money) in the same account as the broker's operating funds is commingling per se, irrespective of intent, reconciliation, or sub-ledger accuracy. Earnest money must be held in a separate, identified trust account.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item N-3 (Chapter 10, Calculations).</strong> A property sold for $640,000. The total commission was 6 percent, split 50/50 between the listing brokerage and the selling brokerage. The listing salesperson's split with her brokerage is 70/30 in favor of the salesperson. What is the listing salesperson's commission on this sale?</p>
+    <p style="margin:0;">A. $13,440.<br>
+    B. $19,200.<br>
+    C. $26,880.<br>
+    D. $38,400.</p>
+    <p style="margin:0;"><strong>Answer: A.</strong> Total commission: $640,000 &times; 6% = $38,400. Listing-side share: $38,400 &times; 50% = $19,200. Listing salesperson's share: $19,200 &times; 70% = $13,440.</p>
+  </div>
+
+  <h3 class="page-break">A.2 &nbsp; State Portion &mdash; Sample Items</h3>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item S-1 (Chapter 12, HARPTA).</strong> A non-resident seller sells a Hawai'i residential property for $1,200,000. The seller has not filed Form N-289 (Certification for Exemption from the Withholding Tax). What is the HARPTA withholding amount?</p>
+    <p style="margin:0;">A. $36,000 (3%).<br>
+    B. $60,000 (5%).<br>
+    C. $87,000 (7.25%).<br>
+    D. $120,000 (10%).</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> HARPTA (HRS 235-68) requires withholding of 7.25 percent of the amount realized from a non-resident seller absent an applicable exemption documented on Form N-289. $1,200,000 &times; 7.25% = $87,000.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item S-2 (Chapter 13, HRS 514B).</strong> A condominium developer is required to provide which of the following to a prospective purchaser before execution of the sales contract?</p>
+    <p style="margin:0;">A. A Preliminary Public Report only.<br>
+    B. A Final Public Report only.<br>
+    C. Either the Preliminary or Final Public Report, depending on the project's stage of registration with the Commission.<br>
+    D. The bylaws and house rules in addition to either the Preliminary or Final Public Report.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> HRS §514B-54 et seq. provides for three tiers of public report (Preliminary, Contingent Final, Final), with the applicable report determined by the project's stage of registration. The bylaws and house rules are required disclosures but are not, in themselves, the public report.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item S-3 (Chapter 20, License Law).</strong> A salesperson advertises a listed property on her personal social-media account. The advertisement displays the property address, the price, and the salesperson's first name and personal cell number. The advertisement does not display the employing brokerage's name. Under HAR §16-99, this advertisement is:</p>
+    <p style="margin:0;">A. Compliant, because the salesperson's name and contact information are displayed.<br>
+    B. Compliant, because social-media advertising is exempt from the brokerage-identification rule.<br>
+    C. Non-compliant, because the employing brokerage must be identified in every form of advertisement.<br>
+    D. Non-compliant, because social-media advertising of listings is prohibited.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> HAR §16-99 requires the employing brokerage to be identified in all advertising, including electronic media. The omission of the brokerage name renders the advertisement non-compliant, regardless of the platform. Social-media advertising is permitted; brokerage identification is not.</p>
+  </div>
+</section>
+
+<section class="page-break">
+  <div class="appendix-marker">Appendix B</div>
+  <h1>Hawai'i Glossary &mdash; Selected Terms</h1>
+  <p>The Academy's complete glossary contains more than three hundred (300) terms. The following excerpt presents the principal Hawai'i-specific terms that distinguish Hawai'i practice from mainland real-estate doctrine.</p>
+
+  <table class="dense">
+    <thead><tr><th style="width:30%;">Term</th><th>Definition</th></tr></thead>
+    <tbody>
+      <tr><td><strong>Ahupua'a</strong></td><td>A traditional Hawaiian land division running from the mountain to the sea, providing the inhabitants of the division with access to upland, mid-land, and shore resources. A foundational unit in pre-Māhele land tenure.</td></tr>
+      <tr><td><strong>Agreement of Sale</strong></td><td>A Hawai'i installment sales contract under which the seller retains legal title until the buyer has paid the purchase price in full or refinanced. Subject to HRS Chapter 484 and HAR §16-99-44 disclosure requirements.</td></tr>
+      <tr><td><strong>AOAO</strong></td><td>Association of Apartment Owners. The governing body of a Hawai'i condominium under HRS 514B.</td></tr>
+      <tr><td><strong>Bureau of Conveyances (BoC)</strong></td><td>The State office (HRS Chapter 502) maintaining the Regular System records of conveyances, mortgages, and other instruments affecting Hawai'i real property.</td></tr>
+      <tr><td><strong>CHO</strong></td><td>Condominium Hotel Operator. A person who, for compensation, manages a condominium as a transient-accommodations property. Licensure under HRS 467 and 514E required at certain thresholds.</td></tr>
+      <tr><td><strong>Conveyance Tax</strong></td><td>A graduated transfer tax imposed under HRS Chapter 247 on the sale of Hawai'i real property. Rate varies with purchase price and owner-occupancy status of the buyer.</td></tr>
+      <tr><td><strong>CPR</strong></td><td>Condominium Property Regime. A form of common-interest ownership established under HRS 514B by recordation of a Declaration and bylaws.</td></tr>
+      <tr><td><strong>DLNR</strong></td><td>State of Hawai'i Department of Land and Natural Resources. The agency administering, among other matters, shoreline certification and Special Management Area review.</td></tr>
+      <tr><td><strong>Fee Buyout</strong></td><td>A transaction in which the holder of a leasehold interest purchases the underlying fee from the fee-simple owner, thereby merging the estates and extinguishing the lease.</td></tr>
+      <tr><td><strong>General Excise Tax (GET)</strong></td><td>A Hawai'i tax on gross receipts of nearly all business activity within the State, imposed under HRS Chapter 237. Applies to real estate brokerage commissions.</td></tr>
+      <tr><td><strong>Great Māhele</strong></td><td>The 1848 division of Hawai'i lands among the Crown, the Government, the chiefs (Konohiki), and (subsequently) the commoners (Kuleana), establishing the foundation of present-day private land ownership.</td></tr>
+      <tr><td><strong>HARPTA</strong></td><td>Hawai'i Real Property Tax Act (HRS §235-68). Imposes a 7.25% withholding from the amount realized by a non-resident seller of Hawai'i real property absent an exemption documented on Form N-289.</td></tr>
+      <tr><td><strong>HARES</strong></td><td>Hawai'i Association of REALTORS. The state-level professional association whose standard forms are commonly used in residential transactions.</td></tr>
+      <tr><td><strong>Kuleana</strong></td><td>A native tenant's interest in a parcel awarded under the Kuleana Act of 1850; certain kuleana parcels exist today and may carry traditional access rights.</td></tr>
+      <tr><td><strong>Land Court</strong></td><td>A Hawai'i court of record established under HRS Chapter 501 that issues a certificate of title (Torrens system) carrying a state guarantee of title.</td></tr>
+      <tr><td><strong>'Ohana Dwelling</strong></td><td>A second dwelling permitted on certain residentially-zoned parcels under O'ahu and neighbor-island ordinances to accommodate family members.</td></tr>
+      <tr><td><strong>Public Report</strong></td><td>A document required by HRS 514B at three tiers (Preliminary, Contingent Final, Final) disclosing material facts about a condominium project, issued by the developer and registered with the Real Estate Commission.</td></tr>
+      <tr><td><strong>SMA</strong></td><td>Special Management Area. Coastal zone established under HRS Chapter 205A requiring SMA permits for certain developments.</td></tr>
+      <tr><td><strong>State Land Use Districts</strong></td><td>Four classifications (Urban, Rural, Agricultural, Conservation) of all Hawai'i land established by the State Land Use Commission under HRS Chapter 205.</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<section class="page-break">
+  <div class="appendix-marker">Appendix C</div>
+  <h1>Instructor Evaluation Instrument</h1>
+  <p>The following form is presented to every student upon completion of the Course. Responses are collected anonymously, tabulated quarterly, and retained for three years.</p>
+
+  <div class="callout">
+    <h4>Student Evaluation of Instructor &mdash; Ralph Foulger's Academy of Real Estate</h4>
+    <p style="margin:0;">For each statement below, please indicate your agreement on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree). Your responses are anonymous and will be reviewed quarterly to improve the Academy's instructional quality.</p>
+  </div>
+
+  <table class="dense">
+    <thead><tr><th style="width:8%;">#</th><th>Statement</th><th style="width:18%;">Scale</th></tr></thead>
+    <tbody>
+      <tr><td>1</td><td>The instructor demonstrated thorough knowledge of the subject matter.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>2</td><td>Course content was presented clearly and at an appropriate pace.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>3</td><td>The instructor was responsive to student questions.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>4</td><td>Examples used in instruction were relevant to Hawai'i practice.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>5</td><td>The instructor began and ended class sessions on time.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>6</td><td>Course materials were complete, accurate, and free of errors.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>7</td><td>Assessment items (quizzes and exams) fairly reflected the material taught.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>8</td><td>I feel prepared to take the PSI Real Estate Salesperson Examination.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+      <tr><td>9</td><td>I would recommend this Course to another aspiring licensee.</td><td>1 &mdash; 2 &mdash; 3 &mdash; 4 &mdash; 5</td></tr>
+    </tbody>
+  </table>
+
+  <h4>Open-Ended Questions</h4>
+  <ul>
+    <li>What aspect of the instruction did you find most valuable?</li>
+    <li>What aspect of the instruction would you recommend improving?</li>
+    <li>Are there topics you wish had received more attention?</li>
+    <li>Any additional comments for the Principal Instructor or the Real Estate Commission?</li>
+  </ul>
+</section>
+
+<section class="page-break">
+  <div class="appendix-marker">Appendix D</div>
+  <h1>Statutory &amp; Regulatory Authorities Cited</h1>
+
+  <h3>Hawai'i Revised Statutes</h3>
+  <table class="dense">
+    <thead><tr><th style="width:18%;">Chapter</th><th>Subject Matter</th></tr></thead>
+    <tbody>
+      <tr><td>HRS 205</td><td>State Land Use Commission</td></tr>
+      <tr><td>HRS 205A</td><td>Coastal Zone Management; Special Management Area</td></tr>
+      <tr><td>HRS 235-68</td><td>Hawai'i Real Property Tax Act (HARPTA)</td></tr>
+      <tr><td>HRS 237</td><td>General Excise Tax</td></tr>
+      <tr><td>HRS 247</td><td>Conveyance Tax</td></tr>
+      <tr><td>HRS 436B</td><td>Uniform Professional and Vocational Licensing Act</td></tr>
+      <tr><td>HRS 449</td><td>Escrow Depositories</td></tr>
+      <tr><td>HRS 467</td><td>Real Estate Brokers and Salespersons</td></tr>
+      <tr><td>HRS 478</td><td>Interest and Usury</td></tr>
+      <tr><td>HRS 480</td><td>Monopolies, Restraint of Trade; Disclosure (Agreement of Sale)</td></tr>
+      <tr><td>HRS 484</td><td>Uniform Land Sales Practices Act</td></tr>
+      <tr><td>HRS 489</td><td>Public Accommodations</td></tr>
+      <tr><td>HRS 501</td><td>Land Court Registration</td></tr>
+      <tr><td>HRS 502</td><td>Bureau of Conveyances; Regular System Recording</td></tr>
+      <tr><td>HRS 508D</td><td>Mandatory Seller Disclosures in Real Estate Transactions</td></tr>
+      <tr><td>HRS 514B</td><td>Condominium Property Act</td></tr>
+      <tr><td>HRS 514E</td><td>Time-Share Plans</td></tr>
+      <tr><td>HRS 515</td><td>Discrimination in Real Property Transactions</td></tr>
+      <tr><td>HRS 521</td><td>Residential Landlord-Tenant Code</td></tr>
+      <tr><td>HRS 667</td><td>Foreclosures</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Hawai'i Administrative Rules</h3>
+  <table class="dense">
+    <thead><tr><th style="width:18%;">Citation</th><th>Subject Matter</th></tr></thead>
+    <tbody>
+      <tr><td>HAR Title 16</td><td>Department of Commerce and Consumer Affairs</td></tr>
+      <tr><td>HAR §16-99</td><td>Real Estate Brokers and Salespersons (Subchapters 1&ndash;10)</td></tr>
+      <tr><td>HAR §16-99 (Sub. 5)</td><td>Registered Real Estate Schools (this submission's authority)</td></tr>
+      <tr><td>HAR §16-99-12</td><td>Trust Accounts</td></tr>
+      <tr><td>HAR §16-99-36</td><td>Education Requirement</td></tr>
+      <tr><td>HAR §16-99-37</td><td>Education Equivalency</td></tr>
+      <tr><td>HAR §16-99-44</td><td>Disclosure of Agreement of Sale Information</td></tr>
+      <tr><td>HAR §16-99-99</td><td>Application for Registration as Continuing Education Provider</td></tr>
+      <tr><td>HAR §16-99-100</td><td>Refund Standards</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Federal Authorities</h3>
+  <table class="dense">
+    <thead><tr><th style="width:30%;">Authority</th><th>Subject Matter</th></tr></thead>
+    <tbody>
+      <tr><td>15 USC §§1&ndash;7 (Sherman Act)</td><td>Antitrust; per se restraints</td></tr>
+      <tr><td>15 USC §1601 et seq. (TILA)</td><td>Truth-in-Lending Act / Regulation Z</td></tr>
+      <tr><td>12 USC §2601 et seq. (RESPA)</td><td>Real Estate Settlement Procedures Act / Regulation X</td></tr>
+      <tr><td>15 USC §1691 et seq. (ECOA)</td><td>Equal Credit Opportunity Act</td></tr>
+      <tr><td>42 USC §3601 et seq.</td><td>Federal Fair Housing Act (Title VIII of the Civil Rights Act of 1968)</td></tr>
+      <tr><td>42 USC §12101 et seq. (ADA)</td><td>Americans with Disabilities Act</td></tr>
+      <tr><td>29 USC §794 (§504)</td><td>Rehabilitation Act of 1973</td></tr>
+      <tr><td>42 USC §4851 (Title X)</td><td>Residential Lead-Based Paint Hazard Reduction Act of 1992</td></tr>
+      <tr><td>42 USC §9601 et seq. (CERCLA)</td><td>Comprehensive Environmental Response, Compensation and Liability Act</td></tr>
+      <tr><td>16 CFR Part 255</td><td>FTC Endorsement Guides</td></tr>
+      <tr><td>24 CFR Part 35</td><td>HUD Lead-Based Paint Disclosure Rule</td></tr>
+    </tbody>
+  </table>
+
+  <div class="rule-double"></div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     APPENDIX E — SAMPLE CERTIFICATE OF COMPLETION
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="appendix-marker">Appendix E</div>
+  <h1>Sample Certificate of Completion</h1>
+  <p>The following is the visual specimen of the Certificate of Completion issued to a student upon satisfaction of all completion criteria. Each Certificate is individually numbered, signed by the Principal Instructor, and recorded in the Academy's permanent register.</p>
+
+  <div style="border:2pt solid var(--gold); padding: 32pt; margin: 18pt 0; background: linear-gradient(180deg, #fffaf0 0%, #f4ead2 100%); text-align: center; page-break-inside: avoid;">
+    <div style="font-family: var(--sans); font-size: 9pt; letter-spacing: 0.32em; text-transform: uppercase; color: var(--ink-3); margin-bottom: 14pt;">Certificate of Completion</div>
+    <div style="font-family: var(--serif); font-size: 22pt; line-height: 1.2; color: var(--ink); font-style: italic; margin-bottom: 18pt;">Ralph Foulger's Academy of <span style="color: var(--ocean);">Real Estate</span></div>
+
+    <div style="font-family: var(--serif); font-size: 11pt; color: var(--ink-2); margin-bottom: 6pt;">This is to certify that</div>
+    <div style="font-family: var(--serif); font-size: 24pt; color: var(--ink); margin-bottom: 6pt; border-bottom: 0.5pt solid var(--rule); padding-bottom: 8pt; display: inline-block; padding-left: 60pt; padding-right: 60pt;">[ STUDENT FULL NAME ]</div>
+    <div style="font-family: var(--serif); font-size: 11pt; color: var(--ink-2); margin: 14pt 0;">has successfully completed the requirements of the<br><strong>Hawai'i Salesperson Prelicensing Curriculum</strong></div>
+    <div style="font-family: var(--serif); font-size: 11pt; color: var(--ink-2); margin-bottom: 18pt;">consisting of sixty-four (64) hours of instruction in accordance with<br><em>Hawai'i Revised Statutes</em> §467-9(a)(2)(B), on this</div>
+    <div style="font-family: var(--serif); font-size: 16pt; color: var(--ink); margin-bottom: 24pt;">[ DAY ] day of [ MONTH ], 20[ YY ]</div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18pt; max-width: 5in; margin: 0 auto;">
+      <div style="border-top: 0.5pt solid var(--ink); padding-top: 4pt;">
+        <div style="font-family: var(--serif); font-size: 10pt;">Ralph S. Foulger</div>
+        <div style="font-family: var(--sans); font-size: 7.5pt; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-3);">Principal Instructor &amp; Founder</div>
+      </div>
+      <div style="border-top: 0.5pt solid var(--ink); padding-top: 4pt;">
+        <div style="font-family: var(--mono); font-size: 10pt;">Cert No. [ XXXX-YYYY ]</div>
+        <div style="font-family: var(--sans); font-size: 7.5pt; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-3);">Unique Identifier</div>
+      </div>
+    </div>
+
+    <div style="font-family: var(--sans); font-size: 7pt; color: var(--ink-3); letter-spacing: 0.08em; margin-top: 20pt; text-transform: uppercase;">Registered Real Estate Prelicense School &middot; State of Hawai'i Real Estate Commission</div>
+  </div>
+
+  <p style="font-size: 9.5pt; color: var(--ink-3); margin-top: 14pt;"><em>The Certificate is printed on tamper-evident bond paper, signed in ink, and embossed with the Academy seal. A duplicate of each Certificate is retained in the Academy's permanent register and recorded under the Certificate's unique identifier, retrievable upon request by the student, PSI, or the Commission for verification.</em></p>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     APPENDIX F — EXTENDED SAMPLE EXAM ITEMS
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="appendix-marker">Appendix F</div>
+  <h1>Extended Sample Examination Items</h1>
+  <p>The following items supplement those at Appendix A and are presented as further evidence of the depth, breadth, and difficulty calibration of the Academy's question bank.</p>
+
+  <h3>F.1 &nbsp; Property Rights, Title &amp; Conveyances</h3>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-1 (Ch. 1, Property Ownership).</strong> An owner conveys to "A and B as joint tenants with right of survivorship." A subsequently conveys A's interest to C. What is the resulting tenancy?</p>
+    <p style="margin:0;">A. Joint tenancy between B and C.<br>
+    B. Tenancy in common between B and C.<br>
+    C. Tenancy by the entirety between B and C.<br>
+    D. The conveyance from A to C is void because joint tenancy creates an indivisible whole.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> A's conveyance severs the joint tenancy as to A's interest. C takes as a tenant in common with B, holding 50%. B retains the surviving 50%, which remains characterized by the original ownership but lacks a co-joint tenant.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-2 (Ch. 8, Transfer of Title).</strong> Which of the following deeds provides the GREATEST protection to a grantee?</p>
+    <p style="margin:0;">A. Quitclaim deed.<br>
+    B. Bargain and sale deed without covenants.<br>
+    C. Special warranty deed.<br>
+    D. General warranty deed.</p>
+    <p style="margin:0;"><strong>Answer: D.</strong> A general warranty deed contains the five covenants of title (seisin, right to convey, against encumbrances, quiet enjoyment, warranty forever) and protects the grantee against title defects arising before AND during the grantor's ownership. A special warranty deed protects only against defects arising during the grantor's ownership.</p>
+  </div>
+
+  <h3>F.2 &nbsp; Agency, Contracts &amp; Disclosures</h3>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-3 (Ch. 5, Laws of Agency).</strong> A salesperson representing a seller learns from the seller that the property's foundation has a structural defect that has not been repaired. The salesperson is approached by a buyer who is not represented by any licensee. The buyer asks the salesperson whether there are any known defects. What must the salesperson do?</p>
+    <p style="margin:0;">A. Refuse to answer, citing fiduciary duty to the seller.<br>
+    B. Disclose the structural defect, because it is a material fact to a customer-buyer.<br>
+    C. Disclose the structural defect only if the buyer signs a non-disclosure agreement.<br>
+    D. Disclose the structural defect to the buyer's licensee, even though the buyer has none.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> A material fact about the property (a structural defect) must be disclosed to a customer-buyer regardless of fiduciary duty to the seller. The duty to the seller-principal is limited to confidential information about the seller's negotiating posture or motivation, not material facts about the property itself.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-4 (Ch. 7, Contracts).</strong> A buyer makes an offer on a property. Before the seller responds, the buyer wishes to withdraw the offer. Which of the following is true?</p>
+    <p style="margin:0;">A. The offer is binding until the seller rejects it.<br>
+    B. The buyer may withdraw the offer at any time prior to acceptance.<br>
+    C. The buyer may withdraw the offer only with the seller's consent.<br>
+    D. The buyer may withdraw the offer only by forfeiting earnest money.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> Under fundamental contract law, an offer may be revoked at any time prior to acceptance unless the offer is an option supported by consideration. No consideration was given to keep the offer open; the buyer may revoke unilaterally. Earnest money was tendered with the offer, not to support an option.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-5 (Ch. 6, Disclosures).</strong> A licensee is selling a home built in 1965. Which federal disclosure must the seller make to the buyer?</p>
+    <p style="margin:0;">A. Radon disclosure under the Indoor Radon Abatement Act.<br>
+    B. Lead-based paint disclosure under Title X of the Residential Lead-Based Paint Hazard Reduction Act of 1992.<br>
+    C. Asbestos disclosure under the Asbestos Hazard Emergency Response Act.<br>
+    D. No federal disclosure is required for a residential sale of a 1965 home.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> Title X requires disclosure of known lead-based paint hazards and provision of the EPA "Protect Your Family from Lead in Your Home" pamphlet for residential properties built before 1978. The 1965 build date triggers the disclosure. The other federal acts cited do not impose general residential-sale disclosures of the kind in Title X.</p>
+  </div>
+
+  <h3 class="page-break">F.3 &nbsp; Financing &amp; Calculations</h3>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-6 (Ch. 4, Financing).</strong> A borrower obtains a $400,000 conventional fixed-rate mortgage with 2 discount points and an interest rate of 6.5%. The lender's required yield is 6.75%. Approximately, are the 2 points sufficient to produce the required yield?</p>
+    <p style="margin:0;">A. Yes; 2 points cover the spread exactly.<br>
+    B. Yes; 2 points cover the spread with margin.<br>
+    C. No; 2 points falls short by approximately one-eighth.<br>
+    D. Cannot be determined without the loan term.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> Under the customary rule of thumb, 1 discount point raises the effective yield by approximately 1/8 (.125%). 2 points raises the yield by approximately .25%, which exactly matches the spread (6.75% &minus; 6.50% = .25%). The "approximately" framing of the question and "with margin" answer reflect that the rule-of-thumb yield assumes a 30-year loan held to half its term; for a typical residential mortgage the points slightly over-yield.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-7 (Ch. 10, Calculations).</strong> A buyer purchases a property for $750,000. The property's annual gross income is $84,000 and the annual operating expenses are $26,400. What is the cap rate?</p>
+    <p style="margin:0;">A. 7.68%.<br>
+    B. 11.20%.<br>
+    C. 14.65%.<br>
+    D. None of the above.</p>
+    <p style="margin:0;"><strong>Answer: A.</strong> NOI = gross income &minus; operating expenses = $84,000 &minus; $26,400 = $57,600. Cap rate = NOI / purchase price = $57,600 / $750,000 = 7.68%.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-8 (Ch. 10, Calculations).</strong> A salesperson receives a 70% split with her brokerage. The brokerage receives 50% of a 5.5% total commission on a $620,000 sale. What does the salesperson receive (before tax)?</p>
+    <p style="margin:0;">A. $11,935.<br>
+    B. $13,640.<br>
+    C. $17,050.<br>
+    D. $19,470.</p>
+    <p style="margin:0;"><strong>Answer: A.</strong> Total commission: $620,000 &times; 5.5% = $34,100. Brokerage share: $34,100 &times; 50% = $17,050. Salesperson share: $17,050 &times; 70% = $11,935.</p>
+  </div>
+
+  <h3>F.4 &nbsp; Hawai'i-Specific Items</h3>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-9 (Ch. 15, Land Utilization).</strong> A parcel is classified as Conservation under the State Land Use Districts. The owner proposes to construct a single-family residence on the parcel. Which of the following must occur?</p>
+    <p style="margin:0;">A. County zoning approval only.<br>
+    B. Land Use Commission boundary amendment.<br>
+    C. Conservation District Use Permit from DLNR.<br>
+    D. SMA permit.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> Use within the Conservation District is regulated by the Department of Land and Natural Resources under HAR §13-5, which requires a Conservation District Use Permit (CDUP). County zoning is subordinate; an LUC boundary amendment would be required only to reclassify the land out of Conservation. SMA applies to coastal zone development under HRS 205A, which may also apply but is independent of the Conservation classification.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-10 (Ch. 17, Hawai'i Contracts).</strong> A buyer's financing contingency in the HARES standard residential purchase contract typically requires the buyer to:</p>
+    <p style="margin:0;">A. Obtain a loan commitment within 30 days of acceptance.<br>
+    B. Make a good-faith application within a stated number of days, with loan approval by a stated later date.<br>
+    C. Pay all-cash if financing is not obtained.<br>
+    D. Allow the seller to provide financing.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> The HARES financing contingency is a two-deadline structure: a "good-faith application" deadline (typically 7–14 days) followed by a "loan approval" deadline (typically 30–45 days). The structure protects both parties &mdash; the seller is assured of timely application, the buyer is protected against unforeseen underwriting delay. Specific dates are negotiated and filled in on the contract face.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-11 (Ch. 14, HRS 521 Landlord-Tenant).</strong> A landlord in Hawai'i wishes to terminate a month-to-month residential tenancy with no cause stated. What notice must the landlord give the tenant?</p>
+    <p style="margin:0;">A. 14 days.<br>
+    B. 28 days.<br>
+    C. 45 days.<br>
+    D. 60 days.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> Under HRS §521-71(d), a landlord seeking to terminate a month-to-month tenancy without cause must give the tenant forty-five (45) days' written notice. The tenant, by contrast, may terminate on twenty-eight (28) days' notice under §521-71(a).</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-12 (Ch. 19, Conveyance Tax).</strong> A property sells for $1,800,000 to a buyer who will use it as her principal residence (owner-occupant). What is the approximate Hawai'i conveyance tax?</p>
+    <p style="margin:0;">A. $1,800.<br>
+    B. $4,500.<br>
+    C. $9,000.<br>
+    D. $18,000.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> Under HRS Chapter 247, the conveyance tax for an owner-occupant residential purchase priced between $1,000,000 and $1,999,999.99 is $0.25 per $100 of consideration. $1,800,000 &times; .0025 = $4,500.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-13 (Ch. 20, License Law).</strong> A licensee deposits a buyer's earnest money check into the brokerage's trust account on the third business day after the check was tendered. Under HAR §16-99-12, is this compliant?</p>
+    <p style="margin:0;">A. Yes; deposit within five business days is permitted.<br>
+    B. Yes; deposit by the next business day after acceptance is required.<br>
+    C. No; deposit by the close of business on the first business day after the contingencies are removed.<br>
+    D. No; the deposit must occur on the same business day the check was received.</p>
+    <p style="margin:0;"><strong>Answer: B.</strong> HAR §16-99-12 generally requires deposit of earnest money into the trust account by the close of the next business day after acceptance of the purchase contract (which is typically the day the funds become brokerage-controlled rather than buyer-controlled). Practice tip: most brokerages instruct the licensee to deposit by the next business day after RECEIPT to avoid any ambiguity.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-14 (Ch. 13, HRS 514B Condominiums).</strong> A buyer purchasing a Hawai'i condominium has the right to rescind the contract within how many days after delivery of which document?</p>
+    <p style="margin:0;">A. 7 days; final public report.<br>
+    B. 7 days; AOAO bylaws.<br>
+    C. 30 days; reserve study.<br>
+    D. 30 days; final public report.</p>
+    <p style="margin:0;"><strong>Answer: A.</strong> HRS §514B-86 grants the buyer the right to rescind a condominium purchase contract within seven (7) calendar days after receipt of all documents required to be delivered, including the final public report. The rescission right is buyer-protective and is not waivable in the standard residential transaction.</p>
+  </div>
+
+  <div class="callout-ocean callout">
+    <p style="margin:0;"><strong>Item F-15 (Ch. 12, HARPTA).</strong> A non-resident seller's net taxable gain on a Hawai'i sale will be less than the HARPTA withholding amount. What should the seller do?</p>
+    <p style="margin:0;">A. Refuse to close.<br>
+    B. Pay the full HARPTA withholding and seek refund on the year-end return.<br>
+    C. File Form N-288B (application for early refund based on actual tax liability) before or shortly after closing to receive a refund of the excess withholding without waiting for year-end.<br>
+    D. Reduce the sales price to bring the withholding below the gain.</p>
+    <p style="margin:0;"><strong>Answer: C.</strong> Form N-288B is the application for an early refund of HARPTA withholding where the actual Hawai'i tax liability on the sale will be less than the amount withheld. The seller submits N-288B with supporting computation of the actual gain, and the Department of Taxation issues the refund typically within several months. This avoids the seller waiting until the following year's return to recover excess withholding.</p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     APPENDIX G — SAMPLE LESSON EXCERPT
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="appendix-marker">Appendix G</div>
+  <h1>Sample Lesson Excerpt &mdash; Chapter 5: COALD Framework</h1>
+  <p>The following is a verbatim excerpt from Chapter 5 (Laws of Agency), Lesson 5.3, "The COALD Framework." The excerpt is illustrative of the instructional voice, depth, and Hawai'i-anchoring that characterize Academy materials.</p>
+
+  <div class="pullquote">"The fiduciary duties of an agent to a principal are sometimes presented as a list to be memorized. We will present them as a tool to be wielded."</div>
+
+  <h3>The Five Fiduciary Duties</h3>
+
+  <p>When you accept agency &mdash; the moment a fact pattern crosses the line from <em>I am answering a question</em> to <em>I am representing this person's interest</em> &mdash; you have taken on five duties at once. The memory tag we use is <strong>COALD</strong>:</p>
+
+  <ul>
+    <li><strong>C&middot;are</strong> &mdash; the duty to bring to bear, on behalf of the principal, the competence and skill that a licensee in your position is expected to possess.</li>
+    <li><strong>O&middot;bedience</strong> &mdash; the duty to follow the principal's lawful instructions. The duty stops at the line where compliance would require you to violate the law, the Code, or another duty owed to a third party.</li>
+    <li><strong>A&middot;ccounting</strong> &mdash; the duty to account for every dollar, every document, and every material communication received in the course of the agency. In Hawai'i practice, this duty is the doctrinal floor under HAR §16-99-12's trust-account rules.</li>
+    <li><strong>L&middot;oyalty</strong> &mdash; the duty to place the principal's interest above your own, above your brokerage's, and above any other client's. This is the duty most often broken silently &mdash; not by malice but by inattention.</li>
+    <li><strong>D&middot;isclosure</strong> &mdash; the duty to disclose to the principal every material fact known to you that bears on the principal's decision. This is the duty that operates the moment new information arrives, not at the next scheduled conversation.</li>
+  </ul>
+
+  <h3>Working the Framework on a Fact Pattern</h3>
+
+  <p>Consider: You represent a seller. You learn from a neighbor &mdash; not from the seller &mdash; that a permit for a 1990 kitchen renovation was never closed out by the County. The seller has marketed the property as "fully permitted." The buyer's licensee, with whom you have a cooperative relationship, has not asked.</p>
+
+  <p>Working COALD in order:</p>
+
+  <ul>
+    <li><strong>Care.</strong> A licensee in your position is expected to know that an open permit is a material fact and a closing-stage encumbrance. You may not look away.</li>
+    <li><strong>Obedience.</strong> If your seller-principal instructs you to remain silent &mdash; that is, to violate the law &mdash; obedience is overridden by the duty to disclose material facts to the customer-buyer (Ch. 6) and by your statutory duty under HRS 467 (Ch. 20).</li>
+    <li><strong>Accounting.</strong> The duty triggers a written memorandum to your file documenting the date you learned of the permit, the source, the action you took.</li>
+    <li><strong>Loyalty.</strong> Your loyalty to the seller does not authorize concealment of a material fact from the buyer-customer. It does authorize you to work the issue with the seller first &mdash; quietly, before any disclosure is made &mdash; to see whether a same-day permit close-out, a seller-paid escrow holdback, or a price adjustment can resolve it before the disclosure must happen.</li>
+    <li><strong>Disclosure.</strong> Once it is clear that the permit cannot be resolved before disclosure must be made, the disclosure is made &mdash; to the seller first, then to the buyer-customer (or buyer's licensee if represented), in writing, with an amendment to the Seller's Real Property Disclosure Statement (HRS 508D) reflecting the open permit.</li>
+  </ul>
+
+  <p>This is the way the framework works. You do not memorize the five duties. You use them. When you are uncertain in a transaction, walk the letters. The path will appear.</p>
+
+  <div class="callout">
+    <h4>Hawai'i Alert: Agency Disclosure Form Triggers Here</h4>
+    <p style="margin:0;">In Hawai'i practice, the moment of "first substantive contact" with a customer triggers the mandatory written agency disclosure (Ch. 20). The COALD framework was operating in the example above from the moment the licensee accepted the listing &mdash; the disclosure form merely memorializes the relationship to the customer-buyer. Do not allow form to lag substance.</p>
+  </div>
+</section>
+
+<!-- ════════════════════════════════════════════════════════
+     APPENDIX H — FTC-COMPLIANT MARKETING SAMPLE
+     ════════════════════════════════════════════════════════ -->
+<section class="page-break">
+  <div class="appendix-marker">Appendix H</div>
+  <h1>Sample Marketing Materials &mdash; FTC Compliance</h1>
+  <p>The Academy attaches the following representative marketing copy. Every published marketing communication is reviewed against the FTC's Endorsement Guides (16 CFR Part 255), the FTC Act §5 prohibition against deceptive practices, and HRS §467-14(13) which prohibits real-estate licensees and schools from false or misleading advertising.</p>
+
+  <div style="border: 0.5pt solid var(--rule); padding: 24pt; margin: 14pt 0; background: #fdfaef;">
+    <div style="font-family: var(--sans); font-size: 9pt; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ocean); font-weight: 700; margin-bottom: 8pt;">Specimen Advertisement &mdash; Web Header</div>
+    <div style="font-family: var(--serif); font-size: 26pt; line-height: 1.1; color: var(--ink); margin-bottom: 10pt; font-style: italic;">Become a licensed Hawai'i real estate salesperson.</div>
+    <div style="font-family: var(--serif); font-size: 13pt; color: var(--ink-2); margin-bottom: 16pt;">Trained by Ralph S. Foulger &mdash; over fifty years of Hawai'i real estate practice. The Academy he founded in 1996.</div>
+
+    <div style="font-family: var(--sans); font-size: 9pt; line-height: 1.6; color: var(--ink-3); border-top: 0.5pt solid var(--rule); padding-top: 10pt;">
+      <p style="margin: 0;"><strong>FTC-Compliant Disclosures:</strong></p>
+      <ul style="margin: 4pt 0 0 16pt; padding: 0;">
+        <li>Course completion does not guarantee passage of the PSI Real Estate Salesperson Examination. Examination outcomes depend on the individual student's preparation and performance.</li>
+        <li>Course completion does not guarantee issuance of a Hawai'i real estate license. License issuance is subject to the Real Estate Commission's review of the applicant's character, citizenship, age, and education.</li>
+        <li>No representation of future income or earnings as a real estate licensee is made or implied. Income outcomes depend on market conditions and the individual licensee's practice.</li>
+        <li>Any first-attempt pass-rate statistic published by the Academy is substantiated by data on file and available for inspection by the Real Estate Commission or by any individual prospective student upon written request.</li>
+        <li>All student testimonials are presented with first name, last initial, and date of completion. Testimonials are unpaid unless explicitly disclosed as compensated, in compliance with 16 CFR Part 255.</li>
+      </ul>
+    </div>
+  </div>
+
+  <p style="font-size: 10pt; color: var(--ink-2); margin-top: 14pt;">All Academy marketing materials are reviewed by the Principal Instructor before publication. Where a marketing claim relates to a quantitative outcome (pass rate, completion rate, time-to-completion, alumni income), the data substantiating the claim is documented in the Academy's records and is available for Commission inspection without precondition.</p>
+
+  <div class="rule-double"></div>
+
+  <p style="text-align:center; font-family:var(--sans); font-size:9pt; letter-spacing:0.06em; color:var(--ink-3); margin-top:24pt;">
+    END OF SUBMISSION &nbsp;&middot;&nbsp; RALPH FOULGER'S ACADEMY OF REAL ESTATE &nbsp;&middot;&nbsp; SALESPERSON PRELICENSING CURRICULUM &nbsp;&middot;&nbsp; MAY 2026
+  </p>
+</section>
+
+</body>
+</html>

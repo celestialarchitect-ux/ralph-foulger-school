@@ -1,0 +1,177 @@
+MATH DRILL VERIFICATION — recompute each; flag wrong answers.
+
+[math-0] areas
+Q: A rectangular lot is 150 feet wide and 290 feet deep. What is its area in acres?
+Given: Width: 150 ft; Depth: 290 ft; 1 acre = 43,560 sq ft
+Formula: Area (sq ft) = L × W; Acres = sq ft ÷ 43,560
+Steps: 150 × 290 = 43,500 sq ft | 43,500 ÷ 43,560 = 0.9986 acres
+ANSWER: ≈ 1.00 acre (very nearly exact)
+
+[math-1] areas
+Q: A triangular lot has a base of 200 ft and a height of 300 ft. What is its area?
+Given: Base: 200 ft; Height: 300 ft
+Formula: ½ × Base × Height
+Steps: ½ × 200 × 300 = 30,000 sq ft | 30,000 ÷ 43,560 = 0.69 acres
+ANSWER: 30,000 sq ft (≈ 0.69 acres)
+
+[math-2] areas
+Q: A circular pond on a property has a radius of 50 ft. How many square feet does it cover?
+Given: Radius: 50 ft; π ≈ 3.14
+Formula: π × r²
+Steps: 3.14 × 50² = 3.14 × 2,500 | = 7,854 sq ft (using π)
+ANSWER: ≈ 7,854 sq ft
+
+[math-3] areas
+Q: A section of land contains how many acres?
+Given: 1 section = 1 sq mile = 5,280 ft × 5,280 ft; 1 acre = 43,560 sq ft
+Formula: Section sq ft ÷ 43,560
+Steps: 5,280 × 5,280 = 27,878,400 sq ft | 27,878,400 ÷ 43,560 = 640 acres
+ANSWER: 640 acres per section
+
+[math-4] percentages
+Q: If $4,800 is 6% of the sale price, what is the sale price?
+Given: Part: $4,800; Rate: 6%
+Formula: Whole = Part ÷ Rate
+Steps: $4,800 ÷ 0.06 = $80,000
+ANSWER: $80,000
+
+[math-5] percentages
+Q: A house sold for $325,000. The buyer paid 3% as earnest money. How much was that?
+Given: Sale price: $325,000; Rate: 3%
+Formula: Part = Whole × Rate
+Steps: $325,000 × 0.03 = $9,750
+ANSWER: $9,750
+
+[math-6] commission
+Q: A property sells for $425,000 with a 6% total commission. The listing brokerage gets 50%, and the listing agent gets 70% of the brokerage's share. How much does the listing agent personally make?
+Given: Sale: $425,000; Commission: 6%; Listing brokerage split: 50%; Agent split: 70%
+Formula: Agent = Sale × Comm% × Brokerage split × Agent split
+Steps: Total commission: $425,000 × 0.06 = $25,500 | Listing brokerage share: $25,500 × 0.50 = $12,750 | Listing agent share: $12,750 × 0.70 = $8,925
+ANSWER: $8,925
+
+[math-7] commission
+Q: An agent earned $7,200 in commission, which represented 60% of their brokerage's commission share on a 6% total commission. What was the sale price?
+Given: Agent commission: $7,200; Agent split: 60%; Brokerage share of total: assume 50%; Total commission rate: 6%
+Formula: Work backward from agent take to total commission to sale price
+Steps: Brokerage share of total commission: $7,200 ÷ 0.60 = $12,000 | Total commission: $12,000 ÷ 0.50 = $24,000 | Sale price: $24,000 ÷ 0.06 = $400,000
+ANSWER: $400,000
+
+[math-8] financing
+Q: A buyer purchases a $480,000 home with a 20% down payment. What is the loan amount?
+Given: Sale price: $480,000; Down payment: 20%
+Formula: Loan = Price × (1 − Down %)
+Steps: Down payment: $480,000 × 0.20 = $96,000 | Loan amount: $480,000 − $96,000 = $384,000
+ANSWER: $384,000
+
+[math-9] financing
+Q: A buyer pays 2 discount points on a $300,000 loan. How much does this cost?
+Given: Loan: $300,000; Points: 2
+Formula: Points cost = Loan × Points × 1%
+Steps: 2 × 1% = 2% of loan | $300,000 × 0.02 = $6,000
+ANSWER: $6,000
+
+[math-10] financing
+Q: On a $250,000 loan at 6% annual interest, how much interest accrues per day (using 360-day year)?
+Given: Loan: $250,000; Rate: 6%; 360-day year
+Formula: Daily interest = Loan × Rate ÷ 360
+Steps: Annual interest: $250,000 × 0.06 = $15,000 | Daily interest: $15,000 ÷ 360 = $41.67
+ANSWER: $41.67 per day
+
+[math-11] financing
+Q: A buyer purchases a property for $350,000 with a $280,000 loan. What is the LTV?
+Given: Property value: $350,000; Loan: $280,000
+Formula: LTV = Loan ÷ Value
+Steps: $280,000 ÷ $350,000 = 0.80 = 80%
+ANSWER: 80% LTV (right at the PMI threshold for conventional)
+
+[math-12] prorations
+Q: Annual property tax is $4,800. Closing is on April 30 (using 360-day year, seller pays through the closing day). What is the seller's prorated share?
+Given: Annual tax: $4,800; Closing: April 30; 360-day year
+Formula: Seller share = Annual ÷ 360 × Days from Jan 1 to closing
+Steps: Days from Jan 1 to April 30: 30 + 30 + 30 + 30 = 120 days (using 30-day months) | Daily tax: $4,800 ÷ 360 = $13.33 | Seller share: $13.33 × 120 = $1,600
+ANSWER: $1,600 seller debit / buyer credit
+
+[math-13] prorations
+Q: Monthly condo maintenance fee is $450, paid in advance on the 1st. Closing is on the 15th. The seller paid for the full month. How much does the buyer owe the seller at closing?
+Given: Monthly fee: $450; Closing: 15th of month; Seller paid full month in advance
+Formula: Buyer owes seller for unused days
+Steps: Seller used: 15 days; remaining: 15 days (assuming 30-day month) | Daily fee: $450 ÷ 30 = $15 | Buyer credit to seller: $15 × 15 = $225
+ANSWER: $225 buyer debit / seller credit
+
+[math-14] taxes
+Q: A property has an assessed value of $380,000 and a mill rate of 18 mills. What is the annual property tax?
+Given: Assessed value: $380,000; Mill rate: 18 mills
+Formula: Tax = Assessed Value × Mills ÷ 1,000
+Steps: $380,000 × 18 ÷ 1,000 = $6,840
+ANSWER: $6,840 annual property tax
+
+[math-15] taxes
+Q: Hawaii owner-occupant conveyance tax is approximately $0.10 per $100 of sale price (verify current). On a $700,000 owner-occupied sale, what's the conveyance tax?
+Given: Sale price: $700,000; Rate: $0.10 per $100
+Formula: Tax = Sale ÷ $100 × Rate
+Steps: $700,000 ÷ $100 = 7,000 units | 7,000 × $0.10 = $700
+ANSWER: $700 (verify current Hawaii conveyance tax schedule for actual rate)
+
+[math-16] investment
+Q: A four-plex generates $52,000 NOI. Comparable cap rate is 6.5%. What's the indicated value?
+Given: NOI: $52,000; Cap rate: 6.5%
+Formula: Value = NOI ÷ Cap Rate
+Steps: $52,000 ÷ 0.065 = $800,000
+ANSWER: $800,000
+
+[math-17] investment
+Q: A property is on the market for $750,000 with reported NOI of $60,000. What is the implied cap rate?
+Given: Asking price: $750,000; NOI: $60,000
+Formula: Cap Rate = NOI ÷ Value
+Steps: $60,000 ÷ $750,000 = 0.08 = 8%
+ANSWER: 8% cap rate
+
+[math-18] investment
+Q: A property has gross income of $144,000 annually (10% vacancy expected) and operating expenses of $48,000. Calculate NOI.
+Given: Gross income: $144,000; Vacancy: 10%; Operating expenses: $48,000
+Formula: NOI = (Gross Income − Vacancy) − Operating Expenses
+Steps: Vacancy loss: $144,000 × 0.10 = $14,400 | Effective Gross Income: $144,000 − $14,400 = $129,600 | NOI: $129,600 − $48,000 = $81,600
+ANSWER: $81,600 NOI
+
+[math-19] investment
+Q: A duplex rents for $1,800/month total. Comparable GRM is 145. What is the indicated value?
+Given: Monthly rent: $1,800; GRM: 145
+Formula: Value = Monthly Rent × GRM
+Steps: $1,800 × 145 = $261,000
+ANSWER: $261,000
+
+[math-20] investment
+Q: NOI is $96,000. Annual debt service is $72,000. Calculate DSCR.
+Given: NOI: $96,000; Annual debt service: $72,000
+Formula: DSCR = NOI ÷ Annual Debt Service
+Steps: $96,000 ÷ $72,000 = 1.33
+ANSWER: 1.33 (above the typical 1.20 lender minimum)
+
+[math-21] closing
+Q: A buyer is purchasing a $500,000 home with 20% down. Estimated closing costs are $8,500. The buyer received a credit of $2,000 from seller. How much cash does the buyer need at closing (excluding prorations)?
+Given: Sale: $500,000; Down: 20%; Closing costs: $8,500; Seller credit: $2,000
+Formula: Cash needed = Down + Closing costs − Credits
+Steps: Down payment: $500,000 × 0.20 = $100,000 | Plus closing costs: $100,000 + $8,500 = $108,500 | Less seller credit: $108,500 − $2,000 = $106,500
+ANSWER: $106,500 cash needed at closing
+
+[math-22] closing
+Q: A seller sells for $620,000. Their loan payoff is $380,000, broker commission is 6%, closing costs are $4,800, and HARPTA withholding (assume non-resident, 7.25%) applies. Calculate net to seller.
+Given: Sale: $620,000; Loan payoff: $380,000; Commission: 6%; Closing costs: $4,800; HARPTA: 7.25%
+Formula: Net = Sale − Payoff − Commission − Closing costs − HARPTA
+Steps: Commission: $620,000 × 0.06 = $37,200 | HARPTA withholding: $620,000 × 0.0725 = $44,950 | Total deductions: $380,000 + $37,200 + $4,800 + $44,950 = $466,950 | Net to seller (before HARPTA refund/credit): $620,000 − $466,950 = $153,050
+ANSWER: $153,050 net to seller (HARPTA may be refunded later upon Hawaii tax filing)
+
+[math-23] investment
+Q: An investor bought a property for $280,000 and sold it 3 years later for $385,000. What was the % profit?
+Given: Cost: $280,000; Sale: $385,000
+Formula: % Profit = (Sale − Cost) ÷ Cost × 100
+Steps: Profit: $385,000 − $280,000 = $105,000 | % Profit: $105,000 ÷ $280,000 = 0.375 = 37.5%
+ANSWER: 37.5% profit
+
+[math-24] investment
+Q: A flipper wants a 25% profit on a property they bought for $360,000. What's the target sale price?
+Given: Cost: $360,000; Target profit: 25%
+Formula: Target Sale = Cost × (1 + Profit %)
+Steps: $360,000 × 1.25 = $450,000
+ANSWER: $450,000 target sale price
+

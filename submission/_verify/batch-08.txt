@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 8/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[transfer-of-title-q07] (National · transfer-of-title)
+Q: Property held in joint tenancy passes at death:
+  A : To the trustee
+  B : By intestate succession
+  C*: By survivorship outside probate
+  D : Through probate
+MARKED ANSWER: C
+RATIONALE: Joint tenancy avoids probate via right of survivorship.
+
+[transfer-of-title-q07.v1] (National · transfer-of-title)
+Q: When a joint tenant dies, what happens to their interest in the property?
+  A : It must be probated through the decedent's estate
+  B*: It automatically transfers to the surviving joint tenant(s) without court involvement
+  C : It passes according to Hawaii's rules of intestate succession
+  D : It reverts to the state as abandoned property
+MARKED ANSWER: B
+RATIONALE: Joint tenancy includes the right of survivorship, which allows the property to pass directly to surviving joint tenants outside the probate process.
+
+[transfer-of-title-q07.v2] (National · transfer-of-title)
+Q: Which of the following best describes the probate treatment of property owned in joint tenancy?
+  A : Subject to probate administration and the decedent's debts
+  B : Controlled by a court-appointed guardian during estate settlement
+  C*: Exempt from probate due to the right of survivorship
+  D : Passed through probate only if the will specifies joint tenancy property
+MARKED ANSWER: C
+RATIONALE: Joint tenancy with right of survivorship bypasses probate entirely, allowing immediate transfer to the surviving joint tenant(s) upon death.
+
+[transfer-of-title-q07.v3] (National · transfer-of-title)
+Q: A property owner in Hawaii holds real property in joint tenancy with another person. Upon the owner's death, the property will most likely:
+  A : Be held in trust by the decedent's personal representative
+  B : Be distributed according to Hawaii's intestacy statutes
+  C : Go through a formal probate process as part of the estate
+  D*: Pass directly to the surviving joint tenant outside of probate
+MARKED ANSWER: D
+RATIONALE: The right of survivorship inherent in joint tenancy ensures the property transfers automatically to the surviving joint tenant(s), completely avoiding probate.
+
+[transfer-of-title-q07.v4] (National · transfer-of-title)
+Q: Compared to sole ownership, what is a key advantage of holding property in joint tenancy regarding estate disposition?
+  A : The property avoids estate taxes through a stepped-up basis
+  B : The property is automatically subject to a recorded deed of trust
+  C*: The surviving joint tenant receives the property without probate proceedings
+  D : The surviving joint tenant must file an affidavit with the probate court
+MARKED ANSWER: C
+RATIONALE: Joint tenancy's right of survivorship allows seamless transfer to the surviving co-owner(s) upon death, bypassing the probate system entirely.
+
+[transfer-of-title-q07.v5] (National · transfer-of-title)
+Q: When a joint tenant dies, how does their interest in the property transfer to the surviving joint tenant?
+  A*: Automatically by operation of law, without probate proceedings
+  B : Through the probate court system
+  C : To a designated beneficiary named in a deed
+  D : Via the decedent's will or the state intestacy statute
+MARKED ANSWER: A
+RATIONALE: Joint tenancy with right of survivorship transfers property directly to surviving co-owners outside the probate process upon death.
+
+[transfer-of-title-q07.v6] (National · transfer-of-title)
+Q: Which statement correctly describes what happens to jointly held real property when one joint tenant passes away?
+  A*: Title automatically vests in the surviving joint tenant(s) outside probate
+  B : The property must be transferred by court order following intestate succession laws
+  C : Ownership transfers to the county recorder's office until heirs claim it
+  D : The deceased's share goes to their estate and is distributed through probate
+MARKED ANSWER: A
+RATIONALE: Joint tenancy includes the right of survivorship, which causes the property to pass automatically to surviving joint tenants without probate involvement.
+
+[transfer-of-title-q07.v7] (National · transfer-of-title)
+Q: A property is titled in joint tenancy between two individuals. Upon the death of one joint tenant, the surviving joint tenant's interest in the property is determined by:
+  A : Creditors' claims filed during the probate period
+  B : The provisions of the decedent's last will and testament
+  C*: The right of survivorship inherent in the joint tenancy arrangement
+  D : State laws governing probate administration and estate settlement
+MARKED ANSWER: C
+RATIONALE: The right of survivorship is a fundamental characteristic of joint tenancy that automatically passes the deceased's share to the surviving co-owner(s) outside probate.
+
+[transfer-of-title-q07.v8] (National · transfer-of-title)
+Q: If real estate is owned in joint tenancy and one owner dies, which of the following best describes the transfer of that owner's property interest?
+  A : It passes according to the decedent's intestate succession plan
+  B*: It transfers immediately to the surviving joint tenant(s) by operation of law
+  C : It is held in trust for the heirs until probate is completed
+  D : It becomes part of the probate estate and is subject to court administration
+MARKED ANSWER: B
+RATIONALE: Joint tenancy creates an automatic transfer mechanism—the right of survivorship—that bypasses probate entirely and vests the property directly in surviving co-owners.
+
+[transfer-of-title-q07.v9] (National · transfer-of-title)
+Q: When a joint tenant dies, how does their interest in the property transfer to the surviving joint tenant?
+  A*: Automatically by operation of law without probate proceedings
+  B : Through the probate court system with a will requirement
+  C : By quitclaim deed filed with the county recorder
+  D : Through the Hawaii intestate succession statutes
+MARKED ANSWER: A
+RATIONALE: Joint tenancy includes the right of survivorship, which automatically transfers the deceased's interest to surviving joint tenants outside the probate process by operation of law.
+
+[transfer-of-title-q08] (National · transfer-of-title)
+Q: A "cloud on title" is:
+  A : A type of warranty
+  B : A federal lien
+  C*: An unresolved title claim or defect
+  D : A weather event
+MARKED ANSWER: C
+RATIONALE: Cloud = title defect or unresolved claim.
+
+[transfer-of-title-q08.v1] (National · transfer-of-title)
+Q: Which of the following best describes what a title professional means by a "cloud on title"?
+  A : A type of title insurance policy endorsement
+  B : A period of overcast weather that delays closing
+  C*: An outstanding claim or encumbrance that casts doubt on ownership
+  D : A recorded easement benefiting adjacent property
+MARKED ANSWER: C
+RATIONALE: A cloud on title is any defect or unresolved claim that impairs the seller's ability to convey clear ownership to the buyer.
+
+[transfer-of-title-q08.v2] (National · transfer-of-title)
+Q: In Hawaii real estate transactions, when a seller's title report shows a potential "cloud," this typically indicates:
+  A : The property is located in a flood zone
+  B : The buyer must obtain a survey before closing
+  C*: There is a questionable claim or unresolved defect affecting ownership
+  D : The property has an existing deed of trust that may be assumed
+MARKED ANSWER: C
+RATIONALE: A cloud on title represents any issue—such as a competing claim, old lien, or improperly released mortgage—that clouds the marketability of the title.
+
+[transfer-of-title-q08.v3] (National · transfer-of-title)
+Q: A real estate licensee should advise a buyer that a "cloud on title" means:
+  A*: There is an unresolved title issue or adverse claim that needs to be cleared
+  B : The property cannot be financed by conventional lenders
+  C : The seller holds only a life estate rather than fee simple ownership
+  D : The property is subject to a homeowners association lien
+MARKED ANSWER: A
+RATIONALE: A cloud on title is any defect or competing claim that impairs clear title and must typically be resolved before or at closing.
+
+[transfer-of-title-q08.v4] (National · transfer-of-title)
+Q: Which situation would most likely create a "cloud on title" that a title search might reveal?
+  A : The current owner holds a mortgage with a reputable institutional lender
+  B : The property is assessed for property taxes annually
+  C : The property is zoned for residential use in an urban area
+  D*: A previous owner's unpaid judgment lien remains recorded against the property
+MARKED ANSWER: D
+RATIONALE: A cloud on title consists of unresolved claims or defects—such as judgment liens, unreleased mortgages, or competing ownership claims—that cloud marketability.
+
+[transfer-of-title-q08.v5] (National · transfer-of-title)
+Q: When a title search reveals a 'cloud on title,' what does this indicate?
+  A : A mechanic's lien has been placed on the property by a contractor
+  B : The property has been registered with the Hawaii Land Court system
+  C*: There is an outstanding claim or defect that impairs the seller's ability to transfer clear ownership
+  D : The property is located in a flood zone requiring additional insurance
+MARKED ANSWER: C
+RATIONALE: A cloud on title is any claim, lien, or defect that creates uncertainty or impairs ownership rights; it must be resolved before a clean title transfer.
+
+[transfer-of-title-q08.v6] (National · transfer-of-title)
+Q: Which of the following best describes a 'cloud on title' in real estate transactions?
+  A : A covenant requiring disclosure of property defects to future buyers
+  B : An easement granted by the state of Hawaii for public utility purposes
+  C*: An unresolved or questionable claim against the property that affects marketability
+  D : A title insurance policy that limits coverage to specific risks
+MARKED ANSWER: C
+RATIONALE: A cloud on title is a defect or unresolved claim that makes the title unmarketable; it must be cleared through legal action or settlement.
+
+[transfer-of-title-q08.v7] (National · transfer-of-title)
+Q: A title company discovers a 'cloud on title' during a preliminary examination. What does this mean?
+  A : The property deed must be recorded with the state tax assessor
+  B : The property is subject to deed restrictions that limit future use
+  C : The owner has failed to pay property taxes for the current fiscal year
+  D*: There exists an outstanding claim, prior lien, or other defect that affects clear ownership transfer
+MARKED ANSWER: D
+RATIONALE: A cloud on title represents any unresolved title defect or claim that compromises the seller's ability to convey marketable title.
+
+[transfer-of-title-q08.v8] (National · transfer-of-title)
+Q: In Hawaii real estate practice, a 'cloud on title' refers to:
+  A*: An unresolved title defect or questionable claim that must be resolved before clear title passes
+  B : A preliminary assessment required by the Hawaii Real Estate Commission
+  C : A requirement to obtain title insurance before closing escrow
+  D : A notice from the Hawaii Department of Land and Natural Resources regarding property boundaries
+MARKED ANSWER: A
+RATIONALE: A cloud on title is any defect, lien, or claim that creates doubt about ownership; it impairs marketability until resolved.
+
+[transfer-of-title-q08.v9] (National · transfer-of-title)
+Q: When a title examiner discovers a "cloud on title," what does this mean for the property owner?
+  A : The property is located in a flood-prone area requiring additional insurance
+  B : The seller must provide a title commitment within 10 days
+  C*: There is a potential dispute or encumbrance that may affect ownership rights
+  D : A mechanic's lien has been recorded against the property
+MARKED ANSWER: C
+RATIONALE: A cloud on title refers to any unresolved claim, defect, or potential dispute that casts doubt on clear ownership—distinct from specific liens or weather conditions.
+
+[transfer-of-title-q09] (National · transfer-of-title)
+Q: A deed must be signed by:
+  A : Both parties
+  B*: Grantor only
+  C : A notary only
+  D : Grantee only
+MARKED ANSWER: B
+RATIONALE: Only the grantor signs the deed.
+
+[transfer-of-title-q09.v1] (National · transfer-of-title)
+Q: Which party is responsible for executing (signing) a warranty deed?
+  A : The title company representative
+  B : Both the transferor and recipient together
+  C*: The transferor of the property
+  D : The recipient of the property
+MARKED ANSWER: C
+RATIONALE: The transferor (grantor) executes the deed by signing it; the grantee does not need to sign for the deed to be valid.
+
+[transfer-of-title-q09.v2] (National · transfer-of-title)
+Q: When preparing a quitclaim deed for a real estate transaction, whose signature is required on the document?
+  A : Only the person receiving the property must sign
+  B*: Only the person conveying the property must sign
+  C : A licensed Hawaii attorney must sign as witness
+  D : Both the grantor and grantee must sign
+MARKED ANSWER: B
+RATIONALE: Only the grantor (person conveying) needs to sign the deed; the grantee's signature is not a legal requirement for deed validity.
+
+[transfer-of-title-q09.v3] (National · transfer-of-title)
+Q: Under Hawaii real estate law, a deed requires the signature of:
+  A : The grantee and grantor in equal capacity
+  B*: The grantor alone
+  C : The escrow agent and title company officer
+  D : A notary public acting as principal
+MARKED ANSWER: B
+RATIONALE: The grantor's signature alone is sufficient to execute a valid deed; the grantee does not sign the deed.
+
+[transfer-of-title-q09.v4] (National · transfer-of-title)
+Q: Which of the following statements about deed execution in Hawaii is correct?
+  A : Both parties must appear together to sign before a notary
+  B*: Only the grantor is required to sign a deed
+  C : The grantor's agent can sign without the grantor's presence
+  D : The grantee must countersign the deed for it to be recordable
+MARKED ANSWER: B
+RATIONALE: A deed requires only the grantor's signature; the grantee is not a party to the execution of the deed.
+
+[transfer-of-title-q09.v5] (National · transfer-of-title)
+Q: In Hawaii real estate transactions, which party is responsible for executing the deed by adding their signature?
+  A*: The person transferring the property
+  B : Both the transferor and transferee
+  C : The person receiving the property
+  D : The title company representative
+MARKED ANSWER: A
+RATIONALE: The grantor (person transferring property) is the only party required to sign the deed; the grantee's signature is not necessary for a valid deed.
+
+[transfer-of-title-q09.v6] (National · transfer-of-title)
+Q: Which of the following is a requirement for executing a valid deed in Hawaii?
+  A*: Signature of the grantor only
+  B : Signature of the grantee alone
+  C : Signature of the grantee and grantor together
+  D : Signature of a licensed escrow officer
+MARKED ANSWER: A
+RATIONALE: Only the grantor must sign the deed; the grantee is not a signatory party to the instrument transferring title.
+
+[transfer-of-title-q09.v7] (National · transfer-of-title)
+Q: When closing a real estate transaction in Hawaii, whose signature makes a deed legally binding?
+  A : Signatures from both parties equally
+  B : The recorder's signature upon filing
+  C*: The grantor's signature only
+  D : The grantee's signature and acknowledgment
+MARKED ANSWER: C
+RATIONALE: The grantor's signature is what executes the deed and transfers title; the grantee does not sign the deed itself.
+
+[transfer-of-title-q09.v8] (National · transfer-of-title)
+Q: A seller is preparing to transfer property to a buyer through a warranty deed. Who must sign this document?
+  A : The seller and buyer together
+  B : Only the real estate agent handling the transaction
+  C*: Only the seller
+  D : Only the buyer
+MARKED ANSWER: C
+RATIONALE: The seller, as the grantor, is the only required signatory on the deed; the buyer (grantee) does not execute the deed.
+
+[transfer-of-title-q09.v9] (National · transfer-of-title)
+Q: When preparing a warranty deed for recording in Hawaii, whose signature is legally required on the document?
+  A : The person receiving the property
+  B : The county recorder
+  C*: The person transferring the property
+  D : Both the transferor and transferee
+MARKED ANSWER: C
+RATIONALE: Only the grantor (person transferring the property) must sign a deed. The grantee does not sign the deed, though they may sign other closing documents.
+
+[transfer-of-title-q10] (National · transfer-of-title)
+Q: The federal closing form for most residential mortgage loans is:
+  A : HUD-1
+  B : Settlement Statement
+  C : Truth in Lending
+  D*: Closing Disclosure
+MARKED ANSWER: D
+RATIONALE: CD replaced HUD-1 for TRID loans.
+
+[transfer-of-title-q10.v1] (National · transfer-of-title)
+Q: Under the TRID rule, which document must lenders provide to borrowers at closing for residential real estate transactions?
+  A : Uniform Settlement Statement
+  B : Final Loan Estimate
+  C : Truth in Lending Act Disclosure
+  D*: Closing Disclosure
+MARKED ANSWER: D
+RATIONALE: The Closing Disclosure is the mandatory TRID closing document that replaced the HUD-1 Settlement Statement for federally regulated residential mortgage transactions.
+
+[transfer-of-title-q10.v2] (National · transfer-of-title)
+Q: Which of the following is the current official closing document required by federal law for most home purchase loans?
+  A : RESPA Accounting Form
+  B : Loan Origination Statement
+  C*: Closing Disclosure
+  D : HUD-1 Settlement Statement
+MARKED ANSWER: C
+RATIONALE: The Closing Disclosure replaced the HUD-1 Settlement Statement when the TRID rule took effect, and is now the required federal closing document for residential mortgage loans.
+
+[transfer-of-title-q10.v3] (National · transfer-of-title)
+Q: A borrower is closing on a residential mortgage loan subject to federal TRID requirements. What form must the lender provide at the closing table?
+  A : Promissory Note and Security Instrument
+  B : Good Faith Estimate and HUD-1
+  C*: Closing Disclosure
+  D : Settlement Agreement and Title Insurance Commitment
+MARKED ANSWER: C
+RATIONALE: The Closing Disclosure is the federally mandated form that lenders must provide at closing for TRID-covered residential loans, replacing the earlier HUD-1.
+
+[transfer-of-title-q10.v4] (National · transfer-of-title)
+Q: Since implementation of the TRID rule, the standard federal disclosure document provided at closing for residential home loans has been:
+  A : Uniform Settlement Statement
+  B : Loan Estimate only
+  C : HUD-1 or its equivalent
+  D*: Closing Disclosure
+MARKED ANSWER: D
+RATIONALE: The Closing Disclosure became the required federal closing document under TRID, superseding the HUD-1 Settlement Statement for residential mortgage transactions.
+
+[transfer-of-title-q10.v5] (National · transfer-of-title)
+Q: Under the TRID rule, which document must be provided to borrowers at closing for a federally-regulated residential mortgage transaction?
+  A : Loan Estimate (final version)
+  B : HUD-1 Settlement Statement
+  C*: Closing Disclosure
+  D : Truth in Lending Statement
+MARKED ANSWER: C
+RATIONALE: The Closing Disclosure is the mandatory federal closing document required by TRID regulations for most residential mortgage loans, replacing the older HUD-1 form.
+
+[transfer-of-title-q10.v6] (National · transfer-of-title)
+Q: A mortgage lender in Hawaii must provide borrowers with which official federal closing document three business days before settlement?
+  A : Promissory Note
+  B : Good Faith Estimate
+  C*: Closing Disclosure
+  D : Settlement Statement
+MARKED ANSWER: C
+RATIONALE: The Closing Disclosure is the TRID-required federal form that lenders must deliver at least three business days before closing for residential mortgage transactions.
+
+[transfer-of-title-q10.v7] (National · transfer-of-title)
+Q: Which of the following replaced the HUD-1 Settlement Statement as the standard federal closing disclosure form for most home loans?
+  A : Affiliated Business Arrangement Disclosure
+  B : Final Truth in Lending Act Notice
+  C*: Closing Disclosure
+  D : Uniform Closing Dataset
+MARKED ANSWER: C
+RATIONALE: The Closing Disclosure superseded the HUD-1 form under the TRID rule to provide consumers with a clearer, more standardized federal closing document.
+
+[transfer-of-title-q10.v8] (National · transfer-of-title)
+Q: In a typical residential mortgage closing subject to federal regulations, the lender must provide the borrower with:
+  A*: A Closing Disclosure that itemizes loan terms and closing costs
+  B : A Truth in Lending disclosure at the time of closing
+  C : A completed HUD-1 form signed by all parties
+  D : A Settlement Statement within 24 hours after closing
+MARKED ANSWER: A
+RATIONALE: The Closing Disclosure is the federally-mandated TRID form that lenders must provide to show loan terms and itemized closing costs for residential mortgage transactions.
+
+[transfer-of-title-q10.v9] (National · transfer-of-title)
+Q: Under TRID requirements, which document must a lender provide to a borrower at least three business days before closing on a residential mortgage transaction?
+  A : Initial Escrow Statement
+  B*: Closing Disclosure
+  C : HUD-1 Settlement Statement
+  D : Truth in Lending Act Disclosure
+MARKED ANSWER: B
+RATIONALE: The Closing Disclosure is the mandatory federal form required under TRID that replaced the HUD-1 and must be delivered to borrowers at least three business days before loan consummation.
+
+[transfer-of-title-q11] (National · transfer-of-title)
+Q: "To have and to hold" language is the:
+  A : Acknowledgment
+  B : Granting clause
+  C*: Habendum clause
+  D : Recital
+MARKED ANSWER: C
+RATIONALE: Habendum defines the extent of estate granted.
+
+[transfer-of-title-q11.v1] (National · transfer-of-title)
+Q: In a Hawaii deed, the clause that uses the phrase 'to have and to hold' and describes the type and duration of the estate being transferred is called the:
+  A : Granting clause
+  B : Covenant of seisin
+  C : Acknowledgment clause
+  D*: Habendum clause
+MARKED ANSWER: D
+RATIONALE: The habendum clause specifies the nature and extent of the estate granted, using traditional language 'to have and to hold.'
+
+[transfer-of-title-q11.v2] (National · transfer-of-title)
+Q: Which of the following deed provisions contains 'to have and to hold' language and defines the scope of the property interest being conveyed?
+  A*: Habendum
+  B : Consideration clause
+  C : Recital
+  D : Attestation
+MARKED ANSWER: A
+RATIONALE: The habendum clause is the portion of a deed that defines the extent and duration of the estate, traditionally beginning with 'to have and to hold.'
+
+[transfer-of-title-q11.v3] (National · transfer-of-title)
+Q: A grantor in Hawaii includes 'to have and to hold' language in a deed to establish and clarify the:
+  A : Legal authority to execute the document
+  B : Consideration paid for the property
+  C : Validity of the grantor's title
+  D*: Type and duration of the estate conveyed
+MARKED ANSWER: D
+RATIONALE: The habendum clause, which contains 'to have and to hold' language, specifies the nature, extent, and duration of the estate being transferred.
+
+[transfer-of-title-q11.v4] (National · transfer-of-title)
+Q: In Hawaii real estate documents, 'to have and to hold' phrasing is a defining characteristic of which deed clause?
+  A : Testimonium clause
+  B : Warranty clause
+  C : Description clause
+  D*: Habendum clause
+MARKED ANSWER: D
+RATIONALE: The habendum clause traditionally uses 'to have and to hold' language and establishes the extent and terms of the property interest granted.
+
+[transfer-of-title-q11.v5] (National · transfer-of-title)
+Q: In a Hawaii deed, which clause contains the phrase 'to have and to hold' and specifies the type and duration of the estate being transferred?
+  A : Consideration clause
+  B : Testimonium clause
+  C*: Habendum clause
+  D : Recital clause
+MARKED ANSWER: C
+RATIONALE: The habendum clause defines the nature and extent of the estate granted and traditionally includes 'to have and to hold' language.
+
+[transfer-of-title-q11.v6] (National · transfer-of-title)
+Q: A grantor uses the words 'to have and to hold' in a deed. What is the name of the deed section that contains this language?
+  A*: Habendum clause
+  B : Acknowledgment
+  C : Granting clause
+  D : Description of property
+MARKED ANSWER: A
+RATIONALE: The habendum clause is the traditional location for 'to have and to hold' language and establishes the extent of the estate transferred.
+
+[transfer-of-title-q11.v7] (National · transfer-of-title)
+Q: Which of the following deed provisions is characterized by the phrase 'to have and to hold' and determines the scope of ownership rights being conveyed?
+  A : The testimonium
+  B : The recital
+  C*: The habendum clause
+  D : The acknowledgment
+MARKED ANSWER: C
+RATIONALE: The habendum clause contains 'to have and to hold' language and defines the precise nature and duration of the estate granted to the grantee.
+
+[transfer-of-title-q11.v8] (National · transfer-of-title)
+Q: When reviewing a deed document, your client asks you to identify where the 'to have and to hold' language appears and what function it serves. You should direct them to the:
+  A : Recital, which states the consideration
+  B*: Habendum clause, which defines the estate and its duration
+  C : Acknowledgment, which authenticates the grantor's signature
+  D : Granting clause, which conveys the property
+MARKED ANSWER: B
+RATIONALE: The habendum clause is the deed section containing 'to have and to hold' language and it specifies the extent and type of estate being granted.
+
+[transfer-of-title-q11.v9] (National · transfer-of-title)
+Q: Which deed clause contains the phrase 'to have and to hold' and specifies the nature and extent of the estate being transferred?
+  A*: The habendum clause
+  B : The acknowledgment clause
+  C : The consideration clause
+  D : The warranty clause
+MARKED ANSWER: A
+RATIONALE: The habendum clause uses 'to have and to hold' language to define the type and duration of the estate granted to the grantee.
+
+[practice-of-real-estate-q00] (National · practice-of-real-estate)
+Q: Steering means:
+  A : Negotiating price
+  B : Offering homestaging advice
+  C*: Channeling buyers based on protected class
+  D : Encouraging a buyer to use your lender
+MARKED ANSWER: C
+RATIONALE: Steering is a textbook fair housing violation.
+
+[practice-of-real-estate-q00.v1] (National · practice-of-real-estate)
+Q: Which practice constitutes steering in real estate?
+  A : Suggesting a specific appraisal method to expedite closing
+  B*: Directing prospects toward or away from neighborhoods based on race or national origin
+  C : Recommending a property inspection company to a buyer
+  D : Advising clients on staging to improve marketability
+MARKED ANSWER: B
+RATIONALE: Steering involves directing buyers or sellers to or away from particular areas based on protected characteristics, which is a violation of the Fair Housing Act.
+
+[practice-of-real-estate-q00.v2] (National · practice-of-real-estate)
+Q: A licensee would be engaged in steering if they:
+  A : Required the use of a specific title company
+  B : Provided comparable market analysis to justify listing price
+  C : Explained different financing options available in the market
+  D*: Selectively showed properties to clients based on their race or familial status
+MARKED ANSWER: D
+RATIONALE: Selectively showing properties based on protected class characteristics is a classic example of steering, a prohibited fair housing practice under Hawaii REC rules.
+
+[practice-of-real-estate-q00.v3] (National · practice-of-real-estate)
+Q: Under Hawaii fair housing law, steering occurs when a real estate agent:
+  A : Coordinates with home inspectors to schedule property examinations
+  B : Explains property tax implications of a purchase
+  C*: Channels prospective tenants away from certain buildings due to their religion
+  D : Assists clients in obtaining pre-approval letters from lenders
+MARKED ANSWER: C
+RATIONALE: Steering based on protected class status—including religion—violates fair housing protections and is strictly prohibited in Hawaii real estate practice.
+
+[practice-of-real-estate-q00.v4] (National · practice-of-real-estate)
+Q: Which of the following best describes steering in a real estate context?
+  A : Providing multiple listing options within the buyer's stated budget
+  B : Recommending energy-efficient upgrades during a listing presentation
+  C : Negotiating HOA fees on behalf of a buyer
+  D*: Influencing where buyers or renters can live based on protected class membership
+MARKED ANSWER: D
+RATIONALE: Steering is the practice of directing prospects toward or away from properties based on their membership in a protected class, constituting a fair housing violation.
+
+[practice-of-real-estate-q00.v5] (National · practice-of-real-estate)
+Q: Under Hawaii fair housing law, which practice constitutes steering?
+  A : Recommending a property inspection company to a client
+  B*: Directing buyers away from certain areas based on their race or national origin
+  C : Advising a seller on comparable market analysis
+  D : Showing properties in neighborhoods where the buyer's income qualifies
+MARKED ANSWER: B
+RATIONALE: Steering—directing or discouraging buyers based on protected characteristics—is a direct violation of fair housing laws in Hawaii and federally.
+
+[practice-of-real-estate-q00.v6] (National · practice-of-real-estate)
+Q: A licensee commits steering when they:
+  A : Provide a list of approved contractors for home repairs
+  B*: Subtly discourage an applicant from purchasing in a particular neighborhood due to their familial status
+  C : Explain closing costs and loan terms to a client
+  D : Limit property showings to areas where a buyer can afford based on financing
+MARKED ANSWER: B
+RATIONALE: Steering based on protected class characteristics (including familial status) is illegal. Limiting showings by affordability or providing contractor referrals are legitimate business practices.
+
+[practice-of-real-estate-q00.v7] (National · practice-of-real-estate)
+Q: Which scenario best describes steering as a fair housing violation?
+  A : A salesperson refers buyers to mortgage lenders for pre-qualification
+  B : An associate broker recommends title insurance and escrow services
+  C : A broker encourages a client to put down a larger deposit for a stronger offer
+  D*: An agent channels prospective buyers away from specific communities because of their religion
+MARKED ANSWER: D
+RATIONALE: Steering involves steering buyers away from or toward properties based on protected class status; recommending financial services or negotiating terms are lawful activities.
+
+[practice-of-real-estate-q00.v8] (National · practice-of-real-estate)
+Q: In Hawaii real estate practice, steering is prohibited because it:
+  A*: Limits consumers' free choice by channeling them based on protected class membership
+  B : Reduces the number of properties shown to each client
+  C : Requires additional paperwork at closing
+  D : Increases transaction costs for the brokerage
+MARKED ANSWER: A
+RATIONALE: Steering violates fair housing by restricting buyer choice and opportunity based on race, color, national origin, religion, sex, familial status, or disability—not for administrative or transaction reasons.
+
+[practice-of-real-estate-q00.v9] (National · practice-of-real-estate)
+Q: Under Hawaii fair housing law, which practice constitutes steering?
+  A : Advising a seller to accept a competitive offer
+  B : Recommending a property inspection company to a client
+  C : Suggesting mortgage pre-approval before showing properties
+  D*: Directing prospective buyers toward or away from neighborhoods based on their race or national origin
+MARKED ANSWER: D
+RATIONALE: Steering is the unlawful practice of influencing buyers or renters to favor certain properties or neighborhoods based on protected class characteristics. It is a direct violation of the Fair Housing Act and Hawaii REC rules.
+
+[practice-of-real-estate-q01] (National · practice-of-real-estate)
+Q: A broker uses earnest money to pay office rent. This is:
+  A : Procuring cause
+  B : Allowed if reimbursed
+  C : Commingling only
+  D*: Conversion
+MARKED ANSWER: D
+RATIONALE: Conversion = using trust funds for own benefit.
+
+[practice-of-real-estate-q01.v1] (National · practice-of-real-estate)
+Q: A broker deposits client earnest money into the operating account and withdraws funds to cover monthly overhead expenses. What violation has occurred?
+  A*: Conversion of client funds
+  B : Commingling with subsequent accounting
+  C : Improper trust account designation
+  D : Breach of fiduciary duty
+MARKED ANSWER: A
+RATIONALE: Conversion is the unauthorized use of client trust funds for the broker's own business purposes, regardless of intent to repay. Using earnest money for overhead expenses constitutes conversion.
+
+[practice-of-real-estate-q01.v2] (National · practice-of-real-estate)
+Q: Under Hawaii real estate law, if a broker takes earnest money received from a buyer and uses it to pay for advertising costs for the brokerage, this action is best described as:
+  A : Proper trust account management
+  B : Negligent record-keeping
+  C : Commingling
+  D*: Conversion
+MARKED ANSWER: D
+RATIONALE: Conversion occurs when a broker misappropriates client funds for personal or business use. Using earnest money for the broker's advertising expenses is conversion, not merely commingling.
+
+[practice-of-real-estate-q01.v3] (National · practice-of-real-estate)
+Q: A broker receives earnest money from a transaction and deposits it into a mixed account containing both client funds and broker operating funds. The broker then withdraws the earnest money amount to pay utilities for the real estate office. This constitutes:
+  A : Lawful use if documented properly
+  B*: Conversion of client funds
+  C : Commingling and breach of trust account rules
+  D : Record-keeping violations only
+MARKED ANSWER: B
+RATIONALE: The unauthorized taking and use of earnest money for business expenses is conversion, the most serious violation. Commingling may also be present, but conversion is the primary violation.
+
+[practice-of-real-estate-q01.v4] (National · practice-of-real-estate)
+Q: When a broker receives earnest money from a client and applies those funds to pay the broker's personal business obligations without authorization, this action is:
+  A : Procuring cause
+  B : A minor commingling issue
+  C*: Conversion
+  D : Acceptable if the broker maintains detailed records
+MARKED ANSWER: C
+RATIONALE: Conversion is the misappropriation of client trust funds for the broker's own use or benefit. Record-keeping does not excuse the unauthorized use of client money for broker obligations.
+
+[practice-of-real-estate-q01.v5] (National · practice-of-real-estate)
+Q: A broker deposits client earnest money into a trust account, then withdraws funds to cover the broker's personal business expenses. What violation has occurred?
+  A : Misappropriation of commingled funds
+  B*: Conversion of trust account monies
+  C : Breach of fiduciary duty without conversion
+  D : Failure to maintain proper escrow accounting
+MARKED ANSWER: B
+RATIONALE: Conversion occurs when a broker uses client trust funds for personal benefit, regardless of intent to repay. This is a serious violation of Hawaii REC trust account rules.
+
+[practice-of-real-estate-q01.v6] (National · practice-of-real-estate)
+Q: Which of the following scenarios represents an illegal use of earnest money deposits?
+  A : Depositing earnest money in a non-interest bearing trust account
+  B : Commingling earnest money with other client funds in one account
+  C*: Using earnest money to pay the broker's monthly office utilities
+  D : Holding earnest money for 30 days before disbursing per closing instructions
+MARKED ANSWER: C
+RATIONALE: Using client trust funds for broker business expenses constitutes conversion, the unauthorized appropriation of another's property for personal use.
+
+[practice-of-real-estate-q01.v7] (National · practice-of-real-estate)
+Q: A real estate broker receives earnest money on a transaction and places it in the trust account. The broker then withdraws a portion to pay salesperson commissions owed from a previous sale. This action is best described as:
+  A : Failure to follow proper escrow procedures
+  B*: Conversion of client funds
+  C : Commingling of earnest money with operating funds
+  D : Improper trust accounting with correctable deficiencies
+MARKED ANSWER: B
+RATIONALE: Converting trust account funds to pay broker or salesperson obligations—even legitimate business expenses—is conversion because the funds belong to clients and must not be used for broker benefit.
+
+[practice-of-real-estate-q01.v8] (National · practice-of-real-estate)
+Q: If a broker temporarily uses earnest money held in trust to pay office expenses with a written plan to repay within 30 days, the broker has committed:
+  A : Negligent trust account management
+  B : A technical violation requiring a corrective notice
+  C : Commingling that requires trust account remediation
+  D*: Conversion of trust monies
+MARKED ANSWER: D
+RATIONALE: Conversion is using trust funds for personal benefit—the intent to repay does not cure conversion because the funds were misappropriated when withdrawn, not borrowed.
+
+[practice-of-real-estate-q01.v9] (National · practice-of-real-estate)
+Q: A broker deposits earnest money into the firm's operating account and withdraws funds to cover monthly office expenses. What violation has occurred?
+  A : Breach of fiduciary duty that is curable upon repayment
+  B*: Conversion of trust account funds
+  C : Commingling of client and broker funds
+  D : Unauthorized practice of real estate
+MARKED ANSWER: B
+RATIONALE: Conversion occurs when a broker uses client trust funds (earnest money) for personal or business expenses, which constitutes misappropriation regardless of intent to repay. This is distinct from commingling, which is improper account management but may not involve actual use of funds.
+
+[practice-of-real-estate-q02] (National · practice-of-real-estate)
+Q: Two competing brokers agree to charge 6% on all listings. This is:
+  A : Standard practice
+  B : A market efficiency
+  C : Price negotiation
+  D*: Price fixing — antitrust violation
+MARKED ANSWER: D
+RATIONALE: Sherman Act violation; commissions are negotiable.
+
+[practice-of-real-estate-q02.v1] (National · practice-of-real-estate)
+Q: Three brokers in the same MLS area secretly agree to maintain a uniform 6% commission rate across all their listings. What legal issue does this create?
+  A : A collaborative market standard that benefits consumers
+  B : A reasonable industry custom that promotes transparency
+  C : Unfair competition under Hawaii's Uniform Deceptive Trade Practices Act
+  D*: Horizontal price-fixing in violation of antitrust law
+MARKED ANSWER: D
+RATIONALE: Broker agreements to fix commission rates constitute per se antitrust violations under the Sherman Act; commissions must remain independently negotiable.
+
+[practice-of-real-estate-q02.v2] (National · practice-of-real-estate)
+Q: A broker overhears a competitor mention using a 6% flat fee on residential sales and decides to adopt the same rate. If both brokers' rates are identical, is this legal?
+  A : Yes, only if they document the decision in writing
+  B : No, because matching competitors' commissions always violates antitrust law
+  C : No, because any uniform rate structure is considered per se illegal
+  D*: Yes, because independent pricing decisions are lawful even if they coincide
+MARKED ANSWER: D
+RATIONALE: Independent, unilateral pricing decisions are legal under antitrust law; illegality arises only from agreement or conspiracy to fix prices.
+
+[practice-of-real-estate-q02.v3] (National · practice-of-real-estate)
+Q: During a broker association meeting, Broker A proposes that all members commit to a minimum 6% commission to protect market stability. Broker B agrees verbally. This proposal is:
+  A : Permissible under the Realtor® Code of Ethics
+  B : Legal collaborative pricing in a professional association context
+  C : A standard practice recognized by the Hawaii Real Estate Commission
+  D*: An illegal cartel arrangement violating Sherman Act Section 1
+MARKED ANSWER: D
+RATIONALE: Commission agreements between competing brokers, even within professional organizations, constitute illegal price-fixing under antitrust law.
+
+[practice-of-real-estate-q02.v4] (National · practice-of-real-estate)
+Q: Broker X and Broker Y compete in the same market. They exchange information about their commission structures and then both implement identical 6% rates on comparable properties. The brokers claim they arrived at this rate independently. What is the likely legal outcome?
+  A : The arrangement is legal as long as it doesn't exceed the state-mandated maximum
+  B : The brokers are protected because each set their rate independently
+  C*: Courts may infer an unlawful agreement from the exchange of price information and parallel conduct
+  D : Hawaii Real Estate Commission approval eliminates any antitrust exposure
+MARKED ANSWER: C
+RATIONALE: Parallel pricing combined with evidence of communication regarding commissions can establish an illegal agreement; the exchange of rate information suggests conspiracy, not independent decision-making.
+
+[practice-of-real-estate-q02.v5] (National · practice-of-real-estate)
+Q: A group of three real estate firms in the same market decide together to uniformly charge 5.5% commission on all residential transactions. What legal issue does this create?
+  A : Fair competition practice
+  B : Compliance with Hawaii Real Estate Commission guidelines
+  C*: Violation of the Sherman Antitrust Act
+  D : A reasonable market stabilization agreement
+MARKED ANSWER: C
+RATIONALE: Competitors agreeing on commission rates constitutes price fixing, a per se Sherman Act violation; commissions must remain independently negotiable by each broker.
+
+[practice-of-real-estate-q02.v6] (National · practice-of-real-estate)
+Q: Four brokers in Honolulu meet and collectively decide to charge no less than 6% commission on all listings in their market area. This agreement is:
+  A : An acceptable trade association standard
+  B : Required by Hawaii Real Estate Commission rules
+  C*: An illegal restraint of trade under federal antitrust law
+  D : A customary industry practice
+MARKED ANSWER: C
+RATIONALE: Horizontal agreements among competitors to set minimum commission rates violate antitrust law; each broker must independently set their own commission rates.
+
+[practice-of-real-estate-q02.v7] (National · practice-of-real-estate)
+Q: If brokers in the same geographic area conspire to establish a uniform 6% commission structure across all their firms, they are engaging in:
+  A : Consumer protection
+  B : Predictable market behavior
+  C*: Price fixing—a federal antitrust violation
+  D : Standard industry coordination
+MARKED ANSWER: C
+RATIONALE: Such collusion constitutes illegal price fixing under the Sherman Act; commission rates must be determined independently by each broker without agreement or coordination.
+
+[practice-of-real-estate-q02.v8] (National · practice-of-real-estate)
+Q: Two brokers discuss and agree to charge identical 6% commissions on all their listings to avoid 'destructive competition.' This arrangement violates:
+  A*: The Sherman Antitrust Act
+  B : Local board of REALTORS® bylaws
+  C : Hawaii Revised Statutes on brokerage operations
+  D : Hawaii real estate licensing renewal requirements
+MARKED ANSWER: A
+RATIONALE: Commission rates are individually negotiable; competitors cannot agree on commission levels or structure as this constitutes illegal price fixing under federal antitrust law.
+
+[practice-of-real-estate-q02.v9] (National · practice-of-real-estate)
+Q: Three real estate brokers in the same market decide together to maintain a uniform 6% commission rate across all properties. What legal issue does this arrangement create?
+  A*: Violation of the Sherman Antitrust Act through horizontal price fixing
+  B : An acceptable industry custom that benefits consumers through predictability
+  C : Compliance with Hawaii real estate industry standards
+  D : A legitimate cooperative marketing agreement
+MARKED ANSWER: A
+RATIONALE: Brokers agreeing to set commissions at a fixed rate constitutes illegal price fixing under antitrust law; commissions must be independently determined and negotiable with clients.
+
+[practice-of-real-estate-q03] (National · practice-of-real-estate)
+Q: Federal Fair Housing's 7 protected classes include:
+  A*: Race, color, religion, sex, national origin, familial status, disability
+  B : Race and religion only
+  C : Income and credit score
+  D : Race only
+MARKED ANSWER: A
+RATIONALE: These are the seven federal classes; states (including Hawaii) add more.
+
+[practice-of-real-estate-q03.v1] (National · practice-of-real-estate)
+Q: Under the Fair Housing Act, which of the following represents the complete list of federally protected classes?
+  A : Race, color, religion, sex, national origin, and disability only
+  B : Race, color, and religion only
+  C : Race, color, religion, sex, national origin, familial status, disability, and age
+  D*: Race, color, religion, sex, national origin, familial status, and disability
+MARKED ANSWER: D
+RATIONALE: Federal Fair Housing law protects these seven specific classes; age is a protected class in some states like Hawaii but not federally under Fair Housing Act.
+
+[practice-of-real-estate-q03.v2] (National · practice-of-real-estate)
+Q: A real estate licensee in Hawaii must understand that the federal Fair Housing Act prohibits discrimination based on which categories?
+  A*: Race, color, religion, sex, national origin, familial status, and disability
+  B : Race, gender, and family composition only
+  C : Employment history and financial status
+  D : Sexual orientation and marital status
+MARKED ANSWER: A
+RATIONALE: The seven federal protected classes are enumerated in the Fair Housing Act; sexual orientation and marital status are protected under Hawaii state law but not the federal act.
+
+[practice-of-real-estate-q03.v3] (National · practice-of-real-estate)
+Q: When discussing fair housing compliance with clients, you should know that federal law specifically protects individuals in which of these categories?
+  A : Socioeconomic status and educational background
+  B*: Race, color, religion, sex, national origin, familial status, and disability
+  C : Race and color only
+  D : National origin, familial status, and disability
+MARKED ANSWER: B
+RATIONALE: The Fair Housing Act lists exactly seven protected classes; socioeconomic status and education are not federally protected categories.
+
+[practice-of-real-estate-q03.v4] (National · practice-of-real-estate)
+Q: Which statement correctly identifies the scope of federal Fair Housing Act protections?
+  A : Federal law protects only against race discrimination; states add other categories
+  B : Protection covers only race and national origin
+  C*: Protection applies to race, color, and religion, plus five additional protected classes
+  D : Protection applies to race, color, religion, sex, national origin, familial status, disability, and political affiliation
+MARKED ANSWER: C
+RATIONALE: Federal Fair Housing protects seven specific classes: race, color, religion, sex, national origin, familial status, and disability; political affiliation is not a federally protected class.
+
+[practice-of-real-estate-q03.v5] (National · practice-of-real-estate)
+Q: Which of the following represents the complete list of protected classes under the federal Fair Housing Act?
+  A : Race, color, religion, sex, national origin, and disability only
+  B : Race, color, religion, sex, national origin, familial status, disability, and marital status
+  C*: Race, color, religion, sex, national origin, familial status, disability
+  D : Race, color, religion, sex, national origin, familial status, disability, and sexual orientation
+MARKED ANSWER: C
+RATIONALE: The Fair Housing Act prohibits discrimination based on exactly these seven protected classes; Hawaii and other states may add additional protections beyond federal law.
+
+[practice-of-real-estate-q03.v6] (National · practice-of-real-estate)
+Q: A real estate agent must be aware that federal fair housing law prohibits discrimination based on membership in which groups?
+  A : Sexual orientation and gender identity only
+  B : Religion and national origin only
+  C*: Race, color, religion, sex, national origin, familial status, and disability
+  D : Employment history and credit rating
+MARKED ANSWER: C
+RATIONALE: These seven classes are the federal baseline for protected-class status; additional protections may exist under state or local law, but federal law covers these specific categories.
+
+[practice-of-real-estate-q03.v7] (National · practice-of-real-estate)
+Q: Under the federal Fair Housing Act, which combination of protected classes is legally prohibited from being used as a basis for discrimination in housing transactions?
+  A : Race, color, familial status, and disability only
+  B : National origin and familial status only
+  C*: Race, color, religion, sex, national origin, familial status, and disability
+  D : Religion, sex, disability, and sexual orientation only
+MARKED ANSWER: C
+RATIONALE: Federal fair housing law protects these seven distinct classes; Hawaii may recognize additional protected classes, but the federal requirement covers all seven.
+
+[practice-of-real-estate-q03.v8] (National · practice-of-real-estate)
+Q: If a Hawaii licensee is training on federal Fair Housing Act compliance, they should know the seven protected classes are which of the following?
+  A : Race, color, age, disability, sexual orientation, and religion
+  B : Race, color, religion, and national origin only
+  C : Sex, national origin, familial status, disability, and marital status
+  D*: Race, color, religion, sex, national origin, familial status, and disability
+MARKED ANSWER: D
+RATIONALE: These are the exact seven protected classes established by the federal Fair Housing Act; states and counties may add protections, but these seven form the federal foundation.
+
+[practice-of-real-estate-q03.v9] (National · practice-of-real-estate)
+Q: Under the federal Fair Housing Act, which of the following represents the complete list of protected classes?
+  A : Income level, employment history, credit rating, and financial status
+  B : Sex and disability only
+  C*: Race, color, religion, sex, national origin, familial status, and disability
+  D : Race, color, and religion only
+MARKED ANSWER: C
+RATIONALE: The Fair Housing Act protects these seven federal classes; Hawaii state law adds additional protected classes beyond the federal minimum.
+
+[practice-of-real-estate-q04] (National · practice-of-real-estate)
+Q: A broker who pays an undisclosed referral fee to a settlement service provider violates:
+  A*: RESPA Section 8
+  B : ECOA
+  C : Truth in Lending
+  D : Statute of Frauds
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 bans kickbacks and unearned referral fees.
+
+[practice-of-real-estate-q04.v1] (National · practice-of-real-estate)
+Q: Which federal law prohibits a real estate broker from accepting hidden compensation from a title company in exchange for steering clients to that company?
+  A : Real Estate Settlement Procedures Act compliance standards
+  B : Equal Credit Opportunity Act
+  C*: RESPA Section 8
+  D : Fair Housing Act
+MARKED ANSWER: C
+RATIONALE: RESPA Section 8 explicitly prohibits kickbacks and unearned fees for referrals of settlement services, regardless of whether they are disclosed.
+
+[practice-of-real-estate-q04.v2] (National · practice-of-real-estate)
+Q: A broker receives a payment from an escrow company for referring a client but does not disclose this arrangement to the client. This broker has violated which regulation?
+  A*: RESPA antiKickback provisions
+  B : California Fair Housing laws
+  C : TRID disclosure requirements
+  D : Dodd-Frank Act consumer protections
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 prohibits all undisclosed referral fees and kickbacks for settlement services; disclosure does not cure the violation.
+
+[practice-of-real-estate-q04.v3] (National · practice-of-real-estate)
+Q: Under Hawaii real estate law and federal regulations, paying an undisclosed fee to a settlement service provider for client referrals violates which of the following?
+  A : Gramm-Leach-Bliley privacy standards
+  B*: RESPA Section 8
+  C : Truth in Savings Act
+  D : Community Reinvestment Act
+MARKED ANSWER: B
+RATIONALE: RESPA Section 8 bans all kickbacks and unearned referral fees to settlement service providers, whether disclosed or not.
+
+[practice-of-real-estate-q04.v4] (National · practice-of-real-estate)
+Q: A broker agrees with a title company to share fees for referred clients without informing the clients of this arrangement. Which federal statute has been violated?
+  A*: RESPA Section 8 antiKickback rule
+  B : Interstate Land Sales Full Disclosure Act
+  C : Federal Trade Commission Act Section 5
+  D : Homeowners Protection Act
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 prohibits undisclosed referral fees and kickbacks between service providers; secrecy about the arrangement is a core element of the violation.
+
+[practice-of-real-estate-q04.v5] (National · practice-of-real-estate)
+Q: Which federal law prohibits a real estate broker from accepting hidden compensation from a title company in exchange for referring clients to that company?
+  A*: RESPA Section 8
+  B : Real Estate Settlement Procedures Act disclosure requirements
+  C : Equal Credit Opportunity Act
+  D : Fair Housing Act
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 specifically prohibits kickbacks and undisclosed referral fees between settlement service providers and brokers.
+
+[practice-of-real-estate-q04.v6] (National · practice-of-real-estate)
+Q: A broker receives a payment from an appraisal company for steering transactions to them without disclosing this arrangement to clients. This violates:
+  A : Regulation Z
+  B : The Dodd-Frank Act
+  C : Hawaii Real Estate Commission compensation rules only
+  D*: RESPA Section 8
+MARKED ANSWER: D
+RATIONALE: RESPA Section 8 prohibits undisclosed referral fees and kickbacks between settlement service providers, including appraisers and brokers.
+
+[practice-of-real-estate-q04.v7] (National · practice-of-real-estate)
+Q: When a broker fails to disclose that they received compensation from a lender for referring a borrower, which law has most likely been violated?
+  A : Truth in Lending Act
+  B : Gramm-Leach-Bliley Act
+  C : Community Reinvestment Act
+  D*: RESPA Section 8
+MARKED ANSWER: D
+RATIONALE: RESPA Section 8 explicitly prohibits undisclosed kickbacks and referral fees paid by settlement service providers to brokers or other referral sources.
+
+[practice-of-real-estate-q04.v8] (National · practice-of-real-estate)
+Q: A settlement agent pays a broker a concealed fee for referrals without the client's knowledge. This practice violates:
+  A : The Fair Credit Reporting Act
+  B*: RESPA Section 8
+  C : Regulation B
+  D : The Interstate Land Sales Full Disclosure Act
+MARKED ANSWER: B
+RATIONALE: RESPA Section 8 bans undisclosed payments between settlement service providers and referral sources as unearned kickbacks.
+
+[practice-of-real-estate-q04.v9] (National · practice-of-real-estate)
+Q: Which federal statute is violated when a real estate broker secretly compensates a title company employee for referring business to that settlement service?
+  A*: RESPA Section 8
+  B : Hawaii Residential Tenancies Law
+  C : Regulation Z
+  D : Fair Housing Act
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 explicitly prohibits kickbacks and unearned fees paid to settlement service providers for referrals, whether disclosed or undisclosed.
+
+[practice-of-real-estate-q05] (National · practice-of-real-estate)
+Q: "Familial status" protection includes:
+  A : Senior citizens only
+  B : Married couples only
+  C*: Households with children under 18 or pregnant
+  D : Adults only
+MARKED ANSWER: C
+RATIONALE: Familial status = children under 18, with narrow senior-housing exception.
+
+[practice-of-real-estate-q05.v1] (National · practice-of-real-estate)
+Q: Under Hawaii fair housing law, which group receives protection based on familial status?
+  A : Retired persons aged 62 and older in all residential settings
+  B : Single individuals without children or dependents
+  C : Only married couples with biological children
+  D*: Families with dependent children under age 18 and expectant mothers
+MARKED ANSWER: D
+RATIONALE: Familial status protection covers households with children under 18 and pregnant women; senior housing has limited exceptions but is not broadly protected under familial status.
+
+[practice-of-real-estate-q05.v2] (National · practice-of-real-estate)
+Q: A real estate licensee cannot discriminate based on familial status. This protected class encompasses:
+  A : Elderly individuals living in age-restricted communities only
+  B*: Parents or guardians of minors and women who are pregnant
+  C : Heterosexual married couples exclusively
+  D : Childless couples planning to have children in the future
+MARKED ANSWER: B
+RATIONALE: Familial status protection applies to households with children under 18 and pregnant individuals; future parenthood plans and age restrictions are separate issues.
+
+[practice-of-real-estate-q05.v3] (National · practice-of-real-estate)
+Q: Which of the following is protected under the familial status provision of fair housing law?
+  A : A couple married 25 years with adult children over 21
+  B*: A pregnant woman applying for an apartment
+  C : A divorced parent over age 55 without custody
+  D : A bachelor seeking a rental in a building marketed to families
+MARKED ANSWER: B
+RATIONALE: Familial status protection explicitly covers pregnant women; familial status does not protect unmarried individuals, post-child-rearing parents, or age-based preferences alone.
+
+[practice-of-real-estate-q05.v4] (National · practice-of-real-estate)
+Q: If a landlord refuses to rent to an applicant due to familial status, the protected group would likely include:
+  A : Married individuals regardless of whether they have children
+  B : All senior citizens seeking affordable housing
+  C*: Households with children under 18 and expectant mothers
+  D : Couples without children who are unable to conceive
+MARKED ANSWER: C
+RATIONALE: Familial status protection covers children under 18 and pregnant women; it does not protect based on marital status alone, age, or fertility status.
+
+[practice-of-real-estate-q05.v5] (National · practice-of-real-estate)
+Q: Under Hawaii's fair housing laws, which group receives explicit protection under the familial status classification?
+  A : Couples without children regardless of marital status
+  B : Retirees and individuals over age 62
+  C*: Families with minors under age 18 and expectant mothers
+  D : Unmarried domestic partners with shared income
+MARKED ANSWER: C
+RATIONALE: Familial status protection specifically covers households with children under 18 and pregnant individuals; age-based senior protections are limited to specific senior housing exemptions.
+
+[practice-of-real-estate-q05.v6] (National · practice-of-real-estate)
+Q: A landlord cannot discriminate based on familial status. This protection applies to:
+  A : Owner-occupied buildings with fewer than four units
+  B*: Prospective tenants who are pregnant or have children under 18
+  C : Tenants who are legally married
+  D : Properties with at least one resident over age 55
+MARKED ANSWER: B
+RATIONALE: Familial status discrimination protections extend to households with children under 18 and pregnant individuals; owner-occupied and certain senior housing have different exemptions.
+
+[practice-of-real-estate-q05.v7] (National · practice-of-real-estate)
+Q: Which scenario would constitute a violation of familial status protection under Hawaii fair housing law?
+  A : Refusing to rent to an elderly couple over age 70
+  B : Requiring higher income from unmarried applicants
+  C*: Denying housing to a family with a child aged 12
+  D : Excluding single applicants from a property
+MARKED ANSWER: C
+RATIONALE: Refusing housing based on the presence of a child under 18 violates familial status protections, which is the core definition of this protected class.
+
+[practice-of-real-estate-q05.v8] (National · practice-of-real-estate)
+Q: Familial status as a protected class in Hawaii real estate transactions covers:
+  A : Households with combined family income above the state median
+  B*: Parents or guardians with dependent children under 18, plus pregnant women
+  C : Residents in multi-generational living situations
+  D : All individuals living in family-style arrangements
+MARKED ANSWER: B
+RATIONALE: The familial status protection specifically targets discrimination against households with minor children under 18 and expectant mothers, excluding other family configurations.
+
+[practice-of-real-estate-q05.v9] (National · practice-of-real-estate)
+Q: Under Hawaii fair housing law, which of the following groups receives protection based on familial status?
+  A : Individuals age 55 and older in any residential setting
+  B : Unmarried cohabitating partners
+  C*: Families expecting a child or raising children younger than 18 years old
+  D : Divorced parents without current custody arrangements
+MARKED ANSWER: C
+RATIONALE: Familial status protection covers households with children under 18 and pregnant women; it does not protect based on marital status, age alone, or custody status except where children under 18 are present.
+
+[practice-of-real-estate-q06] (National · practice-of-real-estate)
+Q: When a broker says "What is the going commission rate?", the proper answer is:
+  A : "6%"
+  B : "Industry standard 7%"
+  C*: "Commissions are negotiable"
+  D : "Whatever others charge"
+MARKED ANSWER: C
+RATIONALE: Quoting "going rate" risks antitrust evidence; commissions are negotiable.
+
+[practice-of-real-estate-q06.v1] (National · practice-of-real-estate)
+Q: A broker asks you, "What commission percentage should I be charging to stay competitive?" What is the most legally appropriate response?
+  A : "Check what the top firms in your market are charging."
+  B*: "Each broker sets their own commission rates independently."
+  C : "The standard rate in Hawaii is 6%."
+  D : "Most brokers are charging between 5% and 6% right now."
+MARKED ANSWER: B
+RATIONALE: Brokers must set commissions independently; discussing or coordinating rates with competitors violates antitrust law.
+
+[practice-of-real-estate-q06.v2] (National · practice-of-real-estate)
+Q: During a board meeting, a broker inquires, "What's the typical commission percentage in our area these days?" How should this question be handled?
+  A : Cite the average commission charged by the five largest brokerages.
+  B : Reference the published Hawaii Real Estate Commission fee guidelines.
+  C : Provide historical data from the local MLS about prevailing rates.
+  D*: Explain that each brokerage determines its own commission structure.
+MARKED ANSWER: D
+RATIONALE: Discussing what competitors charge or endorsing a common rate creates antitrust liability; each firm must independently decide its compensation.
+
+[practice-of-real-estate-q06.v3] (National · practice-of-real-estate)
+Q: A real estate licensee asks a broker, "What rate do other offices charge so I know what to recommend to clients?" The correct guidance is:
+  A : "Most successful brokers are staying at the traditional 5% rate."
+  B : "Check the National Association of REALTORS® national averages."
+  C*: "Commission rates are individually determined by each brokerage."
+  D : "Around 6% to 7%, based on regional benchmarks."
+MARKED ANSWER: C
+RATIONALE: Referencing competitor rates or 'typical' percentages invites antitrust scrutiny; proper guidance is that each broker sets its own rates.
+
+[practice-of-real-estate-q06.v4] (National · practice-of-real-estate)
+Q: When discussing compensation structures with other brokers at a conference, you are asked, "What percentage are you using for commissions?" The legally sound approach is to:
+  A : Suggest that brokers in the area should align on a standard percentage.
+  B : Indicate that most listings in Hawaii settle around 6% commission.
+  C*: Decline to discuss specific rates and explain that commissions are negotiated individually by each firm.
+  D : Share your rate and ask what they charge to identify market trends.
+MARKED ANSWER: C
+RATIONALE: Price-fixing discussions, even informal sharing of rates, breach antitrust law; commissions must remain independently determined.
+
+[practice-of-real-estate-q06.v5] (National · practice-of-real-estate)
+Q: A broker asks you, "What rate are most agents charging for their services in this market?" How should you respond?
+  A : "Most agents charge between 5% and 6% in our area."
+  B : "I can tell you what competing brokers advertise online."
+  C*: "Each broker sets their own commission structure; rates are negotiable."
+  D : "The typical market rate is around 6%, which is what we should all charge."
+MARKED ANSWER: C
+RATIONALE: Discussing what competitors charge or implying a standard rate constitutes potential antitrust violation; the correct approach is to explain that commissions are always negotiable between parties.
+
+[practice-of-real-estate-q06.v6] (National · practice-of-real-estate)
+Q: During a training session, an experienced agent states, "New agents should know the prevailing commission in our area is 6%." What is your professional obligation?
+  A : Ask the agent to email all staff the agreed-upon rate.
+  B*: Clarify that commission rates are subject to negotiation and not set by industry consensus.
+  C : Use this figure as the baseline for all future client negotiations.
+  D : Agree and reinforce this as the standard going forward.
+MARKED ANSWER: B
+RATIONALE: Commission rates cannot be standardized or agreed upon across the industry; they must remain freely negotiable between broker and client to comply with antitrust laws.
+
+[practice-of-real-estate-q06.v7] (National · practice-of-real-estate)
+Q: A client asks your broker, "What do other real estate companies typically charge?" The broker should respond:
+  A*: "Commission rates vary by brokerage and are open to negotiation; I'd be happy to discuss our fee structure."
+  B : "The market standard is 6%, though we occasionally negotiate down."
+  C : "Most firms in Hawaii charge between 5% and 7% depending on the transaction type."
+  D : "That information is proprietary; just know our rate is competitive."
+MARKED ANSWER: A
+RATIONALE: Brokers must avoid discussing or implying industry-standard rates; instead, they should acknowledge that rates are individually negotiable and discuss only their own firm's structure.
+
+[practice-of-real-estate-q06.v8] (National · practice-of-real-estate)
+Q: At a broker meeting, agents discuss what fees they should quote to sellers. The safest legal response is:
+  A : "Let's establish a firm policy of 6% to stay competitive."
+  B : "We should match whatever the top brokerages in the area are charging."
+  C*: "Commission rates are determined individually with each client and are fully negotiable."
+  D : "The Hawaii Real Estate Commission publishes a recommended rate we should follow."
+MARKED ANSWER: C
+RATIONALE: Establishing a uniform rate or matching competitors' rates violates antitrust principles; commissions must be negotiated independently with each client.
+
+[practice-of-real-estate-q06.v9] (National · practice-of-real-estate)
+Q: A broker asks you, "What commission should I charge my clients?" You should respond:
+  A*: "Set your own rate—commissions are negotiable between broker and client."
+  B : "Follow the rate card posted by the local Board of REALTORS®."
+  C : "Use the standard 6% that most firms in Hawaii charge."
+  D : "Check what the local MLS reports as typical."
+MARKED ANSWER: A
+RATIONALE: Commissions must be individually negotiated; discussing or implying a "standard" or "typical" rate constitutes illegal price-fixing under antitrust law.
+
+[practice-of-real-estate-q07] (National · practice-of-real-estate)
+Q: NAR Code of Ethics:
+  A : Is state law
+  B*: Binds REALTOR® members voluntarily
+  C : Replaces license law
+  D : Binds all licensees
+MARKED ANSWER: B
+RATIONALE: NAR Code is voluntary professional designation; license law is state-mandatory.
+
+[practice-of-real-estate-q07.v1] (National · practice-of-real-estate)
+Q: Which statement accurately describes the relationship between the NAR Code of Ethics and REALTOR® membership?
+  A : It is enforced by the Hawaii Real Estate Commission
+  B*: Members agree to follow it as a condition of their REALTOR® designation
+  C : It supersedes all state licensing requirements
+  D : All Hawaii real estate licensees must comply with it by law
+MARKED ANSWER: B
+RATIONALE: The NAR Code of Ethics is a voluntary professional standard that REALTOR® members adopt upon joining NAR, not a legal mandate for all licensees.
+
+[practice-of-real-estate-q07.v2] (National · practice-of-real-estate)
+Q: A salesperson who is NOT a REALTOR® member has what obligation regarding the NAR Code of Ethics?
+  A : Must follow it if working in Hawaii
+  B : Must comply with all provisions or lose their license
+  C : Must adopt it within one year of licensing
+  D*: No obligation, as it applies only to REALTOR® members
+MARKED ANSWER: D
+RATIONALE: The NAR Code of Ethics binds only those who voluntarily join NAR and become REALTOR® members; non-members are governed by state license law instead.
+
+[practice-of-real-estate-q07.v3] (National · practice-of-real-estate)
+Q: How does the NAR Code of Ethics differ from Hawaii's real estate license law?
+  A*: License law is state-mandated for all licensees; the Code is a voluntary professional standard for REALTOR® members
+  B : The Code of Ethics is mandatory for all licensees; license law is not
+  C : Both are enforced equally by the Hawaii Real Estate Commission
+  D : License law is voluntary; the Code of Ethics is mandatory
+MARKED ANSWER: A
+RATIONALE: State license law is mandatory for all licensees, while the NAR Code of Ethics is a voluntary professional commitment made by REALTOR® members only.
+
+[practice-of-real-estate-q07.v4] (National · practice-of-real-estate)
+Q: A broker asks a new salesperson, 'Are you bound by the NAR Code of Ethics?' The correct response is:
+  A*: Only if I choose to join NAR and become a REALTOR®
+  B : Yes, the Real Estate Commission requires it
+  C : Yes, all licensees in Hawaii must follow it
+  D : No, it only applies to brokers, not salespersons
+MARKED ANSWER: A
+RATIONALE: The NAR Code of Ethics applies only to those who voluntarily seek REALTOR® membership; it is not a mandatory requirement of state licensure.
+
+[practice-of-real-estate-q07.v5] (National · practice-of-real-estate)
+Q: Which statement accurately describes the relationship between the NAR Code of Ethics and Hawaii real estate licensing requirements?
+  A : The NAR Code applies only to brokers, not salespersons
+  B : The NAR Code supersedes all state statutory provisions governing real estate conduct
+  C*: Adherence to the NAR Code is required exclusively of those who hold the REALTOR® designation
+  D : The NAR Code is mandatory for all Hawaii licensees regardless of membership status
+MARKED ANSWER: C
+RATIONALE: The NAR Code of Ethics is a voluntary professional standard binding only REALTOR® members; state licensing law remains the mandatory baseline for all licensees.
+
+[practice-of-real-estate-q07.v6] (National · practice-of-real-estate)
+Q: A Hawaii licensee who is not a REALTOR® member would be bound by:
+  A : Both the NAR Code and state law equally, regardless of REALTOR® membership
+  B : The NAR Code of Ethics as a condition of their license
+  C*: State license law and rules set by the Hawaii Real Estate Commission, but not the NAR Code
+  D : Only the NAR Code of Ethics, since it is the industry standard
+MARKED ANSWER: C
+RATIONALE: Non-REALTOR® licensees must comply with state-mandated license law and REC rules; the NAR Code binds only those who voluntarily join NAR as REALTOR® members.
+
+[practice-of-real-estate-q07.v7] (National · practice-of-real-estate)
+Q: The NAR Code of Ethics differs from Hawaii real estate license law in that the Code:
+  A : Establishes the minimum standards that satisfy Hawaii statutory requirements
+  B*: Applies voluntarily to REALTOR® members rather than being a state-mandated requirement for all licensees
+  C : Is enforceable by the state through license suspension or revocation
+  D : Takes precedence over state statutes and administrative rules
+MARKED ANSWER: B
+RATIONALE: The NAR Code is a voluntary professional commitment for REALTOR® members only, whereas state license law is mandatory for all licensees; they are distinct regulatory frameworks.
+
+[practice-of-real-estate-q07.v8] (National · practice-of-real-estate)
+Q: When a Hawaii real estate licensee joins the National Association of REALTORS®, they become subject to:
+  A*: The NAR Code of Ethics in addition to their state licensing obligations
+  B : Neither state law nor the NAR Code, as REALTOR® status exempts them from regulation
+  C : The NAR Code instead of state license law, which is replaced upon membership
+  D : State license law only, which now incorporates NAR standards
+MARKED ANSWER: A
+RATIONALE: REALTOR® membership adds the voluntary NAR Code of Ethics to existing state-mandated compliance; it does not replace or exempt from state licensing requirements.
+
+[practice-of-real-estate-q07.v9] (National · practice-of-real-estate)
+Q: Which statement accurately describes the relationship between the National Association of REALTORS® Code of Ethics and Hawaii real estate licensure?
+  A : The Hawaii Real Estate Commission enforces the NAR Code of Ethics as part of state licensing law
+  B : NAR Code of Ethics is a mandatory state regulatory requirement that supersedes HRS Chapter 467
+  C*: Membership in NAR and adherence to its Code of Ethics is an optional professional commitment for REALTOR® members
+  D : All Hawaii real estate licensees must comply with NAR Code of Ethics as a condition of their license
+MARKED ANSWER: C
+RATIONALE: NAR Code of Ethics applies only to REALTOR® members who voluntarily join NAR; it is not mandatory state law for all licensees, and the REC enforces HRS Chapter 467, not the NAR Code.
+

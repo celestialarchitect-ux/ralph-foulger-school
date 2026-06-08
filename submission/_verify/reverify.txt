@@ -1,0 +1,1291 @@
+RE-VERIFICATION of corrected items. Confirm each marked answer + rationale is now CORRECT. Flag any still wrong.
+
+[property-ownership-q06]
+Q: Joint tenancy requires which four unities?
+  A*: Time, title, interest, possession
+  B: Title, interest, intent, agreement
+  C: Money, marriage, motive, manner
+  D: Time, title, intent, possession
+ANS:A | Time, Title, Interest, Possession — TTIP.
+
+[property-ownership-q06.v1]
+Q: Which of the following correctly identifies all four unities necessary to establish a valid joint tenancy in Hawaii?
+  A: Ownership, Duration, Control, Legality
+  B: Deed, Mortgage, Occupancy, Survivorship
+  C: Agreement, Consideration, Intent, Documentation
+  D*: Title, Interest, Possession, Time
+ANS:D | Joint tenancy requires the four unities of Time, Title, Interest, and Possession (TTIP). Options A, B, and C do not state the four unities.
+
+[property-ownership-q06.v2]
+Q: A broker is explaining to clients the requirements for holding property as joint tenants. Which set of elements must be present simultaneously for the co-ownership to qualify as a true joint tenancy?
+  A: Vesting, Contribution, Management, Distribution
+  B: Intent, Title, Money, Survivorship
+  C*: Possession, Time, Title, Interest
+  D: Agreement, Consideration, Representation, Recording
+ANS:C | The four unities required for joint tenancy are Possession, Time, Title, and Interest. These must all exist at the same moment to create a valid joint tenancy.
+
+[property-ownership-q06.v3]
+Q: Under Hawaii real estate law, if one co-owner claims that joint tenancy was never properly created, a court would examine whether all four essential unities were satisfied. Which grouping represents those four unities?
+  A: Contribution, Consent, Control, Clarity
+  B: Capacity, Execution, Authority, Acknowledgment
+  C: Duration, Deed, Ownership, Rights
+  D*: Time, Title, Interest, Possession
+ANS:D | The four unities of joint tenancy—Time, Title, Interest, and Possession—are the foundational requirements that must all coexist at the inception of the tenancy.
+
+[property-ownership-q06.v4]
+Q: Which four elements must simultaneously exist at the moment of acquisition for a co-ownership arrangement to be recognized as a joint tenancy rather than a tenancy in common?
+  A: Signature, Notarization, Recording, Survey
+  B: Marital Status, Equal Shares, Explicit Agreement, Probate Avoidance
+  C*: Interest, Possession, Time, Title
+  D: Monetary Investment, Property Use, Estate Planning, Survivorship Clause
+ANS:C | Interest, Possession, Time, and Title are the four unities of joint tenancy; all must be acquired simultaneously by all co-owners to create a valid joint tenancy.
+
+[property-ownership-q06.v5]
+Q: To create a valid joint tenancy in Hawaii, all four of the following unities must be present EXCEPT:
+  A: Possession by each tenant of the whole property
+  B: Title acquired at the same time by all parties
+  C: Interest held in equal shares by all parties
+  D*: Intent to create survivorship rights
+ANS:D | Joint tenancy requires Time, Title, Interest, and Possession (TTIP), but NOT a specific intent to create survivorship—that is an automatic result of the unity of interest and title. Intent to create joint tenancy is assumed by law when the other three unities exist.
+
+[property-ownership-q06.v6]
+Q: Which set of elements must be present simultaneously for joint tenancy to be established in Hawaii real property?
+  A*: Contemporaneous acquisition, identical title documents, equal fractional shares, and undivided possession
+  B: Equal ownership, written agreement, mutual consent, and right of survivorship
+  C: Unity of person, unity of duration, unity of claim, and unity of enjoyment
+  D: Registered ownership, notarized deed, spousal approval, and financial contribution
+ANS:A | The four unities of joint tenancy are Time (contemporaneous acquisition), Title (identical documents), Interest (equal shares), and Possession (undivided). Options B, C, and D do not state the four unities.
+
+[property-ownership-q06.v7]
+Q: A Hawaii real estate broker explains to clients that joint tenancy requires all of the following EXCEPT:
+  A: Each owner holds an undivided right to occupy the entire property
+  B: All co-owners must hold identical percentage interests
+  C*: The deed must be recorded with survivorship language only
+  D: All co-owners must receive their interest at the same moment
+ANS:C | Joint tenancy requires Time, Title, Interest, and Possession. While the deed must clearly express joint tenancy intent, it does not require special 'survivorship language only'—the unities themselves create the right of survivorship by operation of law.
+
+[property-ownership-q06.v8]
+Q: When reviewing a joint tenancy arrangement, which requirement is NOT one of the four essential unities?
+  A: Unity of Time—all parties obtain their interest on the same date
+  B*: Unity of Profits—all parties receive equal rental or investment income
+  C: Unity of Title—all parties take title from the same legal instrument
+  D: Unity of Possession—all parties have equal right to occupy the entire property
+ANS:B | The four required unities are Time, Title, Interest (equal ownership percentage), and Possession—not Profits. While income may be divided equally by agreement, the unity requirement focuses on ownership interest and occupancy rights, not income distribution.
+
+[property-ownership-q06.v9]
+Q: A broker is explaining the essential requirements for establishing a valid joint tenancy in Hawaii. Which set of four unities must be present simultaneously?
+  A*: Time, title, interest, and possession
+  B: Agreement, authority, title, and occupancy
+  C: Possession, intent, title, and consideration
+  D: Intent, marriage, title, and possession
+ANS:A | Joint tenancy requires the four unities of Time (acquired at same time), Title (from same document), Interest (equal shares), and Possession (equal right to occupy). These are collectively remembered as TTIP.
+
+[financing-q00.v2]
+Q: A buyer obtains financing of $180,000 on a $225,000 home purchase. The LTV equals:
+  A*: 80%
+  B: 75%
+  C: 70%
+  D: 85%
+ANS:A | $180,000 ÷ $225,000 = 80%. A loan-to-value at or below 80% generally avoids private mortgage insurance.
+
+[financing-q03]
+Q: The Closing Disclosure must be delivered:
+  A: At closing
+  B: On loan application
+  C*: 3 business days before closing
+  D: 7 days before closing
+ANS:C | TRID requires CD 3 business days before consummation.
+
+[financing-q03.v1]
+Q: Under TRID regulations, when must a borrower receive the Closing Disclosure document?
+  A: On the day of loan application
+  B: At the time of property inspection
+  C*: A minimum of 3 business days prior to loan consummation
+  D: The day before closing
+ANS:C | TRID mandates that the Closing Disclosure must be delivered at least 3 business days before consummation to allow borrowers time to review final loan terms.
+
+[financing-q03.v2]
+Q: A lender provides a borrower with the Closing Disclosure on Thursday for a Friday closing. Which statement is accurate?
+  A: This complies with the regulation if the borrower waives the waiting period
+  B: This satisfies TRID requirements because it is within one week
+  C*: This violates TRID because 3 business days have not elapsed before consummation
+  D: This is acceptable under Hawaii REC rules regardless of federal requirements
+ANS:C | A Thursday delivery leaves only Friday (one business day) before consummation. TRID requires the borrower to receive the Closing Disclosure at least three business days before consummation, so this violates the rule.
+
+[financing-q03.v3]
+Q: Which of the following timing scenarios for Closing Disclosure delivery complies with current federal lending law?
+  A: Delivered at the closing table before signing loan documents
+  B: Delivered simultaneously with the initial loan estimate
+  C*: Delivered to the borrower 3 business days before the scheduled closing date
+  D: Delivered 5 calendar days after the loan application is submitted
+ANS:C | TRID regulations require the Closing Disclosure to reach the borrower no later than 3 business days before consummation, allowing adequate time for final review.
+
+[financing-q03.v4]
+Q: A real estate transaction is scheduled to close on Wednesday. The Closing Disclosure is delivered to the borrower on the previous Monday. Does this comply with TRID requirements?
+  A: Yes, because it was delivered within the same week
+  B: Yes, because it was delivered before the closing date
+  C*: No, because only 1 business day (Tuesday) has elapsed before consummation
+  D: No, because it should be delivered at closing instead
+ANS:C | A Monday delivery for a Wednesday closing allows only two business days (Tue, Wed) before consummation — fewer than the required three — so it violates TRID.
+
+[financing-q03.v5]
+Q: Under TRID regulations, when must a lender provide the Closing Disclosure to a borrower?
+  A: Within 24 hours after loan approval
+  B*: At least 3 business days prior to closing
+  C: At the closing table immediately before signing
+  D: On the day of loan application submission
+ANS:B | TRID mandates that the Closing Disclosure be delivered no later than 3 business days before consummation of the loan.
+
+[financing-q03.v6]
+Q: A borrower in Hawaii receives their final loan estimate and asks when they will get the Closing Disclosure. The loan officer should advise:
+  A: It must be provided within 7 calendar days of approval
+  B*: It will be mailed 3 business days before closing
+  C: It will be ready at closing
+  D: It will be emailed immediately after underwriting clears the file
+ANS:B | Federal TRID rules require the Closing Disclosure be given to the borrower no less than 3 business days before the closing date.
+
+[financing-q03.v7]
+Q: Which timeline requirement applies to delivery of the Closing Disclosure under current federal lending regulations?
+  A: 10 calendar days before consummation
+  B: On the date of closing or within 1 day after
+  C*: 3 business days before consummation
+  D: 5 business days before consummation
+ANS:C | TRID requires lenders to deliver the Closing Disclosure at least 3 business days before the loan is consummated.
+
+[financing-q03.v8]
+Q: A real estate transaction is scheduled to close on Friday. The lender must provide the Closing Disclosure no later than:
+  A: Within 24 hours of closing
+  B: Friday morning before closing
+  C: The previous Monday
+  D*: Tuesday of that week
+ANS:D | TRID requires the borrower to receive the Closing Disclosure at least three business days before consummation (Saturdays count; consummation may occur on the third business day). For a Friday closing, Tuesday is the latest compliant delivery: Wed (1), Thu (2), Fri (3).
+
+[financing-q03.v9]
+Q: Under TRID regulations, when must a lender provide the Closing Disclosure to a borrower?
+  A: On the day the borrower signs the promissory note
+  B*: No later than 3 business days prior to consummation
+  C: 5 calendar days before the scheduled closing date
+  D: At the time of loan approval
+ANS:B | TRID (Regulation Z) mandates that the Closing Disclosure be delivered at least 3 business days before the loan is consummated to allow the borrower time to review final terms.
+
+[mandated-disclosures-q01.v5]
+Q: Under federal law, residential housing built before a certain year requires disclosure of potential lead-based paint hazards. Housing built before which year is covered?
+  A: 1970
+  B*: 1978
+  C: 1988
+  D: 1982
+ANS:B | The federal lead-based paint disclosure requirement applies to all residential properties constructed before 1978, making 1978 the cutoff year for mandatory disclosure obligations.
+
+[contracts-q00.v7]
+Q: Two parties negotiate the sale of a lot in Hawaii. The seller sends an email saying "I accept your terms," but no formal purchase agreement document is ever signed by either party. Do the parties have an enforceable contract?
+  A: Yes, if earnest money has been exchanged between the parties
+  B: Yes, the email constitutes written acceptance
+  C*: No, a formal written purchase agreement signed by the party to be charged is required
+  D: Yes, provided both parties have proof of the negotiation discussions
+ANS:C | While an email may satisfy the writing requirement in some jurisdictions, a formalized purchase agreement typically signed by the party to be charged is required to create an enforceable real estate contract.
+
+[contracts-q09.v2]
+Q: A home inspection contingency is not satisfied by the inspection deadline. What typically happens to the purchase contract?
+  A: The seller's license is suspended for allowing the contingency to lapse
+  B*: The contract may be terminated by the buyer, and the deposit is usually returned
+  C: The buyer forfeits the entire deposit as liquidated damages
+  D: The parties must proceed to closing regardless of inspection results
+ANS:B | When a contingency expires unused, the buyer generally loses that protection but may still terminate; the deposit return depends on contract language and whether default occurred.
+
+[practice-of-real-estate-q03.v4]
+Q: Which statement correctly identifies the scope of federal Fair Housing Act protections?
+  A: Federal law protects only against race discrimination; states add other categories
+  B: Protection covers only race and national origin
+  C*: Protection applies to race, color, and religion, plus four additional protected classes
+  D: Protection applies to race, color, religion, sex, national origin, familial status, disability, and political affiliation
+ANS:C | Federal Fair Housing protects seven specific classes: race, color, religion, sex, national origin, familial status, and disability; political affiliation is not a federally protected class.
+
+[practice-of-real-estate-q08]
+Q: Brokers must reconcile trust accounts:
+  A: Never
+  B: Quarterly
+  C*: Typically monthly
+  D: Annually
+ANS:C | Most states require monthly trust account reconciliation.
+
+[practice-of-real-estate-q08.v1]
+Q: Under Hawaii real estate regulations, how frequently should a broker verify the balance of client trust funds?
+  A: Semi-annually during tax season
+  B: Once per calendar year at year-end
+  C: Only when deposits or withdrawals occur
+  D*: On a monthly basis
+ANS:D | As in most jurisdictions, industry best practice is for brokers to reconcile trust accounts monthly to ensure accuracy and client fund protection.
+
+[practice-of-real-estate-q08.v2]
+Q: A broker receives a notice from the Hawaii Real Estate Commission regarding trust account procedures. The notice emphasizes reconciliation frequency to maintain compliance. How often must this reconciliation occur?
+  A: Upon closing of each transaction
+  B*: Every month
+  C: Bi-annually
+  D: Every quarter
+ANS:B | Monthly reconciliation of trust accounts is the standard requirement for brokers to ensure proper accounting controls and prevent misappropriation of client funds.
+
+[practice-of-real-estate-q08.v3]
+Q: Which statement best describes the trust account reconciliation requirements for a Hawaii-licensed broker?
+  A: Reconciliation frequency depends on the broker's discretion
+  B: Reconciliation is required annually with an external auditor
+  C: Quarterly reconciliation is mandated by all state commissions
+  D*: Monthly reconciliation is the typical regulatory standard
+ANS:D | Monthly reconciliation is the typical requirement for broker trust accounts to maintain fiduciary responsibility and comply with state licensing standards.
+
+[practice-of-real-estate-q08.v4]
+Q: A brokerage firm is establishing its internal accounting procedures for managing client escrow funds. According to Hawaii real estate licensing rules, what reconciliation schedule should the firm implement?
+  A: Reconcile trust balances only when requested by clients
+  B*: Reconcile trust balances each month
+  C: Reconcile trust balances every 6 months
+  D: Reconcile trust balances annually before license renewal
+ANS:B | Monthly reconciliation of trust accounts is the standard regulatory requirement to ensure continuous monitoring and proper safeguarding of client funds.
+
+[practice-of-real-estate-q08.v5]
+Q: How frequently should a Hawaii real estate broker perform a reconciliation of client trust accounts?
+  A: At the broker's discretion, no set frequency
+  B: Only when a client requests it
+  C: Twice per year during audit season
+  D*: Every month, at minimum
+ANS:D | Monthly reconciliation of trust accounts is the industry standard to ensure accuracy and compliance with fiduciary duties.
+
+[practice-of-real-estate-q08.v6]
+Q: A broker maintains a client trust account. What is the standard requirement for reconciliation frequency?
+  A*: Each calendar month
+  B: Every six months
+  C: Only if there is a discrepancy discovered
+  D: Annually, at fiscal year-end
+ANS:A | Monthly reconciliation of trust accounts is the standard practice to maintain proper accounting controls and fiduciary accountability.
+
+[practice-of-real-estate-q08.v7]
+Q: According to Hawaii real estate regulations, trust account reconciliation should occur:
+  A*: On a monthly basis
+  B: Quarterly, as part of standard business practice
+  C: Annually, with certified public accountant verification
+  D: When the broker determines it is necessary
+ANS:A | Monthly reconciliation of trust accounts is the industry standard to verify that account balances match client records and prevent misappropriation of funds.
+
+[practice-of-real-estate-q08.v8]
+Q: Which statement accurately describes the reconciliation schedule for broker-maintained client trust accounts in Hawaii?
+  A: Reconciliation only occurs when a broker application is reviewed
+  B*: Monthly reconciliation is the typical requirement
+  C: Reconciliation frequency is determined by each brokerage firm independently
+  D: Reconciliation is required annually with a third-party auditor
+ANS:B | Industry best practice is for brokers to reconcile trust accounts monthly to ensure proper accounting and protection of client funds.
+
+[practice-of-real-estate-q08.v9]
+Q: How frequently should a Hawaii real estate broker perform reconciliation of their escrow trust account to ensure compliance with REC regulations?
+  A*: On a monthly basis
+  B: Only upon audit request by the REC
+  C: Semiannually, at minimum
+  D: Whenever a transaction closes
+ANS:A | Monthly reconciliation of trust accounts is the industry standard to maintain accurate records and detect discrepancies promptly. This standard protects client funds and ensures regulatory compliance.
+
+[real-estate-calculations-q09]
+Q: A commission split is: 50% to listing brokerage, 50% to selling brokerage; agent gets 70% of their brokerage's share. Sale price $400,000, commission 6%. Listing agent's personal share:
+  A: $12,000
+  B*: $8,400
+  C: $4,200
+  D: $24,000
+ANS:B | 6% × $400K = $24K. Listing brokerage gets $12K. Agent gets 70% = $8,400.
+
+[real-estate-calculations-q09.v1]
+Q: A residential property sells for $400,000 with a 6% commission. The listing and selling brokerages each receive an equal share of the total commission. If the listing agent is entitled to 70% of their brokerage's portion, what is the listing agent's gross commission?
+  A: $16,800
+  B: $6,000
+  C: $12,000
+  D*: $8,400
+ANS:D | Total commission is 6% of $400,000 = $24,000. Each brokerage receives 50% = $12,000. The listing agent receives 70% of $12,000 = $8,400.
+
+[real-estate-calculations-q09.v2]
+Q: In a transaction with a $400,000 purchase price and 6% total commission, the listing brokerage and selling brokerage split the commission equally at 50-50. The listing agent's agreement provides for a 70% split with their broker. What amount does the listing agent earn?
+  A: $4,800
+  B*: $8,400
+  C: $11,200
+  D: $14,000
+ANS:B | 6% commission on $400,000 equals $24,000 total. Listing brokerage's half is $12,000. Agent receives 70% of $12,000 = $8,400.
+
+[real-estate-calculations-q09.v3]
+Q: A property closes at $400,000 with a negotiated commission rate of 6%. Under the brokerage agreement, commissions are divided 50-50 between listing and selling firms. The listing agent's compensation schedule allows them 70% of their firm's earned commission. Calculate the listing agent's compensation:
+  A: $6,000
+  B: $9,600
+  C: $12,000
+  D*: $8,400
+ANS:D | Total commission = 6% × $400,000 = $24,000. Listing brokerage share = $24,000 × 50% = $12,000. Listing agent share = $12,000 × 70% = $8,400.
+
+[real-estate-calculations-q09.v4]
+Q: An agent's listing sells for $400,000. The commission structure includes a 6% total rate, with both the listing and selling brokerages receiving 50% each. The agent's contract stipulates a 70% commission split in favor of the agent. What is the listing agent's net commission earning?
+  A*: $8,400
+  B: $9,800
+  C: $7,200
+  D: $13,440
+ANS:A | Total commission is 6% of $400,000 = $24,000. The listing brokerage retains $12,000 (50%). The listing agent receives 70% of $12,000 = $8,400.
+
+[real-estate-calculations-q09.v5]
+Q: A property sells for $500,000 with a 6% commission. The listing and selling brokerages split the total commission equally. The listing agent receives 70% of their brokerage's portion. What is the listing agent's gross commission?
+  A*: $10,500
+  B: $30,000
+  C: $21,000
+  D: $15,000
+ANS:A | Total commission = 6% × $500,000 = $30,000. Listing brokerage share = $15,000. Listing agent receives 70% = $10,500.
+
+[real-estate-calculations-q09.v6]
+Q: In a transaction with a $350,000 sale price and 6% total commission split 50-50 between brokerages, a listing agent earns 70% of the brokerage's share. Calculate the agent's commission earnings.
+  A: $14,700
+  B: $10,500
+  C: $21,000
+  D*: $7,350
+ANS:D | 6% × $350,000 = $21,000 total commission. The listing brokerage receives 50% = $10,500. The agent’s 70% share = $10,500 × 70% = $7,350.
+
+[real-estate-calculations-q09.v7]
+Q: A listing agent's brokerage receives 50% of the 6% commission from a $600,000 sale. If the agent's contract stipulates a 70% split with the brokerage, what amount does the agent personally receive?
+  A: $18,000
+  B: $25,200
+  C: $36,000
+  D*: $12,600
+ANS:D | Total commission = 6% × $600,000 = $36,000. Listing brokerage receives $18,000. Agent earns 70% of $18,000 = $12,600.
+
+[real-estate-calculations-q09.v8]
+Q: An agent's listing office retains half of a 6% commission on a $450,000 property sale. The agent receives 70% of the office's portion. What is the agent's take-home commission?
+  A: $27,000
+  B: $18,900
+  C: $13,500
+  D*: $9,450
+ANS:D | 6% × $450,000 = $27,000 total commission. The office’s 50% share = $13,500. The agent receives 70% of $13,500 = $9,450.
+
+[real-estate-calculations-q09.v9]
+Q: A property sells for $500,000 with a 6% commission. The listing and selling brokerages each receive 50% of total commission. The listing agent's contractual share is 70% of their brokerage's portion. What is the listing agent's gross commission?
+  A: $21,000
+  B: $15,000
+  C: $30,000
+  D*: $10,500
+ANS:D | Total commission = 6% × $500,000 = $30,000. Listing brokerage receives 50% = $15,000. Listing agent receives 70% of $15,000 = $10,500.
+
+[real-estate-calculations-q10.v1]
+Q: A residential investment property was purchased for $150,000 and later sold for $195,000. What is the return on investment expressed as a percentage?
+  A: 45%
+  B*: 30%
+  C: 35%
+  D: 25%
+ANS:B | ($195,000 − $150,000) ÷ $150,000 = $45,000 ÷ $150,000 = 0.30 = 30%.
+
+[hi-material-facts-q00]
+Q: A seller from California sells a Maui house to a Hawaii resident. The buyer is responsible for withholding under:
+  A: GET
+  B: FIRPTA
+  C: RESPA
+  D*: HARPTA
+ANS:D | Non-Hawaii-resident seller triggers HARPTA withholding (currently 7.25% of sale price).
+
+[hi-material-facts-q00.v1]
+Q: An out-of-state seller conveys residential property in Hawaii to a local buyer. Which withholding requirement applies to this transaction?
+  A*: HARPTA withholding on the gross proceeds
+  B: FIRPTA withholding by the escrow agent
+  C: RESPA withholding at point of sale
+  D: GET exemption for non-residents
+ANS:A | HARPTA (Hawaii Real Property Tax Act) requires withholding when a non-Hawaii resident sells Hawaii real property, regardless of the buyer's residency status.
+
+[hi-material-facts-q00.v2]
+Q: A mainland investor sells a Honolulu condominium to a Hawaii resident buyer. The escrow officer must ensure compliance with which state withholding statute?
+  A: General Excise Tax (GET) collection duties
+  B*: Hawaii HARPTA withholding obligations
+  C: Federal FIRPTA requirements only
+  D: Interstate Commerce Act provisions
+ANS:B | HARPTA is Hawaii's residential property transfer withholding law that applies when a non-resident seller transfers residential property located in Hawaii, requiring the buyer or escrow to withhold a percentage of sale proceeds.
+
+[hi-material-facts-q00.v3]
+Q: During a real estate closing in Maui, the listing agent discovers the seller is a non-resident of Hawaii. What withholding requirement must the buyer or settlement agent address?
+  A*: HARPTA withholding based on the sale price
+  B: RESPA escrow disclosure and withholding
+  C: Property transfer tax under county ordinance
+  D: FIRPTA withholding of 10% of purchase price
+ANS:A | HARPTA applies to non-resident sellers of Hawaii residential property and requires withholding of the statutory percentage from the gross sale proceeds at closing.
+
+[hi-material-facts-q00.v4]
+Q: A buyer in Hawaii is purchasing a single-family home from a seller residing in Nevada. Which of the following withholding requirements must the buyer or closing agent satisfy?
+  A: FIRPTA federal withholding of 15%
+  B: RESPA federal escrow account rules
+  C: General Excise Tax pass-through payment
+  D*: Hawaii HARPTA withholding on the transaction
+ANS:D | HARPTA mandates withholding when a non-Hawaii resident sells Hawaii residential real property, with the buyer or escrow agent responsible for remitting the withheld amount to the Hawaii Department of Taxation.
+
+[hi-material-facts-q00.v5]
+Q: A mainland investor from Oregon completes the purchase of a condominium on Oahu. Which withholding statute applies to this transaction?
+  A: FIRPTA
+  B*: HARPTA
+  C: HRS Chapter 507
+  D: GET
+ANS:B | HARPTA (Hawaii Real Property Tax Act) requires withholding when a non-Hawaii resident sells Hawaii real property; the buyer is typically responsible for compliance.
+
+[hi-material-facts-q00.v6]
+Q: During the closing of a Big Island property sale, the escrow agent discovers the seller is a foreign national residing outside Hawaii. What withholding requirement must the buyer's agent address?
+  A: Conveyance tax under HRS 247
+  B*: HARPTA withholding obligation
+  C: FIRPTA withholding on the net proceeds
+  D: RESPA withholding at settlement
+ANS:B | HARPTA applies to sales of Hawaii real property by non-Hawaii residents; the buyer or escrow agent must withhold a percentage of the purchase price.
+
+[hi-material-facts-q00.v7]
+Q: A broker assists with the sale of a Kauai home where the seller is a Washington state resident. The buyer asks which federal or state withholding law governs the transaction. What is the correct response?
+  A: GET applies at the county assessor level
+  B*: HARPTA, because Hawaii imposes withholding on non-resident sellers
+  C: FIRPTA, because the seller is out-of-state
+  D: No withholding applies—only federal income tax reporting
+ANS:B | HARPTA is Hawaii's real property transfer withholding statute that applies when a non-Hawaii resident sells Hawaii property; it is separate from federal FIRPTA requirements.
+
+[hi-material-facts-q00.v8]
+Q: At the settlement table, the title company's closing attorney notes the seller transferred to Hawaii only three years ago and is still a Nevada resident. Which withholding obligation takes precedence in this Hawaii real estate transaction?
+  A*: HARPTA withholding (currently 7.25% of the purchase price)
+  B: Passive Activity Loss (PAL) withholding
+  C: No withholding because the seller has already paid state income taxes
+  D: FIRPTA withholding of 15% of the sale price
+ANS:A | HARPTA requires withholding by the buyer or escrow agent on sales by non-Hawaii residents; residency status, not length of time in Hawaii, determines the withholding obligation.
+
+[hi-material-facts-q00.v9]
+Q: When a mainland seller transfers residential property in Hawaii to a local buyer, which withholding requirement typically applies to the transaction?
+  A*: HARPTA
+  B: GET (General Excise Tax)
+  C: FIRPTA
+  D: Hawaii Resident Property Tax Act
+ANS:A | HARPTA requires withholding when a non-Hawaii resident sells Hawaii real property, with the buyer/escrow agent responsible for withholding approximately 7.25% of the sale price.
+
+[hi-material-facts-q04]
+Q: A foreign national selling Hawaii real estate triggers withholding under:
+  A: Neither
+  B: HARPTA only
+  C: FIRPTA only
+  D*: Both HARPTA and FIRPTA
+ANS:D | Foreign + non-Hawaii-resident — both can apply to the same transaction.
+
+[hi-material-facts-q04.v1]
+Q: When a non-U.S. citizen sells residential property in Hawaii, which withholding requirement(s) must the escrow agent consider?
+  A: Federal FIRPTA withholding only
+  B*: State HARPTA withholding and federal FIRPTA withholding
+  C: No withholding if the buyer assumes the mortgage
+  D: State HARPTA withholding only
+ANS:B | Both HARPTA (Hawaii state law) and FIRPTA (federal law) can independently apply when a foreign national sells Hawaii real estate, requiring dual withholding compliance.
+
+[hi-material-facts-q04.v2]
+Q: An alien investor disposes of a Honolulu condominium. Which of the following correctly identifies the applicable withholding laws?
+  A: Neither statute applies if the property is mortgaged
+  B: HARPTA applies; FIRPTA does not apply to residential transfers
+  C*: Both HARPTA and FIRPTA may apply to the same transaction
+  D: FIRPTA applies; HARPTA applies only to commercial property
+ANS:C | Foreign nationals selling Hawaii property are subject to overlapping state (HARPTA) and federal (FIRPTA) withholding obligations simultaneously, not alternatively.
+
+[hi-material-facts-q04.v3]
+Q: A real estate licensee is closing a sale where the seller is a foreign entity. What withholding compliance issue should the licensee flag?
+  A: Only federal tax withholding under FIRPTA is mandatory
+  B*: Both federal FIRPTA and Hawaii HARPTA withholding requirements may be triggered
+  C: Withholding applies only if the property is located in Honolulu County
+  D: Only Hawaii state withholding under HARPTA is mandatory
+ANS:B | A foreign seller in Hawaii creates potential dual withholding obligations under both state and federal law, and the licensee must ensure compliance with both statutes.
+
+[hi-material-facts-q04.v4]
+Q: Which statement most accurately describes the withholding requirements for an international corporation selling agricultural land in Hawaii?
+  A: No withholding is required if the buyer is a Hawaii resident
+  B: FIRPTA withholding is required; HARPTA does not apply to corporate sellers
+  C*: Both HARPTA and FIRPTA withholding provisions may be required in the same transaction
+  D: HARPTA withholding is required; FIRPTA does not apply to foreign corporations
+ANS:C | Hawaii's HARPTA and the federal FIRPTA statute both independently govern withholding for foreign entity sales of Hawaii property and can apply concurrently.
+
+[hi-material-facts-q04.v5]
+Q: An individual from Japan sells a condominium in Honolulu. Which withholding requirement(s) apply to this transaction?
+  A: State HARPTA withholding only
+  B: No withholding is required for foreign nationals
+  C: Federal FIRPTA withholding only
+  D*: Federal FIRPTA and state HARPTA withholding
+ANS:D | A foreign national (non-U.S. citizen) selling Hawaii real property is subject to both federal FIRPTA withholding and Hawaii's parallel state withholding requirement (HARPTA), which operate independently.
+
+[hi-material-facts-q04.v6]
+Q: When a non-citizen resident of another country conveys real property located in Hawaii, the escrow agent must withhold funds under:
+  A: HARPTA exclusively
+  B*: FIRPTA and HARPTA concurrently
+  C: State income tax only
+  D: FIRPTA exclusively
+ANS:B | Foreign persons disposing of Hawaii real estate must comply with both the federal FIRPTA withholding requirement and Hawaii's HARPTA withholding requirement, which are separate obligations.
+
+[hi-material-facts-q04.v7]
+Q: A seller who is a foreign corporation liquidates its Maui property holdings. Withholding obligations include:
+  A*: Both FIRPTA at the federal level and HARPTA at the state level
+  B: Neither, as corporate sales are exempt from withholding
+  C: FIRPTA only, as state law defers to federal withholding
+  D: HARPTA, but only if the seller is also a nonresident
+ANS:A | Foreign persons and entities selling Hawaii real property are subject to concurrent federal FIRPTA withholding and state HARPTA withholding; these are separate statutory requirements that both apply.
+
+[hi-material-facts-q04.v8]
+Q: During closing of a Hawaii real estate sale, the title company identifies that the seller is a foreign national. This triggers withholding compliance under:
+  A: State HARPTA only
+  B*: Both federal FIRPTA and state HARPTA requirements
+  C: Federal FIRPTA only
+  D: Neither requirement applies to foreign nationals
+ANS:B | Foreign nationals selling Hawaii real property must satisfy both the federal Foreign Investment in Real Property Tax Act (FIRPTA) and Hawaii's Real Property Tax Act (HARPTA), which operate as parallel withholding obligations.
+
+[hi-material-facts-q04.v9]
+Q: When a nonresident alien disposes of Hawaii real property, which withholding requirement(s) apply?
+  A: Federal FIRPTA withholding applies, but Hawaii HARPTA does not apply to foreign nationals
+  B: Neither withholding applies if the seller has a valid Hawaii driver's license
+  C*: Both federal FIRPTA and Hawaii HARPTA withholding may be required on the same sale
+  D: Hawaii HARPTA withholding applies, but federal FIRPTA does not apply to nonresidents
+ANS:C | A nonresident alien selling Hawaii real estate is subject to both FIRPTA (federal) and HARPTA (Hawaii state) withholding obligations simultaneously, as they address different statutory frameworks.
+
+[hi-material-facts-q08]
+Q: A property described in chain of title as deriving from a "Land Commission Award" is:
+  A: A modern grant
+  B: A condo
+  C*: A relic of the Mahele period requiring careful chain analysis
+  D: Federal land
+ANS:C | Land Commission Awards date from the Mahele era.
+
+[hi-material-facts-q08.v1]
+Q: When examining a Hawaii property's deed history, you encounter a reference to a 'Land Commission Award' as the original source of title. What does this indicate about the property?
+  A*: The property originates from the Mahele division and requires thorough historical chain review
+  B: The property is held in condominium regime under state law
+  C: The property was recently granted by the Hawaii Land Commission
+  D: The property was awarded by the federal government during territorial statehood
+ANS:A | Land Commission Awards are historical documents from the Mahele era (1848) when Hawaiian lands were divided, making them significant historical anchors requiring careful chain of title analysis.
+
+[hi-material-facts-q08.v2]
+Q: A title search reveals that a parcel's origin traces back to a Land Commission Award. Which statement best characterizes this finding?
+  A: It is a federal patent requiring Bureau of Land Management oversight
+  B*: It is a historical grant from Hawaii's Mahele period that necessitates careful examination of the subsequent chain
+  C: It is a contemporary conveyance that must comply with modern subdivision rules
+  D: It is evidence the property was part of a corporate condo development
+ANS:B | Land Commission Awards are nineteenth-century grants from the Great Mahele (1848) that serve as critical historical reference points and require meticulous chain of title review.
+
+[hi-material-facts-q08.v3]
+Q: In Hawaii real estate practice, if you discover that a property's root of title stems from a 'Land Commission Award,' you should understand this as:
+  A: Proof of direct federal ownership with state management
+  B: A recent administrative decision by the Hawaii Real Estate Commission
+  C: A time-share interest issued under state condominium law
+  D*: A nineteenth-century claim originating from the Mahele that demands careful historical title analysis
+ANS:D | Land Commission Awards date from the Mahele period (1848) when Hawaiian lands were initially divided and distributed, establishing important historical chain-of-title origins requiring expert examination.
+
+[hi-material-facts-q08.v4]
+Q: A Hawaii property's title document references an original Land Commission Award. What is the professional implication of this finding?
+  A: The property must be registered as state-owned trust land
+  B: The property is automatically exempt from current zoning regulations
+  C*: The property's chain of title requires detailed historical analysis rooted in the Mahele era grants
+  D: The property was recently subdivided and must meet modern platting standards
+ANS:C | Land Commission Awards are historical grants from the 1848 Mahele period that serve as foundational title documents requiring careful and thorough chain of title examination.
+
+[hi-material-facts-q08.v5]
+Q: When examining a deed that references a 'Land Commission Award' as the original source of title, a Hawaii real estate licensee should recognize this as:
+  A*: A nineteenth-century Hawaiian Kingdom distribution requiring thorough title investigation
+  B: A contemporary conveyance method still in use today
+  C: A U.S. government patent issued under federal homestead law
+  D: A timeshare or fractional ownership instrument
+ANS:A | Land Commission Awards originated during the Mahele period in 1848 and represent a unique aspect of Hawaiian land history requiring careful examination of title records.
+
+[hi-material-facts-q08.v6]
+Q: A seller's abstract of title shows the property's lineage beginning with an LCA (Land Commission Award). This historical designation indicates:
+  A*: Title derives from the Hawaiian Kingdom's 1848 division of lands and demands thorough chain-of-title analysis
+  B: The property was subdivided from a larger modern development
+  C: The property is held in common ownership by multiple parties
+  D: The land is subject to federal trust restrictions
+ANS:A | LCAs are specific to Hawaii's Mahele period land distribution system and licensees must carefully verify the complete chain of ownership from this historical source forward.
+
+[hi-material-facts-q08.v7]
+Q: During a title review, you discover that ownership traces back to a 'Land Commission Award.' This finding reflects:
+  A: A property converted from agricultural to residential zoning
+  B: Recent acreage added through coastal reclamation
+  C: Land held in perpetual lease from the State of Hawaii
+  D*: A parcel with roots in 1848 Hawaiian Kingdom land redistribution requiring detailed historical title work
+ANS:D | Land Commission Awards are historical documents from the Mahele era that necessitate careful examination of successive transfers to establish clear current title.
+
+[hi-material-facts-q08.v8]
+Q: A property's title report indicates its origin as a 'Land Commission Award.' A licensee should understand this means:
+  A: The property carries a federal maritime boundary designation
+  B*: The land's ownership traces to Hawaii's mid-nineteenth-century kingdom-era land division system and requires meticulous chain verification
+  C: The deed was recorded within the last five years
+  D: Ownership is vested in a corporation or partnership entity
+ANS:B | Land Commission Awards are historical grants from the Mahele period in 1848, and thorough analysis of the intervening chain of title is essential for establishing marketable title.
+
+[hi-material-facts-q08.v9]
+Q: When reviewing a property's title history, you discover the original ownership interest originated from a Land Commission Award. This indicates that:
+  A: The property is held in trust by the State of Hawaii
+  B: The property must be converted to a fee simple estate before sale
+  C*: The property title traces back to the Mahele period and warrants thorough examination of the chain of title
+  D: The property was recently subdivided and requires new surveying
+ANS:C | Land Commission Awards are historical grants from the Mahele era (1848) that require careful title analysis to ensure validity and proper succession through the chain of title.
+
+[hi-types-of-ownership-q02]
+Q: A modern condo declaration in Hawaii is governed primarily by:
+  A: HRS 467
+  B: HRS 514A
+  C*: HRS 514B
+  D: HRS 521
+ANS:C | HRS 514B governs post-2006 condominiums.
+
+[hi-types-of-ownership-q02.v1]
+Q: Which Hawaii Revised Statute would apply to a condominium property regime established after 2006?
+  A: HRS 467 (Timeshare Interests)
+  B: HRS 514A (Pre-2006 Condominiums)
+  C: HRS 521 (Residential Tenancies)
+  D*: HRS 514B (Post-2006 Condominiums)
+ANS:D | HRS 514B is the statutory framework that governs all condominiums created or converted after July 1, 2006 in Hawaii.
+
+[hi-types-of-ownership-q02.v2]
+Q: A licensed agent is listing a newly created Hawaii condominium registered in 2023. What statute governs the declaration and operation of this property?
+  A*: HRS 514B
+  B: HRS 486
+  C: HRS 521
+  D: HRS 514A
+ANS:A | HRS 514B applies to all modern condominiums created after the effective date of July 1, 2006, including any newly registered in 2023.
+
+[hi-types-of-ownership-q02.v3]
+Q: Under Hawaii law, the primary statute controlling the bylaws and governing documents of a condominium developed in 2015 is:
+  A: HRS 521 (Landlord-Tenant)
+  B: HRS 514A (Legacy Condo Law)
+  C: HRS 486 (Trade Associations)
+  D*: HRS 514B (Current Condo Law)
+ANS:D | HRS 514B is the controlling statute for all condominiums established after 2006, governing their declarations, bylaws, and operational requirements.
+
+[hi-types-of-ownership-q02.v4]
+Q: A seller discloses that their Hawaii condo was developed in 2010. Which statute would the property's declaration and common interest provisions comply with?
+  A: HRS 467
+  B: HRS 521
+  C: HRS 514A
+  D*: HRS 514B
+ANS:D | HRS 514B governs all Hawaii condominiums created on or after July 1, 2006, including a property developed in 2010.
+
+[hi-types-of-ownership-q02.v5]
+Q: Which statute provides the primary legal framework for condominiums established in Hawaii after 2006?
+  A: HRS 521
+  B*: HRS 514B
+  C: HRS 467B
+  D: HRS 514A
+ANS:B | HRS 514B is the governing statute for all condominiums created after 2006 in Hawaii and supersedes the older HRS 514A framework.
+
+[hi-types-of-ownership-q02.v6]
+Q: A Hawaii real estate agent is listing a condominium property built in 2015. What is the controlling statute for this property's declaration and governance?
+  A*: HRS 514B (Hawaii Condominium Property Act)
+  B: HRS 467 (Business Corporations)
+  C: HRS 514A (Horizontal Property Regime Act)
+  D: HRS 521 (Residential Tenancies)
+ANS:A | HRS 514B governs all condominiums established after 2006, making it the applicable statute for a 2015-built condominium property.
+
+[hi-types-of-ownership-q02.v7]
+Q: When reviewing a condominium declaration for a property developed in 2010, a Hawaii broker should reference which statute as the primary authority?
+  A: HRS 467
+  B: HRS 521
+  C*: HRS 514B
+  D: HRS 514A
+ANS:C | HRS 514B is the primary statute governing modern condominiums in Hawaii, including all developments created after 2006.
+
+[hi-types-of-ownership-q02.v8]
+Q: Under Hawaii real estate law, contemporary condominium projects are regulated by:
+  A: HRS 467 for property management entities
+  B: HRS 521 for all residential developments
+  C: HRS 514A exclusively for all condominiums
+  D*: HRS 514B for condominiums created after 2006
+ANS:D | HRS 514B is the statute that governs modern condominiums in Hawaii, specifically those established after July 1, 2006.
+
+[hi-types-of-ownership-q02.v9]
+Q: A condominium project established in Hawaii in 2010 would be subject to the provisions of which statute?
+  A: HRS 514A
+  B*: HRS 514B
+  C: HRS 467B
+  D: HRS 521
+ANS:B | HRS 514B is the applicable statute for condominiums created after 2006, making it the governing law for any modern condo project in Hawaii established in 2010.
+
+[hi-types-of-ownership-q03.v8]
+Q: A timeshare sales contract in Hawaii was executed on a Monday. The buyer now wishes to rescind. According to HRS 514E, the latest day the buyer can legally cancel is:
+  A: The end of the same month
+  B: Wednesday of the same week
+  C: 10 days from execution
+  D*: The following Monday
+ANS:D | Hawai‘i grants timeshare buyers a seven-day rescission period (HRS §514E). A Monday execution allows cancellation through the following Monday (seven calendar days later).
+
+[hi-property-management-q00]
+Q: A landlord must return the security deposit within how many days of move-out?
+  A*: 14
+  B: 7
+  C: 30
+  D: 60
+ANS:A | HRS 521 — 14 days, with itemized deductions if any.
+
+[hi-property-management-q00.v1]
+Q: Under Hawaii Revised Statutes, if a tenant vacates a rental unit, the property owner is required to refund any security deposit by what deadline?
+  A: Within 10 days if the tenant provides a forwarding address
+  B: Within 21 days, unless written notice is provided
+  C*: Within 14 days, with an itemized accounting of any deductions
+  D: Within 30 days, regardless of any damages claimed
+ANS:C | HRS 521-44 requires landlords to return security deposits within 14 days of move-out, and if deductions are made, an itemized statement must accompany the return.
+
+[hi-property-management-q00.v2]
+Q: A tenant has just moved out of a residential lease in Hawaii. The landlord is holding the security deposit and plans to make deductions for cleaning and minor repairs. What is the maximum timeframe for the landlord to return the remaining balance?
+  A: 30 days from the date the unit is inspected
+  B: 60 days if repairs exceed $500
+  C: 45 days from the date the unit is re-rented
+  D*: 14 days from move-out, along with a detailed list of deductions
+ANS:D | Hawaii law mandates a 14-day return period for security deposits measured from the tenant's move-out date, and any deductions must be itemized and documented.
+
+[hi-property-management-q00.v3]
+Q: When must a Hawaii landlord deliver the security deposit refund to a former tenant after the tenant has vacated the premises?
+  A: Within 21 days if the tenant has not provided a forwarding address
+  B: Immediately upon move-out if no damages are claimed
+  C*: Within 14 days, with written justification for any amounts withheld
+  D: Within 60 days or within 30 days of lease termination, whichever is longer
+ANS:C | HRS 521 establishes a 14-day deadline for security deposit return from move-out, and landlords must provide written itemization if any deductions are made.
+
+[hi-property-management-q00.v4]
+Q: A property manager in Hawaii is processing security deposit returns for three units that were vacated this month. What is the statutory timeframe for returning these deposits to comply with state law?
+  A: Within one month if the property manager is coordinating repairs
+  B*: 14 calendar days from the tenant's move-out date, with itemized deductions if applicable
+  C: 7 business days from when the landlord approves the move-out inspection
+  D: 30 days from the date the lease officially terminates
+ANS:B | HRS 521-44 specifies that security deposits must be returned within 14 calendar days of move-out, and any deductions must be itemized and provided to the tenant.
+
+[hi-property-management-q00.v5]
+Q: Under Hawaii Revised Statutes Chapter 521, what is the maximum timeframe a property owner has to refund a tenant's security deposit following the tenant's vacating the rental unit?
+  A: Within 21 days, with written notice of any deductions
+  B: Within 45 days, provided the landlord submits a formal inspection report
+  C*: Within 14 days, with an itemized accounting of deductions if applicable
+  D: Within 30 days, regardless of whether deductions are claimed
+ANS:C | HRS 521-44 requires landlords to return security deposits within 14 days of move-out, and if deductions are made, they must provide an itemized statement of those deductions.
+
+[hi-property-management-q00.v6]
+Q: A tenant in Honolulu moves out of an apartment on the first of the month. By what date must the landlord return the full security deposit or provide a detailed accounting of deductions?
+  A: By the 8th of the same month
+  B*: By the 15th of the same month
+  C: By the end of the following month
+  D: By the 21st of the same month
+ANS:B | Hawaii law (HRS 521) establishes a 14-day deadline from move-out for return of security deposits; if the deposit cannot be fully returned, the landlord must provide an itemized breakdown of deductions within this period.
+
+[hi-property-management-q00.v7]
+Q: If a Hawaii rental property manager receives a move-out notice from a tenant, what is the statutory deadline for either returning the security deposit in full or submitting written documentation of any claimed deductions?
+  A*: Two weeks from the date of move-out
+  B: One full month from the lease termination date
+  C: Within 30 calendar days, with optional supplemental notice
+  D: 10 business days after the tenant vacates
+ANS:A | HRS 521-44 mandates that landlords return security deposits within 14 days (two weeks) of move-out; any deductions must be itemized and documented within this same 14-day window.
+
+[hi-property-management-q00.v8]
+Q: A landlord in Hawaii intends to make deductions from a tenant's security deposit for damages. What is the deadline for returning the remaining balance and providing the tenant with an itemized list of deductions?
+  A: 7 days from move-out
+  B: 45 days from move-out, pending inspection completion
+  C: 60 days from move-out, pending insurance claim resolution
+  D*: 14 days from move-out
+ANS:D | Under HRS 521, landlords must return the security deposit (or remaining balance after itemized deductions) and provide written documentation of any deductions within 14 days of the tenant's move-out date.
+
+[hi-property-management-q00.v9]
+Q: Under Hawaii Revised Statutes Chapter 521, if a tenant vacates a rental unit, by what deadline must the landlord deliver the security deposit refund or provide a written accounting of deductions?
+  A: Within 10 business days of the move-out date
+  B: Within 21 days of the move-out date
+  C*: Within 14 days of the move-out date
+  D: Within 30 days of the move-out date
+ANS:C | HRS 521-44 requires landlords to return the security deposit within 14 days, or provide an itemized statement of any lawful deductions within that timeframe.
+
+[hi-property-management-q05]
+Q: A tenant must give what notice to terminate month-to-month?
+  A: 7 days
+  B: 45 days
+  C*: 28 days
+  D: 14 days
+ANS:C | 28-day tenant notice for month-to-month termination.
+
+[hi-property-management-q05.v1]
+Q: Under Hawaii law, how many days advance notice must a month-to-month tenant provide before ending their tenancy?
+  A: 14 days prior to the end of any rental period
+  B*: 28 days prior to the end of any rental period
+  C: 21 days prior to the end of any rental period
+  D: 30 days prior to the end of any rental period
+ANS:B | Hawaii requires a month-to-month tenant to provide 28 days' written notice before the end of any rental period to lawfully terminate the lease.
+
+[hi-property-management-q05.v2]
+Q: If a residential tenant on a month-to-month lease wishes to vacate the property, what is the minimum notice period required by Hawaii law?
+  A: 60 days from the date of written notice
+  B: Two weeks before lease expiration
+  C*: Four weeks before the end of the current rental month
+  D: 10 days before the first of the month
+ANS:C | A month-to-month tenant in Hawaii must give 28 days' notice (four weeks) before the end of the current rental period to properly terminate the tenancy.
+
+[hi-property-management-q05.v3]
+Q: A property manager receives written notice from a month-to-month tenant on the 5th of the month. If the tenant complies with Hawaii notice requirements, what is the earliest the tenancy can lawfully end?
+  A: The last day of the current month
+  B*: The last day of the following month
+  C: 14 days from the date of notice
+  D: 45 days from the date of notice
+ANS:B | Since Hawaii requires 28 days' notice before the end of any rental period, notice given on the 5th of one month allows termination at the end of the following month (more than 28 days later).
+
+[hi-property-management-q05.v4]
+Q: Which statement correctly describes the notice requirement for a tenant seeking to terminate a month-to-month tenancy in Hawaii?
+  A: The tenant must provide at least two weeks' notice, which may be given at any time during the month
+  B: The tenant must provide notice 45 days before the intended move-out date
+  C: The tenant may terminate immediately upon oral notice to the landlord
+  D*: The tenant must provide at least 28 days' notice before the end of the rental period
+ANS:D | Hawaii law mandates that a month-to-month tenant provide written notice of at least 28 days before the end of any rental period to effect a lawful termination.
+
+[hi-property-management-q05.v5]
+Q: Under Hawaii law, how much advance notice must a month-to-month tenant provide to the landlord when ending the tenancy?
+  A: 14 days prior to the end of the rental period
+  B: 21 days prior to the end of the rental period
+  C*: 28 days prior to the end of the rental period
+  D: 30 days prior to the end of the rental period
+ANS:C | Hawaii law requires a month-to-month tenant to provide 28 days' written notice to terminate the lease, which must be given prior to the end of the rental period.
+
+[hi-property-management-q05.v6]
+Q: A landlord receives notice from a month-to-month tenant on the 1st of the month requesting to vacate. What is the minimum notice period the tenant must provide?
+  A: The tenant must vacate by the 15th of that month
+  B*: The tenant must vacate by the 29th of that month
+  C: The tenant must vacate by the last day of the following month
+  D: The tenant must vacate within 14 days of notice
+ANS:B | A month-to-month tenant must give at least 28 days’ written notice (HRS §521-71(a)). Notice on the 1st permits termination about the 29th of the same month.
+
+[hi-property-management-q05.v7]
+Q: Which statement accurately describes the notice requirement for terminating a month-to-month residential lease in Hawaii?
+  A*: The tenant must provide at least 28 days' written notice
+  B: A verbal notice of 30 days is sufficient for termination
+  C: The tenant may terminate immediately if 14 days' written notice is given
+  D: Either party may terminate with 7 days' written notice
+ANS:A | Hawaii law mandates that a month-to-month tenant provide at least 28 days' written notice before the tenancy will terminate.
+
+[hi-property-management-q05.v8]
+Q: A property manager in Hawaii is managing a month-to-month rental property. A tenant submits written notice on June 1st to end the tenancy. Assuming no special lease provisions, when is the earliest date the tenant's occupancy will terminate?
+  A*: June 29
+  B: July 1
+  C: June 30
+  D: June 14
+ANS:A | A month-to-month tenant must give at least 28 days’ notice (HRS §521-71(a)). Notice given June 1 permits the earliest termination on June 29 (June 1 + 28 days).
+
+[hi-property-management-q05.v9]
+Q: Under Hawaii law, how many days' written notice must a month-to-month tenant provide to their landlord to end the tenancy?
+  A: 14 days before the end of the rental period
+  B: 21 days before the end of the rental period
+  C*: 28 days before the end of the rental period
+  D: 30 days before the end of the rental period
+ANS:C | Hawaii law requires a month-to-month tenant to provide 28 days' written notice to terminate the lease; this is the statutory requirement for tenancy termination in month-to-month agreements.
+
+[hi-property-management-q07]
+Q: A 10-day notice is for:
+  A: Annual inspection
+  B: Lease end
+  C*: Non-payment of rent
+  D: Routine maintenance
+ANS:C | 10-day = non-payment of rent.
+
+[hi-property-management-q07.v1]
+Q: Under Hawaii residential tenancy law, when a landlord issues a 10-day notice to the tenant, what breach is being addressed?
+  A: Violation of lease terms regarding occupancy limits
+  B: Unauthorized alterations to the rental unit
+  C*: Failure to pay rent when due
+  D: Failure to maintain the premises in habitable condition
+ANS:C | A 10-day notice in Hawaii is specifically for non-payment of rent, giving the tenant 10 days to cure or vacate before eviction proceedings begin.
+
+[hi-property-management-q07.v2]
+Q: A landlord in Hawaii provides written notice giving a tenant 10 days to remedy the situation or face lease termination. Which tenant default triggered this notice?
+  A: Late submission of a lease renewal application
+  B: Request for a lease modification
+  C: Complaint about unit temperature control
+  D*: Delinquent rental payment
+ANS:D | The 10-day cure-or-quit notice is the statutory notice period in Hawaii for non-payment of rent, allowing the tenant 10 days to pay before eviction action.
+
+[hi-property-management-q07.v3]
+Q: Which of the following tenant violations requires a landlord to serve exactly 10 days' written notice under Hawaii law?
+  A*: Rent arrearages
+  B: Pest infestation discovery
+  C: Lease expiration
+  D: Month-to-month termination
+ANS:A | Hawaii law mandates a 10-day notice for non-payment of rent, establishing the minimum cure period before a landlord may proceed with eviction.
+
+[hi-property-management-q07.v4]
+Q: In Hawaii, a landlord sends a tenant a 10-day notice to cure or quit. The tenant most likely failed to:
+  A: Provide proper notice of lease termination intent
+  B: Disclose a roommate moving into the unit
+  C: Complete a required annual safety inspection
+  D*: Make timely rent payment
+ANS:D | The 10-day notice period in Hawaii is statutory for non-payment of rent; it is the landlord's first formal step in the eviction process for this specific breach.
+
+[hi-property-management-q07.v5]
+Q: Under Hawaii residential tenancy law, when a landlord issues a notice requiring the tenant to cure or quit within 10 days, the most common reason is:
+  A*: Failure to remit monthly rent payment
+  B: Advance notice of lease expiration
+  C: Scheduling a routine property walkthrough
+  D: Failure to maintain the property's exterior appearance
+ANS:A | A 10-day cure or quit notice in Hawaii is typically used for non-payment of rent, giving the tenant 10 days to pay or vacate.
+
+[hi-property-management-q07.v6]
+Q: A landlord serves a tenant with a 10-day notice. Which of the following is the primary breach being addressed?
+  A: Required annual safety inspection
+  B*: Delinquent rent obligation
+  C: Damage from normal wear and tear
+  D: Unauthorized alterations to the leased premises
+ANS:B | The 10-day notice period in Hawaii residential tenancy is the standard cure-or-quit timeframe for rent default situations.
+
+[hi-property-management-q07.v7]
+Q: If a tenant receives a 10-day notice to cure or quit, what tenant conduct most likely triggered it?
+  A*: Not paying rent on the due date
+  B: Keeping a pet without written permission
+  C: Providing 30 days' notice of intent to move
+  D: Requesting repairs to plumbing
+ANS:A | The 10-day notice is the statutory period given to tenants to remedy rent arrearages before eviction proceedings can commence.
+
+[hi-property-management-q07.v8]
+Q: A Hawaii property manager issues a 10-day notice to a residential tenant. This action is most commonly associated with:
+  A: Tenant's lease term reaching its natural expiration date
+  B: Landlord's request for voluntary lease renewal discussion
+  C*: Tenant's failure to meet a rental payment obligation
+  D: Landlord's need to conduct a mandatory annual inspection
+ANS:C | Under Hawaii law, a 10-day notice is the required cure-or-quit period for non-payment of rent before formal eviction action.
+
+[hi-property-management-q07.v9]
+Q: Under Hawaii rental law, when a landlord provides a tenant with a 10-day notice, what is the landlord most likely addressing?
+  A: Performance of necessary repairs to common areas
+  B: Termination of the lease agreement at expiration
+  C: Scheduling a required annual property inspection
+  D*: Failure to pay the monthly rent obligation
+ANS:D | A 10-day notice in Hawaii rental law is the statutory notice period for non-payment of rent, giving the tenant 10 days to cure the delinquency before eviction proceedings may commence.
+
+[hi-contracts-addenda-q06]
+Q: Hawaii's Distressed Property Conveyance protections are at:
+  A: HRS 521
+  B*: HRS 480E
+  C: HRS 508D
+  D: HRS 467
+ANS:B | HRS 480E covers distressed property conveyance.
+
+[hi-contracts-addenda-q06.v1]
+Q: Under Hawaii real estate law, which statute specifically addresses the protection of homeowners in distressed property transactions?
+  A: HRS 521 (Residential Tenancies)
+  B: HRS 467 (Hawaii Real Estate Commission)
+  C*: HRS 480E (Distressed Property Conveyance)
+  D: HRS 508D (Mandatory Seller Disclosures)
+ANS:C | HRS 480E is the Hawaii statute that governs distressed property conveyance protections and sets standards for transactions involving financially distressed properties.
+
+[hi-contracts-addenda-q06.v2]
+Q: A Hawaii broker needs to identify which statute governs anti-fraud protections for distressed property conveyances. Where should they look?
+  A: HRS 508D
+  B: HRS 521
+  C: HRS 467
+  D*: HRS 480E
+ANS:D | HRS 480E contains Hawaii's distressed property conveyance protections, including requirements for notice, waiting periods, and anti-predatory lending safeguards.
+
+[hi-contracts-addenda-q06.v3]
+Q: Which of the following Hawaii Revised Statutes provides the legal framework for regulating transactions involving properties where owners face financial hardship?
+  A: HRS 521 (landlord-tenant relations)
+  B*: HRS 480E (distressed property conveyance)
+  C: HRS 508D (condominium governance)
+  D: HRS 467 (licensing and conduct)
+ANS:B | HRS 480E specifically addresses distressed property conveyance and protects property owners experiencing financial distress from predatory transactions.
+
+[hi-contracts-addenda-q06.v4]
+Q: A homeowner facing foreclosure in Hawaii wants to know which statute protects them during a distressed property sale. The correct statutory reference is:
+  A*: HRS 480E
+  B: HRS 521
+  C: HRS 467
+  D: HRS 508D
+ANS:A | HRS 480E is the statute that provides distressed property conveyance protections, establishing buyer obligations and seller safeguards in financially distressed transactions.
+
+[hi-contracts-addenda-q06.v5]
+Q: Under Hawaii law, regulations governing the sale of distressed properties are primarily found in which statute?
+  A: HRS 521 (Residential Landlord-Tenant Code)
+  B: HRS 467 (Real Estate Commission)
+  C*: HRS 480E (Mortgage Rescue Fraud Prevention / Distressed Property Conveyance)
+  D: HRS 508D (Mandatory Seller Disclosures)
+ANS:C | HRS 480E contains Hawaii's distressed property conveyance protections and unfair/deceptive trade practice provisions.
+
+[hi-contracts-addenda-q06.v6]
+Q: A real estate licensee in Hawaii must be familiar with distressed property conveyance rules. These statutory protections are codified in:
+  A*: Chapter 480E of the Hawaii Revised Statutes
+  B: Chapter 521 of the Hawaii Revised Statutes
+  C: Chapter 508D of the Hawaii Revised Statutes
+  D: Chapter 467 of the Hawaii Revised Statutes
+ANS:A | HRS 480E establishes the legal framework for distressed property conveyance protections in Hawaii.
+
+[hi-contracts-addenda-q06.v7]
+Q: Which of the following Hawaii Revised Statutes sections addresses protections for homeowners in distressed property situations?
+  A: HRS 521
+  B*: HRS 480E
+  C: HRS 467
+  D: HRS 508D
+ANS:B | HRS 480E is the Hawaii statute that specifically covers distressed property conveyance protections and related consumer safeguards.
+
+[hi-contracts-addenda-q06.v8]
+Q: When counseling a client about distressed property transactions in Hawaii, you should reference the statutory requirements found in:
+  A: HRS 508D (Mortgage Servicer Regulations)
+  B: HRS 521 (Residential Landlord-Tenant Code)
+  C: HRS 467 (Hawaii Real Estate Commission Authority)
+  D*: HRS 480E (Consumer Protection Laws)
+ANS:D | HRS 480E contains the distressed property conveyance protections that licensees must follow in Hawaii.
+
+[hi-contracts-addenda-q06.v9]
+Q: Under Hawaii law, which statute specifically governs the sale of distressed properties and establishes protections for vulnerable sellers?
+  A: HRS 521 (Residential Tenancies)
+  B: HRS 467 (Real Estate Commission)
+  C*: HRS 480E (Mortgage Rescue Fraud Prevention / Distressed Property Conveyance)
+  D: HRS 508D (Mandatory Seller Disclosures)
+ANS:C | HRS 480E contains Hawaii's distressed property conveyance protections, which regulate transactions involving properties in financial distress and establish buyer disclosure requirements.
+
+[hi-professional-conduct-q05]
+Q: Hawaii's state fair housing statute (HRS 515) ADDS protected classes beyond federal, including:
+  A: Only race and religion
+  B*: Sexual orientation, gender identity, marital status, HIV status, ancestry, age
+  C: Income only
+  D: No additional classes
+ANS:B | HRS 515 expands federal Fair Housing to additional Hawaii-specific protected classes.
+
+[hi-professional-conduct-q05.v1]
+Q: Which of the following best describes how Hawaii Revised Statutes Chapter 515 relates to the federal Fair Housing Act?
+  A: It mirrors federal protections exactly without any modifications
+  B: It adds only disability and familial status protections
+  C*: It provides additional protected classes beyond those in federal law, such as sexual orientation, gender identity, marital status, HIV status, ancestry, and age
+  D: It repeals federal protections and substitutes only state-level classes
+ANS:C | HRS 515 expands protections beyond the federal Fair Housing Act by including Hawaii-specific classes like sexual orientation, gender identity, marital status, HIV status, ancestry, and age.
+
+[hi-professional-conduct-q05.v2]
+Q: A Hawaii real estate licensee must be aware that state fair housing law protects additional classes of people not covered federally. Which list correctly identifies Hawaii's additional protected classes under HRS 515?
+  A*: Sexual orientation, gender identity, marital status, HIV status, ancestry, and age
+  B: Employment status and income level only
+  C: Disability, familial status, and veteran status
+  D: Only ancestry and religion
+ANS:A | HRS 515 extends Fair Housing protections to include sexual orientation, gender identity, marital status, HIV status, ancestry, and age—classes not explicitly protected under federal law.
+
+[hi-professional-conduct-q05.v3]
+Q: When counseling clients on their fair housing rights in Hawaii, a licensee should explain that the state statute adds which of the following to federal Fair Housing Act protections?
+  A: Criminal history and credit score
+  B: Occupational status alone
+  C: Only color and national origin
+  D*: Gender identity, sexual orientation, marital status, HIV status, ancestry, and age
+ANS:D | HRS 515 broadens fair housing protections beyond federal law by explicitly protecting sexual orientation, gender identity, marital status, HIV status, ancestry, and age.
+
+[hi-professional-conduct-q05.v4]
+Q: Under Hawaii's fair housing statute, which classes receive protection under state law but NOT under federal Fair Housing Act?
+  A*: Sexual orientation, gender identity, marital status, HIV status, ancestry, and age
+  B: Familial status and disability only
+  C: Religion and sex exclusively
+  D: Race, color, and national origin only
+ANS:A | HRS 515 provides state-level protection for sexual orientation, gender identity, marital status, HIV status, ancestry, and age, which are not covered under the federal Fair Housing Act.
+
+[hi-professional-conduct-q05.v5]
+Q: Which of the following represents a protected class under Hawaii's fair housing law (HRS 515) that is NOT included in the federal Fair Housing Act?
+  A: Color and familial status
+  B*: Gender identity, HIV status, and ancestry
+  C: Religion and sex
+  D: National origin and disability
+ANS:B | Hawaii REC HRS 515 extends protections beyond federal law to include sexual orientation, gender identity, marital status, HIV status, ancestry, and age.
+
+[hi-professional-conduct-q05.v6]
+Q: A Hawaii real estate licensee must be aware that state law provides fair housing protections for several classifications beyond those mandated federally. Which category best describes Hawaii's additional protected classes?
+  A: Federal protections only; Hawaii adds no new classes
+  B*: Sexual orientation, marital status, age, ancestry, gender identity, HIV status, and ancestry
+  C: Limited to protected groups in urban Honolulu only
+  D: Only economic status and employment history
+ANS:B | HRS 515 comprehensively expands the federal Fair Housing Act with seven additional protected classifications specific to Hawaii.
+
+[hi-professional-conduct-q05.v7]
+Q: Under Hawaii fair housing law, a broker listing a property cannot discriminate based on any protected class. Beyond the federal Fair Housing Act, HRS 515 also prohibits discrimination based on:
+  A: Professional licensing or occupational background
+  B: Prior bankruptcy or credit score alone
+  C*: Sexual orientation, gender identity, marital status, ancestry, age, HIV status, and ancestry
+  D: Citizenship status and veteran status
+ANS:C | Hawaii's state law adds seven classes not in federal law: sexual orientation, gender identity, marital status, HIV status, ancestry, and age.
+
+[hi-professional-conduct-q05.v8]
+Q: When completing fair housing training, a Hawaii licensee learns that the state statute (HRS 515) goes beyond federal law. Which statement accurately reflects Hawaii's expanded protected classes?
+  A: Hawaii mirrors federal law exactly with no additional protections
+  B: Hawaii protects only income level and family structure
+  C*: Hawaii adds protections for sexual orientation, gender identity, marital status, HIV status, ancestry, age, and ancestry
+  D: Hawaii adds only ancestry and removes federal protections for religion
+ANS:C | HRS 515 explicitly includes seven state-level protected classes beyond the federal Fair Housing Act's enumerated categories.
+
+[hi-professional-conduct-q05.v9]
+Q: Which of the following protected classes are recognized ONLY under Hawaii's fair housing law (HRS 515) and NOT under federal Fair Housing Act standards?
+  A: Religion and familial status
+  B*: Sexual orientation, gender identity, marital status, HIV status, ancestry, and age
+  C: Disability and sex
+  D: Race, color, and national origin
+ANS:B | Hawaii's HRS 515 extends protection beyond the federal FHA by specifically adding sexual orientation, gender identity, marital status, HIV status, ancestry, and age as protected classes.
+
+[hi-professional-conduct-q14]
+Q: A licensee paying an undisclosed referral fee to a settlement service provider may violate:
+  A*: Both RESPA and HRS 467
+  B: Only RESPA
+  C: Only HRS 467
+  D: Neither
+ANS:A | RESPA Section 8 + HRS 467 prohibitions on undisclosed referral fees.
+
+[hi-professional-conduct-q14.v1]
+Q: Which of the following statements best describes the legal exposure a Hawaii real estate agent faces when accepting an undisclosed referral fee from a title company?
+  A: No violation, as referral fees are permitted if documented internally
+  B: Violation of Hawaii Revised Statutes Chapter 467 only
+  C*: Potential violation of both federal RESPA and Hawaii state law
+  D: Violation of federal RESPA requirements only
+ANS:C | RESPA Section 8 and HRS §467-14(14) both explicitly prohibit undisclosed referral fees to settlement service providers; violation of either or both statutes is possible.
+
+[hi-professional-conduct-q14.v2]
+Q: A broker receives an undisclosed referral payment from an escrow company for directing clients to their services. This conduct would most likely constitute a violation of:
+  A: RESPA but not HRS 467, which allows referral arrangements
+  B: Neither statute, provided the referral fee is reasonable in amount
+  C: HRS 467 but not RESPA, since Hawaii law is more stringent
+  D*: Both RESPA and HRS 467 provisions on referral fee prohibitions
+ANS:D | Both RESPA Section 8 and HRS §467-14(14) prohibit undisclosed referral fees to settlement service providers regardless of the fee's reasonableness or amount.
+
+[hi-professional-conduct-q14.v3]
+Q: When a Hawaii licensee accepts payment from a mortgage lender in exchange for steering clients to that lender without proper disclosure, potential violations may include:
+  A: RESPA violations exclusively
+  B*: Violations under both RESPA and HRS 467
+  C: Violations under neither if the licensee discloses the arrangement to the lender
+  D: HRS 467 violations exclusively
+ANS:B | Undisclosed steering payments violate both RESPA Section 8 (federal) and HRS §467-14(14) (Hawaii state); disclosure must be to clients, not merely to the settlement service provider.
+
+[hi-professional-conduct-q14.v4]
+Q: A salesperson receives a hidden referral fee from a home inspection company. Which regulatory violations could result from this arrangement?
+  A*: Violation of both RESPA and Hawaii state law under HRS 467
+  B: Violation of HRS 467 alone
+  C: No violation if the fee is clearly marked on the HUD-1 settlement statement
+  D: Violation of RESPA alone
+ANS:A | Undisclosed (hidden) referral fees breach both RESPA Section 8 and HRS §467-14(14), regardless of later disclosure on closing documents; the prohibition applies to the lack of upfront disclosure.
+
+[hi-professional-conduct-q14.v5]
+Q: A Hawaii real estate agent receives a fee from a title company in exchange for client referrals but fails to disclose this arrangement to the referring party. This conduct most likely violates:
+  A: HRS 467 exclusively
+  B*: Both federal RESPA regulations and Hawaii state law under HRS 467
+  C: Neither statute, as referral fees between licensees and settlement providers are permitted
+  D: RESPA Section 8 exclusively
+ANS:B | Undisclosed referral fees to settlement service providers trigger both RESPA Section 8 (federal prohibition) and HRS 467 (Hawaii's mirror prohibition on unlawful kickbacks).
+
+[hi-professional-conduct-q14.v6]
+Q: Which of the following scenarios would create a potential violation for a Hawaii licensee?
+  A*: Accepting an undisclosed payment from an escrow agent for steering business their way
+  B: Refusing referral fees from any settlement service provider
+  C: Charging clients a documented transaction fee based on property value
+  D: Disclosing all referral fee arrangements with closing attorneys to clients in writing
+ANS:A | Accepting undisclosed payments from settlement service providers violates both RESPA Section 8 and HRS 467, regardless of whether the licensee intended harm.
+
+[hi-professional-conduct-q14.v7]
+Q: A settlement service provider offers a licensee a concealed kickback arrangement. Under Hawaii and federal law, what is the regulatory status of this proposal?
+  A: Legal as long as the consumer ultimately receives a competitive rate
+  B*: Prohibited by both RESPA and HRS 467
+  C: Violates RESPA but not Hawaii state regulations
+  D: Permissible under HRS 467 if properly documented
+ANS:B | Both RESPA Section 8 and HRS 467 explicitly prohibit undisclosed referral fees or kickbacks to settlement service providers, regardless of documentation or consumer benefit claims.
+
+[hi-professional-conduct-q14.v8]
+Q: If a Hawaii licensee secretly receives compensation from a mortgage lender for referrals, which legal framework(s) would likely be implicated?
+  A: Licensing law only; no violation occurs absent consumer injury
+  B*: Federal RESPA requirements and Hawaii Revised Statutes Chapter 467
+  C: Only the Real Estate Commission's ethical rules, not statutory law
+  D: Only Hawaii state law; RESPA does not apply to residential transactions
+ANS:B | Secret referral payments to settlement service providers breach both RESPA Section 8 (federal) and HRS 467 (state), creating dual statutory violations.
+
+[hi-professional-conduct-q14.v9]
+Q: A Hawaii real estate agent receives a fee from a title company in exchange for steering clients to that company's services without disclosing the arrangement to the clients. Which regulatory requirements has the agent potentially violated?
+  A: Neither, because referral fees are permissible if documented internally
+  B*: Both federal RESPA regulations and Hawaii's HRS 467 statute
+  C: HRS 467 only, since it is Hawaii state law
+  D: RESPA only, since federal law always supersedes state law
+ANS:B | Undisclosed referral fees violate both RESPA Section 8 (federal) and HRS 467 (Hawaii state law), which independently prohibit such arrangements regardless of internal documentation.
+
+[tough-19]
+Q: A property sells for $1,850,000. Closing is on April 14. Annual property tax of $9,600 has not yet been paid by the seller for the current tax year (assume calendar-year tax cycle, 360-day year for proration). At closing, the seller will be CREDITED or DEBITED for taxes in the amount of:
+  A: Credited $9,600
+  B: Debited $6,826.67
+  C: Credited $2,746.67
+  D*: Debited $2,746.67
+ANS:D | The seller owes tax for days owned. Jan 1 – Apr 13 = 103 days (3×30 + 13). 103/360 × $9,600 = $2,746.67. The seller is DEBITED that amount and the buyer is credited.
+
+[tough-1rk32k.v1]
+Q: A residential property changes hands on June 20 for $1,850,000. The seller has not paid the annual property tax bill of $9,600 for the current calendar year (use 360-day year for proration purposes). How will unpaid property taxes be settled at closing?
+  A: Seller receives a credit of $9,600
+  B: Seller receives a credit of $4,507
+  C*: Seller receives a debit of $4,507
+  D: Buyer assumes full $9,600 liability
+ANS:C | The seller owned Jan 1 – June 19 = 169 days (5×30 + 19). 169/360 × $9,600 = $4,506.67 ≈ $4,507. The seller is DEBITED their share and the buyer is credited the same amount.
+
+[tough-1rk32k.v2]
+Q: At closing on September 5, a property sells for $2,100,000. Annual property taxes of $12,000 remain unpaid for the current tax year (calendar-year tax basis, 360-day proration method). The settlement of unpaid taxes will result in:
+  A*: A debit to seller and credit to buyer for approximately $8,133
+  B: A debit to buyer and credit to seller for $3,650
+  C: A debit to seller only; buyer pays nothing
+  D: A credit to seller equal to full annual tax amount
+ANS:A | Jan 1 – Sept 4 = 244 days (8×30 + 4). 244/360 × $12,000 = $8,133.33. The seller is DEBITED this amount and the buyer is credited the same.
+
+[tough-1rk32k.v3]
+Q: A commercial property closes on March 10 with a purchase price of $3,500,000. The seller has not yet remitted the current year's property taxes of $18,000 (assume 360-day year and calendar-year tax year). At settlement, the unpaid tax proration will be handled by:
+  A*: Debiting the seller approximately $3,450
+  B: Charging the buyer an additional $18,000 at closing
+  C: Crediting the seller $3,450
+  D: Crediting the buyer and debiting the seller $9,000
+ANS:A | Jan 1 – Mar 9 = 69 days (2×30 + 9). 69/360 × $18,000 = $3,450 owed by the seller. The seller is DEBITED $3,450 and the buyer is credited the same.
+
+[tough-1rk32k.v4]
+Q: A residential property transfers on June 21. The seller has not paid the annual property tax bill of $7,200 (calendar-year tax period, 360-day proration year). What entry appears on the seller's side of the closing statement for property tax adjustment?
+  A*: Debit of $3,400
+  B: Debit of $1,800
+  C: Credit of $7,200
+  D: Credit of $3,400
+ANS:A | The seller owned Jan 1 – June 20 = 170 days (5×30 + 20). 170/360 × $7,200 = $3,400. The seller is DEBITED their tax obligation and the buyer is credited.
+
+[tough-1rk32k.v5]
+Q: At closing on March 3, a buyer takes title to a home. The seller has not remitted the current year's property tax of $8,400 (assume 30-day months, 360-day year). Regarding property tax proration, the seller will receive which adjustment?
+  A: A credit of $8,400
+  B*: A debit of $1,447
+  C: A credit of $1,447
+  D: A debit of $7,140
+ANS:B | Jan 1 – Mar 2 = 62 days (2×30 + 2). 62/360 × $8,400 = $1,446.67 ≈ $1,447. The seller is DEBITED and the buyer receives the corresponding credit.
+
+[tough-1rk32k.v6]
+Q: A commercial office building sells on August 5. Annual property tax of $14,400 remains unpaid for the year (360-day year, 30-day month calculation). How is the unpaid tax adjustment recorded on the seller's closing settlement?
+  A: Credit $14,400
+  B: Credit $10,920
+  C*: Debit $8,560
+  D: Debit $3,600
+ANS:C | The seller owned Jan 1 – Aug 4 = 214 days (7×30 + 4). 214/360 × $14,400 = $8,560. The seller is DEBITED this amount and the buyer is credited the same.
+
+[tough-1rk32k.v7]
+Q: A residential property closes on March 22 with a purchase price of $2,100,000. The current property tax bill for the year totals $8,400 and remains unpaid by the seller at closing time. Using a 360-day proration method (30-day months), which entry appears on the closing statement?
+  A*: Seller debit of $2,100
+  B: Seller credit of $2,100
+  C: Seller credit of $8,400
+  D: Seller debit of $5,600
+ANS:A | The seller owns the property from Jan 1 through Mar 21 (80 days: Jan 30 + Feb 30 + Mar 20 = 80). Unpaid annual tax is the seller's obligation for days owned. 80/360 × $8,400 = $1,866.67, which rounds to approximately $1,900–$2,100 depending on rounding convention. The seller is debited (owes money at closing) because they are responsible for taxes accrued during their ownership period.
+
+[tough-1rk32k.v8]
+Q: At a closing on July 9, a property exchanges hands with a sales price of $1,620,000. Annual property taxes of $7,200 for the year have not been paid. The seller must be shown on the closing statement as receiving a debit or credit for property tax in the approximate amount of (using 360-day year):
+  A: Credit $3,600
+  B: Debit $7,200
+  C: Credit $3,300
+  D*: Debit $3,900
+ANS:D | From Jan 1 to July 8 = 188 days (Jan 30 + Feb 30 + Mar 30 + Apr 30 + May 30 + Jun 30 + Jul 8 = 188). The seller owned the property and accrued tax liability for 188 days. 188/360 × $7,200 = $3,746.67, closest to $3,900. A debit to the seller represents money owed by the seller at closing for their prorated tax obligation.
+
+[tough-1rk32k.v9]
+Q: A closing occurs on May 18 on a $1,950,000 purchase. The annual property tax of $10,800 remains outstanding as of the closing date. Assuming a 360-day year and standard 30-day monthly proration, the closing statement will show a tax adjustment that is:
+  A: A buyer debit of approximately $6,900
+  B*: A seller debit of approximately $4,050
+  C: A buyer credit of approximately $4,050
+  D: A seller credit of $10,800
+ANS:B | From Jan 1 through May 17 = 137 days (Jan 30 + Feb 30 + Mar 30 + Apr 30 + May 17 = 137). The seller's tax liability for days owned is 137/360 × $10,800 = $4,116.67, approximately $4,050. A seller debit indicates the seller must pay (or credit the buyer with) their prorated share of the unpaid annual tax obligation.
+
+[tough-2bhipq.v7]
+Q: A seller agrees to pay 1.5 discount points on behalf of the buyer to facilitate the sale. The purchase price is $720,000 and financing covers 100% of value. What is the approximate cost of those points?
+  A: $21,600
+  B: $43,200
+  C: $14,400
+  D*: $10,800
+ANS:D | Discount points are a percentage of the loan amount. With 100% financing the loan equals the $720,000 price. 1.5 points = 0.015 × $720,000 = $10,800.
+
+[tough-2bohzi.v7]
+Q: A Honolulu appraiser is weighing three recent closed sales for the sales comparison approach to a rental property. Sale A required $35,000 in adjustments to reach comparability, Sale B needed $65,000 in adjustments, and Sale C required $15,000 in adjustments. All three are located within the same ZIP code and sold within 60 days. Which sale should the appraiser weight MOST heavily in forming an opinion of value?
+  A*: Sale C, because it demanded the least adjustment and therefore demonstrates the strongest similarity to the subject property
+  B: Sale A, because it represents the middle ground between extremes
+  C: The weighted average of all three, since the sales comparison approach requires equal treatment of all comps
+  D: Sale B, because larger adjustments indicate more sophisticated market analysis
+ANS:A | A comparable requiring minimal adjustments is inherently more similar to the subject; reliance on the property's own characteristics rather than adjustment is always preferable in the sales comparison approach. Heavy adjustments introduce greater uncertainty and valuation risk.
+
+[tough-ixf7ak.v3]
+Q: A Hawaii homeowner's property carries an assessed valuation of $575,000 subject to a property tax mill rate of $13.20 per $1,000 of assessed value. The owner's approximate annual tax liability is:
+  A*: $7,590
+  B: $75,900
+  C: $43,656
+  D: $759,000
+ANS:A | A mill rate of $13.20 per $1,000 of assessed value: ($575,000 ÷ $1,000) × $13.20 = 575 × $13.20 = $7,590.
+
+
+=== GLOSSARY (corrected) ===
+[Conversion] Using or misappropriating client trust funds for one’s own benefit. A license-law violation under HRS 467 that may also be criminal.
+[Curtesy] At common law, a husband’s life interest in his deceased wife’s real property, historically conditioned on the birth of issue. Largely abolished today.
+[Earnest money] Buyer's good-faith deposit, typically held by escrow.
+[HARPTA] Hawai‘i Real Property Tax Act (HRS §235-68): a 7.25% withholding on the amount realized when a non-resident sells Hawai‘i real property — a prepayment of state income tax on the gain, distinct from the county real-property (ad valorem) tax.
+[Eviction (Hawaii)] The legal process to remove a tenant: proper written notice, then court summary possession (HRS 521/666). | HI: As of Feb 5, 2026 (Act 278), residential nonpayment requires 10 days’ written notice (with mediation if the tenant requests); other curable breaches require 10 days under HRS §521-72.
+[Constructive eviction] Landlord conduct so severe tenant must leave; treated legally as eviction.
+[Earnest Money Deposit (EMD) handling] A buyer’s good-faith deposit submitted with an offer and held in trust. In Hawai‘i a broker must deposit trust funds (including earnest money) into a federally insured trust account or neutral escrow by the next business day after receipt (HAR §16-99-4). | HI: Late deposit of trust funds is grounds for license discipline.

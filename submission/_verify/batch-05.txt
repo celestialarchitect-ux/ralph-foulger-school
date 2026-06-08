@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 5/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[laws-of-agency-q04] (National · laws-of-agency)
+Q: Agency by operation of law terminates upon:
+  A : Property destruction
+  B : Death of the principal
+  C : Bankruptcy of the agent
+  D*: All of the above
+MARKED ANSWER: D
+RATIONALE: All three end agency without further action.
+
+[laws-of-agency-q04.v1] (National · laws-of-agency)
+Q: Which of the following events automatically terminates an agency relationship without requiring express notice or formal revocation?
+  A : The agent's decision to resign with 30 days' notice
+  B*: Death of the principal, destruction of the subject property, or insolvency of the agent
+  C : Mutual written agreement between agent and principal
+  D : Expiration of the listing period stated in the listing agreement
+MARKED ANSWER: B
+RATIONALE: Agency by operation of law terminates automatically upon death of the principal, destruction of the property, or bankruptcy of the agent—none require affirmative action to end the relationship.
+
+[laws-of-agency-q04.v2] (National · laws-of-agency)
+Q: A real estate licensee's agency with a property owner ends automatically by operation of law if which of the following occurs?
+  A : The MLS listing is suspended temporarily
+  B : The buyer fails to make an offer within the listing period
+  C*: The property is damaged beyond repair, the owner dies, or the licensee becomes insolvent
+  D : The owner requests a price reduction
+MARKED ANSWER: C
+RATIONALE: Property destruction, principal's death, and agent bankruptcy all terminate agency by operation of law without additional steps or notice requirements.
+
+[laws-of-agency-q04.v3] (National · laws-of-agency)
+Q: Under Hawaii real estate law, agency by operation of law is terminated automatically when:
+  A*: The principal becomes deceased, the property is destroyed, or the agent enters bankruptcy
+  B : The principal files a complaint with the Hawaii Real Estate Commission
+  C : Either party declines to renew at the end of the contract term
+  D : Only the agent resigns in writing
+MARKED ANSWER: A
+RATIONALE: Death of the principal, destruction of the subject property, and bankruptcy of the agent all terminate agency by operation of law without any further action needed.
+
+[laws-of-agency-q04.v4] (National · laws-of-agency)
+Q: Which scenario would result in immediate termination of an agency relationship by operation of law?
+  A*: The principal dies, the property is destroyed, or the agent becomes insolvent
+  B : The agent receives a better job offer elsewhere
+  C : A title defect is discovered during the marketing period
+  D : The listing agreement contains a 90-day cancellation clause
+MARKED ANSWER: A
+RATIONALE: Agency terminates by operation of law upon death of the principal, destruction of property, or agent bankruptcy—these occur automatically without requiring notice or consent.
+
+[laws-of-agency-q04.v5] (National · laws-of-agency)
+Q: Which of the following events will automatically terminate an agency relationship without requiring explicit notice or agreement?
+  A : Mutual written agreement only
+  B : Expiration of the listing period alone
+  C : The agent's decision to relocate to another state
+  D*: Death of the principal, destruction of the subject property, and insolvency of the agent
+MARKED ANSWER: D
+RATIONALE: Agency by operation of law terminates automatically upon death of the principal, property destruction, or bankruptcy/insolvency of the agent without further action needed.
+
+[laws-of-agency-q04.v6] (National · laws-of-agency)
+Q: A principal's agency with a broker is terminated by operation of law in which scenario?
+  A : A buyer makes an unsolicited inquiry
+  B : The broker receives a competing offer on the property
+  C : The principal requests a rate reduction
+  D*: The principal becomes incapacitated, the subject property is destroyed, or the broker files for bankruptcy
+MARKED ANSWER: D
+RATIONALE: Agency by operation of law terminates automatically upon principal's incapacity (death), destruction of property, or agent's insolvency without requiring affirmative termination steps.
+
+[laws-of-agency-q04.v7] (National · laws-of-agency)
+Q: Under Hawaii real estate law, which of the following will NOT automatically end an agency relationship by operation of law?
+  A : Bankruptcy of the agent
+  B*: Passage of time beyond the original listing period
+  C : Death of the principal
+  D : Physical destruction of the listed property
+MARKED ANSWER: B
+RATIONALE: Passage of time requires affirmative action or mutual agreement to terminate; death of principal, bankruptcy of agent, and property destruction terminate agency by operation of law automatically.
+
+[laws-of-agency-q04.v8] (National · laws-of-agency)
+Q: A real estate agent's authority to represent a principal terminates automatically by operation of law when:
+  A : The agent fails to produce a buyer within 30 days
+  B : Either party expresses dissatisfaction with the agreement
+  C : The property listing appears on the MLS system
+  D*: The principal dies, the subject property is destroyed, or the agent becomes insolvent
+MARKED ANSWER: D
+RATIONALE: These three occurrences—principal death, property destruction, and agent bankruptcy—are statutory grounds for automatic termination without requiring notice or further action.
+
+[laws-of-agency-q04.v9] (National · laws-of-agency)
+Q: Which of the following events will automatically terminate an agency relationship without requiring notice or further action?
+  A*: The agent's insolvency, the principal's death, or destruction of the subject property
+  B : The agent's failure to perform marketing duties as promised
+  C : The expiration of the listing period specified in the contract
+  D : The principal's request to terminate the listing agreement
+MARKED ANSWER: A
+RATIONALE: Agency by operation of law terminates automatically upon death of the principal, bankruptcy/insolvency of the agent, or destruction of the property—all occur without need for affirmative action or notice. The other options require active steps or are contractual matters, not automatic terminations.
+
+[laws-of-agency-q05] (National · laws-of-agency)
+Q: Which is NOT a fiduciary duty?
+  A : Obedience
+  B : Care
+  C : Loyalty
+  D*: Disclosure to customers
+MARKED ANSWER: D
+RATIONALE: Fiduciary duties are owed to the client, not the customer.
+
+[laws-of-agency-q05.v1] (National · laws-of-agency)
+Q: A real estate licensee owes fiduciary duties to their principal client. Which of the following is owed only to customers, not to clients?
+  A : Undivided loyalty
+  B : Accounting of funds
+  C : Reasonable care and skill
+  D*: Honesty in dealings
+MARKED ANSWER: D
+RATIONALE: Fiduciary duties (loyalty, care, obedience, accounting, disclosure to the client) are owed to principals; honesty in dealings is the standard owed to all parties including customers.
+
+[laws-of-agency-q05.v2] (National · laws-of-agency)
+Q: Under Hawaii real estate law, which duty does a licensee owe to a customer but NOT as a fiduciary obligation to a client?
+  A*: Fair and honest treatment
+  B : Obedience to lawful instructions
+  C : Confidentiality of client information
+  D : Loyalty to the principal's interests
+MARKED ANSWER: A
+RATIONALE: Fair and honest treatment is a general duty owed to all parties, while fiduciary duties (obedience, confidentiality, loyalty) are specific obligations owed only to the principal client.
+
+[laws-of-agency-q05.v3] (National · laws-of-agency)
+Q: A listing agent represents the seller as a client. Which obligation is NOT a fiduciary duty owed to that client?
+  A : Maintaining undivided loyalty to the seller
+  B : Following the seller's lawful instructions
+  C*: Providing honest information to unrepresented third parties
+  D : Accounting for earnest money deposits
+MARKED ANSWER: C
+RATIONALE: Providing honest information to unrepresented third parties is a duty owed to all parties in a transaction, not a fiduciary duty specific to the client.
+
+[laws-of-agency-q05.v4] (National · laws-of-agency)
+Q: Which of the following is a fiduciary duty owed to a principal but would NOT apply to a customer in a non-agency relationship?
+  A : Loyalty
+  B : Care
+  C : Obedience
+  D*: Transparency regarding market conditions
+MARKED ANSWER: D
+RATIONALE: Transparency regarding market conditions is a standard ethical obligation owed to all parties; fiduciary duties (obedience, care, loyalty) are owed exclusively to the client.
+
+[laws-of-agency-q05.v5] (National · laws-of-agency)
+Q: A real estate licensee owes fiduciary duties to their client. Which of the following is a duty owed to customers but NOT a fiduciary duty?
+  A : Loyalty to the principal
+  B : Honest and fair dealing
+  C*: Full disclosure of all material facts
+  D : Accounting for client funds
+MARKED ANSWER: C
+RATIONALE: Fiduciary duties (loyalty, care, obedience, accounting) are owed only to the client/principal. Disclosure of material facts is owed to all parties as a legal obligation, but it is not a fiduciary duty.
+
+[laws-of-agency-q05.v6] (National · laws-of-agency)
+Q: Under Hawaii real estate law, which duty does a broker NOT owe to a customer who is not their client?
+  A : Care and diligence in performing tasks
+  B*: Obedience to lawful instructions
+  C : Honesty in all dealings
+  D : Confidentiality regarding privileged information
+MARKED ANSWER: B
+RATIONALE: Obedience is a fiduciary duty owed exclusively to the client/principal. Customers receive honesty, fair dealing, and disclosure of material facts, but not the fiduciary duty of obedience.
+
+[laws-of-agency-q05.v7] (National · laws-of-agency)
+Q: When a licensee represents a buyer as their client, which of the following is NOT among the fiduciary duties owed to that client?
+  A*: Timely disclosure of known defects to all parties
+  B : Competent and diligent representation
+  C : Following lawful client instructions
+  D : Undivided loyalty
+MARKED ANSWER: A
+RATIONALE: Timely disclosure of material facts is a legal duty owed to all parties, not a fiduciary duty reserved for the client. The four fiduciary duties are loyalty, care, obedience, and accounting.
+
+[laws-of-agency-q05.v8] (National · laws-of-agency)
+Q: Which statement best distinguishes a fiduciary duty from a duty owed to the general public?
+  A : Obedience and care are general duties owed to all transaction parties equally
+  B : Disclosure of material defects is a fiduciary duty owed exclusively to the principal
+  C : Customers receive fiduciary duties but at a lower standard than clients
+  D*: Fiduciary duties include accounting and loyalty, which apply only to clients
+MARKED ANSWER: D
+RATIONALE: Fiduciary duties (loyalty, obedience, care, accounting) are owed only to the client/principal. Disclosure to the general public is a legal obligation but not a fiduciary duty.
+
+[laws-of-agency-q05.v9] (National · laws-of-agency)
+Q: A real estate licensee owes fiduciary duties to their principal client. Which of the following is owed only to third parties (customers) and NOT as a fiduciary duty?
+  A : Undivided loyalty
+  B : Obedience to lawful instructions
+  C : Reasonable care and skill
+  D*: Honest and fair dealing
+MARKED ANSWER: D
+RATIONALE: Honest and fair dealing is a duty owed to all parties (customers and clients), but it is not a fiduciary duty. Fiduciary duties—loyalty, care, obedience, and accounting—are owed exclusively to the principal client.
+
+[laws-of-agency-q06] (National · laws-of-agency)
+Q: "This is a great property" is most likely:
+  A*: Puffing
+  B : Material fact
+  C : Fraud
+  D : Misrepresentation
+MARKED ANSWER: A
+RATIONALE: Subjective opinion = puffing, not actionable.
+
+[laws-of-agency-q06.v1] (National · laws-of-agency)
+Q: A listing agent tells a buyer, "You'll absolutely love this home—it's the best value in the neighborhood." What type of statement is this?
+  A : Material fact that must be disclosed in writing
+  B*: Puffing or sales talk not binding as fact
+  C : Actionable misrepresentation requiring rescission
+  D : Fraudulent concealment subject to damages
+MARKED ANSWER: B
+RATIONALE: Subjective praise ('best value,' 'absolutely love') constitutes puffing—opinion-based seller's talk that does not rise to the level of a material fact or misrepresentation.
+
+[laws-of-agency-q06.v2] (National · laws-of-agency)
+Q: During a showing, a salesperson states, "This is a wonderful home with amazing potential." How should this statement be classified?
+  A : Fraud requiring intent to deceive
+  B : A fiduciary duty violation
+  C*: Puffery—non-factual opinion language
+  D : A material fact that affects property value
+MARKED ANSWER: C
+RATIONALE: Terms like 'wonderful' and 'amazing potential' are subjective expressions of opinion (puffery) rather than verifiable facts, and thus are not actionable as misrepresentation.
+
+[laws-of-agency-q06.v3] (National · laws-of-agency)
+Q: When a real estate agent describes a property as "charming and delightful," this statement is most accurately characterized as:
+  A : An implied warranty of condition
+  B : A material fact requiring full disclosure
+  C : Intentional misrepresentation
+  D*: Sales puffing based on subjective opinion
+MARKED ANSWER: D
+RATIONALE: Adjectives describing aesthetic appeal ('charming,' 'delightful') reflect personal opinion rather than verifiable facts, making them puffing rather than actionable misrepresentation.
+
+[laws-of-agency-q06.v4] (National · laws-of-agency)
+Q: A broker's statement that "this is one of the finest properties I've ever listed" most likely constitutes:
+  A : Breach of the duty of honest dealing
+  B : Material nondisclosure of a latent defect
+  C*: Puffing—subjective opinion not binding as fact
+  D : Fraudulent inducement due to exaggeration
+MARKED ANSWER: C
+RATIONALE: Subjective evaluations of quality or personal impression ('finest properties') are classic examples of puffing, which is permissible sales rhetoric and not legally binding.
+
+[laws-of-agency-q06.v5] (National · laws-of-agency)
+Q: A listing agent tells a prospective buyer, "You'll love the views from this lanai." This statement is best classified as:
+  A : A material misrepresentation subject to rescission
+  B : Fraudulent concealment
+  C : A breach of fiduciary duty
+  D*: Puffing or seller's talk
+MARKED ANSWER: D
+RATIONALE: Subjective expressions of opinion or value (like 'love the views') are puffing and not actionable misrepresentation because they are not presented as verifiable facts.
+
+[laws-of-agency-q06.v6] (National · laws-of-agency)
+Q: During a showing, a broker says, "This is one of the finest homes in the neighborhood." From a legal standpoint, this statement would most likely be deemed:
+  A : An express warranty of condition
+  B*: Non-actionable puffery
+  C : Fraudulent inducement
+  D : Fraud requiring criminal intent
+MARKED ANSWER: B
+RATIONALE: General laudatory statements about quality or desirability are considered puffing—harmless opinions that buyers are expected to disregard or verify independently.
+
+[laws-of-agency-q06.v7] (National · laws-of-agency)
+Q: Which of the following statements by a real estate agent would be protected as non-actionable opinion rather than actionable misrepresentation?
+  A : "The roof was inspected last year and passed." (when it was not)
+  B : "The property has never flooded." (when it has)
+  C*: "This is a wonderful investment opportunity."
+  D : "The zoning allows commercial use." (when it does not)
+MARKED ANSWER: C
+RATIONALE: Only subjective assessments of value, desirability, or quality constitute puffing; false statements about specific facts, conditions, or legal matters are misrepresentations.
+
+[laws-of-agency-q06.v8] (National · laws-of-agency)
+Q: A salesperson states, "This is a fantastic property at a great price." If a buyer relied on this statement and later sued, the court would most likely classify it as:
+  A : Negligent misrepresentation requiring proof of damages
+  B*: Seller puffery and opinion, not legally actionable
+  C : Innocent misrepresentation voiding the contract
+  D : Actionable fraud due to false statements of material fact
+MARKED ANSWER: B
+RATIONALE: Vague, subjective praise about a property's quality or value is recognized as puffing—ordinary sales talk that reasonable buyers are expected to evaluate skeptically rather than rely on as fact.
+
+[laws-of-agency-q06.v9] (National · laws-of-agency)
+Q: A listing agent tells a prospective buyer that a home has "the best views in the neighborhood." This statement is most appropriately classified as:
+  A : A material fact that must be disclosed in writing
+  B*: Puffing or sales talk that is not legally actionable
+  C : Non-disclosure of a latent defect
+  D : Fraudulent misrepresentation requiring rescission
+MARKED ANSWER: B
+RATIONALE: Subjective praise and comparative opinions ('best,' 'great') constitute puffing—non-actionable seller talk rather than factual misrepresentation or fraud.
+
+[laws-of-agency-q07] (National · laws-of-agency)
+Q: A buyer-broker agreement creates:
+  A*: A fiduciary relationship with the buyer
+  B : No legal relationship
+  C : Subagency only
+  D : A customer relationship
+MARKED ANSWER: A
+RATIONALE: Buyer-broker agreement = express agency with buyer as principal.
+
+[laws-of-agency-q07.v1] (National · laws-of-agency)
+Q: When a real estate licensee enters into a written buyer-broker agreement with a consumer, what type of relationship is established?
+  A*: An express agency relationship where the buyer is the principal
+  B : A non-agency customer relationship with limited duties
+  C : A dual agency relationship with both buyer and seller
+  D : A transactional coordination role with no fiduciary obligations
+MARKED ANSWER: A
+RATIONALE: A buyer-broker agreement creates an express agency relationship, making the buyer the principal and establishing fiduciary duties of loyalty, disclosure, and care.
+
+[laws-of-agency-q07.v2] (National · laws-of-agency)
+Q: Which statement best describes the legal consequence of signing a buyer-broker agreement?
+  A*: The broker owes fiduciary duties to the buyer as the broker's client
+  B : The broker becomes a subagent of the seller's agent
+  C : The relationship remains undefined until an offer is made
+  D : The broker acts as a transaction facilitator with no agency duties
+MARKED ANSWER: A
+RATIONALE: A buyer-broker agreement establishes a fiduciary relationship where the broker owes the buyer duties of loyalty, honesty, and full disclosure as a client, not a customer.
+
+[laws-of-agency-q07.v3] (National · laws-of-agency)
+Q: A buyer signs a buyer-broker agreement with an agent. This agreement primarily establishes:
+  A*: A fiduciary duty-based relationship between agent and buyer
+  B : That the buyer is a customer with no legal protections
+  C : That the agent is compensated by the multiple listing service
+  D : That the agent represents the seller exclusively
+MARKED ANSWER: A
+RATIONALE: The buyer-broker agreement creates an agency relationship where the broker/agent has fiduciary obligations to the buyer, who becomes the principal in the relationship.
+
+[laws-of-agency-q07.v4] (National · laws-of-agency)
+Q: Under Hawaii real estate law, when a buyer executes a buyer-broker agreement, the broker:
+  A : Retains only transactional duties without agency obligations
+  B : Functions as a neutral third party with no allegiance to either party
+  C*: Assumes a fiduciary position with the buyer as principal
+  D : Represents the seller and owes duties to the seller only
+MARKED ANSWER: C
+RATIONALE: A buyer-broker agreement creates express agency with fiduciary duties running from the broker to the buyer as the principal.
+
+[laws-of-agency-q07.v5] (National · laws-of-agency)
+Q: When a real estate licensee and a prospective buyer execute a buyer-broker agreement, what legal relationship is established between them?
+  A : A dual agency arrangement requiring written consent from all parties
+  B*: A fiduciary duty owed by the broker to the buyer as principal
+  C : A transactional facilitator role with no agency duties
+  D : An independent contractor relationship with limited liability
+MARKED ANSWER: B
+RATIONALE: A buyer-broker agreement creates express agency, establishing fiduciary duties owed by the broker to the buyer who is the principal in the relationship.
+
+[laws-of-agency-q07.v6] (National · laws-of-agency)
+Q: A buyer signs a representation agreement with a broker. This agreement results in:
+  A : A non-agency customer arrangement with disclosure requirements
+  B : Mutual obligations with no agency duties on either party
+  C*: Fiduciary obligations running from the broker to the buyer
+  D : The broker acting as a subagent of the listing agent only
+MARKED ANSWER: C
+RATIONALE: Buyer representation agreements create express agency wherein the broker owes fiduciary duties to the buyer as the client and principal.
+
+[laws-of-agency-q07.v7] (National · laws-of-agency)
+Q: Which best describes the relationship created when a buyer enters into a written agreement with a broker to represent the buyer's interests in a real estate transaction?
+  A : Limited agency with shared responsibilities between broker and buyer
+  B : Customer status with the broker acting as a transaction facilitator
+  C : Subagency of the seller's broker with divided loyalty
+  D*: Principal-agent relationship with fiduciary duties owed to the buyer
+MARKED ANSWER: D
+RATIONALE: A written buyer-broker agreement creates a principal-agent relationship where the broker becomes the agent owing fiduciary duties to the buyer as principal.
+
+[laws-of-agency-q07.v8] (National · laws-of-agency)
+Q: A buyer executes a buyer-broker agreement. The legal consequence is that the broker:
+  A : Becomes a transaction coordinator without fiduciary responsibility
+  B : Acts as the seller's subagent in all matters
+  C : Functions as a neutral third party with no agency authority
+  D*: Owes fiduciary duties to the buyer as the broker's client
+MARKED ANSWER: D
+RATIONALE: A buyer-broker agreement creates express agency, making the buyer the broker's client to whom fiduciary duties are owed.
+
+[laws-of-agency-q07.v9] (National · laws-of-agency)
+Q: When a real estate licensee and a buyer execute a buyer-broker agreement, what legal relationship is established between them?
+  A : A limited agency relationship with the seller as the primary principal
+  B : The buyer is classified as a customer with no agency protection
+  C*: The broker owes fiduciary duties to the buyer as the client
+  D : The licensee becomes a transaction coordinator with limited liability
+MARKED ANSWER: C
+RATIONALE: A buyer-broker agreement creates express agency, making the broker a fiduciary bound to the buyer (the principal), not a limited or transaction-only service provider.
+
+[laws-of-agency-q08] (National · laws-of-agency)
+Q: When an agent's authority is delegated to another agent in a different brokerage, it's called:
+  A*: Subagency
+  B : Universal agency
+  C : Dual agency
+  D : Implied agency
+MARKED ANSWER: A
+RATIONALE: Subagency = delegated authority. Cooperating broker as subagent of listing broker.
+
+[laws-of-agency-q08.v1] (National · laws-of-agency)
+Q: A listing broker authorizes a cooperating broker from another firm to represent the seller in a transaction. This relationship is best described as:
+  A*: Subagency
+  B : Non-delegable fiduciary duty
+  C : Expressed agency
+  D : Transactional brokerage
+MARKED ANSWER: A
+RATIONALE: Subagency occurs when a listing broker delegates authority to a cooperating broker in a different brokerage to act on behalf of the principal.
+
+[laws-of-agency-q08.v2] (National · laws-of-agency)
+Q: If Broker A transfers her authority to Broker B, who works for a separate real estate company, what type of agency relationship exists between Broker A and Broker B?
+  A : Limited agency
+  B*: Subagency
+  C : Dual agency
+  D : Ostensible agency
+MARKED ANSWER: B
+RATIONALE: Subagency is the delegation of real estate authority from one broker to another broker in a different brokerage to act as agent for the original principal.
+
+[laws-of-agency-q08.v3] (National · laws-of-agency)
+Q: Under the traditional MLS cooperation model, when a cooperating broker from a different firm helps a listing broker sell property, the cooperating broker acts as:
+  A : A dual agent
+  B : A principal
+  C : An independent contractor without authority
+  D*: A subagent of the listing broker
+MARKED ANSWER: D
+RATIONALE: The cooperating broker receives delegated authority from the listing broker and becomes a subagent, representing the same principal through the original broker's authorization.
+
+[laws-of-agency-q08.v4] (National · laws-of-agency)
+Q: When authority is passed down from one brokerage to another brokerage in a real estate transaction, this delegation creates a relationship known as:
+  A : Designated agency
+  B*: Subagency
+  C : General agency
+  D : Power of attorney
+MARKED ANSWER: B
+RATIONALE: Subagency is specifically the term for delegated authority granted by one broker to another broker in a different firm to act on behalf of the original principal.
+
+[laws-of-agency-q08.v5] (National · laws-of-agency)
+Q: A listing broker transfers the power to act on the seller's behalf to an agent at another brokerage firm. This relationship is best described as:
+  A*: Subagency
+  B : Designated agency
+  C : Ostensible agency
+  D : Implied agency
+MARKED ANSWER: A
+RATIONALE: Subagency occurs when a broker delegates authority to another broker or agent outside their firm to represent the same principal. This is a formal delegation of the original agent's authority.
+
+[laws-of-agency-q08.v6] (National · laws-of-agency)
+Q: When a cooperating broker accepts the authority to represent a seller through delegation from the listing broker, what is this agent relationship called?
+  A*: Subagency
+  B : Transactional agency
+  C : Limited agency
+  D : General agency
+MARKED ANSWER: A
+RATIONALE: Subagency is the delegation of an agent's authority to another agent in a different brokerage firm, creating a chain of authority back to the original principal.
+
+[laws-of-agency-q08.v7] (National · laws-of-agency)
+Q: An agent from Broker A authorizes an agent from Broker B to perform acts on behalf of their mutual client. This arrangement is known as:
+  A*: Subagency
+  B : Power of attorney
+  C : Dual agency
+  D : Fiduciary agency
+MARKED ANSWER: A
+RATIONALE: Subagency is the delegation of authority from one agent to another agent in a different brokerage; the subagent owes fiduciary duties to the original principal through the delegating agent.
+
+[laws-of-agency-q08.v8] (National · laws-of-agency)
+Q: If a listing agent's brokerage delegates its authority to represent a seller to an agent at a different firm, the delegated agent holds what type of agency?
+  A : Coupled agency
+  B*: Subagency
+  C : Undisclosed agency
+  D : Exclusive agency
+MARKED ANSWER: B
+RATIONALE: Subagency is the formal delegation of an agent's authority to another agent at a different brokerage, allowing the subagent to act as an authorized representative of the principal.
+
+[laws-of-agency-q08.v9] (National · laws-of-agency)
+Q: A listing broker transfers their authority to represent the seller to a cooperating broker in another firm. This relationship is known as:
+  A : Transactional brokerage
+  B : Designated agency
+  C : Implied agency
+  D*: Subagency
+MARKED ANSWER: D
+RATIONALE: Subagency occurs when a broker delegates their fiduciary authority to another broker in a different firm to act on behalf of the principal. The cooperating broker becomes the subagent of the listing broker.
+
+[laws-of-agency-q09] (National · laws-of-agency)
+Q: A power of attorney typically creates a:
+  A*: Universal agency
+  B : Special agency
+  C : General agency
+  D : Subagency
+MARKED ANSWER: A
+RATIONALE: POA = authority to act in all (legal) matters = universal agency.
+
+[laws-of-agency-q09.v1] (National · laws-of-agency)
+Q: When a principal executes a power of attorney document, what type of agency relationship is established?
+  A : Limited agency restricted to a single transaction
+  B : Subagency created through a broker relationship
+  C : Special agency confined to real estate transactions only
+  D*: Universal agency with broad authority over all matters
+MARKED ANSWER: D
+RATIONALE: A power of attorney grants the agent authority to act on behalf of the principal in all legal matters, creating a universal agency relationship with comprehensive powers.
+
+[laws-of-agency-q09.v2] (National · laws-of-agency)
+Q: A principal who grants a power of attorney to an attorney-in-fact is creating which classification of agency?
+  A : General agency
+  B : Special agency for a particular task
+  C*: Universal agency
+  D : Exclusive agency
+MARKED ANSWER: C
+RATIONALE: A POA establishes universal agency because it authorizes the agent to represent the principal in all legal and financial matters, not just specific transactions.
+
+[laws-of-agency-q09.v3] (National · laws-of-agency)
+Q: What type of agency relationship results when an individual executes a power of attorney?
+  A : Subagency through broker delegation
+  B : Special agency for defined purposes
+  C : General agency limited to business transactions
+  D*: Universal agency with comprehensive authority
+MARKED ANSWER: D
+RATIONALE: A power of attorney creates a universal agency because it grants the agent plenary authority to act in virtually all matters on behalf of the principal.
+
+[laws-of-agency-q09.v4] (National · laws-of-agency)
+Q: If a principal signs a power of attorney document, the agent receives which type of agency status?
+  A : Bilateral agency
+  B*: Universal agency
+  C : Special agency restricted in scope
+  D : Limited agency for single transactions
+MARKED ANSWER: B
+RATIONALE: A POA creates a universal agency, meaning the agent has broad authority to represent the principal across all legal and financial matters within the document's scope.
+
+[laws-of-agency-q09.v5] (National · laws-of-agency)
+Q: When a principal grants a power of attorney to an agent, what type of agency relationship is established?
+  A : Ostensible agency based solely on apparent authority
+  B*: Universal agency with broad authority across all legal matters
+  C : Limited agency restricted to real estate transactions only
+  D : Exclusive agency preventing the principal from acting independently
+MARKED ANSWER: B
+RATIONALE: A power of attorney grants the agent broad authority to act in all legal matters on behalf of the principal, creating a universal agency relationship.
+
+[laws-of-agency-q09.v6] (National · laws-of-agency)
+Q: Which agency classification best describes the relationship created by executing a power of attorney document?
+  A : Special agency for designated transactions
+  B : Subagency
+  C : Dual agency with disclosed principals
+  D*: Universal agency
+MARKED ANSWER: D
+RATIONALE: POA grants comprehensive legal authority across all matters, establishing a universal agency rather than limited or special agency authority.
+
+[laws-of-agency-q09.v7] (National · laws-of-agency)
+Q: A principal executes a power of attorney giving an agent authority to handle financial, legal, and personal affairs. This creates what type of agency?
+  A : Special agency for specific enumerated powers
+  B : Fiduciary agency requiring court approval
+  C : General agency limited to business transactions
+  D*: Universal agency with comprehensive delegated authority
+MARKED ANSWER: D
+RATIONALE: Authority to manage financial, legal, and personal affairs demonstrates universal agency—the broadest form of delegated authority covering all legal matters.
+
+[laws-of-agency-q09.v8] (National · laws-of-agency)
+Q: Under Hawaiian real estate law, when a client grants a power of attorney to another person, the resulting agency is classified as:
+  A*: Universal agency encompassing authority over all legal and business matters
+  B : Implied agency created by conduct rather than document
+  C : Probate agency requiring estate administration approval
+  D : Special agency tied to one specific property transaction
+MARKED ANSWER: A
+RATIONALE: A power of attorney is the legal instrument that establishes universal agency, granting the agent sweeping authority to act in all legal matters on the principal's behalf.
+
+[laws-of-agency-q09.v9] (National · laws-of-agency)
+Q: When a principal executes a power of attorney document, what type of agency relationship is established?
+  A : Limited agency restricted to financial transactions only
+  B : Designated agency covering only property management duties
+  C*: Universal agency with broad authority over all legal matters
+  D : Transactional agency for a single real estate closing
+MARKED ANSWER: C
+RATIONALE: A power of attorney grants the agent (attorney-in-fact) broad authority to act on behalf of the principal in all legal matters, which constitutes universal agency rather than limited or specific agency types.
+
+[laws-of-agency-q10] (National · laws-of-agency)
+Q: Confidentiality duty:
+  A : Ends at closing
+  B : Applies only to commercial transactions
+  C : Applies only to written information
+  D*: Continues after agency termination
+MARKED ANSWER: D
+RATIONALE: Confidentiality survives agency termination.
+
+[laws-of-agency-q10.v1] (National · laws-of-agency)
+Q: A real estate agent's duty to maintain client confidentiality:
+  A*: Persists indefinitely, even after the agency relationship dissolves
+  B : Only extends to conversations documented in writing
+  C : Lapses upon execution of the purchase agreement
+  D : Is limited to residential sales and excludes commercial property
+MARKED ANSWER: A
+RATIONALE: The confidentiality duty is fiduciary in nature and survives the termination of the agency relationship, continuing to protect client information indefinitely.
+
+[laws-of-agency-q10.v2] (National · laws-of-agency)
+Q: When does an agent's obligation to keep client information confidential end?
+  A : When the listing period expires, regardless of sale status
+  B : Only for oral disclosures; written documents become public record
+  C : At the time escrow closes and funds transfer
+  D*: It does not end; confidentiality obligations extend beyond agency termination
+MARKED ANSWER: D
+RATIONALE: Confidentiality is a fiduciary duty that transcends the termination of the brokerage relationship and remains binding on the agent perpetually.
+
+[laws-of-agency-q10.v3] (National · laws-of-agency)
+Q: Which statement correctly describes the scope and duration of an agent's confidentiality duty in Hawaii real estate transactions?
+  A*: It applies to all transaction types and survives the end of the agency relationship
+  B : It covers only documented communications and ends when the broker-client relationship is discharged
+  C : It applies only to residential properties and terminates at settlement
+  D : It is limited to information disclosed verbally and expires upon contract ratification
+MARKED ANSWER: A
+RATIONALE: Confidentiality applies across all property types and transaction structures, and remains in effect after the agency relationship concludes as a continuing fiduciary obligation.
+
+[laws-of-agency-q10.v4] (National · laws-of-agency)
+Q: After a real estate agency relationship terminates, which obligation continues without interruption?
+  A*: Duty to maintain confidentiality of client information
+  B : Duty to attend open houses and showings
+  C : Duty to market the property on active listing services
+  D : Duty to provide monthly market analysis reports
+MARKED ANSWER: A
+RATIONALE: The confidentiality duty is a fiduciary obligation that persists beyond agency termination, unlike other duties that end when the relationship dissolves.
+
+[laws-of-agency-q10.v5] (National · laws-of-agency)
+Q: After a real estate agency relationship is terminated, an agent's duty of confidentiality:
+  A : Expires immediately upon termination
+  B : Only applies to transactions valued above $500,000
+  C : Covers only oral statements made during the listing period
+  D*: Persists indefinitely with respect to client information
+MARKED ANSWER: D
+RATIONALE: Confidentiality is a fiduciary duty that survives the termination of agency; agents remain bound to protect client confidences after the relationship ends.
+
+[laws-of-agency-q10.v6] (National · laws-of-agency)
+Q: Which statement correctly describes the scope of an agent's confidentiality obligation in Hawaii?
+  A : It only protects information disclosed in writing by the client
+  B : It terminates when the purchase and sale agreement is executed
+  C : It applies exclusively to residential properties, not commercial ones
+  D*: It extends beyond the conclusion of the agency relationship
+MARKED ANSWER: D
+RATIONALE: Confidentiality duty persists after agency termination and protects all client information regardless of how it was disclosed or the property type involved.
+
+[laws-of-agency-q10.v7] (National · laws-of-agency)
+Q: An agent receives confidential information from a client during a listing engagement. Once the listing expires and the agency terminates, the agent:
+  A : Is released from all duties except those required by written contract
+  B : Only remains bound to keep information secret if it pertains to the physical property condition
+  C : May disclose the information to prospective buyers or other parties
+  D*: Must continue to protect the confidential information
+MARKED ANSWER: D
+RATIONALE: The duty of confidentiality persists after agency termination and requires agents to maintain client secrets even after the relationship concludes.
+
+[laws-of-agency-q10.v8] (National · laws-of-agency)
+Q: Regarding confidentiality obligations, a licensee's duty to keep client information private:
+  A : Applies only to factual disclosures, not to opinions or observations
+  B : Is waived if the information becomes public knowledge through other sources
+  C : Lasts only until the transaction closes
+  D*: Continues even after the agent-client relationship is dissolved
+MARKED ANSWER: D
+RATIONALE: Confidentiality is a post-termination fiduciary duty that survives agency dissolution and obligates licensees to protect client confidences indefinitely.
+
+[laws-of-agency-q10.v9] (National · laws-of-agency)
+Q: A real estate agent's duty to maintain confidentiality of client information:
+  A : Must be disclosed to all third parties upon request
+  B : Only applies to residential properties and not commercial deals
+  C : Is limited to facts known in writing before the transaction closes
+  D*: Persists even after the agency relationship has been dissolved
+MARKED ANSWER: D
+RATIONALE: The confidentiality duty is fiduciary in nature and survives the termination of agency, protecting client information indefinitely after the relationship ends.
+
+[laws-of-agency-q11] (National · laws-of-agency)
+Q: A seller tells the agent the basement floods. The agent is asked by a buyer about water issues. The agent must:
+  A*: Disclose the known defect
+  B : Refer the buyer to the seller only
+  C : Honor seller wishes and stay silent
+  D : Disclose only if buyer asks twice
+MARKED ANSWER: A
+RATIONALE: Material defects must be disclosed to all parties; agent has independent duty.
+
+[laws-of-agency-q11.v1] (National · laws-of-agency)
+Q: During a listing appointment, the seller discloses to the agent that the roof has a history of leaks during heavy rain. When the agent shows the property to a prospective buyer, the buyer does not inquire about the roof condition. What is the agent's obligation?
+  A*: Voluntarily disclose the known roof defect regardless of whether the buyer asks
+  B : Document the disclosure only if the buyer signs an acknowledgment form
+  C : Wait for the buyer to ask specifically about roof leaks before mentioning the issue
+  D : Suggest the buyer hire an inspector and avoid commenting on known defects
+MARKED ANSWER: A
+RATIONALE: Agents have an independent fiduciary duty to disclose known material defects to all prospective buyers, even without direct questioning. Staying silent to protect the seller violates Hawaii's disclosure requirements.
+
+[laws-of-agency-q11.v2] (National · laws-of-agency)
+Q: An agent discovers through the seller that the property's electrical system has been repeatedly repaired for code violations. A buyer submits an offer without asking about electrical issues. The agent should:
+  A : Advise the seller to repair the violations before showing the property again
+  B*: Disclose the electrical history as a material defect that could affect property value and safety
+  C : Only mention the electrical issue if the buyer specifically includes it on the inspection contingency
+  D : Remain neutral and allow the inspection process to uncover the problem later
+MARKED ANSWER: B
+RATIONALE: Material defects known to the agent must be affirmatively disclosed to buyers as part of the agent's duty of honesty and fair dealing, regardless of buyer inquiry.
+
+[laws-of-agency-q11.v3] (National · laws-of-agency)
+Q: A listing agent learns that the property experienced significant mold remediation in the kitchen two years ago. A buyer views the property and makes an offer. When asked about the property's history, what must the agent do?
+  A : Inform the buyer that the remediation was completed, so no current disclosure is needed
+  B : Mention mold only if the buyer's inspector requests historical records
+  C : Suggest the buyer request all documentation directly from the seller's attorney
+  D*: Disclose the mold remediation history because it is a material fact affecting the property
+MARKED ANSWER: D
+RATIONALE: Prior remediation of a significant defect like mold is a material fact that must be disclosed by the agent, as it informs the buyer of the property's condition and potential risk.
+
+[laws-of-agency-q11.v4] (National · laws-of-agency)
+Q: At a listing presentation, the seller reveals to the agent that the foundation has visible cracks and a structural engineer previously recommended monitoring. Later, a buyer tours the property without commenting on structural concerns. The agent's responsibility is to:
+  A : Let the buyer's own structural inspector identify the cracks during the inspection period
+  B : Provide the structural engineer's report only if the buyer requests it in writing
+  C : Tell the buyer to consult with the seller directly about any structural matters
+  D*: Initiate disclosure of the known foundation issue as a material defect
+MARKED ANSWER: D
+RATIONALE: An agent cannot withhold known material defects based on a buyer's lack of inquiry. The duty to disclose is affirmative and independent of buyer questions or inspection results.
+
+[laws-of-agency-q11.v5] (National · laws-of-agency)
+Q: During a transaction, a listing agent becomes aware that the property has experienced recurring moisture intrusion in the crawl space. When preparing marketing materials, the agent should:
+  A : Mention it only to buyers who specifically inquire about foundation conditions
+  B : Allow the seller to decide whether disclosure is necessary
+  C*: Include this information in all disclosures provided to prospective buyers
+  D : Wait for the buyer's inspector to discover it independently
+MARKED ANSWER: C
+RATIONALE: Real estate agents have an affirmative duty to disclose known material defects to all potential buyers regardless of whether they ask; this duty is independent of the seller's preferences.
+
+[laws-of-agency-q11.v6] (National · laws-of-agency)
+Q: An agent lists a home where the owner mentions that the roof leaks during heavy rains. A prospective buyer asks if there are any known structural issues. The agent's obligation is to:
+  A : Suggest the buyer obtain a professional inspection before asking further questions
+  B*: Disclose the known roof leak because it is a material defect
+  C : Refer the buyer directly to the seller for all property condition questions
+  D : Disclose the defect only if the buyer appears interested in making an offer
+MARKED ANSWER: B
+RATIONALE: Agents must disclose known material facts about the property's condition to all parties; the roof leak is a material defect that directly affects property value and insurability.
+
+[laws-of-agency-q11.v7] (National · laws-of-agency)
+Q: A seller confides in the listing agent that the home's electrical system has intermittent failures. Later, a buyer asks general questions about the property's systems. The agent must:
+  A : Keep the seller's confidential information private unless the buyer specifically asks about electricity
+  B : Suggest the buyer hire an electrician if they have concerns
+  C*: Provide honest disclosure of the known electrical issue
+  D : State that all systems appear to be in working order
+MARKED ANSWER: C
+RATIONALE: Material defects must be affirmatively disclosed as a matter of law and professional ethics; an agent cannot withhold known defects even when the seller requests confidentiality.
+
+[laws-of-agency-q11.v8] (National · laws-of-agency)
+Q: While preparing a property listing, the agent learns that the home has had significant termite damage in the past. When a buyer tours the property and asks if there are any pest-related concerns, the agent should:
+  A : Avoid the topic unless the buyer specifically mentions termites by name
+  B : State that current pest control reports are available for the buyer to review
+  C*: Acknowledge the prior termite damage and disclose this material fact
+  D : Explain that the seller's pest control company can discuss any history
+MARKED ANSWER: C
+RATIONALE: An agent's duty to disclose material defects includes known past structural damage from pests; this information directly affects property value and the buyer's decision-making.
+
+[laws-of-agency-q11.v9] (National · laws-of-agency)
+Q: During a listing appointment, the seller mentions that the property has experienced water intrusion in the crawl space during heavy rains. When a prospective buyer's agent inquires about the foundation and structural condition, the listing agent should:
+  A : Allow the seller to decide whether to volunteer this information directly to the buyer
+  B*: Affirmatively disclose the known water intrusion problem to protect all parties
+  C : Wait for the buyer to submit a formal inspection request before mentioning any water issues
+  D : Suggest the buyer hire a professional inspector without commenting on known defects
+MARKED ANSWER: B
+RATIONALE: Agents have an independent fiduciary duty to disclose material defects known to them, regardless of seller preference or buyer inquiry method; water intrusion is a material defect affecting property value and habitability.
+
+[mandated-disclosures-q00] (National · mandated-disclosures)
+Q: A licensee learns the basement floods every winter. The seller insists on not disclosing. The agent must:
+  A*: Disclose to buyers anyway
+  B : Disclose only if asked
+  C : Resign the listing only
+  D : Honor seller wishes
+MARKED ANSWER: A
+RATIONALE: Agent has independent duty to disclose known material defects.
+
+[mandated-disclosures-q00.v1] (National · mandated-disclosures)
+Q: During a property showing, a licensee becomes aware that the roof requires immediate repair due to water damage discovered in the attic. The seller explicitly forbids mentioning this issue to prospective buyers. What is the licensee's obligation?
+  A : Document the seller's refusal and proceed without disclosure
+  B : Disclose only structural defects, not cosmetic repairs
+  C : Wait for the buyer's inspector to find the problem independently
+  D*: Fulfill the affirmative duty to disclose all material facts known to the agent
+MARKED ANSWER: D
+RATIONALE: A licensee has an independent fiduciary duty to disclose all known material defects regardless of seller objections or buyer inquiry.
+
+[mandated-disclosures-q00.v2] (National · mandated-disclosures)
+Q: A real estate agent representing a seller discovers that the property's septic system failed its last inspection and requires replacement. The owner requests confidentiality about this condition. The agent should:
+  A : Suggest the seller hire a contractor to fix it before showing
+  B : Only mention the septic issue if a buyer specifically asks about the system
+  C : Respect the seller's privacy wishes and remain silent
+  D*: Make the mandatory disclosure of this material defect to all prospective buyers
+MARKED ANSWER: D
+RATIONALE: Agents cannot be bound by seller instructions to withhold material facts; disclosure of known defects is a non-delegable duty.
+
+[mandated-disclosures-q00.v3] (National · mandated-disclosures)
+Q: While preparing a listing, an agent learns that the home's electrical system has a documented history of circuit failures requiring repeated repairs. The seller states, 'Don't tell anyone about that—we just fixed it.' What must the agent do?
+  A : Honor the seller's request since the system was recently repaired
+  B : List the property as-is and let buyers assume all risk
+  C*: Disclose this material defect to buyers despite the seller's objection
+  D : Only disclose if a buyer's offer includes an inspection contingency
+MARKED ANSWER: C
+RATIONALE: An agent's obligation to disclose known material defects is independent of the seller's wishes and cannot be overridden by recent repairs or seller instructions.
+
+[mandated-disclosures-q00.v4] (National · mandated-disclosures)
+Q: An agent becomes aware that a property has had multiple insurance claims for mold damage in the past three years. The seller pressures the agent not to include this information in marketing materials or share it with buyers. The licensee must:
+  A*: Disclose the material fact of known mold history to all potential buyers
+  B : Advise the buyer to conduct their own mold testing instead
+  C : Comply with the seller's directive to protect the listing
+  D : Include the information only in the detailed property disclosures, not verbal conversations
+MARKED ANSWER: A
+RATIONALE: Licensees cannot comply with seller instructions to conceal material defects; affirmative disclosure duties exist independently of seller consent.
+
+[mandated-disclosures-q00.v5] (National · mandated-disclosures)
+Q: During a property showing, a licensee discovers that the roof has persistent leak damage. The seller explicitly forbids disclosure of this condition to prospective buyers. What is the licensee's legal obligation?
+  A : Keep the information confidential per the listing agreement
+  B : Document the seller's refusal and proceed with marketing
+  C*: Disclose the known material defect regardless of seller objection
+  D : Reveal only the defect's existence, not its severity
+MARKED ANSWER: C
+RATIONALE: A licensee has an independent fiduciary and statutory duty to disclose known material defects to potential buyers, regardless of seller preferences or instructions.
+
+[mandated-disclosures-q00.v6] (National · mandated-disclosures)
+Q: A broker's agent becomes aware that a property has a history of termite infestation. When the agent attempts to include this in the disclosure, the seller threatens to fire the brokerage and work with another agent. The broker should:
+  A : Allow the buyer to request a termite inspection at their own expense
+  B : Advise the agent to comply with the seller's demand to maintain the listing
+  C*: Ensure the material defect is disclosed to all prospective buyers
+  D : Suggest the seller hire a separate pest control company first
+MARKED ANSWER: C
+RATIONALE: The broker and licensee cannot be coerced into non-disclosure; they must fulfill their independent duty to disclose known material facts affecting property value or desirability.
+
+[mandated-disclosures-q00.v7] (National · mandated-disclosures)
+Q: An agent has personal knowledge that the property's foundation has cracks caused by soil settlement. The seller states that disclosure could tank the sale and asks the agent to keep silent. Which action is permissible under Hawaii real estate law?
+  A : File a complaint with the REC and withdraw from the transaction
+  B*: Affirmatively disclose the known material defect to all interested parties
+  C : Wait for the buyer's home inspection to reveal the problem naturally
+  D : Honor the seller's request and only disclose if a buyer specifically asks about foundation issues
+MARKED ANSWER: B
+RATIONALE: An agent's duty to disclose known material defects is affirmative and independent of seller instructions or buyer inquiries, protecting the integrity of the transaction.
+
+[mandated-disclosures-q00.v8] (National · mandated-disclosures)
+Q: While listing a property, a licensee learns from neighbors that the home experiences mold growth every summer due to poor drainage. The seller denies there is a problem and instructs the agent not to mention it. The agent must:
+  A : Obey the seller's directive to remain in their fiduciary role
+  B : Require the seller to obtain a mold inspection before proceeding
+  C*: Disclose this known material defect to prospective buyers despite the seller's prohibition
+  D : List the property 'as-is' and let the buyer's inspector discover any issues
+MARKED ANSWER: C
+RATIONALE: Licensees cannot subordinate their duty to disclose known material defects to seller pressure; disclosure is mandatory and protects both buyers and the integrity of the market.
+
+[mandated-disclosures-q00.v9] (National · mandated-disclosures)
+Q: During a listing presentation, the licensee discovers that the roof leaks during heavy rains—a fact the seller wants kept confidential. What is the licensee's obligation?
+  A : Suggest the seller repair the roof before listing
+  B : Wait for a buyer's inspector to find the defect
+  C*: Affirmatively disclose the known material defect to prospective buyers
+  D : Respect the seller's confidentiality and remain silent
+MARKED ANSWER: C
+RATIONALE: A real estate licensee has an independent fiduciary duty to disclose known material facts affecting property value, regardless of seller instructions or buyer inquiries.
+
+[mandated-disclosures-q01] (National · mandated-disclosures)
+Q: Lead-based paint disclosure applies to housing built before:
+  A : 1965
+  B : 1972
+  C : 1986
+  D*: 1978
+MARKED ANSWER: D
+RATIONALE: Pre-1978 residential housing.
+
+[mandated-disclosures-q01.v1] (National · mandated-disclosures)
+Q: Under federal law, which properties require mandatory lead-based paint disclosures during the sales transaction?
+  A*: Residential structures built prior to 1978
+  B : Commercial buildings erected before 1985
+  C : All residential properties constructed after 1980
+  D : Single-family homes built after 1990
+MARKED ANSWER: A
+RATIONALE: Federal lead-based paint disclosure requirements apply to residential properties constructed before 1978, when lead paint was commonly used.
+
+[mandated-disclosures-q01.v2] (National · mandated-disclosures)
+Q: A seller is required to disclose the potential presence of lead-based paint in a home. The disclosure obligation applies when the property was built in:
+  A*: 1975
+  B : 1992
+  C : 1983
+  D : 2001
+MARKED ANSWER: A
+RATIONALE: Lead-based paint disclosures are mandatory for homes built before 1978; homes built after that year fall outside the disclosure requirement.
+
+[mandated-disclosures-q01.v3] (National · mandated-disclosures)
+Q: In a real estate transaction, lead-based paint disclosure becomes necessary when dealing with residential property constructed:
+  A : Between 1975 and 1985
+  B : Between 1970 and 1980
+  C*: Any year prior to 1978
+  D : After 1970 but before 1990
+MARKED ANSWER: C
+RATIONALE: The cut-off year for lead-based paint disclosure requirements is 1978; any residential property built before that date requires disclosure.
+
+[mandated-disclosures-q01.v4] (National · mandated-disclosures)
+Q: Which timeframe establishes when a residential property is presumed to potentially contain lead-based paint and triggers disclosure requirements?
+  A*: Construction completed before January 1, 1978
+  B : Pre-1980 residential development
+  C : Any structure built prior to 1975
+  D : Pre-1960 construction
+MARKED ANSWER: A
+RATIONALE: Federal regulations establish 1978 as the threshold year; properties built before that date fall under lead-based paint disclosure requirements.
+
+[mandated-disclosures-q01.v5] (National · mandated-disclosures)
+Q: Under federal law, a residential property built in 1975 requires disclosure of potential lead-based paint hazards. In what year did this federal requirement become effective?
+  A : 1970
+  B*: 1978
+  C : 1988
+  D : 1982
+MARKED ANSWER: B
+RATIONALE: The federal lead-based paint disclosure requirement applies to all residential properties constructed before 1978, making 1978 the cutoff year for mandatory disclosure obligations.
+
+[mandated-disclosures-q01.v6] (National · mandated-disclosures)
+Q: A real estate licensee in Hawaii is listing a single-family home constructed in 1960. Which statement correctly identifies the lead-based paint disclosure requirement?
+  A*: The property was built before the federal lead-based paint disclosure threshold and requires disclosure
+  B : Disclosure is waived for homes older than 50 years
+  C : Disclosure applies only to properties built after 1980
+  D : Disclosure is required only if the property has been tested for lead
+MARKED ANSWER: A
+RATIONALE: Federal law requires lead-based paint disclosure for all residential properties built before 1978, regardless of testing status or age category.
+
+[mandated-disclosures-q01.v7] (National · mandated-disclosures)
+Q: Which of the following residential properties would trigger a mandatory lead-based paint disclosure requirement?
+  A : A single-family home built in 1990
+  B : A townhouse built in 1979
+  C*: A multi-family rental built in 1977
+  D : A condominium built in 1985
+MARKED ANSWER: C
+RATIONALE: Pre-1978 construction requires lead-based paint disclosure; the 1977 multi-family rental is the only property built before the 1978 cutoff date.
+
+[mandated-disclosures-q01.v8] (National · mandated-disclosures)
+Q: A property transaction involves a home originally constructed in 1973. What federal real estate disclosure requirement applies to this transaction?
+  A : Asbestos encapsulation documentation
+  B*: Lead-based paint hazard disclosure
+  C : Mold remediation certification
+  D : Radon gas testing and disclosure only
+MARKED ANSWER: B
+RATIONALE: Properties built before 1978 are subject to federal lead-based paint disclosure requirements; the 1973 construction date falls within the regulated period.
+
+[mandated-disclosures-q01.v9] (National · mandated-disclosures)
+Q: Under federal law, which properties require a lead-based paint disclosure when being sold or leased?
+  A*: Residential structures built in or before 1977
+  B : Commercial buildings and multi-unit dwellings only
+  C : All residential properties constructed after 1980
+  D : Single-family homes built between 1970 and 1985
+MARKED ANSWER: A
+RATIONALE: Federal lead-based paint disclosure requirements apply to housing built in 1978 or earlier (pre-1978 residential housing), making 1977 and prior the applicable cutoff date for disclosure obligations.
+
+[mandated-disclosures-q02] (National · mandated-disclosures)
+Q: "This house has the best view on the street" is most likely:
+  A : Misrepresentation
+  B : Fraud
+  C*: Puffing
+  D : A material fact
+MARKED ANSWER: C
+RATIONALE: Subjective opinion = puffing, allowed.
+
+[mandated-disclosures-q02.v1] (National · mandated-disclosures)
+Q: A listing agent tells a prospective buyer, "This is the most beautiful home in the neighborhood." This statement would most accurately be classified as:
+  A : Actionable misrepresentation
+  B : Fraudulent concealment
+  C*: Puffing or seller's talk
+  D : A material fact subject to verification
+MARKED ANSWER: C
+RATIONALE: Statements of subjective beauty, aesthetics, or superiority are considered puffing—harmless exaggeration and opinion that the law permits in real estate sales.
+
+[mandated-disclosures-q02.v2] (National · mandated-disclosures)
+Q: When a seller states, "You won't find a nicer lot anywhere in this area," this claim is most likely to be considered:
+  A : A legally actionable misstatement of fact
+  B*: Puffing or seller's puffery
+  C : Fraud requiring proof of intent to deceive
+  D : A breach of the duty of disclosure
+MARKED ANSWER: B
+RATIONALE: Comparative value judgments and hyperbolic opinions about property quality are classic examples of puffing, which are not actionable misrepresentation under Hawaii real estate law.
+
+[mandated-disclosures-q02.v3] (National · mandated-disclosures)
+Q: A real estate agent's claim that "This property offers the best investment potential in the subdivision" is best characterized as:
+  A : A violation requiring rescission
+  B : Fraud if the agent believes it is false
+  C*: Puffery or non-actionable opinion
+  D : Misrepresentation of a material fact
+MARKED ANSWER: C
+RATIONALE: Subjective predictions about investment performance and superiority constitute puffing, not material misrepresentation, as they represent opinion rather than verifiable fact.
+
+[mandated-disclosures-q02.v4] (National · mandated-disclosures)
+Q: If a broker tells clients, "This is the finest home you'll ever see," this statement would most accurately be deemed:
+  A : Actionable fraud requiring reliance damages
+  B*: Harmless puffing or exaggerated opinion
+  C : A fact claim subject to the statute of frauds
+  D : A material misrepresentation if any buyer disputes it
+MARKED ANSWER: B
+RATIONALE: Superlative descriptions regarding aesthetic appeal or general quality are puffing—permitted rhetorical exaggeration that buyers are expected to discount rather than rely upon.
+
+[mandated-disclosures-q02.v5] (National · mandated-disclosures)
+Q: A listing agent tells a buyer, "This is the most beautiful kitchen in the neighborhood." This statement is best classified as:
+  A : A breach of fiduciary duty
+  B : A material fact that must be disclosed
+  C : Fraudulent misrepresentation
+  D*: Puffing or sales talk
+MARKED ANSWER: D
+RATIONALE: Statements of subjective aesthetic quality (beauty, attractiveness) are opinion-based puffing, which is permissible in real estate sales and does not constitute actionable misrepresentation.
+
+[mandated-disclosures-q02.v6] (National · mandated-disclosures)
+Q: During an open house, an agent says, "You won't find a better location anywhere in this area." How should this statement be characterized?
+  A : Fraud requiring rescission
+  B*: Harmless puffery or exaggeration
+  C : Concealment of a material defect
+  D : Actionable misrepresentation
+MARKED ANSWER: B
+RATIONALE: Comparative value judgments and superlative claims about location desirability are considered puffing—subjective opinions that buyers are expected to evaluate independently.
+
+[mandated-disclosures-q02.v7] (National · mandated-disclosures)
+Q: A seller's agent describes the property as "stunning" and "the nicest home in the subdivision." Which category best describes these statements?
+  A : Misrepresentation requiring monetary damages
+  B : Omission of a material fact
+  C*: Puffing or seller's talk
+  D : Active fraud
+MARKED ANSWER: C
+RATIONALE: Subjective characterizations of aesthetic appeal and comparative quality are classic examples of puffing, which is generally not legally actionable in real estate transactions.
+
+[mandated-disclosures-q02.v8] (National · mandated-disclosures)
+Q: A listing includes the phrase: "This property has the most desirable curb appeal on the block." What is the proper legal classification of this language?
+  A*: Puffing or exaggerated sales talk
+  B : A factual assertion about comparative market value
+  C : Material misrepresentation subject to rescission
+  D : Fraudulent concealment
+MARKED ANSWER: A
+RATIONALE: Statements about subjective qualities like desirability and curb appeal are opinion-based puffery, not factual representations, and therefore constitute permitted sales talk in Hawaii real estate practice.
+
+[mandated-disclosures-q02.v9] (National · mandated-disclosures)
+Q: A listing agent tells a prospective buyer that a property has "the most beautiful landscaping in the neighborhood." This statement would most appropriately be classified as:
+  A : Actionable misrepresentation requiring damages
+  B : Fraudulent concealment of defects
+  C : A material fact that must be disclosed in writing
+  D*: Permissible puffing or sales talk
+MARKED ANSWER: D
+RATIONALE: Subjective aesthetic judgments about beauty, views, or landscaping are considered puffing—exaggerated opinions that buyers expect in real estate sales and are not actionable misrepresentations.
+
+[mandated-disclosures-q03] (National · mandated-disclosures)
+Q: A defect not visible on reasonable inspection is:
+  A : Functional
+  B : Cosmetic
+  C*: Latent
+  D : Patent
+MARKED ANSWER: C
+RATIONALE: Latent defects are hidden; agents must disclose if known.
+
+[mandated-disclosures-q03.v1] (National · mandated-disclosures)
+Q: Which type of property defect would NOT be discovered during a standard walk-through inspection?
+  A*: Hidden water damage inside the walls
+  B : Obvious structural damage to the roof
+  C : Broken window panes
+  D : Peeling paint on exterior surfaces
+MARKED ANSWER: A
+RATIONALE: Hidden defects that cannot be seen without invasive inspection are latent defects; disclosure is required if the agent has knowledge of them.
+
+[mandated-disclosures-q03.v2] (National · mandated-disclosures)
+Q: A real estate licensee discovers that a home has termite damage behind the walls, undetectable without opening the structure. This is classified as a:
+  A : Cosmetic defect
+  B : Patent defect
+  C : Structural enhancement
+  D*: Latent defect
+MARKED ANSWER: D
+RATIONALE: Latent defects are concealed or hidden conditions not apparent upon ordinary observation; agents must disclose known latent defects to buyers.
+
+[mandated-disclosures-q03.v3] (National · mandated-disclosures)
+Q: An underground septic system malfunction that shows no external signs would be considered:
+  A*: A latent flaw
+  B : A patent flaw
+  C : A minor surface flaw
+  D : An aesthetic flaw
+MARKED ANSWER: A
+RATIONALE: Latent defects are hidden defects not discoverable by reasonable inspection; subsurface issues like septic problems must be disclosed if known.
+
+[mandated-disclosures-q03.v4] (National · mandated-disclosures)
+Q: Which property condition is NOT readily apparent to a buyer during a visual inspection?
+  A : Cracked glass in sliding doors
+  B : Faded exterior paint
+  C : Chipped tile on the bathroom floor
+  D*: Faulty electrical wiring concealed within walls
+MARKED ANSWER: D
+RATIONALE: Latent defects are defects that are not visible or apparent under normal circumstances; agents must disclose any known latent defects to potential buyers.
+
+[mandated-disclosures-q03.v5] (National · mandated-disclosures)
+Q: Which category of property defect is characterized by being concealed from view and discoverable only through specialized inspection or disclosure?
+  A : Obvious defect
+  B : Structural defect
+  C*: Hidden defect
+  D : Aesthetic defect
+MARKED ANSWER: C
+RATIONALE: Hidden defects (latent defects) are not apparent during normal inspection and must be disclosed if the agent has actual knowledge of them.
+
+[mandated-disclosures-q03.v6] (National · mandated-disclosures)
+Q: A homebuyer tours a property and observes no water damage, mold, or foundation issues. However, the seller's agent knows there is significant termite damage behind the walls. This damage would be classified as a:
+  A*: Latent defect
+  B : Manifest defect
+  C : Disclosed defect
+  D : Minor defect
+MARKED ANSWER: A
+RATIONALE: Termite damage behind walls is a latent defect—not visible during a reasonable inspection—and the agent's knowledge triggers a disclosure obligation.
+
+[mandated-disclosures-q03.v7] (National · mandated-disclosures)
+Q: Under Hawaii real estate law, a defect that cannot be discovered through ordinary observation or reasonable inspection is considered:
+  A*: Latent
+  B : Trivial
+  C : Conditional
+  D : Patent
+MARKED ANSWER: A
+RATIONALE: Latent defects are hidden from ordinary view and do not become apparent except upon close investigation or specialized testing; they must be disclosed if known.
+
+[mandated-disclosures-q03.v8] (National · mandated-disclosures)
+Q: A licensee learns that a property has a known subsurface issue that would not be visible during a standard walkthrough. This is an example of a:
+  A*: Latent defect
+  B : Conspicuous defect
+  C : Readily apparent defect
+  D : Surface defect
+MARKED ANSWER: A
+RATIONALE: Subsurface problems are latent defects because they are not discoverable through reasonable inspection and must be disclosed if the agent has actual knowledge.
+
+[mandated-disclosures-q03.v9] (National · mandated-disclosures)
+Q: Which term describes a property defect that cannot be discovered through a standard walk-through or visual inspection?
+  A : Obvious defect
+  B : Superficial defect
+  C*: Concealed defect
+  D : Apparent defect
+MARKED ANSWER: C
+RATIONALE: Concealed (latent) defects are hidden from ordinary view and must be disclosed by the agent if known; this is the same concept as latent defects.
+
+[mandated-disclosures-q04] (National · mandated-disclosures)
+Q: An "as-is" clause:
+  A*: Does NOT eliminate disclosure of known material defects
+  B : Bars all buyer claims
+  C : Eliminates seller disclosure duty
+  D : Eliminates agent disclosure duty
+MARKED ANSWER: A
+RATIONALE: As-is does not override disclosure laws.
+
+[mandated-disclosures-q04.v1] (National · mandated-disclosures)
+Q: When a property is marketed with an "as-is" condition, which statement is accurate regarding Hawaii disclosure requirements?
+  A : The seller is relieved of all obligations to disclose latent defects
+  B : The as-is condition voids the buyer's right to conduct inspections
+  C : The real estate agent may withhold known material defects from the buyer
+  D*: Known material defects must still be disclosed to the buyer despite the as-is clause
+MARKED ANSWER: D
+RATIONALE: An as-is clause does not exempt sellers or agents from disclosing known material defects; Hawaii law requires disclosure of material facts regardless of property condition language.
+
+[mandated-disclosures-q04.v2] (National · mandated-disclosures)
+Q: A broker lists a property with an "as-is" provision. What is the broker's legal obligation?
+  A*: Disclose all known material defects to prospective buyers
+  B : Allow only licensed inspectors to identify defects without agent involvement
+  C : Limit disclosure to cosmetic conditions only
+  D : Avoid disclosing any structural issues to protect the seller's interests
+MARKED ANSWER: A
+RATIONALE: The broker must disclose known material defects to prospective buyers; the as-is clause does not eliminate this fiduciary and statutory disclosure duty.
+
+[mandated-disclosures-q04.v3] (National · mandated-disclosures)
+Q: Under Hawaii real estate law, an as-is sale clause:
+  A*: Does not override the requirement to disclose known material facts
+  B : Protects the buyer from liability for defects discovered after closing
+  C : Absolves the agent from disclosing any known defects
+  D : Permits the seller to avoid disclosing environmental hazards
+MARKED ANSWER: A
+RATIONALE: As-is language is not a blanket exemption from disclosure laws; sellers and agents must still disclose known material defects to comply with Hawaii disclosure requirements.
+
+[mandated-disclosures-q04.v4] (National · mandated-disclosures)
+Q: A buyer signs a purchase agreement containing an as-is clause. Which of the following remains true?
+  A*: Material defects known to the seller or agent must still be disclosed to the buyer
+  B : The listing agent is absolved of disclosure responsibilities regarding known issues
+  C : The buyer forfeits the right to request any seller repairs or credits
+  D : The seller's prior knowledge of foundation damage need not be disclosed
+MARKED ANSWER: A
+RATIONALE: Even with an as-is clause, disclosure laws mandate that known material defects be revealed; the as-is condition addresses post-closing liability, not pre-sale disclosure obligations.
+
+[mandated-disclosures-q04.v5] (National · mandated-disclosures)
+Q: When a property is marketed with an "as-is" condition clause, what effect does this have on the seller's responsibility to disclose known defects?
+  A : It allows the seller to conceal latent defects discovered during inspection
+  B*: It does not relieve the seller from disclosing known material defects
+  C : It transfers all disclosure liability solely to the buyer's agent
+  D : It completely waives all disclosure requirements under Hawaii law
+MARKED ANSWER: B
+RATIONALE: An as-is clause addresses the condition of the property but does not override statutory disclosure obligations; sellers must still reveal known material defects regardless of as-is language.
+
+[mandated-disclosures-q04.v6] (National · mandated-disclosures)
+Q: A broker represents a seller who insists on including an "as-is" provision in the listing. Which statement accurately reflects the broker's disclosure obligations?
+  A : The broker is exempt from the fiduciary duty to disclose defects known to the broker
+  B : The as-is clause permits the broker to withhold information about structural issues
+  C : The broker's duties end once the as-is language is added to the contract
+  D*: The broker must still disclose known material facts about the property condition
+MARKED ANSWER: D
+RATIONALE: Brokers cannot hide behind as-is clauses; they retain their duty to disclose known material defects even when a property is sold as-is.
+
+[mandated-disclosures-q04.v7] (National · mandated-disclosures)
+Q: A buyer signs a purchase agreement containing an "as-is" clause. Which of the following is true regarding what the seller must disclose?
+  A*: The seller is required to disclose known material defects despite the as-is language
+  B : The seller must disclose known material defects unless the as-is clause was prominently displayed
+  C : The as-is clause eliminates the seller's liability for non-disclosure
+  D : The seller has no obligation to reveal any property conditions
+MARKED ANSWER: A
+RATIONALE: The as-is clause does not eliminate disclosure obligations; sellers must still disclose known material defects as required by Hawaii law and fiduciary duties.
+
+[mandated-disclosures-q04.v8] (National · mandated-disclosures)
+Q: How does an "as-is" condition clause interact with Hawaii's disclosure requirements?
+  A : It eliminates the need for the seller to provide a property condition disclosure form
+  B : It permits the agent to withhold information about known defects from the buyer
+  C : It supersedes all statutory disclosure rules and contractual obligations
+  D*: It does not negate the obligation to disclose known material defects
+MARKED ANSWER: D
+RATIONALE: An as-is clause addresses the buyer's acceptance of visible condition but does not override the legal duty to disclose known material defects.
+
+[mandated-disclosures-q04.v9] (National · mandated-disclosures)
+Q: When a property is sold under an "as-is" condition clause, which of the following statements is most accurate regarding the seller's legal obligations?
+  A : The seller is relieved of all responsibility to disclose latent defects discovered during inspection
+  B : The real estate agent may withhold information about defects if the contract includes an as-is provision
+  C : The buyer assumes all risk and waives the right to pursue any legal remedies for discovered problems
+  D*: The seller must still reveal known material facts about the property despite the as-is language
+MARKED ANSWER: D
+RATIONALE: An as-is clause does not override Hawaii's mandatory seller disclosure requirements for known material defects; sellers and agents must still disclose what they know regardless of the as-is language in the contract.
+

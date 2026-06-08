@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+/* PART TWO — front cover for the second binding. Matches Part One styling
+   exactly so the two volumes sit together as a set. */
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing:border-box; margin:0; padding:0; }
+:root{
+  --serif:'EB Garamond','Adobe Caslon Pro','Hoefler Text',Georgia,'Times New Roman',serif;
+  --sans:'Inter',-apple-system,'Helvetica Neue',Arial,sans-serif;
+  --gold:#c9a86a; --gold-bright:#e4c989; --cream:#f3e7c8; --rule:rgba(201,168,106,0.55);
+}
+html,body{ font-family:var(--serif); color:#fff; }
+.page{ position:relative; width:8.5in; height:11in; overflow:hidden;
+  background:radial-gradient(ellipse at 70% 35%, #15304a 0%, #0b1622 48%, #060d16 100%); }
+
+.front-img{ position:absolute; inset:0; width:100%; height:100%;
+  background-image:url(cover-hero.jpg); background-size:cover; background-position:center 40%; }
+.front-scrim{ position:absolute; inset:0; width:100%; height:100%;
+  background:linear-gradient(180deg,
+    rgba(5,10,18,0.90) 0%, rgba(5,10,18,0.66) 24%, rgba(5,10,18,0.58) 46%,
+    rgba(5,10,18,0.76) 70%, rgba(4,8,15,0.96) 100%); }
+.frame{ position:absolute; top:0.36in; left:0.36in; right:0.36in; bottom:0.36in; border:0.9pt solid rgba(201,168,106,0.5); }
+.front-c{ position:absolute; top:1.05in; left:0.95in; right:0.95in; bottom:1.0in; display:flex; flex-direction:column; }
+
+.imprint{ font-family:var(--sans); font-size:11pt; letter-spacing:0.26em; text-transform:uppercase; color:var(--gold-bright); font-weight:600; }
+.imprint .sep{ display:block; width:0.5in; height:1.2pt; background:var(--gold); margin:10pt 0 0; }
+
+.f-title{ font-family:var(--serif); font-weight:500; color:#fff; font-size:46pt; line-height:1.05; letter-spacing:-0.01em; margin-top:26pt; }
+.f-title .accent{ font-style:italic; color:var(--gold-bright); }
+
+/* PART TWO badge — the single biggest visual difference between the two volumes */
+.volume-block{ margin-top:34pt; display:flex; align-items:center; gap:18pt; }
+.vol-mark{ font-family:var(--serif); font-style:italic; color:var(--gold-bright);
+  font-size:64pt; line-height:1; letter-spacing:-0.02em; }
+.vol-label{ display:flex; flex-direction:column; gap:6pt; }
+.vol-label .rule{ width:46pt; height:1pt; background:var(--gold); }
+.vol-label .word{ font-family:var(--sans); font-size:12pt; letter-spacing:0.34em; text-transform:uppercase; color:var(--gold-bright); font-weight:700; }
+.vol-label .sub{ font-family:var(--serif); font-style:italic; font-size:13pt; color:var(--cream); }
+
+.f-sub{ font-family:var(--serif); font-style:italic; font-size:15pt; line-height:1.42; color:var(--cream); margin-top:22pt; max-width:5.6in; }
+
+.f-spacer{ flex:1; }
+
+.f-author{ border-top:1pt solid var(--rule); padding-top:16pt; }
+.f-author .name{ font-family:var(--serif); font-size:24pt; font-weight:500; color:#fff; }
+.f-author .creds{ font-family:var(--sans); font-size:9.5pt; letter-spacing:0.08em; text-transform:uppercase; color:var(--cream); margin-top:7pt; font-weight:500; }
+.f-edition{ font-family:var(--sans); font-size:9pt; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold-bright); margin-top:12pt; font-weight:600; }
+.f-edition .dot{ color:var(--gold); margin:0 6pt; }
+</style>
+</head>
+<body>
+
+<div class="page">
+  <div class="front-img"></div>
+  <div class="front-scrim"></div>
+  <div class="frame"></div>
+  <div class="front-c">
+    <div class="imprint">Ralph Foulger&rsquo;s Academy of Real Estate<span class="sep"></span></div>
+
+    <h1 class="f-title">The Complete Hawai&#699;i<br>Real Estate Salesperson<br><span class="accent">Textbook</span></h1>
+
+    <div class="volume-block">
+      <div class="vol-mark">II</div>
+      <div class="vol-label">
+        <span class="rule"></span>
+        <span class="word">Part Two</span>
+        <span class="sub">Volume Two of Two</span>
+      </div>
+    </div>
+
+    <p class="f-sub">The continuation of the full pre-license curriculum &mdash; carrying the candidate the rest of the way to the State of Hawai&#699;i Real Estate Commission exam.</p>
+
+    <div class="f-spacer"></div>
+
+    <div class="f-author">
+      <div class="name">Ralph S. Foulger</div>
+      <div class="creds">Licensed since 1972 &middot; Broker &middot; CPM &middot; State-Certified Instructor</div>
+      <div class="f-edition">First Edition <span class="dot">&middot;</span> 2026 <span class="dot">&middot;</span> Part Two</div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

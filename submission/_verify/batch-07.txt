@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 7/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[contracts-q06] (National · contracts)
+Q: A contract signed under improper pressure is:
+  A*: Voidable
+  B : Unenforceable
+  C : Void
+  D : Executed
+MARKED ANSWER: A
+RATIONALE: Duress makes a contract voidable at the harmed party's election.
+
+[contracts-q06.v1] (National · contracts)
+Q: If a seller coerces a buyer into signing a purchase agreement through threats, what is the legal status of that agreement?
+  A : It remains fully enforceable despite the coercion
+  B : It is automatically void from the moment of signing
+  C*: It is voidable at the discretion of the coerced party
+  D : It becomes executed upon the buyer's acceptance of duress
+MARKED ANSWER: C
+RATIONALE: Duress renders a contract voidable, meaning the injured party may choose to either enforce or reject it; the contract is not void ab initio but gives the harmed party an election.
+
+[contracts-q06.v2] (National · contracts)
+Q: A broker obtains a listing agreement from an elderly owner after threatening to file a complaint with the REC if they don't sign. What is the contract status?
+  A*: Voidable
+  B : Void
+  C : Rescinded
+  D : Executed
+MARKED ANSWER: A
+RATIONALE: A contract induced by coercion or improper pressure is voidable at the option of the wronged party, giving them the power to affirm or disaffirm.
+
+[contracts-q06.v3] (National · contracts)
+Q: Which term best describes a real estate contract that was signed after one party applied unlawful pressure to the other?
+  A : Unilaterally executed
+  B : Void ab initio
+  C*: Voidable at the election of the coerced party
+  D : Ratified
+MARKED ANSWER: C
+RATIONALE: Improper pressure or duress makes a contract voidable rather than void, allowing the harmed party to choose whether to enforce or reject it.
+
+[contracts-q06.v4] (National · contracts)
+Q: A property manager signs a property management agreement under threat of eviction. The contract is:
+  A*: Voidable by the threatened party
+  B : Fully binding and enforceable
+  C : Ratified by operation of law
+  D : Automatically void
+MARKED ANSWER: A
+RATIONALE: Duress makes a contract voidable, meaning the coerced party has the right to affirm or disaffirm it; it is not automatically void but rather subject to the victim's election.
+
+[contracts-q06.v5] (National · contracts)
+Q: When a real estate agent coerces a seller into signing a listing agreement through threats, the contract is most accurately described as:
+  A : Void ab initio
+  B : Fully executed and binding
+  C : Rescindable only with court approval
+  D*: Voidable
+MARKED ANSWER: D
+RATIONALE: Duress renders a contract voidable, meaning the injured party may elect to affirm or disaffirm it, but the contract is not automatically void.
+
+[contracts-q06.v6] (National · contracts)
+Q: A buyer who signs a purchase agreement after being threatened with legal action if she does not comply has entered into a contract that is:
+  A : Automatically rescinded
+  B : Void and unenforceable against either party
+  C*: Voidable at the buyer's election
+  D : Valid but subject to rescission by the seller
+MARKED ANSWER: C
+RATIONALE: A contract procured through duress is voidable—the threatened party has the right to void it, but only that party may exercise this option.
+
+[contracts-q06.v7] (National · contracts)
+Q: Which statement best describes a contract executed under undue influence or coercion?
+  A : It is void from its inception and never creates binding obligations
+  B : It is suspended until a court determines the extent of the pressure applied
+  C : It is unenforceable unless both parties later ratify it in writing
+  D*: It is voidable, and the injured party may choose to enforce or disaffirm it
+MARKED ANSWER: D
+RATIONALE: Duress makes a contract voidable—the harmed party has the unilateral right to void it, though the contract is not inherently void.
+
+[contracts-q06.v8] (National · contracts)
+Q: A lessor pressures a tenant to sign an extension by threatening eviction based on a false claim of lease violation. The resulting extension agreement is:
+  A : Valid and enforceable unless the tenant files a complaint with the REC
+  B*: Voidable at the tenant's discretion
+  C : Enforceable against the tenant but not the lessor
+  D : Null and void from the moment of signing
+MARKED ANSWER: B
+RATIONALE: Contracts procured through duress or improper pressure are voidable, meaning the injured party may disaffirm them, but they are not void ab initio.
+
+[contracts-q06.v9] (National · contracts)
+Q: A buyer executes a real estate purchase agreement after the seller threatens legal action if the buyer does not sign immediately. What is the legal status of this agreement?
+  A : It is enforceable because both parties signed the document
+  B : It is unenforceable only if the buyer can prove emotional distress
+  C : It is void from inception and cannot be ratified by either party
+  D*: It is voidable by the injured party at their discretion
+MARKED ANSWER: D
+RATIONALE: Duress through threats renders a contract voidable, meaning the coerced party may choose to void it or enforce it; the contract is not automatically void.
+
+[contracts-q07] (National · contracts)
+Q: Substitution of a new party with all parties' consent is:
+  A*: Novation
+  B : Rescission
+  C : Reformation
+  D : Assignment
+MARKED ANSWER: A
+RATIONALE: Novation releases the original obligor and substitutes a new one.
+
+[contracts-q07.v1] (National · contracts)
+Q: When a real estate contract is modified to replace the original buyer with a qualified third party and all parties agree to the change, this legal process is known as:
+  A*: Novation
+  B : Estoppel
+  C : Reformation
+  D : Delegation
+MARKED ANSWER: A
+RATIONALE: Novation is the substitution of a new obligor with the consent of all parties, effectively releasing the original obligor from liability.
+
+[contracts-q07.v2] (National · contracts)
+Q: In a lease transaction, if the landlord, original tenant, and new tenant all consent to replace the original tenant with the new tenant, the substitution is accomplished through:
+  A*: Novation
+  B : Assignment with reservation of liability
+  C : Discharge by performance
+  D : Offset
+MARKED ANSWER: A
+RATIONALE: Novation creates a new contract with a substitute obligor and releases the original obligor; it requires the express consent of all parties involved.
+
+[contracts-q07.v3] (National · contracts)
+Q: A seller's agent negotiates a deal where an original buyer backs out and is replaced by another buyer with the seller's approval. The seller also agrees to release the first buyer from any obligations. This substitution is:
+  A : Accord and satisfaction
+  B*: Novation
+  C : Waiver
+  D : Assumption
+MARKED ANSWER: B
+RATIONALE: Novation involves replacing one obligated party with another and obtaining mutual consent from all parties to release the original party from further obligations.
+
+[contracts-q07.v4] (National · contracts)
+Q: Which contract modification technique specifically requires consent from all parties and extinguishes the original party's liability by substituting a new obligor?
+  A : Assignment
+  B : Subrogation
+  C*: Novation
+  D : Waiver
+MARKED ANSWER: C
+RATIONALE: Novation is the only modification method that completely releases the original obligor while substituting a new one, and it demands express agreement from all involved parties.
+
+[contracts-q07.v5] (National · contracts)
+Q: When a contract requires all parties to agree to replace one obligor with another party, the legal process is called:
+  A*: Novation
+  B : Delegation
+  C : Rescission
+  D : Reformation
+MARKED ANSWER: A
+RATIONALE: Novation is the mutual agreement by all parties to substitute a new obligor for the original one, discharging the original party's liability.
+
+[contracts-q07.v6] (National · contracts)
+Q: A seller, buyer, and lender all consent to replace the original buyer with a new buyer in a real estate transaction. This mutual substitution is known as:
+  A : Modification
+  B : Assumption of liability
+  C*: Novation
+  D : Assignment of contract
+MARKED ANSWER: C
+RATIONALE: Novation requires consent from all parties and creates a new contract with the substituted party, releasing the original obligor entirely.
+
+[contracts-q07.v7] (National · contracts)
+Q: Which contractual remedy involves the complete substitution of one party for another with full consent of all remaining parties?
+  A : Assignment
+  B : Rescission
+  C*: Novation
+  D : Estoppel
+MARKED ANSWER: C
+RATIONALE: Novation discharges the original party and creates a new obligation with the substitute party, requiring unanimous consent from all parties to the contract.
+
+[contracts-q07.v8] (National · contracts)
+Q: If a real estate contract party wants to be completely released from all obligations by having another party take their place with everyone's approval, this is accomplished through:
+  A : Subordination
+  B*: Novation
+  C : Contract interpretation
+  D : Transfer of title
+MARKED ANSWER: B
+RATIONALE: Novation is the only mechanism that allows a party to be fully released from contractual obligations while a new party assumes them, provided all parties consent.
+
+[contracts-q07.v9] (National · contracts)
+Q: When all parties agree to replace an original contracting party with a completely new party, thereby releasing the original obligor from liability, this legal process is known as:
+  A : Rescission and restatement
+  B : Reformation of the contract terms
+  C*: Novation
+  D : Assignment of contractual rights
+MARKED ANSWER: C
+RATIONALE: Novation is the substitution of a new obligor with consent of all parties, which extinguishes the original party's obligations. Assignment, by contrast, transfers rights but does not release the original obligor.
+
+[contracts-q08] (National · contracts)
+Q: An option contract requires:
+  A : A 30-day exercise period
+  B : Notarization
+  C*: Consideration paid by optionee for the option
+  D : Equal exchange
+MARKED ANSWER: C
+RATIONALE: Optionee must pay something to keep the option open.
+
+[contracts-q08.v1] (National · contracts)
+Q: What element is essential to make an option contract binding and enforceable in Hawaii real estate transactions?
+  A : A written agreement signed by both parties
+  B : Recording with the Bureau of Conveyances
+  C*: Payment or other valuable consideration from the optionee to the optionor
+  D : A specific expiration date within 60 days
+MARKED ANSWER: C
+RATIONALE: An option contract requires the optionee to provide consideration (money or value) to the optionor to secure the right to purchase the property within a specified timeframe.
+
+[contracts-q08.v2] (National · contracts)
+Q: In a real estate option agreement, the optionee's primary obligation is to:
+  A*: Provide compensation to the optionor in exchange for the right to purchase
+  B : Accept the property exactly as disclosed in the inspection report
+  C : Register the option with the Hawaii Real Estate Commission
+  D : Complete the purchase within 45 days or forfeit all rights
+MARKED ANSWER: A
+RATIONALE: The optionee must pay consideration (a fee or deposit) to hold the option open and secure the seller's promise to sell at a specified price if exercised.
+
+[contracts-q08.v3] (National · contracts)
+Q: Which of the following is a legal requirement for a valid option contract in Hawaii real estate?
+  A : The option period must align with the standard real estate transaction timeline
+  B*: The optionee must give something of value to support the option
+  C : The optionor must be a licensed real estate broker
+  D : Both parties must appear before a notary public
+MARKED ANSWER: B
+RATIONALE: Consideration from the optionee is essential to create a binding option; without payment or value, there is no enforceable contract right.
+
+[contracts-q08.v4] (National · contracts)
+Q: A real estate option becomes legally binding when the optionee:
+  A : Files the option contract with the county recorder
+  B : Signs the agreement in the presence of the optionor
+  C : Submits a purchase agreement to the seller's agent
+  D*: Provides consideration to the optionor for the right to purchase
+MARKED ANSWER: D
+RATIONALE: An option requires the optionee to pay or provide value to the optionor; this consideration makes the optionor's offer to sell irrevocable for the option period.
+
+[contracts-q08.v5] (National · contracts)
+Q: What essential element must the optionee provide to establish a valid option contract in Hawaii?
+  A : Proof of financing approval
+  B : A mutual agreement to exchange properties
+  C*: Money or valuable consideration to bind the option
+  D : A written appraisal of the property
+MARKED ANSWER: C
+RATIONALE: An option contract requires the optionee to pay consideration (money or other valuable benefit) to the optionor to keep the option right alive and enforceable.
+
+[contracts-q08.v6] (National · contracts)
+Q: Which of the following is NOT required for an enforceable option contract?
+  A : An option fee or deposit held by the optionor
+  B : Payment or other value from the optionee
+  C*: A specific exercise period lasting at least 60 days
+  D : Consideration moving from optionee to optionor
+MARKED ANSWER: C
+RATIONALE: While consideration is essential, there is no mandated minimum duration for the option period; parties may agree to any timeframe, including shorter periods.
+
+[contracts-q08.v7] (National · contracts)
+Q: A real estate option contract becomes binding when:
+  A : The property is formally appraised and recorded
+  B*: The optionee delivers consideration to the optionor for the right to purchase
+  C : Both parties execute a sales contract within the option period
+  D : The optionor signs a statement acknowledging receipt of earnest money
+MARKED ANSWER: B
+RATIONALE: An option contract is created when the optionee gives consideration (typically a fee or deposit) to the optionor in exchange for the right to purchase the property at a specified price within a set time.
+
+[contracts-q08.v8] (National · contracts)
+Q: Under Hawaii real estate law, what must the optionee provide to secure an option contract?
+  A : Equal value in the form of a counter-option
+  B : Verification that all liens will be satisfied at closing
+  C*: Cash or something of value paid to the optionor
+  D : Notarized consent from the property owner's spouse
+MARKED ANSWER: C
+RATIONALE: The optionee must pay consideration to create a binding option contract; this payment gives the optionee the exclusive right to purchase within the agreed-upon time period.
+
+[contracts-q08.v9] (National · contracts)
+Q: What essential element must the optionee provide to establish a valid option agreement in Hawaii real estate?
+  A*: Monetary or valuable consideration to the optionor
+  B : A binding commitment to purchase within 60 days
+  C : Proof of financing approval
+  D : A written appraisal of the property
+MARKED ANSWER: A
+RATIONALE: The optionee must pay consideration (money or something of value) to secure the optionor's promise to keep the property available for a specified period. Without consideration, there is no enforceable option contract.
+
+[contracts-q09] (National · contracts)
+Q: A contingency that fails:
+  A*: Generally terminates the contract with deposit returned
+  B : Triggers liquidated damages
+  C : Voids the listing
+  D : Forces the contract to close anyway
+MARKED ANSWER: A
+RATIONALE: Failed contingency typically allows termination and deposit return.
+
+[contracts-q09.v1] (National · contracts)
+Q: When a buyer's financing contingency is not satisfied by the deadline, what is the typical legal outcome?
+  A*: The buyer may terminate the contract and recover the earnest money deposit
+  B : The contract automatically converts to a cash sale
+  C : The property listing becomes void and must be re-listed
+  D : The seller may force specific performance to proceed to closing
+MARKED ANSWER: A
+RATIONALE: An unsatisfied contingency generally permits contract termination with return of the buyer's deposit; the contract does not automatically continue or convert.
+
+[contracts-q09.v2] (National · contracts)
+Q: A home inspection contingency expires without the buyer exercising their inspection rights. What typically happens to the purchase contract?
+  A : The seller's license is suspended for allowing the contingency to lapse
+  B*: The contract may be terminated by the buyer, and the deposit is usually returned
+  C : The buyer forfeits the entire deposit as liquidated damages
+  D : The parties must proceed to closing regardless of inspection results
+MARKED ANSWER: B
+RATIONALE: When a contingency expires unused, the buyer generally loses that protection but may still terminate; the deposit return depends on contract language and whether default occurred.
+
+[contracts-q09.v3] (National · contracts)
+Q: In a real estate purchase agreement, if an appraisal contingency condition is not met, the most likely outcome is:
+  A*: The contract terminates and the buyer receives the earnest money back
+  B : The sale must close at the appraised value regardless of purchase price
+  C : Liquidated damages are assessed against the buyer
+  D : The real estate license of the listing agent is placed on probation
+MARKED ANSWER: A
+RATIONALE: A failed appraisal contingency typically allows either party to terminate, with the earnest money returned unless the buyer is in default of the contract.
+
+[contracts-q09.v4] (National · contracts)
+Q: Under Hawaii real estate law, when a contingency in a purchase contract cannot be fulfilled by the specified deadline, the expected outcome is:
+  A : The buyer must pay penalties equal to the contingency amount
+  B : The property automatically becomes subject to new listing requirements
+  C : The contract remains binding and the deposit is held in escrow indefinitely
+  D*: The contract may be terminated and the earnest money is generally released to the buyer
+MARKED ANSWER: D
+RATIONALE: A contingency that fails permits contract termination, typically with deposit return to the buyer, unless the buyer caused the failure or waived the contingency.
+
+[contracts-q09.v5] (National · contracts)
+Q: When a buyer's financing contingency is not satisfied by the deadline, what is the typical consequence?
+  A : The buyer becomes obligated to close without a loan
+  B : The seller may immediately pursue specific performance
+  C*: The contract is usually dissolved and the earnest money deposit is released to the buyer
+  D : The listing agent receives a commission adjustment
+MARKED ANSWER: C
+RATIONALE: A failed contingency generally allows the buyer to terminate without penalty and recover their earnest money deposit, as the contingency condition was not met.
+
+[contracts-q09.v6] (National · contracts)
+Q: Under Hawaii real estate law, if an inspection contingency expires unresolved, the likely outcome is:
+  A*: Contract termination with the deposit returned to the buyer
+  B : Automatic forfeiture of the buyer's earnest money to the seller
+  C : The parties must renegotiate the purchase price
+  D : The property reverts to the broker's trust account indefinitely
+MARKED ANSWER: A
+RATIONALE: When a contingency fails to be satisfied, the contract typically terminates and the earnest money is returned to the buyer unless the buyer waives the contingency.
+
+[contracts-q09.v7] (National · contracts)
+Q: A buyer includes a homeowner's association approval contingency in the purchase agreement. The HOA denies approval. What is the standard contract result?
+  A : The seller may force closing despite the denial
+  B : Both parties split the earnest money as a settlement fee
+  C : The buyer must seek arbitration before any release of funds
+  D*: The contract is terminated and the buyer recovers their earnest money deposit
+MARKED ANSWER: D
+RATIONALE: A failed contingency allows the party relying on it to terminate the contract and recover their earnest money, as the contingency condition was not satisfied.
+
+[contracts-q09.v8] (National · contracts)
+Q: If a contingency in a real estate contract is not met prior to the contingency deadline, the most common legal effect is:
+  A : Liquidated damages become immediately due to the seller
+  B*: Contract termination occurs and the buyer's deposit is returned
+  C : The title company holds all funds in escrow indefinitely
+  D : The contract converts to a binding lease agreement
+MARKED ANSWER: B
+RATIONALE: When a contingency fails, the contract is generally terminated without penalty and the earnest money is returned to the buyer, as the contingency protection has been triggered.
+
+[contracts-q09.v9] (National · contracts)
+Q: When a buyer's inspection contingency is not satisfied and the condition is not waived, what is the typical legal consequence?
+  A : The seller may force the buyer to close the transaction
+  B : The listing agreement is automatically canceled
+  C : The buyer forfeits the entire down payment as penalty
+  D*: The contract is usually dissolved and the buyer's earnest money deposit is released
+MARKED ANSWER: D
+RATIONALE: A failed contingency generally allows the non-breaching party to terminate the contract and recover their earnest money deposit, as the condition precedent was not met.
+
+[contracts-q10] (National · contracts)
+Q: A right of first refusal allows the holder to:
+  A : Refuse all offers
+  B : Force a sale
+  C : Buy at any price
+  D*: Match a bona fide third-party offer
+MARKED ANSWER: D
+RATIONALE: ROFR = right to match the deal someone else has offered.
+
+[contracts-q10.v1] (National · contracts)
+Q: When a property owner grants a right of first refusal to a tenant, what right does the tenant acquire?
+  A : The automatic ownership of the property upon lease termination
+  B*: The opportunity to match any acceptable offer the owner receives from a third party
+  C : The ability to purchase the property at below-market rates
+  D : An exclusive listing agreement preventing the owner from showing the property
+MARKED ANSWER: B
+RATIONALE: A right of first refusal gives the holder the chance to match an offer that the owner has actually received from another buyer; it does not guarantee a price, prevent other offers, or transfer ownership.
+
+[contracts-q10.v2] (National · contracts)
+Q: Which statement best describes the mechanics of exercising a right of first refusal?
+  A : The holder can demand the owner sell at a price the holder determines
+  B : The holder gains control over all marketing and sale decisions the owner makes
+  C : The holder automatically receives legal title to the property without negotiation
+  D*: The holder must be notified of a legitimate third-party offer and given the chance to accept those same terms
+MARKED ANSWER: D
+RATIONALE: ROFR requires notification of a real third-party offer and allows the holder to match that offer's terms; it does not grant pricing power, control over operations, or automatic title.
+
+[contracts-q10.v3] (National · contracts)
+Q: A beneficiary of a right of first refusal is in a position to:
+  A : Prevent the owner from listing the property for sale
+  B*: Step into the shoes of a third-party buyer by matching the offer the owner received
+  C : Purchase the property whenever they wish at any negotiated price
+  D : Veto any sale the property owner wishes to make
+MARKED ANSWER: B
+RATIONALE: ROFR allows the holder to match a bona fide third-party offer the owner has received; it is not a veto right, an unlimited purchase option, or a listing restriction.
+
+[contracts-q10.v4] (National · contracts)
+Q: Under a right of first refusal clause, the property owner must:
+  A : Grant the ROFR holder exclusive permission to find buyers before listing publicly
+  B*: Notify the ROFR holder of an acceptable offer from another buyer and allow the holder to match it
+  C : Sell only to the ROFR holder at a price determined by the holder
+  D : Accept the first offer made by any prospective buyer without negotiation
+MARKED ANSWER: B
+RATIONALE: ROFR obligates the owner to inform the holder of a genuine third-party offer and permit the holder to match those terms; it does not surrender pricing control, require acceptance of the first offer, or grant exclusive listing rights.
+
+[contracts-q10.v5] (National · contracts)
+Q: When a property owner grants a right of first refusal to a tenant, what action is the tenant entitled to take if the owner receives an acceptable offer from a third party?
+  A : Negotiate the purchase price downward without the owner's consent
+  B : Reject the sale entirely and block any future transactions
+  C*: Match the terms of the third-party offer before it can be accepted
+  D : Demand a lease extension at no additional cost
+MARKED ANSWER: C
+RATIONALE: A right of first refusal gives the holder the opportunity to accept or match the exact terms of a bona fide offer from another buyer, not to modify terms or block sales.
+
+[contracts-q10.v6] (National · contracts)
+Q: Which statement best describes the practical benefit of holding a right of first refusal on a property?
+  A*: The right provides an opportunity to match an actual offer before the owner accepts from someone else
+  B : The right eliminates the owner's ability to sell the property to anyone
+  C : The right allows the holder to purchase without a formal appraisal or inspection
+  D : The right guarantees the holder can purchase at any price they choose
+MARKED ANSWER: A
+RATIONALE: ROFR works by allowing the holder to meet the same terms a third party has offered, giving them a chance to step in before the transaction closes with an outside buyer.
+
+[contracts-q10.v7] (National · contracts)
+Q: If a seller receives a legitimate purchase offer from Buyer A, and that seller has previously granted a right of first refusal to Buyer B, what must happen next?
+  A : The seller can immediately accept Buyer A's offer and ignore Buyer B's rights
+  B : The seller must void Buyer A's offer and renegotiate with Buyer B at a lower price
+  C*: The seller must offer Buyer B the same terms Buyer A presented to match or decline
+  D : Buyer B can force the seller to accept any counteroffer from Buyer B
+MARKED ANSWER: C
+RATIONALE: The holder of a right of first refusal must be given the opportunity to match the bona fide third-party offer's terms; the owner cannot bypass this right by immediately accepting another buyer's offer.
+
+[contracts-q10.v8] (National · contracts)
+Q: A real estate agent representing a property owner learns that the property carries a right of first refusal in favor of the current lessee. When a third-party cash offer arrives, what is the correct procedure?
+  A*: Notify the lessee of the offer terms and allow them to match before the owner accepts
+  B : Reject the third-party offer because the lessee's right prevents any outside sale
+  C : Present the third-party offer to the owner, who can accept it immediately since cash is superior
+  D : Inform the owner that the lessee automatically has the right to purchase at any negotiated price
+MARKED ANSWER: A
+RATIONALE: Even with a strong third-party offer, the owner must honor the right of first refusal by giving the lessee the chance to accept the same terms before the owner can sell to the outside party.
+
+[contracts-q10.v9] (National · contracts)
+Q: Under a right of first refusal, if the property owner receives an acceptable offer from a third party, the ROFR holder must be given the opportunity to:
+  A*: Accept the same terms as the third-party offer
+  B : Veto any sale to that particular buyer
+  C : Extend the contract indefinitely
+  D : Negotiate the purchase price down by at least 10%
+MARKED ANSWER: A
+RATIONALE: A right of first refusal entitles the holder to match (accept on the same terms) the bona fide offer the property owner has received from another party, not to renegotiate, reject all offers, or block sales indefinitely.
+
+[contracts-q11] (National · contracts)
+Q: A minor's contract is generally:
+  A : Voidable by the adult
+  B : Unenforceable
+  C*: Voidable by the minor
+  D : Void
+MARKED ANSWER: C
+RATIONALE: Minors can affirm or disaffirm; protection runs to the minor.
+
+[contracts-q11.v1] (National · contracts)
+Q: Under Hawaii real estate law, what is the legal status of a contract entered into by a person under 18 years of age?
+  A : Immediately void and cannot be ratified
+  B : Enforceable only if a parent co-signs the agreement
+  C*: Subject to disaffirmance at the minor's election
+  D : Fully binding and enforceable against both parties
+MARKED ANSWER: C
+RATIONALE: Minors have the right to disaffirm (cancel) contracts; this protection is a one-way right that belongs to the minor, not the adult party.
+
+[contracts-q11.v2] (National · contracts)
+Q: A 16-year-old signs a real estate purchase agreement without parental consent. Which statement best describes the contract's enforceability?
+  A : Voidable only if the adult party objects within 30 days
+  B : Absolutely void and cannot be ratified under any circumstances
+  C : Valid and binding unless the minor obtains a court order of rescission
+  D*: Capable of being disaffirmed by the minor upon reaching majority or before
+MARKED ANSWER: D
+RATIONALE: Contracts with minors are voidable at the minor's option; the minor retains the power to affirm or disaffirm, but the adult cannot force the minor to perform.
+
+[contracts-q11.v3] (National · contracts)
+Q: When a minor executes a real estate transaction without proper authorization, the resulting contract is best characterized as:
+  A : Unenforceable against both parties until the minor reaches age of majority
+  B : Binding on the minor but not on the adult seller or buyer
+  C*: Capable of being avoided by the minor through disaffirmance
+  D : Null and void from inception with no possibility of enforcement
+MARKED ANSWER: C
+RATIONALE: Minors' contracts are voidable (not void), meaning the minor has the right to disaffirm; this protects the minor's interests while allowing ratification upon reaching majority.
+
+[contracts-q11.v4] (National · contracts)
+Q: A 17-year-old broker applicant enters into a listing agreement on behalf of a client. What is the legal nature of this contract from the minor's perspective?
+  A : Enforceable against the minor but subject to the adult's withdrawal
+  B : Permanently invalid and cannot be performed by anyone
+  C*: Disaffirmable at the minor's discretion, giving the minor an out
+  D : Void ab initio unless a licensed guardian approves in writing
+MARKED ANSWER: C
+RATIONALE: A minor's contract is voidable by the minor alone; the minor may disaffirm (reject) the contract, but only the minor has this power of avoidance.
+
+[contracts-q11.v5] (National · contracts)
+Q: When a party to a real estate transaction discovers they were a minor at the time of signing, what is the legal status of that contract?
+  A*: Subject to disaffirmance at the minor's election
+  B : Absolutely void and cannot be ratified under any circumstances
+  C : Valid only if the minor's parent provides written consent retroactively
+  D : Binding on the minor but voidable by the adult party
+MARKED ANSWER: A
+RATIONALE: Minors have the legal right to disaffirm (cancel) their contracts; the law protects the minor's interests, not the adult's.
+
+[contracts-q11.v6] (National · contracts)
+Q: A 17-year-old signs a purchase agreement for a condominium in Honolulu without parental consent. Which statement best describes the contract's enforceability?
+  A : It is void if the seller did not know the buyer was underage
+  B : It is enforceable against both parties equally
+  C*: It is voidable at the minor's discretion only
+  D : It may be ratified by the minor once they reach age 18
+MARKED ANSWER: C
+RATIONALE: The minor has the power to disaffirm or affirm the contract; only the minor benefits from this protection, not the adult party.
+
+[contracts-q11.v7] (National · contracts)
+Q: In a Hawaii real estate transaction, if one party is a minor, the contract is typically:
+  A*: Voidable at the option of the minor party
+  B : Enforceable only with a guardian ad litem's approval
+  C : Void ab initio regardless of the minor's later wishes
+  D : Voidable at the option of the non-minor party
+MARKED ANSWER: A
+RATIONALE: Contract law protects minors by giving them alone the right to disaffirm; the adult party has no such right of avoidance.
+
+[contracts-q11.v8] (National · contracts)
+Q: A teenager enters into a lease agreement for a residential property without understanding all terms. After turning 18, the former minor seeks to cancel the lease. What legal principle applies?
+  A : The lease is voidable by the minor but cannot be disaffirmed after age of majority
+  B : The lease is void and was never valid
+  C : The lessor can force performance because the minor benefited from occupancy
+  D*: The minor had the right to disaffirm before or after reaching majority
+MARKED ANSWER: D
+RATIONALE: Minors retain the power to disaffirm contracts and may exercise this right during minority or within a reasonable time after reaching adulthood.
+
+[contracts-q11.v9] (National · contracts)
+Q: Under Hawaii law, when a person under the age of majority enters into a purchase agreement for real property, the contract is best characterized as:
+  A : Valid and binding unless a court determines it unfair
+  B*: Capable of being disaffirmed solely at the minor's election
+  C : Capable of being disaffirmed by either party
+  D : Absolutely void from inception
+MARKED ANSWER: B
+RATIONALE: A minor has the unilateral right to disaffirm (void) a contract upon reaching majority or during minority; the adult party cannot similarly disaffirm based on the minor's age alone.
+
+[transfer-of-title-q00] (National · transfer-of-title)
+Q: Which deed offers the most protection to the buyer?
+  A : Special warranty
+  B*: General warranty
+  C : Quitclaim
+  D : Bargain and sale
+MARKED ANSWER: B
+RATIONALE: General warranty deed warrants the entire chain of title.
+
+[transfer-of-title-q00.v1] (National · transfer-of-title)
+Q: A buyer wants maximum protection regarding title defects throughout the property's entire history. Which type of deed should the buyer request?
+  A*: General warranty deed
+  B : Bargain and sale deed
+  C : Quitclaim deed
+  D : Special warranty deed
+MARKED ANSWER: A
+RATIONALE: General warranty deed provides the broadest protection by warranting title against all defects from the beginning of ownership, not just during the grantor's period of ownership.
+
+[transfer-of-title-q00.v2] (National · transfer-of-title)
+Q: If a buyer is concerned about title issues that may have existed before the current owner acquired the property, which deed provides the best safeguard?
+  A : Quitclaim deed
+  B : Special warranty deed
+  C : Bargain and sale deed
+  D*: General warranty deed
+MARKED ANSWER: D
+RATIONALE: General warranty deed warrants the entire chain of title, protecting the buyer against defects regardless of when they originated in the property's history.
+
+[transfer-of-title-q00.v3] (National · transfer-of-title)
+Q: Which of the following deeds contains covenants that extend back to the original source of title?
+  A*: General warranty deed
+  B : Special warranty deed
+  C : Bargain and sale deed
+  D : Quitclaim deed
+MARKED ANSWER: A
+RATIONALE: General warranty deed includes covenants that warrant the entire title chain from the beginning, providing comprehensive protection to the grantee.
+
+[transfer-of-title-q00.v4] (National · transfer-of-title)
+Q: A buyer purchasing residential property in Hawaii wants assurance against title defects from any prior owner. Which deed offers this comprehensive coverage?
+  A : Bargain and sale deed
+  B : Special warranty deed
+  C*: General warranty deed
+  D : Quitclaim deed
+MARKED ANSWER: C
+RATIONALE: General warranty deed warrants title against all defects in the entire chain of ownership, making it the most protective deed for a buyer's interests.
+
+[transfer-of-title-q00.v5] (National · transfer-of-title)
+Q: A buyer in Hawaii wants maximum title protection and representation of clear ownership. Which deed type should the seller be required to provide?
+  A*: General warranty deed
+  B : Bargain and sale deed
+  C : Quitclaim deed
+  D : Special warranty deed
+MARKED ANSWER: A
+RATIONALE: General warranty deed provides the broadest protection because the grantor warrants title against all defects, including those arising before the grantor acquired the property.
+
+[transfer-of-title-q00.v6] (National · transfer-of-title)
+Q: If a buyer needs a deed that covers potential title defects throughout the entire history of the property, which instrument provides the most comprehensive protection?
+  A : Special warranty deed
+  B : Bargain and sale deed
+  C*: General warranty deed
+  D : Quitclaim deed
+MARKED ANSWER: C
+RATIONALE: General warranty deed warrants title for the entire chain of ownership and protects against defects that may have existed before the current owner took possession.
+
+[transfer-of-title-q00.v7] (National · transfer-of-title)
+Q: A buyer is reviewing deed options and wants to minimize risk exposure from prior title claims. Which deed provides the strongest guarantee?
+  A : Statutory warranty deed
+  B : Special warranty deed
+  C : Quitclaim deed
+  D*: General warranty deed
+MARKED ANSWER: D
+RATIONALE: General warranty deed offers the strongest guarantee by warranting against all title defects in the entire chain of title, not just defects created during the grantor's ownership.
+
+[transfer-of-title-q00.v8] (National · transfer-of-title)
+Q: Which of the following deeds would a buyer prefer when financing a Hawaii property because it offers the most recourse against the grantor for hidden title defects?
+  A : Bargain and sale deed
+  B*: General warranty deed
+  C : Quitclaim deed
+  D : Special warranty deed
+MARKED ANSWER: B
+RATIONALE: General warranty deed provides the most extensive recourse because the grantor warrants the title against defects from the beginning of the chain, not just during their period of ownership.
+
+[transfer-of-title-q00.v9] (National · transfer-of-title)
+Q: A buyer is concerned about potential title defects from previous owners. Which type of deed would provide the strongest legal recourse if an undisclosed claim arises from the property's history?
+  A*: General warranty deed, which guarantees title from the original owner to the present
+  B : Quitclaim deed, which releases only the grantor's claims to the property
+  C : Bargain and sale deed, which transfers all grantor's interests without warranties
+  D : Special warranty deed, which covers only the grantor's period of ownership
+MARKED ANSWER: A
+RATIONALE: General warranty deed provides the broadest protection by warranting the entire chain of title back to the original owner, allowing the buyer to pursue claims against the grantor for any title defects regardless of when they originated.
+
+[transfer-of-title-q01] (National · transfer-of-title)
+Q: A quitclaim deed:
+  A : Guarantees clear title
+  B*: Conveys whatever interest the grantor has, with no warranty
+  C : Cannot be recorded
+  D : Is used only for first-time conveyances
+MARKED ANSWER: B
+RATIONALE: Quitclaim is "as-is" with no warranties.
+
+[transfer-of-title-q01.v1] (National · transfer-of-title)
+Q: When a grantor executes a quitclaim deed, what is the extent of the grantor's obligation regarding the title being conveyed?
+  A : The grantor warrants the title is marketable and insurable
+  B*: The grantor transfers only whatever rights or interest the grantor actually possesses, without any warranty of ownership
+  C : The grantor guarantees the property is free from all liens and encumbrances
+  D : The grantor must defend the title against all subsequent claims
+MARKED ANSWER: B
+RATIONALE: A quitclaim deed conveys the grantor's interest as-is with no warranties of title, ownership, or freedom from defects.
+
+[transfer-of-title-q01.v2] (National · transfer-of-title)
+Q: Which statement accurately describes the nature and effect of a quitclaim deed in Hawaii real estate practice?
+  A : It requires a title search and title insurance before recording
+  B : It is typically used only in commercial transactions between sophisticated parties
+  C*: It releases whatever claim or interest the grantor may have without guaranteeing the grantor actually owns anything
+  D : It provides the grantee with full covenants and warranties of title
+MARKED ANSWER: C
+RATIONALE: A quitclaim deed is a minimal-warranty instrument that merely releases the grantor's claim or interest without affirming ownership or quality of title.
+
+[transfer-of-title-q01.v3] (National · transfer-of-title)
+Q: A buyer receives a quitclaim deed from the seller. What protection does the buyer have if the seller did not actually own the property?
+  A*: The buyer has no recourse against the seller based on the deed itself, as quitclaim deeds contain no title warranties
+  B : Title insurance automatically covers any defect in the grantor's ownership
+  C : The Hawaii REC will void the deed and return the buyer's money
+  D : The buyer is protected by the implied covenant of quiet enjoyment in all Hawaii deeds
+MARKED ANSWER: A
+RATIONALE: A quitclaim deed provides no warranties; if the grantor had no interest to convey, the grantee receives nothing and has no warranty claim.
+
+[transfer-of-title-q01.v4] (National · transfer-of-title)
+Q: How does a quitclaim deed differ from a general warranty deed in terms of the grantor's liability?
+  A*: A quitclaim deed contains no warranties of title, while a general warranty deed includes covenants protecting the grantee against title defects
+  B : A quitclaim deed imposes greater liability on the grantor than a general warranty deed
+  C : Both deeds impose identical liability regardless of the grantor's intent or knowledge
+  D : A quitclaim deed is legally binding only if recorded within 30 days
+MARKED ANSWER: A
+RATIONALE: A quitclaim deed is a no-warranty instrument passing only the grantor's interest, whereas a general warranty deed warrants the title against defects.
+
+[transfer-of-title-q01.v5] (National · transfer-of-title)
+Q: Which statement best describes the legal effect of a quitclaim deed in Hawaii?
+  A*: It transfers title subject to any liens or encumbrances the grantor may have held
+  B : It is valid only when the grantor has already obtained a warranty deed first
+  C : It provides the grantee with title insurance protection against prior claims
+  D : It requires a full property survey before recording is permitted
+MARKED ANSWER: A
+RATIONALE: A quitclaim deed conveys only the interest the grantor possessed, without warranties of title or clear ownership, meaning encumbrances transfer with it.
+
+[transfer-of-title-q01.v6] (National · transfer-of-title)
+Q: When a grantor executes a quitclaim deed, what does the grantee actually receive?
+  A*: Whatever ownership rights or claims the grantor held at the time of conveyance, with no assurances about quality
+  B : A legal promise that the property is unencumbered and marketable
+  C : Only the right to occupy the property for a specified lease term
+  D : A guaranteed fee simple title free of all defects
+MARKED ANSWER: A
+RATIONALE: Quitclaim deeds are 'as-is' instruments that pass only what the grantor has, with zero warranties regarding title quality or defects.
+
+[transfer-of-title-q01.v7] (National · transfer-of-title)
+Q: A real estate licensee is explaining deed types to a buyer. Which characteristic most accurately reflects a quitclaim deed?
+  A*: It releases whatever interest the grantor possesses without representing the validity or extent of that interest
+  B : It is the most secure form of conveyance and includes full covenants of title
+  C : It must be delivered by a title company and cannot be handed directly to the grantee
+  D : It is automatically void if the property has any outstanding property taxes or assessments
+MARKED ANSWER: A
+RATIONALE: A quitclaim deed simply conveys the grantor's interest—whatever it may be—without any warranties or representations about its validity.
+
+[transfer-of-title-q01.v8] (National · transfer-of-title)
+Q: From a risk perspective, a grantee accepting a quitclaim deed should understand that:
+  A : The Hawaii REC guarantees the title is free from defects within 30 days of recording
+  B : The deed is not legally binding unless the grantor has previously obtained a certified title report
+  C*: The grantor makes no warranties about the quality, extent, or freedom from encumbrances of the interest being transferred
+  D : Title insurance is automatically included and paid for by the grantor under state law
+MARKED ANSWER: C
+RATIONALE: Quitclaim deeds provide no warranties, meaning the grantee accepts the risk that the grantor's interest may be defective, limited, or encumbered.
+
+[transfer-of-title-q01.v9] (National · transfer-of-title)
+Q: When a grantor executes a quitclaim deed, what exactly is being transferred to the grantee?
+  A : The grantor's equitable interest, but not legal title
+  B : Only the grantor's legal interest in the property, with full warranty of title
+  C*: Whatever right, title, or interest the grantor possesses at the time of conveyance, without any guarantees
+  D : A fee simple absolute interest, provided the property has no liens
+MARKED ANSWER: C
+RATIONALE: A quitclaim deed transfers only the grantor's existing interest with no warranties or representations about title quality, marketability, or freedom from defects.
+
+[transfer-of-title-q02] (National · transfer-of-title)
+Q: For a deed to be valid, it must be:
+  A : Notarized
+  B : In a court order
+  C : Recorded
+  D*: Delivered and accepted
+MARKED ANSWER: D
+RATIONALE: Delivery + acceptance is essential. Recording protects but isn't required for validity.
+
+[transfer-of-title-q02.v1] (National · transfer-of-title)
+Q: Which of the following is an essential requirement for a deed to become legally binding and effective?
+  A : Physical transfer of possession to the grantee
+  B : Filing with the county assessor's office
+  C*: Actual delivery to and acceptance by the grantee
+  D : Approval by the Hawaii Real Estate Commission
+MARKED ANSWER: C
+RATIONALE: Delivery and acceptance are the critical elements for a deed to be valid and enforceable. Recording and other formalities provide protection but are not essential to the deed's validity.
+
+[transfer-of-title-q02.v2] (National · transfer-of-title)
+Q: A grantor executes a properly signed and notarized deed but fails to deliver it to the grantee. Under Hawaii law, is the deed valid?
+  A*: No, because delivery and acceptance have not occurred
+  B : Yes, because the grantor's intent to transfer is sufficient
+  C : Yes, because it was notarized by a public officer
+  D : Yes, because it was recorded at the Bureau of Conveyances
+MARKED ANSWER: A
+RATIONALE: Without delivery to and acceptance by the grantee, a deed lacks the essential element needed for validity, regardless of notarization or execution formality.
+
+[transfer-of-title-q02.v3] (National · transfer-of-title)
+Q: Which element is NOT required for a deed to be valid in Hawaii?
+  A : The grantor's intent to transfer the property
+  B : Delivery of the deed to the grantee
+  C*: Recording the document with the county recorder
+  D : Acceptance by the intended grantee
+MARKED ANSWER: C
+RATIONALE: Recording is a protective measure that creates constructive notice but is not a prerequisite for a deed's validity; delivery and acceptance are the essential requirements.
+
+[transfer-of-title-q02.v4] (National · transfer-of-title)
+Q: A deed is prepared, signed, and notarized. For this deed to become legally valid and effective, what must still occur?
+  A*: It must be delivered to the grantee and accepted by them
+  B : The deed must be recorded within 30 days
+  C : The county tax assessor must acknowledge receipt
+  D : The title company must issue an insurance commitment
+MARKED ANSWER: A
+RATIONALE: Delivery and acceptance constitute the final, essential step for deed validity; all other steps are procedural protections or formalities that follow after the deed is already valid.
+
+[transfer-of-title-q02.v5] (National · transfer-of-title)
+Q: Which of the following is an essential requirement for a deed to have legal effect and transfer title?
+  A*: Physical transfer of the document to the grantee and their acceptance of it
+  B : Approval by a probate court
+  C : Filing with the county assessor's office
+  D : Obtaining a title insurance commitment
+MARKED ANSWER: A
+RATIONALE: Delivery to the grantee and acceptance by the grantee are fundamental requirements for title transfer. Recording, title insurance, and court approval are separate matters that do not affect the deed's legal validity.
+
+[transfer-of-title-q02.v6] (National · transfer-of-title)
+Q: A deed fails to transfer property if it lacks:
+  A*: Proper delivery to and acceptance by the grantee
+  B : An attorney's signature as a witness
+  C : County recorder's stamp and filing date
+  D : A certified copy filed at the state level
+MARKED ANSWER: A
+RATIONALE: Delivery and acceptance are the critical elements that make a deed effective. Without them, title does not pass regardless of notarization, recording, or attorney involvement.
+
+[transfer-of-title-q02.v7] (National · transfer-of-title)
+Q: Which element is absolutely necessary for a deed to become legally valid and binding?
+  A : Recordation in the public record
+  B : Registration with the Hawaii Department of Land and Natural Resources
+  C : Acknowledgment before a notary public
+  D*: Delivery of the deed to the grantee with the grantee's acceptance
+MARKED ANSWER: D
+RATIONALE: Delivery and acceptance are essential substantive requirements for deed validity. Recording and notarization are procedural safeguards but are not required for the deed itself to be valid.
+
+[transfer-of-title-q02.v8] (National · transfer-of-title)
+Q: A grantor signs and has a deed notarized. For the deed to be valid and effectively transfer title, what must also occur?
+  A : The deed must be approved by the local zoning board
+  B*: The deed must be delivered to the grantee and accepted by the grantee
+  C : The deed must be recorded within 30 days
+  D : The deed must be reviewed by a title company
+MARKED ANSWER: B
+RATIONALE: Notarization alone does not create validity; delivery and acceptance are the non-negotiable requirements for a deed to transfer title. Recording protects interests but is not a prerequisite for validity.
+
+[transfer-of-title-q02.v9] (National · transfer-of-title)
+Q: Which of the following is a requirement for a deed to have legal validity in Hawaii?
+  A*: The grantor must physically transfer the deed to the grantee, and the grantee must accept it
+  B : The deed must be filed with the county assessor within 30 days
+  C : The deed must contain a legal description that has been surveyed by a licensed surveyor
+  D : The grantor must obtain title insurance before signing
+MARKED ANSWER: A
+RATIONALE: Delivery by the grantor and acceptance by the grantee are essential elements for deed validity; recording and surveying are protective measures but not required for the deed itself to be valid.
+
+[transfer-of-title-q03] (National · transfer-of-title)
+Q: A person dies without a will. Their property passes by:
+  A : Public auction
+  B : Quitclaim deed
+  C : Eminent domain
+  D*: Operation of law via intestate succession
+MARKED ANSWER: D
+RATIONALE: Intestate succession statutes determine heirs.
+
+[transfer-of-title-q03.v1] (National · transfer-of-title)
+Q: When an individual passes away intestate in Hawaii, the transfer of real property to heirs occurs through which mechanism?
+  A : Government taking via condemnation proceedings
+  B : Automatic transfer by quitclaim deed
+  C*: Statutory intestate succession laws
+  D : Probate court auction to the highest bidder
+MARKED ANSWER: C
+RATIONALE: Intestate succession statutes automatically determine which heirs inherit and in what order when someone dies without a valid will.
+
+[transfer-of-title-q03.v2] (National · transfer-of-title)
+Q: A decedent with no testamentary document leaves behind titled real property. How does legal title transfer to the rightful heirs?
+  A*: Through the application of intestacy statutes
+  B : By exercise of the government's right to take private property
+  C : By competitive public sale of the estate
+  D : Via a general warranty deed prepared by the county
+MARKED ANSWER: A
+RATIONALE: Intestacy laws establish the legal succession chain and automatically vest property rights in qualified heirs without requiring a will or additional conveyance instruments.
+
+[transfer-of-title-q03.v3] (National · transfer-of-title)
+Q: When someone dies intestate, which of the following determines who receives their real property?
+  A*: State laws governing intestate succession
+  B : The probate court's discretionary judgment
+  C : A non-binding quitclaim deed filed posthumously
+  D : The public trustee's authority to distribute assets
+MARKED ANSWER: A
+RATIONALE: Intestate succession statutes, not judicial discretion or voluntary conveyance documents, establish the predetermined order and shares of inheritance for heirs.
+
+[transfer-of-title-q03.v4] (National · transfer-of-title)
+Q: Property of a decedent who left no will passes to the next of kin by what legal process?
+  A : Adverse possession by the county government
+  B : Conversion through a special purpose deed instrument
+  C*: Intestate succession as prescribed by statute
+  D : Forced liquidation and redistribution by the state
+MARKED ANSWER: C
+RATIONALE: Intestate succession statutes provide the legal mechanism by which property automatically transfers to heirs according to a predetermined order of kinship when no will exists.
+
+[transfer-of-title-q03.v5] (National · transfer-of-title)
+Q: When a Hawaii resident passes away intestate, which mechanism governs the distribution of their real property to heirs?
+  A : Probate court auction procedures
+  B : Automatic transfer via warranty deed
+  C : State acquisition through escheat powers
+  D*: Statutory intestate succession laws
+MARKED ANSWER: D
+RATIONALE: Intestate succession statutes automatically determine who inherits when no will exists; this is a matter of law, not deed transfer or auction.
+
+[transfer-of-title-q03.v6] (National · transfer-of-title)
+Q: If an individual dies without executing a valid will, their real estate property will be transferred according to:
+  A*: State laws governing descent and distribution
+  B : Judicial condemnation proceedings
+  C : The decedent's prior quitclaim deeds
+  D : The county assessor's title determination
+MARKED ANSWER: A
+RATIONALE: State descent and distribution laws (intestate succession) dictate property transfer when no will exists; these are statutory rules, not deed-based or condemnation mechanisms.
+
+[transfer-of-title-q03.v7] (National · transfer-of-title)
+Q: An owner of Hawaii property dies without a testamentary document. By what legal process does ownership transfer to heirs?
+  A*: Operation of intestacy statutes
+  B : Competitive public sale at auction
+  C : Filing a special warranty deed with the registry
+  D : Petition for eminent domain by the state
+MARKED ANSWER: A
+RATIONALE: Intestacy statutes operate automatically by law to pass property to legal heirs; this occurs without deed action, condemnation, or auction.
+
+[transfer-of-title-q03.v8] (National · transfer-of-title)
+Q: When a property owner in Hawaii dies intestate, the transfer of real property to heirs occurs through:
+  A : Transfer by gift deed to designated beneficiaries
+  B : Foreclosure sale procedures
+  C*: Application of intestate succession laws
+  D : Execution of a new deed by the executor
+MARKED ANSWER: C
+RATIONALE: Intestate succession laws determine heirs and property distribution automatically when no will exists; this is distinct from deed execution, foreclosure, or gift transfers.
+
+[transfer-of-title-q03.v9] (National · transfer-of-title)
+Q: When an individual passes away intestate in Hawaii, what legal mechanism governs the distribution of their real property to heirs?
+  A : Transfer under the state's right of condemnation
+  B : Competitive sealed bidding at county auction
+  C : A warranty deed executed by the probate court
+  D*: Statutory intestate succession laws
+MARKED ANSWER: D
+RATIONALE: Intestate succession statutes automatically determine which heirs inherit property when there is no valid will; no deed or auction is required.
+
+[transfer-of-title-q04] (National · transfer-of-title)
+Q: Recording a deed provides:
+  A : No notice
+  B : Actual notice
+  C*: Constructive notice
+  D : Inquiry notice
+MARKED ANSWER: C
+RATIONALE: Recording = constructive notice to all subsequent parties.
+
+[transfer-of-title-q04.v1] (National · transfer-of-title)
+Q: When a property owner files a deed in the public record, what type of notice is provided to the world regarding that transaction?
+  A : Inquiry notice requiring investigation of the property title
+  B : Personal notice delivered directly to all interested parties
+  C : Presumptive notice based on the grantor's reputation
+  D*: Constructive notice available through the public record system
+MARKED ANSWER: D
+RATIONALE: Recording a deed in the public record creates constructive notice, which means all subsequent parties are deemed to have knowledge of the recorded interest, whether or not they actually inspected the records.
+
+[transfer-of-title-q04.v2] (National · transfer-of-title)
+Q: A buyer's lender requires title insurance before funding a mortgage loan. The lender relies on the fact that recording the deed will establish what form of notice?
+  A : Implied notice based on the buyer's possession of the property
+  B*: Constructive notice through the recordation system
+  C : Express notice through personal notification
+  D : Statutory notice automatically provided by the county
+MARKED ANSWER: B
+RATIONALE: Recording creates constructive notice, which protects the lender by ensuring that all future parties searching the title records will be charged with knowledge of the lender's interest.
+
+[transfer-of-title-q04.v3] (National · transfer-of-title)
+Q: Under Hawaii real estate law, the primary purpose of recording a deed in the appropriate county office is to provide:
+  A : Judicial notice requiring court approval of the transaction
+  B*: Constructive notice to all subsequent parties who search the records
+  C : Actual notice to the immediate parties to the transaction only
+  D : Apparent notice based on visible improvements to the property
+MARKED ANSWER: B
+RATIONALE: Recording provides constructive notice to the world, meaning anyone conducting a proper title search will be charged with knowledge of the recorded deed, even if they never actually read it.
+
+[transfer-of-title-q04.v4] (National · transfer-of-title)
+Q: If an agent advises a client that their recently recorded deed will protect their ownership interest against future claims, what legal concept is the agent relying upon?
+  A : Lis pendens notice filed in pending litigation
+  B*: Constructive notice created by proper recordation
+  C : Estoppel notice preventing the other party from denying the transaction
+  D : Actual notice obtained through personal service of documents
+MARKED ANSWER: B
+RATIONALE: Constructive notice is the legal principle that makes recording effective—it charges all subsequent parties with knowledge of the recorded deed without requiring actual delivery or personal notice to each individual.
+
+[transfer-of-title-q04.v5] (National · transfer-of-title)
+Q: When a property deed is properly recorded in the Hawaii Bureau of Conveyances, what type of notice is created for all future purchasers and lienholders?
+  A : Implied notice from neighborhood conditions
+  B : Actual notice requiring personal delivery of documents
+  C*: Constructive notice through the public record system
+  D : Inquiry notice requiring personal investigation
+MARKED ANSWER: C
+RATIONALE: Recording creates constructive notice, which means the public record system itself provides legal notice to all subsequent parties without requiring actual knowledge or personal contact.
+
+[transfer-of-title-q04.v6] (National · transfer-of-title)
+Q: A buyer searches the recorded documents at the Bureau of Conveyances and discovers a prior mortgage on the property. This discovery represents which form of notice?
+  A*: Constructive notice because the information was available in the public record
+  B : Inquiry notice because the buyer had to investigate the chain of title
+  C : Statutory notice issued by the Hawaii Real Estate Commission
+  D : Actual notice because the buyer personally reviewed the documents
+MARKED ANSWER: A
+RATIONALE: Constructive notice arises from the recording system itself; once a document is recorded, all parties are legally charged with knowledge of its contents regardless of whether they actually reviewed it.
+
+[transfer-of-title-q04.v7] (National · transfer-of-title)
+Q: Which of the following BEST describes the legal effect of recording a deed in Hawaii?
+  A*: It puts the world on notice of the transaction through the public record system
+  B : It requires all subsequent buyers to personally contact the current owner
+  C : It transfers possession of the property to the grantee immediately upon filing
+  D : It guarantees the grantor's title is free from all defects
+MARKED ANSWER: A
+RATIONALE: Recording provides constructive notice, placing the world on legal notice of the recorded interest through the public record system, even if parties never actually read the document.
+
+[transfer-of-title-q04.v8] (National · transfer-of-title)
+Q: A deed is recorded but a third party claims they had no knowledge of it. Under Hawaii law, what notice has been provided to that third party?
+  A : Actual notice because the recording officer must provide personal notification
+  B*: Constructive notice; recording in the public record provides legal notice regardless of actual knowledge
+  C : No notice; only actual knowledge counts in real estate disputes
+  D : Inquiry notice; the party should have searched before entering the transaction
+MARKED ANSWER: B
+RATIONALE: Recording creates constructive notice to all parties, meaning the law presumes notice through the public record system exists even if the party never actually knew about or reviewed the recorded deed.
+
+[transfer-of-title-q04.v9] (National · transfer-of-title)
+Q: When a buyer searches the public record and finds a properly recorded deed, what type of notice has been established?
+  A*: Constructive notice through the recording system
+  B : Actual notice requiring personal knowledge of the grantor
+  C : Inquiry notice based on visible conditions of the property
+  D : Statutory notice under Hawaii's adverse possession laws
+MARKED ANSWER: A
+RATIONALE: Recording a document in the public record creates constructive notice to anyone who searches or should search those records, regardless of whether they actually reviewed them.
+
+[transfer-of-title-q05] (National · transfer-of-title)
+Q: Title insurance protects against:
+  A : Property damage
+  B : Future title problems
+  C*: Defects existing at closing
+  D : Loan default
+MARKED ANSWER: C
+RATIONALE: Title insurance covers title defects existing at closing time.
+
+[transfer-of-title-q05.v1] (National · transfer-of-title)
+Q: Which of the following is covered by a title insurance policy?
+  A*: Hidden liens and ownership claims that existed before closing
+  B : Boundary disputes that arise after the policy is issued
+  C : Structural defects discovered during property inspection
+  D : Natural disasters affecting the insured property
+MARKED ANSWER: A
+RATIONALE: Title insurance protects against pre-existing defects in the chain of title, such as undisclosed liens, encumbrances, and ownership claims that existed at or before closing.
+
+[transfer-of-title-q05.v2] (National · transfer-of-title)
+Q: A homeowner purchases title insurance at closing. The policy protects the owner against:
+  A : Future zoning changes that reduce property value
+  B : Loss of the property due to foreclosure
+  C : Maintenance and repair costs for structural issues
+  D*: Defects in the title that existed prior to the closing date
+MARKED ANSWER: D
+RATIONALE: Title insurance is designed to indemnify the owner against losses arising from title defects that were in existence at or before the time of closing, not future events.
+
+[transfer-of-title-q05.v3] (National · transfer-of-title)
+Q: When a real estate transaction closes, the title insurance policy issued at that time covers:
+  A : Environmental contamination discovered years later
+  B : Increases in property taxes assessed after the purchase
+  C : Claims by creditors against the new owner
+  D*: Pre-existing conditions affecting the legal ownership of the property
+MARKED ANSWER: D
+RATIONALE: Title insurance provides coverage for defects that existed in the title at the time of closing, protecting against historical ownership and lien issues.
+
+[transfer-of-title-q05.v4] (National · transfer-of-title)
+Q: Which scenario would be covered under a standard title insurance policy?
+  A*: A previous owner's unpaid property tax bill discovered after closing
+  B : A mortgage default by the current property owner
+  C : A neighbor's encroachment onto the property after the policy is issued
+  D : A flood that damages the home six months after purchase
+MARKED ANSWER: A
+RATIONALE: Title insurance covers defects existing at closing time, including unpaid taxes and liens from prior ownership that were not discovered before the transaction closed.
+
+[transfer-of-title-q05.v5] (National · transfer-of-title)
+Q: Which of the following is covered under a standard owner's title insurance policy?
+  A*: Pre-existing title defects present at the time of closing
+  B : Liens and encumbrances discovered after the sale closes
+  C : Unpaid property taxes assessed in future years
+  D : Natural disasters affecting the property structure
+MARKED ANSWER: A
+RATIONALE: Title insurance protects the owner against defects in title that existed at the time of closing, not future occurrences or physical damage to the property.
+
+[transfer-of-title-q05.v6] (National · transfer-of-title)
+Q: A buyer purchases a home and receives a title insurance commitment. What risk is the insurer primarily protecting the buyer against?
+  A*: Hidden title defects that existed before the closing date
+  B : Flood damage or other casualty losses
+  C : Changes in property value or market conditions
+  D : Maintenance repairs needed within the first year
+MARKED ANSWER: A
+RATIONALE: Title insurance is designed to protect against defects in ownership that existed at the time of purchase, not future market changes or physical damage to the property.
+
+[transfer-of-title-q05.v7] (National · transfer-of-title)
+Q: An owner's title insurance policy provides protection for:
+  A : Structural deficiencies discovered during inspection
+  B : Claims arising from future boundary disputes
+  C*: Defects in the chain of title existing at closing
+  D : Mortgage payment defaults by the property owner
+MARKED ANSWER: C
+RATIONALE: Title insurance covers defects in title that existed at the time of closing, such as undisclosed liens, missing heirs, or forgery in the chain of title.
+
+[transfer-of-title-q05.v8] (National · transfer-of-title)
+Q: Which situation would typically be covered under a standard title insurance policy?
+  A : A previous owner files a claim six months after closing
+  B : The property suffers water damage from a burst pipe
+  C : The borrower fails to make scheduled loan payments
+  D*: A title defect from an earlier owner discovered at or before closing
+MARKED ANSWER: D
+RATIONALE: Title insurance protects against defects in title that existed on or before the closing date, regardless of when they are discovered.
+
+[transfer-of-title-q05.v9] (National · transfer-of-title)
+Q: When a title insurance policy is issued at closing, what is its primary purpose in protecting the buyer?
+  A : Ensuring the seller's mortgage is paid off after settlement
+  B*: Covering hidden liens and ownership claims that existed before closing
+  C : Guaranteeing the property will increase in value
+  D : Protecting against future natural disasters affecting the property
+MARKED ANSWER: B
+RATIONALE: Title insurance protects against defects and claims that existed before or at the time of closing, such as undisclosed liens, easements, or ownership disputes that may surface later.
+
+[transfer-of-title-q06] (National · transfer-of-title)
+Q: A lender's title policy:
+  A : Is optional
+  B*: Covers the lender for loan amount
+  C : Replaces homeowner's insurance
+  D : Covers the buyer
+MARKED ANSWER: B
+RATIONALE: Lender's policy covers the loan amount and decreases as loan is paid down.
+
+[transfer-of-title-q06.v1] (National · transfer-of-title)
+Q: Which statement accurately describes the scope and purpose of a lender's title insurance policy in Hawaii?
+  A : It protects the property owner against title defects up to the purchase price
+  B : It is always bundled with the owner's policy and cannot be purchased separately
+  C*: It protects the mortgagee's financial interest in the loan amount, which diminishes as the loan balance decreases
+  D : It provides coverage for physical damage to the property caused by title disputes
+MARKED ANSWER: C
+RATIONALE: A lender's policy insures the lender's security interest for the outstanding loan amount, decreasing proportionally as the borrower pays down the mortgage principal.
+
+[transfer-of-title-q06.v2] (National · transfer-of-title)
+Q: A mortgagee in Hawaii requires a lender's title policy as a condition of financing. What is the primary benefit to the lender?
+  A*: The policy covers the lender against losses arising from title defects, with coverage limited to the outstanding mortgage balance
+  B : The policy compensates the lender if the borrower defaults on the monthly payment
+  C : The policy guarantees that the borrower will maintain homeowner's insurance for the duration of the loan
+  D : The policy transfers all ownership risks to a third-party escrow holder
+MARKED ANSWER: A
+RATIONALE: The lender's policy specifically insures the lender's loan security against title defects, with the coverage amount equaling the loan balance at any given time.
+
+[transfer-of-title-q06.v3] (National · transfer-of-title)
+Q: In a typical Hawaii real estate transaction, how does a lender's title insurance policy differ from an owner's policy?
+  A : The lender's policy is mandatory while the owner's policy is optional
+  B : The lender's policy covers both the buyer and the lender equally
+  C*: The lender's policy protects only the mortgagee's interest up to the loan amount, whereas the owner's policy protects the buyer's equity
+  D : The lender's policy lasts indefinitely while the owner's policy expires after ten years
+MARKED ANSWER: C
+RATIONALE: The lender's policy insures the lender's loan amount security and decreases as the loan is paid, while the owner's policy protects the buyer's ownership interest.
+
+[transfer-of-title-q06.v4] (National · transfer-of-title)
+Q: A borrower obtains financing for a $500,000 purchase price with a $400,000 mortgage. Which party is covered by the lender's title insurance policy, and to what extent?
+  A : The real estate agent is covered for any commission disputes related to title defects
+  B : The borrower is covered for the full $500,000 purchase price
+  C : Both the borrower and lender share equal coverage of $450,000
+  D*: The lender is covered for its security interest in the $400,000 loan amount, declining as the mortgage is paid down
+MARKED ANSWER: D
+RATIONALE: A lender's policy protects the mortgagee specifically for the loan amount outstanding, with coverage decreasing as principal is paid and eventually terminating when the mortgage is satisfied.
+
+[transfer-of-title-q06.v5] (National · transfer-of-title)
+Q: Which statement accurately describes the scope and purpose of a lender's title insurance policy in Hawaii?
+  A : It protects the property owner against all title defects throughout the loan term
+  B : It is mandatory for all residential transactions and cannot be waived
+  C*: It indemnifies the mortgagee for the outstanding loan balance and diminishes as the loan principal is repaid
+  D : It covers both the lender and borrower equally under a single combined policy
+MARKED ANSWER: C
+RATIONALE: A lender's policy insures the lender's interest (the loan amount) and the coverage amount decreases proportionally as the mortgage principal is paid down.
+
+[transfer-of-title-q06.v6] (National · transfer-of-title)
+Q: A lender requires title insurance as a condition of funding the mortgage. What is the primary protection this lender's policy provides?
+  A : Protection against future property tax assessments and special assessments
+  B*: Protection of the lender's financial interest in an amount equal to the loan balance outstanding
+  C : Protection of the buyer's equity and ownership rights against title defects
+  D : Protection that remains constant at the original purchase price regardless of loan payoff
+MARKED ANSWER: B
+RATIONALE: The lender's policy covers the mortgagee's interest, which equals the loan amount owed, and this coverage amount reduces as the borrower pays down the principal balance.
+
+[transfer-of-title-q06.v7] (National · transfer-of-title)
+Q: In a typical Hawaii real estate transaction, the lender's title insurance policy differs from an owner's policy in that it:
+  A : Is paid for by the seller instead of the buyer
+  B : Provides broader coverage and includes all physical property defects
+  C : Extends indefinitely even after the mortgage has been satisfied
+  D*: Protects an amount of coverage that decreases in proportion to the loan paydown
+MARKED ANSWER: D
+RATIONALE: The lender's policy amount tracks the outstanding loan balance; as the borrower pays down the mortgage, the insured amount decreases accordingly, unlike an owner's policy which remains constant.
+
+[transfer-of-title-q06.v8] (National · transfer-of-title)
+Q: A mortgagee insists on a title insurance policy before releasing loan funds. This lender's policy protects against title defects up to an amount equal to:
+  A*: The unpaid principal balance of the mortgage loan at any given time
+  B : A flat minimum amount set by Hawaii real estate commission rules
+  C : The appraised value of the property at the time of closing
+  D : The original sales price stated in the purchase agreement
+MARKED ANSWER: A
+RATIONALE: A lender's title policy insures the mortgagee's interest for the loan amount, with coverage declining as the principal balance is paid down over the life of the loan.
+
+[transfer-of-title-q06.v9] (National · transfer-of-title)
+Q: Which statement accurately describes the scope and purpose of a lender's title insurance policy?
+  A : It protects the property owner against defects in title
+  B : It provides coverage that increases as the mortgage principal is paid down
+  C : It is a mandatory requirement that can never be waived by the borrower
+  D*: It insures the lender's interest up to the outstanding loan balance
+MARKED ANSWER: D
+RATIONALE: A lender's title policy protects the lender's financial interest in the property up to the loan amount, with coverage that decreases as the borrower pays down the principal balance.
+

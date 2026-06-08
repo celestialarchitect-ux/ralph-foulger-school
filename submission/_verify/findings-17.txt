@@ -1,0 +1,7 @@
+BATCH 17 — reviewed 130 questions, found 2 critical, 0 major, 3 minor
+
+tough-2bhipq.v7 | critical | 1.5 discount points on $720,000 = $10,800, but marked answer is C ($14,400); rationale itself states "$10,800." Answer-key letter mismatch. | Correct answer is D ($10,800)
+tough-ixf7ak.v3 | critical | 575 × $13.20 = $7,590, not $75,900; marked answer B and rationale arithmetic are both off by a factor of 10. | Correct answer is A ($7,590)
+tough-ixf7ak.v6 | minor | 600 × $11.10 = $6,660, but rationale states "$6,600"; arithmetic slightly off though $6,600 is the closest/intended option (B). | Answer B defensible; fix rationale to $6,660 (no exact option) or adjust rate
+tough-1rk32k.v7 | minor | Day-count rationale is muddled (computes $1,866.67 then "rounds to $2,100"); 81/360×$8,400≈$1,890. $2,100 is the closest option so answer A defensible but rationale sloppy. | Tighten rationale; answer A acceptable
+tough-2bohzi.v7 | minor | Stem labels it "income approach" but the scenario and answer are pure sales-comparison (least-adjustment comp). Mislabeled approach. | Change "income approach" to "sales comparison approach"; answer A correct

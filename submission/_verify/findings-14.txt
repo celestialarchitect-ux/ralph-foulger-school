@@ -1,0 +1,12 @@
+BATCH 14 — reviewed 130 questions, found 0 critical, 0 major, 4 minor
+
+hi-contracts-addenda-q06.v1 | minor | distractor mislabels HRS 521 as "(Residential Tenancies)" OK, but labels HRS 508D as "(Condominium Property Regimes)" — HRS 508D is Mandatory Seller Disclosures; condos are HRS 514B. Keyed answer (480E) is correct. | Relabel HRS 508D distractor as "Mandatory Seller Disclosures" (514B for condos)
+hi-contracts-addenda-q06.v5 | minor | distractor labels HRS 521 as "(Condominium Property Regimes)" — HRS 521 is the Residential Landlord-Tenant Code; condos are HRS 514B. Keyed answer (480E) correct. | Relabel HRS 521 distractor as "Residential Landlord-Tenant Code"
+hi-contracts-addenda-q06.v8 | minor | distractor labels HRS 521 as "(Condominium Regimes)" — incorrect; HRS 521 is Residential Landlord-Tenant. Keyed answer (480E) correct. | Relabel distractor
+hi-contracts-addenda-q06.v9 | minor | distractor labels HRS 508D as "(Mortgage Foreclosure)" — HRS 508D is Mandatory Seller Disclosures (foreclosure is HRS 667). Keyed answer (480E) correct. | Relabel HRS 508D distractor
+
+Notes (no flag):
+- HRS 480E verified = Mortgage Rescue Fraud Prevention Act, governs distressed property conveyance contracts (480E-6, -7). All q06 keyed answers (480E) correct.
+- HRS 467-14(4) verified requires written consent of both parties for dual agency. All q02 keyed answers correct.
+- DROA (Deposit Receipt Offer and Acceptance), Condominium Public Report, pre-1978 lead-paint disclosure, Agreement of Sale title retention, tenancy in common default, tenancy by entirety, PMM junior lien, non-warrantable condo — all keyed answers correct.
+- No math questions in this batch.

@@ -1,0 +1,4 @@
+BATCH 05 — reviewed 130 questions, found 0 critical, 1 major, 1 minor
+
+mandated-disclosures-q01.v5 | major | Question asks "In what year did this federal requirement become EFFECTIVE?" but the marked answer (1978) is the construction cutoff, not the law's effective date. The federal LBP disclosure rule (Title X / 24 CFR Part 35, 40 CFR Part 745) took effect in 1996. The 1978 date is the "target housing" construction threshold. Reword question stem to ask for the construction cutoff year, OR keep wording and answer would actually be 1996. As written, question is misleading.
+mandated-disclosures-q01.v9 | minor | Answer A ("built in or before 1977") is correct, but rationale states requirement applies to housing "built in 1978 or earlier" — 1978 itself is NOT target housing (cutoff is before Jan 1, 1978). Tighten rationale to "before 1978 / 1977 and earlier."

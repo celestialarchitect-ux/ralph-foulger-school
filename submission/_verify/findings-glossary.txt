@@ -1,0 +1,11 @@
+GLOSSARY — reviewed 277 terms, found 0 critical, 2 major, 3 minor
+
+Earnest Money Deposit (EMD) handling | major | Wrong timeline. HAR 16-99-4 requires trust-fund deposit by the NEXT BUSINESS DAY following receipt, not "within 5 business days of acceptance." | Hawaii brokers must deposit/place trust funds (including EMD) into a federally insured trust account or neutral escrow by the next business day after receipt (HAR 16-99-4); a salesperson must deliver funds to the PB/BIC by the next business day. | HI: Late deposit = license discipline.
+
+Eviction (Hawaii) | major | The "5 days for non-payment" figure is superseded. Act 278 (effective Feb 5, 2026) requires 10 days' written notice for residential nonpayment before filing, plus optional pre-filing mediation. For a 2026 textbook this is current law. | Hawaii residential evictions follow HRS 521/666 — proper notice, then court summary possession. | HI: As of Feb 5, 2026 (Act 278), nonpayment requires 10 days' notice (and mediation if tenant requests); 10 days for other curable breaches (HRS 521-72).
+
+Conversion | minor | "Felony in most states" overstates and varies; misappropriation may be a misdemeanor or felony by amount, and in Hawaii it is principally a license-law violation under HRS 467. | Using trust funds for one's own benefit; theft/misappropriation. License-law violation and may be criminal.
+
+Curtesy | minor | Imprecise — curtesy at common law also generally required issue (a child born of the marriage); not solely "husband's interest." | Common-law husband's life interest in deceased wife's real property (historically conditioned on birth of issue). Largely abolished.
+
+HARPTA | minor | Citation/scope imprecision: HARPTA is the income-tax withholding law under HRS 235-68; "Hawaii Real Property Tax" can be confused with county real property (ad valorem) tax. | Hawaii Real Property Tax Act (HRS 235-68). 7.25% withholding on the amount realized when a non-resident sells Hawaii real property; a prepayment of state income tax on the gain.

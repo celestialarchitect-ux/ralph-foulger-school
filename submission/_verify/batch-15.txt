@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 15/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[hi-financing-q03] (State · hi-financing)
+Q: Hawaii's usury statute is at:
+  A*: HRS 478
+  B : HRS 521
+  C : HRS 467
+  D : HRS 514B
+MARKED ANSWER: A
+RATIONALE: HRS 478 governs interest rate caps.
+
+[hi-financing-q03.v1] (State · hi-financing)
+Q: Which Hawaii Revised Statute specifically addresses maximum allowable interest rates and lending restrictions?
+  A*: HRS 478
+  B : HRS 467
+  C : HRS 521
+  D : HRS 514B
+MARKED ANSWER: A
+RATIONALE: HRS 478 is Hawaii's usury statute that establishes caps on interest rates and protects borrowers from excessive lending charges.
+
+[hi-financing-q03.v2] (State · hi-financing)
+Q: A real estate licensee needs to understand Hawaii's usury law to advise clients on financing terms. Where should they locate this statute?
+  A*: HRS 478 (usury and interest rate limits)
+  B : HRS 514B (condominium property regime)
+  C : HRS 467 (professional licensing)
+  D : HRS 521 (residential tenancies)
+MARKED ANSWER: A
+RATIONALE: HRS 478 contains Hawaii's usury provisions governing the maximum interest rates lenders may charge on loans.
+
+[hi-financing-q03.v3] (State · hi-financing)
+Q: When educating clients about predatory lending practices and legal interest rate ceilings in Hawaii, which statute applies?
+  A : HRS 521
+  B : HRS 514B
+  C*: HRS 478
+  D : HRS 467
+MARKED ANSWER: C
+RATIONALE: HRS 478 is Hawaii's usury law that establishes legal limits on interest rates and prevents usurious lending practices.
+
+[hi-financing-q03.v4] (State · hi-financing)
+Q: A mortgage lender's interest rate proposal must comply with Hawaii law. The relevant statutory authority is:
+  A*: HRS 478
+  B : HRS 521
+  C : HRS 467
+  D : HRS 514B
+MARKED ANSWER: A
+RATIONALE: HRS 478 governs interest rate caps and usury restrictions that all lenders in Hawaii must follow when structuring loan terms.
+
+[hi-financing-q03.v5] (State · hi-financing)
+Q: Under Hawaii Revised Statutes, which chapter specifically addresses maximum allowable interest rates that lenders may charge on loans?
+  A : HRS 467 (Real Estate Commission)
+  B : HRS 514B (Condominium Property Regimes)
+  C : HRS 521 (Residential Tenancies)
+  D*: HRS 478 (Interest Rate Limitations)
+MARKED ANSWER: D
+RATIONALE: HRS 478 is Hawaii's usury statute that establishes the legal caps on interest rates charged by lenders on consumer loans and mortgages.
+
+[hi-financing-q03.v6] (State · hi-financing)
+Q: A borrower in Hawaii wants to understand what state law prohibits excessive interest charges on their mortgage. Which statute should they consult?
+  A : HRS 514B
+  B*: HRS 478
+  C : HRS 467
+  D : HRS 521
+MARKED ANSWER: B
+RATIONALE: HRS 478 is Hawaii's usury law that protects borrowers by limiting the maximum interest rates lenders are permitted to charge on loans.
+
+[hi-financing-q03.v7] (State · hi-financing)
+Q: Which of the following Hawaii statutes contains provisions protecting borrowers from usurious lending practices?
+  A : HRS 467 (Real Estate Commission)
+  B : HRS 521 (Landlord and Tenant)
+  C : HRS 514B (Condominium Property)
+  D*: HRS 478 (Interest Rate Limitations)
+MARKED ANSWER: D
+RATIONALE: HRS 478 governs interest rate caps and usury law in Hawaii, establishing the maximum rates lenders may legally charge borrowers.
+
+[hi-financing-q03.v8] (State · hi-financing)
+Q: A Hawaii real estate agent is counseling a client about financing options. The client asks which state law regulates the maximum interest rates that can be charged on loans. The agent should refer to:
+  A*: HRS 478 for usury rate limitations
+  B : HRS 521 for residential lending standards
+  C : HRS 467 for licensing and conduct requirements
+  D : HRS 514B for mortgage regulations
+MARKED ANSWER: A
+RATIONALE: HRS 478 is Hawaii's usury statute that specifically caps the maximum interest rates allowed on loans to protect consumers from excessive charges.
+
+[hi-financing-q03.v9] (State · hi-financing)
+Q: Which Hawaii Revised Statutes chapter contains the regulations limiting the maximum interest rates that lenders may charge on loans?
+  A : HRS 521
+  B*: HRS 478
+  C : HRS 514B
+  D : HRS 467
+MARKED ANSWER: B
+RATIONALE: HRS 478 is Hawaii's usury statute that establishes caps on allowable interest rates for various types of loans and credit transactions.
+
+[hi-financing-q04] (State · hi-financing)
+Q: Lease conversion in Hawaii means:
+  A : AOAO restructuring
+  B*: Buying out the underlying fee on leasehold property
+  C : Converting a sale to a lease
+  D : Subletting
+MARKED ANSWER: B
+RATIONALE: Buying the fee from the lessor to convert leasehold to fee simple.
+
+[hi-financing-q04.v1] (State · hi-financing)
+Q: In Hawaii real estate terminology, what does it mean when a leaseholder decides to convert their property interest from leasehold to fee simple?
+  A : Negotiating a longer lease term with the lessor
+  B*: Purchasing the underlying fee ownership from the lessor
+  C : Filing for AOAO incorporation with the Department of Commerce
+  D : Transferring the lease to another party with consent
+MARKED ANSWER: B
+RATIONALE: Lease conversion involves the leaseholder acquiring full ownership by purchasing the fee interest from the lessor, converting the property from leasehold to fee simple status.
+
+[hi-financing-q04.v2] (State · hi-financing)
+Q: A Hawaii property owner holds a leasehold interest and wants to eliminate the lease entirely. What process describes acquiring full property ownership?
+  A*: Fee buyout or lease conversion
+  B : Lease assignment to a family member
+  C : Residential lease restructuring under HRS 667
+  D : Lease renewal
+MARKED ANSWER: A
+RATIONALE: Lease conversion is the process of buying out the lessor's fee interest to achieve absolute ownership and eliminate the underlying lease obligation.
+
+[hi-financing-q04.v3] (State · hi-financing)
+Q: Which of the following best describes what occurs during a lease conversion transaction in Hawaii?
+  A*: The leaseholder purchases the fee simple interest from the property owner
+  B : The tenant subleases a portion of the leasehold to a third party
+  C : The property is transferred to a homeowners association for management
+  D : The lessor and lessee agree to extend the lease term by 30 years
+MARKED ANSWER: A
+RATIONALE: Lease conversion specifically means the leaseholder buys the fee interest from the lessor, converting leasehold property into fee simple ownership.
+
+[hi-financing-q04.v4] (State · hi-financing)
+Q: A Hawaii licensee's client owns a property subject to a long-term lease. The client wishes to own the property outright without lease obligations. What is this transaction called?
+  A*: Lease conversion
+  B : Lease novation
+  C : Lease assumption
+  D : AOAO conversion
+MARKED ANSWER: A
+RATIONALE: Lease conversion is the purchase of the fee interest by the leaseholder to convert leasehold property into fee simple property free of lease encumbrances.
+
+[hi-financing-q04.v5] (State · hi-financing)
+Q: When a leaseholder in Hawaii negotiates to purchase the underlying fee interest from the lessor, what is this transaction called?
+  A : Fee simple acquisition
+  B : Leaseback arrangement
+  C : Easement subordination
+  D*: Lease conversion
+MARKED ANSWER: D
+RATIONALE: Lease conversion is the process of acquiring the fee interest to convert leasehold property into fee simple ownership.
+
+[hi-financing-q04.v6] (State · hi-financing)
+Q: A Hawaii property owner holds a leasehold estate on land. To eliminate the lessor's underlying fee interest and gain complete ownership, the property owner should pursue:
+  A : AOAO formation and restructuring
+  B : An assignment to a new leaseholder
+  C : A subordination agreement with the lessor
+  D*: Lease conversion through fee acquisition
+MARKED ANSWER: D
+RATIONALE: Lease conversion involves buying out the lessor's fee interest, converting the leasehold into full fee simple ownership.
+
+[hi-financing-q04.v7] (State · hi-financing)
+Q: In Hawaii real estate, what does the term 'lease conversion' most accurately describe?
+  A : The process of extending a lease term by mutual agreement
+  B : Transferring leasehold rights to a condominium association
+  C : Creating a second lease on the same property
+  D*: Purchasing the fee simple interest from the lessor to convert leasehold to fee ownership
+MARKED ANSWER: D
+RATIONALE: Lease conversion specifically refers to buying out the lessor's fee interest to convert leasehold property into fee simple.
+
+[hi-financing-q04.v8] (State · hi-financing)
+Q: A Hawaii leaseholder decides to eliminate the landlord's ownership interest by purchasing it. This action is best described as:
+  A*: Lease conversion
+  B : Lease renewal
+  C : Lease assignment
+  D : Lease subordination
+MARKED ANSWER: A
+RATIONALE: Lease conversion is the transaction where a leaseholder purchases the underlying fee from the lessor to achieve fee simple ownership.
+
+[hi-financing-q04.v9] (State · hi-financing)
+Q: Under Hawaii real estate law, when a leaseholder negotiates to purchase the underlying fee interest from the lessor, this transaction is properly called:
+  A : Fee simple conversion
+  B : Perpetual lease extension
+  C*: Lease conversion
+  D : Equity buydown
+MARKED ANSWER: C
+RATIONALE: Lease conversion specifically refers to acquiring the lessor's fee interest to convert leasehold property into fee simple ownership.
+
+[hi-escrow-closing-q00] (State · hi-escrow-closing)
+Q: In a Hawaii residential sale, who typically holds funds and documents during the transaction?
+  A : Buyer's attorney
+  B*: Neutral escrow company
+  C : Lender
+  D : Listing agent
+MARKED ANSWER: B
+RATIONALE: Hawaii is an escrow state — a neutral escrow handles closing.
+
+[hi-escrow-closing-q00.v1] (State · hi-escrow-closing)
+Q: During a Hawaii residential closing, which party is responsible for managing client funds and safekeeping documents until the transaction is complete?
+  A*: A neutral third-party escrow holder
+  B : The seller's real estate agent
+  C : The mortgage lender's title department
+  D : The buyer's real estate licensee
+MARKED ANSWER: A
+RATIONALE: Hawaii operates as an escrow state where a neutral escrow company holds all funds and documents to protect both parties until closing requirements are satisfied.
+
+[hi-escrow-closing-q00.v2] (State · hi-escrow-closing)
+Q: What is the primary function of the escrow holder in a typical Hawaii home purchase transaction?
+  A : To represent the seller's interests in negotiating the final purchase price
+  B*: To hold earnest money, documents, and funds in a fiduciary capacity until all conditions are met
+  C : To approve the loan application and verify creditworthiness
+  D : To conduct the title search and prepare the deed
+MARKED ANSWER: B
+RATIONALE: The escrow holder in Hawaii serves as an impartial stakeholder, safeguarding client money and transaction documents until all closing conditions are satisfied and the transaction can close.
+
+[hi-escrow-closing-q00.v3] (State · hi-escrow-closing)
+Q: In Hawaii real estate practice, which of the following best describes the role of an escrow company in a residential purchase?
+  A : Agent responsible for marketing and showing the property
+  B : Advocate for the buyer's financing needs
+  C*: Neutral custodian of funds and records throughout the transaction process
+  D : Representative of the lender's insurance requirements
+MARKED ANSWER: C
+RATIONALE: Hawaii's escrow system designates a neutral, independent escrow company to hold all funds, documents, and records in trust until the transaction closing conditions are fully satisfied.
+
+[hi-escrow-closing-q00.v4] (State · hi-escrow-closing)
+Q: When a buyer submits earnest money and a seller delivers documents in a Hawaii residential sale, who receives and maintains custody of these items?
+  A*: A neutral escrow service designated for the transaction
+  B : The cooperating agents' shared trust account
+  C : The real estate broker's office safe
+  D : The title insurance company's vault
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires a neutral escrow company to receive and hold earnest money deposits, documents, and all transaction funds as a fiduciary until closing occurs.
+
+[hi-escrow-closing-q00.v5] (State · hi-escrow-closing)
+Q: Which party is responsible for safeguarding earnest money deposits and closing documents in a typical Hawaii real estate transaction?
+  A : Real estate salesperson
+  B : Real estate appraiser
+  C : Seller's mortgagee
+  D*: Escrow agent or title company
+MARKED ANSWER: D
+RATIONALE: Hawaii's escrow system requires a neutral third party (escrow agent or title company) to hold all funds and documents until closing conditions are satisfied.
+
+[hi-escrow-closing-q00.v6] (State · hi-escrow-closing)
+Q: Under Hawaii real estate law, where are buyer deposits and transaction documents typically held prior to closing?
+  A : With the listing brokerage firm
+  B : In the seller's attorney's trust account
+  C*: With a neutral escrow or title company
+  D : In the lender's loan servicing account
+MARKED ANSWER: C
+RATIONALE: Hawaii operates as an escrow state where a neutral escrow entity holds all funds and documentation to ensure impartiality and protect both buyer and seller interests.
+
+[hi-escrow-closing-q00.v7] (State · hi-escrow-closing)
+Q: What is the primary function of the escrow holder in a Hawaii residential purchase transaction?
+  A : To provide appraisal services and property valuation
+  B*: To serve as a neutral custodian of funds and documents until closing conditions are met
+  C : To underwrite and approve the mortgage loan
+  D : To represent the seller's financial interests exclusively
+MARKED ANSWER: B
+RATIONALE: The escrow holder maintains neutrality by safeguarding all transaction money and documents, releasing them only when all closing conditions and requirements are fulfilled.
+
+[hi-escrow-closing-q00.v8] (State · hi-escrow-closing)
+Q: In Hawaii, if a buyer and seller enter into a purchase agreement, who should receive and hold the earnest money deposit and settlement paperwork?
+  A : The mortgage broker or loan originator
+  B : The seller directly
+  C*: A neutral escrow company or title company
+  D : The buyer's real estate agent
+MARKED ANSWER: C
+RATIONALE: Hawaii's escrow requirement mandates that a neutral third party hold all transaction funds and documents to prevent conflicts of interest and ensure compliance with closing instructions.
+
+[hi-escrow-closing-q00.v9] (State · hi-escrow-closing)
+Q: When a residential property closes in Hawaii, which party is responsible for safeguarding the earnest money deposit and settlement documents until all closing conditions are satisfied?
+  A : The selling broker's office manager
+  B : The mortgaging institution providing the loan
+  C*: An impartial escrow agent or title company
+  D : The buyer's real estate agent
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires a neutral third party (escrow agent or title company) to hold funds and documents in trust to protect both buyer and seller until closing requirements are met.
+
+[hi-escrow-closing-q01] (State · hi-escrow-closing)
+Q: Hawaii state-level tax on real property transfers is:
+  A*: Conveyance tax
+  B : GET
+  C : Stamp tax
+  D : HARPTA
+MARKED ANSWER: A
+RATIONALE: Conveyance tax is the transfer tax.
+
+[hi-escrow-closing-q01.v1] (State · hi-escrow-closing)
+Q: Which of the following best describes Hawaii's tax imposed upon the sale of real property?
+  A : Documentary stamp tax
+  B*: Conveyance tax
+  C : General Excise Tax (GET)
+  D : Foreign Investment in Real Property Tax Act
+MARKED ANSWER: B
+RATIONALE: Conveyance tax is Hawaii's state-level transfer tax on real property sales. GET applies to general business transactions, not specifically to real property transfers.
+
+[hi-escrow-closing-q01.v2] (State · hi-escrow-closing)
+Q: A buyer and seller in Hawaii are negotiating a residential property transaction. What state tax applies specifically to the transfer of the property itself?
+  A*: Conveyance tax
+  B : FIRPTA withholding
+  C : Stamp tax
+  D : Acquisition tax
+MARKED ANSWER: A
+RATIONALE: Conveyance tax is Hawaii's transfer tax on real property conveyances. FIRPTA is a federal requirement, not a state transfer tax, and stamp tax is not Hawaii's transfer mechanism.
+
+[hi-escrow-closing-q01.v3] (State · hi-escrow-closing)
+Q: Under Hawaii real estate law, the primary state-level tax obligation arising from the transfer of ownership of real property is known as:
+  A : Property transfer fee
+  B*: Conveyance tax
+  C : Excise tax on sales
+  D : Realty transaction tax
+MARKED ANSWER: B
+RATIONALE: Conveyance tax is the statutory name for Hawaii's transfer tax on real property. While other terms may sound plausible, only 'conveyance tax' is the correct legal designation in Hawaii.
+
+[hi-escrow-closing-q01.v4] (State · hi-escrow-closing)
+Q: When a property deed is recorded in Hawaii, which state tax is triggered by the actual transfer of the real property?
+  A : Capital gains tax
+  B : Inheritance tax
+  C*: Conveyance tax
+  D : GET (General Excise Tax)
+MARKED ANSWER: C
+RATIONALE: Conveyance tax is Hawaii's direct tax on the transfer of real property ownership. Hawaii does not impose an inheritance tax or capital gains tax on real estate transfers at the state level.
+
+[hi-escrow-closing-q01.v5] (State · hi-escrow-closing)
+Q: Which of the following is the proper name for Hawaii's transfer tax imposed on the sale of real property?
+  A : Real property sales tax
+  B : Property transaction duty
+  C*: Conveyance tax
+  D : Transfer assessment fee
+MARKED ANSWER: C
+RATIONALE: Conveyance tax is Hawaii's official tax on real property transfers, distinct from general excise tax (GET) or HARPTA requirements.
+
+[hi-escrow-closing-q01.v6] (State · hi-escrow-closing)
+Q: A buyer closes on residential property in Honolulu. What state-level tax applies to this transaction?
+  A : General excise tax only
+  B*: Conveyance tax
+  C : Stamp tax
+  D : Recording and filing fee
+MARKED ANSWER: B
+RATIONALE: Hawaii imposes a conveyance tax on real property transfers; GET applies to services but not the real property transfer itself.
+
+[hi-escrow-closing-q01.v7] (State · hi-escrow-closing)
+Q: Under Hawaii law, the tax levied when real property changes ownership is called:
+  A : Documentary stamp tax
+  B*: Conveyance tax
+  C : HARPTA withholding tax
+  D : Acquisition surcharge
+MARKED ANSWER: B
+RATIONALE: Conveyance tax is Hawaii's established transfer tax on real property; HARPTA is a withholding requirement, not the transfer tax itself.
+
+[hi-escrow-closing-q01.v8] (State · hi-escrow-closing)
+Q: Which tax does a seller owe to the State of Hawaii when transferring ownership of real property?
+  A : Deed recording tax
+  B : Capital gains transfer fee
+  C*: Conveyance tax
+  D : Property disposition levy
+MARKED ANSWER: C
+RATIONALE: Conveyance tax is Hawaii's statutory transfer tax imposed on real property sales; it is separate from recording fees and other transaction costs.
+
+[hi-escrow-closing-q01.v9] (State · hi-escrow-closing)
+Q: Which of the following is the name of Hawaii's tax imposed on the sale or transfer of real property?
+  A*: Conveyance tax
+  B : General excise tax
+  C : Hawaii real property withholding tax
+  D : Transfer assessment fee
+MARKED ANSWER: A
+RATIONALE: Conveyance tax is Hawaii's specific tax on real property transfers. The other options refer to different tax mechanisms or do not apply specifically to property transfers.
+
+[hi-escrow-closing-q02] (State · hi-escrow-closing)
+Q: Escrow companies in Hawaii are governed by:
+  A*: HRS 449
+  B : HRS 514B
+  C : HRS 521
+  D : HRS 467
+MARKED ANSWER: A
+RATIONALE: HRS 449 = Escrow Depositories.
+
+[hi-escrow-closing-q02.v1] (State · hi-escrow-closing)
+Q: Which Hawaii Revised Statutes section specifically regulates escrow depository operations and trust account management?
+  A*: HRS 449 (Escrow Depositories)
+  B : HRS 467 (Real Estate Commission)
+  C : HRS 514B (Homeowners Associations)
+  D : HRS 521 (Condominium Property Regimes)
+MARKED ANSWER: A
+RATIONALE: HRS 449 is the dedicated statutory chapter governing escrow depositories in Hawaii, including their licensing, operations, and trust account requirements.
+
+[hi-escrow-closing-q02.v2] (State · hi-escrow-closing)
+Q: A Hawaii escrow company holding earnest money deposits must comply with the requirements found in:
+  A : HRS 467 and Real Estate Commission rules
+  B : HRS 514B and condominium statutes
+  C : HRS 521 and property management laws
+  D*: HRS 449 only
+MARKED ANSWER: D
+RATIONALE: HRS 449 is the controlling statute for all escrow depository activities in Hawaii, including the handling and safeguarding of client funds.
+
+[hi-escrow-closing-q02.v3] (State · hi-escrow-closing)
+Q: When establishing a trust account for client funds in Hawaii real estate transactions, an escrow company must follow the regulations in:
+  A : HRS 514B
+  B*: HRS 449
+  C : HRS 467
+  D : HRS 521
+MARKED ANSWER: B
+RATIONALE: HRS 449 establishes all requirements for escrow depositories in Hawaii, including proper trust account setup, record-keeping, and custodial obligations.
+
+[hi-escrow-closing-q02.v4] (State · hi-escrow-closing)
+Q: The statutory authority for licensing and regulating escrow depositories as neutral third parties in Hawaii transactions comes from:
+  A*: HRS 449 (Escrow Depositories)
+  B : HRS 467 (Real Estate Commission)
+  C : HRS 514B (Association Law)
+  D : HRS 521 (Property Law)
+MARKED ANSWER: A
+RATIONALE: HRS 449 is the specific statute chapter that provides the legal framework for escrow depository licensing, oversight, and operational standards in Hawaii.
+
+[hi-escrow-closing-q02.v5] (State · hi-escrow-closing)
+Q: Which Hawaii Revised Statute specifically establishes the legal framework for escrow depository operations?
+  A : HRS 467
+  B*: HRS 449
+  C : HRS 514B
+  D : HRS 521
+MARKED ANSWER: B
+RATIONALE: HRS 449 is the statute that governs escrow depositories and their regulatory requirements in Hawaii.
+
+[hi-escrow-closing-q02.v6] (State · hi-escrow-closing)
+Q: A real estate transaction in Hawaii requires escrow services. Under which statute must the escrow company operate?
+  A*: HRS 449 (Escrow Depositories)
+  B : HRS 467 (Real Estate Commission)
+  C : HRS 521 (Residential Tenancies)
+  D : HRS 514B (Nonprofit Corporations)
+MARKED ANSWER: A
+RATIONALE: HRS 449 is the controlling statute for escrow depository activities and licensing in the state of Hawaii.
+
+[hi-escrow-closing-q02.v7] (State · hi-escrow-closing)
+Q: If a licensee refers a client to an escrow company, that company's compliance obligations fall under:
+  A : HRS 514B, which governs corporate structures
+  B*: HRS 449, which provides the statutory authority for escrow depositories
+  C : HRS 467, which regulates all real estate professionals
+  D : HRS 521, which addresses rental property management
+MARKED ANSWER: B
+RATIONALE: HRS 449 is the specific Hawaii statute that authorizes and regulates escrow depository licensees and their operations.
+
+[hi-escrow-closing-q02.v8] (State · hi-escrow-closing)
+Q: When a real estate agent questions whether an escrow company is properly licensed, the agent should reference which statute?
+  A : HRS 514B (Corporate formation rules)
+  B : HRS 521 (Landlord-Tenant Law)
+  C*: HRS 449 (Escrow Depository Licensing)
+  D : HRS 467 (Real Estate Commission jurisdiction)
+MARKED ANSWER: C
+RATIONALE: HRS 449 establishes the licensing and regulatory requirements specific to escrow depositories in Hawaii.
+
+[hi-escrow-closing-q02.v9] (State · hi-escrow-closing)
+Q: Which Hawaii Revised Statute specifically regulates the licensing and conduct of escrow depositories?
+  A : HRS 521 – Condominium Property Regimes
+  B : HRS 514B – Homeowners Associations
+  C : HRS 467 – Broker Licensing
+  D*: HRS 449 – Escrow Depositories
+MARKED ANSWER: D
+RATIONALE: HRS 449 is the statute that directly governs escrow depositories in Hawaii, establishing their licensing requirements and regulatory framework.
+
+[hi-escrow-closing-q03] (State · hi-escrow-closing)
+Q: A condominium sale typically requires what document from the AOAO?
+  A : CDUP
+  B : CPR
+  C : TCT
+  D*: Estoppel certificate
+MARKED ANSWER: D
+RATIONALE: Estoppel certificate showing fees owed and project status.
+
+[hi-escrow-closing-q03.v1] (State · hi-escrow-closing)
+Q: When a buyer is purchasing a condo unit in Hawaii, which AOAO document must be provided to verify the buyer's share of common area fees and any outstanding assessments?
+  A : CDUP
+  B : Preliminary title report
+  C*: Estoppel certificate
+  D : CPR
+MARKED ANSWER: C
+RATIONALE: The estoppel certificate is the required AOAO document that discloses the buyer's proportionate share of fees, current balance owed, and any special assessments or pending matters affecting the unit.
+
+[hi-escrow-closing-q03.v2] (State · hi-escrow-closing)
+Q: Before closing on a condominium purchase in Hawaii, the buyer's lender typically requires an AOAO letter that certifies what information?
+  A : Proof of casualty insurance coverage on the building
+  B : The exact square footage of the common areas
+  C*: Current monthly fees, past-due amounts, and the status of the project
+  D : The names of all current board members and their terms
+MARKED ANSWER: C
+RATIONALE: The estoppel certificate from the AOAO certifies current fees, any arrearages owed by the seller, and the financial/legal status of the project, which lenders require for underwriting.
+
+[hi-escrow-closing-q03.v3] (State · hi-escrow-closing)
+Q: A real estate licensee representing a condo buyer should ensure that which AOAO document is obtained during the transaction to protect the buyer's interests?
+  A : Certificate of occupancy
+  B : Building permit from the city
+  C : Notice of Condominium Regime
+  D*: Estoppel certificate detailing fees and project status
+MARKED ANSWER: D
+RATIONALE: The estoppel certificate protects the buyer by documenting what fees are owed, what the monthly assessments are, and whether any special assessments or liens exist against the unit.
+
+[hi-escrow-closing-q03.v4] (State · hi-escrow-closing)
+Q: In a Hawaii condo transaction, the AOAO must furnish a statement to the buyer that shows what items?
+  A : Flood zone designation and environmental hazards
+  B*: Monthly common area maintenance fees, outstanding charges owed by the seller, and project condition
+  C : Zoning classification and land use designation
+  D : Property tax assessment and valuation history
+MARKED ANSWER: B
+RATIONALE: The estoppel certificate is the AOAO statement that discloses monthly fees, any unpaid amounts, and the overall financial and legal condition of the condominium project.
+
+[hi-escrow-closing-q03.v5] (State · hi-escrow-closing)
+Q: When closing on a condo unit purchase in Hawaii, which AOAO document verifies the current assessment obligations and project financial standing?
+  A : CPR
+  B : CDUP
+  C*: Estoppel certificate
+  D : Declaration of Condominium
+MARKED ANSWER: C
+RATIONALE: The estoppel certificate is the standard AOAO document that certifies fees owed, assessments due, and the financial/legal status of the unit at the time of sale.
+
+[hi-escrow-closing-q03.v6] (State · hi-escrow-closing)
+Q: A buyer's lender typically requires documentation from the association showing what information before approving a condo mortgage?
+  A : A certified list of all unit owners
+  B : The CDUP approval letter from the city
+  C : A copy of the original subdivision map
+  D*: Proof of the AOAO's fee obligations and reserve status
+MARKED ANSWER: D
+RATIONALE: Lenders require an estoppel certificate from the AOAO to confirm outstanding fees, special assessments, and the project's financial condition to assess mortgage risk.
+
+[hi-escrow-closing-q03.v7] (State · hi-escrow-closing)
+Q: In a Hawaii condo transaction, the AOAO is required to provide which document that discloses outstanding assessments and fees owed by the seller?
+  A : Property Tax Declaration
+  B : Condominium Project Report
+  C : Title Search Report
+  D*: Estoppel Certificate
+MARKED ANSWER: D
+RATIONALE: The estoppel certificate is the AOAO's official statement of the unit's assessment status and any outstanding financial obligations at the time of closing.
+
+[hi-escrow-closing-q03.v8] (State · hi-escrow-closing)
+Q: A real estate agent preparing a condo sale should obtain which document from the association to verify there are no hidden liens or delinquent assessments against the property?
+  A : Architectural Review Approval
+  B : CDUP authorization
+  C : CPR filing
+  D*: Estoppel certificate
+MARKED ANSWER: D
+RATIONALE: The estoppel certificate serves as the AOAO's certified statement confirming all fees, assessments, and liens against the unit, protecting the buyer and lender from undisclosed obligations.
+
+[hi-escrow-closing-q03.v9] (State · hi-escrow-closing)
+Q: When a buyer is purchasing a condominium unit in Hawaii, which AOAO-issued document must be provided to verify the current financial obligations and operational status of the association?
+  A : CDUP
+  B*: Estoppel certificate
+  C : TCT
+  D : CPR
+MARKED ANSWER: B
+RATIONALE: An estoppel certificate from the AOAO confirms outstanding fees, assessments, and project status, protecting the buyer from unknown liabilities and is standard in condo transactions.
+
+[hi-escrow-closing-q04] (State · hi-escrow-closing)
+Q: Wire fraud risk at closing should be addressed by:
+  A*: Verifying wire instructions by phone with known number
+  B : Using only personal checks
+  C : Sending without verification
+  D : Trusting all email instructions
+MARKED ANSWER: A
+RATIONALE: Always verify by phone — wire fraud is common.
+
+[hi-escrow-closing-q04.v1] (State · hi-escrow-closing)
+Q: To protect clients from wire fraud during a real estate transaction closing, a licensee should:
+  A*: Confirm wire transfer details using a telephone number independently verified from previous records
+  B : Accept wire instructions via text message from the title company
+  C : Use a wire service that does not require verbal confirmation
+  D : Process wire requests immediately upon receipt of email confirmation
+MARKED ANSWER: A
+RATIONALE: Verifying wire instructions through an independently confirmed phone number is the industry standard to prevent wire fraud. Email and text instructions alone are vulnerable to scammer interception.
+
+[hi-escrow-closing-q04.v2] (State · hi-escrow-closing)
+Q: A buyer's agent receives an email with updated wire instructions for the earnest money deposit. The safest approach is to:
+  A*: Call the title company or escrow holder at a phone number from a previous closing statement to confirm the instruction
+  B : Forward the email directly to the buyer with a recommendation to wire immediately
+  C : Request the buyer send funds via ACH transfer instead, which does not require verification
+  D : Advise the buyer that all wire emails from licensed professionals are automatically verified
+MARKED ANSWER: A
+RATIONALE: Calling an independently verified phone number to confirm wire instructions is the best practice to detect and prevent wire fraud schemes. Email instructions alone are not sufficient verification.
+
+[hi-escrow-closing-q04.v3] (State · hi-escrow-closing)
+Q: Which procedure best mitigates wire fraud exposure in a closing transaction?
+  A*: Contacting the known phone number of the escrow agent to verbally confirm wire routing details before funds are sent
+  B : Using a wire transfer service with a lower daily transaction limit
+  C : Having the buyer's bank initiate the wire on behalf of the buyer
+  D : Requiring the buyer to sign a wire instruction acknowledgment form
+MARKED ANSWER: A
+RATIONALE: Verbal confirmation with a known escrow agent via previously verified phone contact is the most reliable method to authenticate wire instructions and prevent fraud. Form signatures and transfer limits do not stop fraudulent interception.
+
+[hi-escrow-closing-q04.v4] (State · hi-escrow-closing)
+Q: A closing agent emails new wire instructions to a licensee one hour before closing. To comply with wire fraud prevention standards, the licensee must:
+  A : Accept the email as official because it comes from a licensed professional's email account
+  B : Ask the buyer to use a cashier's check instead to avoid any wire complications
+  C*: Call the closing agent at a phone number obtained independently to verify the wire instructions are legitimate
+  D : Immediately share the email with all parties to expedite the transaction
+MARKED ANSWER: C
+RATIONALE: Independent verbal verification of wire instructions via a known phone number confirms legitimacy and is essential to prevent impostors from redirecting funds. Email alone is insufficient, even from professional accounts.
+
+[hi-escrow-closing-q04.v5] (State · hi-escrow-closing)
+Q: To minimize the risk of wire fraud during a real estate closing transaction, a licensee should:
+  A : Recommend that clients use cashier's checks instead of electronic transfers
+  B*: Contact the sender using a previously known and verified phone number to confirm wire details
+  C : Process wire transfers immediately upon receipt of written instructions from any party
+  D : Accept wire transfer instructions via email without additional confirmation
+MARKED ANSWER: B
+RATIONALE: Phone verification using a known number prevents fraudsters from intercepting and altering wire instructions sent via email or text.
+
+[hi-escrow-closing-q04.v6] (State · hi-escrow-closing)
+Q: A client receives new wire instructions via email on the day of closing. What is the best practice to prevent wire fraud?
+  A*: Call the client back using a phone number from your prior records to confirm the wire instructions are legitimate
+  B : Ask the client to resend the instructions via text message for verification
+  C : Process the wire immediately since the client provided written authorization
+  D : Forward the email to the title company without delay
+MARKED ANSWER: A
+RATIONALE: Calling back using established contact information ensures you're speaking with the actual party, not a criminal who spoofed their email address.
+
+[hi-escrow-closing-q04.v7] (State · hi-escrow-closing)
+Q: Which strategy best protects clients and escrow accounts from wire fraud schemes in Hawaii real estate closings?
+  A : Limiting wire transfers to amounts under $10,000 to reduce fraud exposure
+  B : Implementing a policy that all wire instructions must come from the real estate agent's email account
+  C : Using automated wire transfer systems that accept instructions from any email domain
+  D*: Requiring verbal confirmation of wire transfer details through a telephone call to a known contact number
+MARKED ANSWER: D
+RATIONALE: Direct telephone confirmation with a known number is the gold standard to authenticate wire instructions and prevent interception by bad actors.
+
+[hi-escrow-closing-q04.v8] (State · hi-escrow-closing)
+Q: A title company receives wire instructions that differ from the original closing estimate. The best practice is to:
+  A : Request that the lender send a certified check instead of a wire transfer
+  B : Process the new wire amount since it came from the lender's email system
+  C : Wait 24 hours before processing to allow for document verification
+  D*: Call the lender using a phone number independently verified from prior documents to confirm the change
+MARKED ANSWER: D
+RATIONALE: Verifying any change in wire instructions via phone to a known number prevents fraudsters from altering amounts or account information through email spoofing.
+
+[hi-escrow-closing-q04.v9] (State · hi-escrow-closing)
+Q: To protect against wire fraud schemes during a real estate transaction, what is the most critical step a closing agent should take before processing large fund transfers?
+  A : Request the client send funds via cashier's check to the closing office address
+  B*: Confirm wire recipient details by calling the client at a previously verified phone number
+  C : Use ACH transfers exclusively to avoid wire fraud altogether
+  D : Process the wire immediately upon receiving written email confirmation from any party
+MARKED ANSWER: B
+RATIONALE: Calling the client at a known number to verify wire instructions is the essential safeguard against fraud, as criminals often intercept emails to redirect funds to their accounts.
+
+[hi-professional-conduct-q00] (State · hi-professional-conduct)
+Q: How many hours of pre-licensing education are required for a Hawaii salesperson license?
+  A : 45
+  B*: 60
+  C : 90
+  D : 30
+MARKED ANSWER: B
+RATIONALE: 60-hour Salesperson Pre-Licensing Course at REC-approved school.
+
+[hi-professional-conduct-q00.v1] (State · hi-professional-conduct)
+Q: A prospective salesperson in Hawaii enrolls in a Real Estate Commission-approved pre-licensing course. What is the minimum classroom instruction requirement she must complete before applying for her license?
+  A : 75 hours of classroom instruction
+  B : 45 hours of classroom instruction
+  C : 90 hours of classroom instruction
+  D*: 60 hours of classroom instruction
+MARKED ANSWER: D
+RATIONALE: Hawaii REC mandates 60 hours of pre-licensing education for salesperson candidates at an approved school.
+
+[hi-professional-conduct-q00.v2] (State · hi-professional-conduct)
+Q: Before taking the Hawaii salesperson licensing examination, an applicant must satisfy the pre-licensing education requirement. How many total hours must be completed at an REC-approved institution?
+  A : 90 hours
+  B : 45 hours
+  C*: 60 hours
+  D : 30 hours
+MARKED ANSWER: C
+RATIONALE: The Hawaii Real Estate Commission requires exactly 60 hours of pre-licensing coursework for salesperson license applicants.
+
+[hi-professional-conduct-q00.v3] (State · hi-professional-conduct)
+Q: A real estate school in Honolulu is designing its salesperson pre-licensing course to comply with Hawaii REC standards. What is the required number of instructional hours the course must provide?
+  A : 75 hours minimum
+  B : 40 hours minimum
+  C : 50 hours minimum
+  D*: 60 hours
+MARKED ANSWER: D
+RATIONALE: Hawaii REC-approved salesperson pre-licensing courses must consist of 60 hours of instruction to meet state requirements.
+
+[hi-professional-conduct-q00.v4] (State · hi-professional-conduct)
+Q: An applicant reviewing the prerequisites for a Hawaii salesperson license notices the pre-licensing education requirement. If the course meets REC standards, how many hours of instruction should the applicant expect to complete?
+  A : At least 90 hours
+  B : Between 40 and 50 hours
+  C : Exactly 45 hours
+  D*: Between 50 and 70 hours, with 60 hours required
+MARKED ANSWER: D
+RATIONALE: Hawaii REC mandates exactly 60 hours of pre-licensing education for salesperson candidates at approved schools.
+
+[hi-professional-conduct-q00.v5] (State · hi-professional-conduct)
+Q: A candidate in Hawaii is enrolling in a REC-approved pre-licensing school to become a salesperson. What is the minimum number of instructional hours required?
+  A*: 60 hours
+  B : 75 hours
+  C : 90 hours
+  D : 45 hours
+MARKED ANSWER: A
+RATIONALE: Hawaii Real Estate Commission requires 60 hours of pre-licensing education at an approved school for salesperson licensure.
+
+[hi-professional-conduct-q00.v6] (State · hi-professional-conduct)
+Q: Before applying for a Hawaii real estate salesperson license through the REC, how many contact hours must an applicant complete at an accredited pre-licensing program?
+  A : 30 hours minimum
+  B*: 60 hours minimum
+  C : 55 hours minimum
+  D : 80 hours minimum
+MARKED ANSWER: B
+RATIONALE: The Hawaii Real Estate Commission mandates 60 contact hours of pre-licensing classroom instruction for all salesperson license applicants.
+
+[hi-professional-conduct-q00.v7] (State · hi-professional-conduct)
+Q: An individual is preparing to take the Hawaii salesperson license exam. According to REC regulations, what is the required course load before she is eligible to sit for the test?
+  A : 40 hours of approved coursework
+  B : 70 hours of approved coursework
+  C*: 60 hours of approved coursework
+  D : 100 hours of approved coursework
+MARKED ANSWER: C
+RATIONALE: Hawaii requires completion of a 60-hour pre-licensing course from an REC-approved provider as a prerequisite to taking the salesperson licensing exam.
+
+[hi-professional-conduct-q00.v8] (State · hi-professional-conduct)
+Q: Which statement accurately describes the pre-licensing education requirement for obtaining a Hawaii salesperson license?
+  A*: Candidates must complete 60 hours at a Hawaii REC-approved real estate school.
+  B : Candidates must complete 45 hours at any real estate school in the United States.
+  C : Candidates must complete 90 hours plus pass a broker-level exam.
+  D : Candidates must complete 30 hours and provide proof of 2 years prior experience.
+MARKED ANSWER: A
+RATIONALE: Hawaii REC regulations specify that salesperson applicants must successfully complete a 60-hour pre-licensing course at an approved school.
+
+[hi-professional-conduct-q00.v9] (State · hi-professional-conduct)
+Q: A candidate in Hawaii is enrolling in a Real Estate Commission-approved pre-licensing program to become a salesperson. What is the minimum classroom hour requirement she must complete before sitting for the licensing exam?
+  A*: 60 hours of instruction
+  B : 75 hours of instruction
+  C : 120 hours of instruction
+  D : 45 hours of instruction
+MARKED ANSWER: A
+RATIONALE: Hawaii REC mandates 60 hours of pre-licensing education at an approved school for salesperson licensure. This is the foundational requirement before exam eligibility.
+
+[hi-professional-conduct-q01] (State · hi-professional-conduct)
+Q: Hawaii continuing education for license renewal is:
+  A*: 20 hours every 2 years (license cycle)
+  B : 40 hours every 4 years
+  C : 30 hours every 2 years
+  D : 10 hours / year
+MARKED ANSWER: A
+RATIONALE: 20 CE hours per biennial cycle, including mandatory Core Course.
+
+[hi-professional-conduct-q01.v1] (State · hi-professional-conduct)
+Q: A Hawaii real estate licensee must complete continuing education during each two-year renewal period. How many hours are required?
+  A*: 20 hours with mandatory Core Course completion
+  B : 25 hours of elective courses only
+  C : 15 hours including one approved Core Course
+  D : 10 hours annually to remain current
+MARKED ANSWER: A
+RATIONALE: Hawaii REC mandates 20 CE hours per biennial license cycle, including the mandatory Core Course as part of that requirement.
+
+[hi-professional-conduct-q01.v2] (State · hi-professional-conduct)
+Q: To renew a Hawaii real estate license on schedule, an agent must fulfill which continuing education requirement?
+  A : 40 hours spread over four calendar years
+  B : 5 hours per quarter
+  C : 30 hours every 24 months
+  D*: 20 hours per two-year license cycle
+MARKED ANSWER: D
+RATIONALE: Hawaii licensees must complete exactly 20 CE hours during their two-year renewal cycle to maintain active licensure status.
+
+[hi-professional-conduct-q01.v3] (State · hi-professional-conduct)
+Q: How many continuing education hours does the Hawaii Real Estate Commission require during a standard license renewal cycle?
+  A*: 20 hours including Core Course as part of the total
+  B : 30 hours minimum before final renewal
+  C : 10 hours with optional Core Course
+  D : 50 hours if renewing after a lapse
+MARKED ANSWER: A
+RATIONALE: The Hawaii REC standard requirement is 20 CE hours per two-year biennial cycle, with the Core Course counted as part of those 20 hours.
+
+[hi-professional-conduct-q01.v4] (State · hi-professional-conduct)
+Q: A salesperson's Hawaii real estate license expires in two years. What is the continuing education requirement for renewal?
+  A : 10 hours annually without Core Course prerequisite
+  B : 15 hours of electives plus 5 hours of Core instruction
+  C*: 20 hours per biennial period with mandatory Core Course
+  D : 40 hours total to maintain dual licensure
+MARKED ANSWER: C
+RATIONALE: Licensees must complete 20 CE hours during each two-year renewal cycle, with the mandatory Core Course included within those 20 hours.
+
+[hi-professional-conduct-q01.v5] (State · hi-professional-conduct)
+Q: What is the total continuing education requirement for a Hawaii real estate licensee over one complete license renewal cycle?
+  A : 25 hours with no mandatory courses required
+  B*: 20 hours including the mandatory Core Course
+  C : 15 hours including the mandatory Core Course
+  D : 30 hours split equally between broker and salesperson tracks
+MARKED ANSWER: B
+RATIONALE: Hawaii requires 20 CE hours per two-year license cycle, which must include completion of the mandatory Core Course.
+
+[hi-professional-conduct-q01.v6] (State · hi-professional-conduct)
+Q: To maintain an active Hawaii real estate license, how many continuing education hours must a licensee complete between renewal periods?
+  A : 40 hours per biennial renewal period
+  B : 18 hours per year with at least 6 hours in law updates
+  C*: 20 hours per biennial renewal period, including Core Course
+  D : 10 hours annually with no specific course requirements
+MARKED ANSWER: C
+RATIONALE: The Hawaii Real Estate Commission mandates 20 CE hours every two years for license renewal, with the Core Course being a required component.
+
+[hi-professional-conduct-q01.v7] (State · hi-professional-conduct)
+Q: A Hawaii real estate licensee's renewal is due in 24 months. Which continuing education requirement must be satisfied?
+  A*: Minimum of 20 hours including mandatory Core Course completion
+  B : Minimum of 30 hours with broker approval documentation
+  C : Minimum of 35 hours with at least half in trust account management
+  D : Minimum of 10 hours of elective courses only
+MARKED ANSWER: A
+RATIONALE: Over a 24-month (two-year) cycle, licensees must complete 20 CE hours, which includes the required Core Course as part of that total.
+
+[hi-professional-conduct-q01.v8] (State · hi-professional-conduct)
+Q: What continuing education commitment applies to a Hawaii licensee renewing a license issued two years ago?
+  A*: 20 hours total, with Core Course mandatory
+  B : 45 hours for inactive license reinstatement
+  C : 24 hours distributed across four quarters annually
+  D : 5 hours of Core Course instruction only
+MARKED ANSWER: A
+RATIONALE: Hawaii's biennial license cycle requires 20 total CE hours for renewal, with the Core Course being a non-waivable component of that requirement.
+
+[hi-professional-conduct-q01.v9] (State · hi-professional-conduct)
+Q: To maintain an active Hawaii real estate license, how many continuing education hours must a licensee complete during each license renewal period?
+  A*: 20 hours per two-year renewal cycle, including a mandatory Core Course
+  B : 35 hours every three years
+  C : 15 hours annually with no core requirement
+  D : 25 hours per two-year cycle with optional electives
+MARKED ANSWER: A
+RATIONALE: Hawaii REC requires 20 CE hours per biennial license renewal cycle, which must include the mandatory Core Course component.
+
+[hi-professional-conduct-q02] (State · hi-professional-conduct)
+Q: Mixing client trust funds with broker's operating funds is:
+  A : Conversion only
+  B : Allowed if reconciled
+  C : Allowed for under-$1,000 amounts
+  D*: Commingling — license violation
+MARKED ANSWER: D
+RATIONALE: Any mixing is commingling, regardless of amount.
+
+[hi-professional-conduct-q02.v1] (State · hi-professional-conduct)
+Q: A Hawaii real estate broker deposits earnest money from a buyer into the same account used for the broker's own business expenses. This practice is:
+  A : Acceptable for transactions under 30 days
+  B*: A violation of commingling requirements
+  C : Only prohibited if the funds are later misappropriated
+  D : Permissible if the broker maintains separate ledgers
+MARKED ANSWER: B
+RATIONALE: Commingling occurs the moment client funds are mixed with broker operating funds, regardless of accounting methods or time frame—it is a license violation by definition.
+
+[hi-professional-conduct-q02.v2] (State · hi-professional-conduct)
+Q: When a broker combines client trust account funds with the brokerage's general operating account, what violation has occurred?
+  A*: Commingling
+  B : Negligent custody of funds
+  C : Conversion and theft
+  D : Breach of fiduciary duty only
+MARKED ANSWER: A
+RATIONALE: The act of mixing client money with broker operating funds is commingling itself—a direct license violation under Hawaii real estate law.
+
+[hi-professional-conduct-q02.v3] (State · hi-professional-conduct)
+Q: A Hawaii broker receives client earnest money and deposits it into an account that also contains the broker's payroll and overhead expenses. Which statement is accurate?
+  A : This is permissible if monthly reconciliations are performed
+  B : This is only a violation if the broker fails to return the funds on time
+  C*: This constitutes commingling and violates licensing regulations
+  D : This is allowed if client funds can be identified separately within the account
+MARKED ANSWER: C
+RATIONALE: Commingling is the prohibited mixing of client funds with broker funds—the violation exists at the moment of deposit, regardless of accounting controls or intent.
+
+[hi-professional-conduct-q02.v4] (State · hi-professional-conduct)
+Q: A broker pools client trust funds with company operating funds in a single bank account for convenience. What licensing violation has the broker committed?
+  A : Failure to maintain errors and omissions insurance
+  B : Improper disclosure of account ownership
+  C*: Commingling of client funds
+  D : Unauthorized practice of real estate
+MARKED ANSWER: C
+RATIONALE: Commingling—the unlawful combining of client trust money with broker business funds—is a per se violation of Hawaii licensing law.
+
+[hi-professional-conduct-q02.v5] (State · hi-professional-conduct)
+Q: A broker deposits earnest money and security deposits into the same account used for paying office rent and salaries. This practice violates which principle?
+  A*: Commingling — client funds must remain separate
+  B : Requirements for notarizing escrow agreements
+  C : Proper reconciliation procedures under HRS 467-14
+  D : The statute of limitations on trust account audits
+MARKED ANSWER: A
+RATIONALE: Commingling occurs when fiduciary funds are mixed with a broker's personal or operating accounts, regardless of accounting practices. This is a fundamental license violation under Hawaii REC rules.
+
+[hi-professional-conduct-q02.v6] (State · hi-professional-conduct)
+Q: Which situation describes a commingling violation?
+  A : A broker places client trust funds and broker commission in the same financial institution but separate accounts
+  B : A broker records client funds in the trust ledger but reconciles monthly instead of weekly
+  C : A broker holds client earnest money in a trust account but fails to deposit it within 5 business days
+  D*: A broker temporarily deposits client funds into an operating account before transferring to the trust account
+MARKED ANSWER: D
+RATIONALE: Commingling is the unauthorized mixing of client fiduciary funds with the broker's own funds, even temporarily. Separate accounts at the same institution or accounting delays do not constitute commingling.
+
+[hi-professional-conduct-q02.v7] (State · hi-professional-conduct)
+Q: Under Hawaii real estate law, what is the consequence of a broker combining client trust account funds with broker operating funds, even if the amounts are small?
+  A : Misappropriation charges only if the funds cannot be located
+  B*: Commingling — a direct license violation regardless of amount
+  C : A fine of up to $500 per violation
+  D : Suspension of trust account privileges for 30 days
+MARKED ANSWER: B
+RATIONALE: Commingling is a per se violation of trust account requirements; the dollar amount is irrelevant. Any unauthorized mixing of fiduciary and operating funds is a license violation.
+
+[hi-professional-conduct-q02.v8] (State · hi-professional-conduct)
+Q: A salesperson advises the broker that it's more efficient to deposit all incoming funds (client escrow, earnest money, and commissions) into one master account and then distribute them later. The broker should:
+  A : Implement it for transactions under $5,000 only
+  B*: Reject this proposal because it constitutes commingling
+  C : Require the salesperson to obtain REC approval in advance
+  D : Allow this practice only if the salesperson reconciles weekly
+MARKED ANSWER: B
+RATIONALE: Commingling is prohibited regardless of accounting procedures, efficiency arguments, or transaction size. Client trust funds must be maintained in separate accounts from broker operating funds.
+
+[hi-professional-conduct-q02.v9] (State · hi-professional-conduct)
+Q: A broker deposits earnest money checks from multiple transactions into a single bank account that also contains the broker's payroll and office expenses. This practice is known as:
+  A : Conversion of client property
+  B : Trust account management
+  C*: Commingling of funds — a violation
+  D : Proper reconciliation procedure
+MARKED ANSWER: C
+RATIONALE: Commingling occurs when client trust funds are mixed with broker operating or personal funds in any amount or manner, regardless of whether accounts are later reconciled.
+
+[hi-professional-conduct-q03] (State · hi-professional-conduct)
+Q: Hawaii's real estate licensing law is found at:
+  A*: HRS 467
+  B : HRS 478
+  C : HRS 514B
+  D : HRS 521
+MARKED ANSWER: A
+RATIONALE: HRS 467 governs real estate brokers and salespersons.
+
+[hi-professional-conduct-q03.v1] (State · hi-professional-conduct)
+Q: Which Hawaii Revised Statute chapter specifically regulates the licensing and conduct of real estate salespeople and broker activities?
+  A*: HRS 467 – Real estate brokers and salespersons
+  B : HRS 478 – Escrow agents and trust accounts
+  C : HRS 521 – Condominium property regimes
+  D : HRS 514B – Homeowners associations
+MARKED ANSWER: A
+RATIONALE: HRS 467 is the enabling statute for the Hawaii Real Estate Commission and establishes the regulatory framework for licensing brokers and salespersons in Hawaii.
+
+[hi-professional-conduct-q03.v2] (State · hi-professional-conduct)
+Q: A new agent in Hawaii needs to determine which statute governs her licensing requirements and professional obligations. Where should she look?
+  A : HRS 521
+  B : HRS 478
+  C : HRS 514B
+  D*: HRS 467
+MARKED ANSWER: D
+RATIONALE: HRS 467 contains all provisions related to real estate broker and salesperson licensure, ethics, and regulation under the Hawaii Real Estate Commission.
+
+[hi-professional-conduct-q03.v3] (State · hi-professional-conduct)
+Q: The Hawaii Real Estate Commission's authority to issue licenses and enforce professional standards for brokers and agents comes from which statute?
+  A : HRS 514B – governing homeowner associations
+  B : HRS 521 – governing condominium associations
+  C : HRS 478 – governing escrow and trust account requirements
+  D*: HRS 467 – governing real estate brokers and salespersons
+MARKED ANSWER: D
+RATIONALE: HRS 467 is the primary statute that establishes the Hawaii Real Estate Commission's powers and duties regarding licensing and regulation of real estate professionals.
+
+[hi-professional-conduct-q03.v4] (State · hi-professional-conduct)
+Q: A broker conducting business in Hawaii is questioned about which law applies to his license renewal and compliance obligations. The correct answer is found in:
+  A : HRS 521
+  B : HRS 514B
+  C*: HRS 467
+  D : HRS 478
+MARKED ANSWER: C
+RATIONALE: HRS 467 governs all aspects of real estate broker and salesperson licensing, including renewal requirements and professional compliance standards in Hawaii.
+
+[hi-professional-conduct-q03.v5] (State · hi-professional-conduct)
+Q: Which Hawaii Revised Statute chapter establishes the licensing requirements and disciplinary framework for real estate professionals?
+  A : HRS 514B - Condominium Management
+  B : HRS 521 - Residential Tenancies
+  C*: HRS 467 - Real Estate Brokers and Salespersons
+  D : HRS 478 - Contractors and Construction
+MARKED ANSWER: C
+RATIONALE: HRS 467 is the specific statute that governs the licensing, conduct, and enforcement for real estate brokers and salespersons in Hawaii.
+
+[hi-professional-conduct-q03.v6] (State · hi-professional-conduct)
+Q: A salesperson in Hawaii needs to understand the statutory requirements for her license. Under which chapter would she find the relevant regulations?
+  A : HRS 514B
+  B : HRS 478
+  C : HRS 521
+  D*: HRS 467
+MARKED ANSWER: D
+RATIONALE: HRS 467 is the Hawaii statute that governs real estate brokers and salespersons, including all licensing and regulatory requirements.
+
+[hi-professional-conduct-q03.v7] (State · hi-professional-conduct)
+Q: The Hawaii Real Estate Commission enforces provisions found in which statute?
+  A : HRS 478
+  B : HRS 521
+  C : HRS 514B
+  D*: HRS 467
+MARKED ANSWER: D
+RATIONALE: HRS 467 is the enabling statute for the Hawaii Real Estate Commission and contains all provisions governing broker and salesperson licensing and conduct.
+
+[hi-professional-conduct-q03.v8] (State · hi-professional-conduct)
+Q: A broker is cited for violating Hawaii's real estate law. The violation would be prosecuted under which statute?
+  A : HRS 478 - Contractor Licensing
+  B*: HRS 467 - Real Estate Brokers and Salespersons
+  C : HRS 514B - Condominium Property Regime
+  D : HRS 521 - Landlord-Tenant Code
+MARKED ANSWER: B
+RATIONALE: HRS 467 contains the licensing laws and disciplinary provisions applicable to real estate brokers and salespersons in Hawaii.
+
+[hi-professional-conduct-q03.v9] (State · hi-professional-conduct)
+Q: Which Hawaii Revised Statutes chapter establishes the regulatory framework for real estate brokers and salespeople licensing?
+  A : HRS 521 (Condominium Property Regime)
+  B : HRS 514B (Homeowners Associations)
+  C*: HRS 467 (Real Estate Brokers and Salespersons)
+  D : HRS 478 (Real Estate Commission)
+MARKED ANSWER: C
+RATIONALE: HRS Chapter 467 is the specific statute that governs licensing requirements, conduct standards, and regulatory oversight of real estate brokers and salespersons in Hawaii.
+
+[hi-professional-conduct-q04] (State · hi-professional-conduct)
+Q: The Hawaii regulator overseeing real estate licensees is:
+  A : NAR
+  B*: Real Estate Commission (REC) under DCCA
+  C : HUD
+  D : IRS
+MARKED ANSWER: B
+RATIONALE: REC under the Department of Commerce and Consumer Affairs.
+
+[hi-professional-conduct-q04.v1] (State · hi-professional-conduct)
+Q: Which agency has primary regulatory authority over real estate professionals in Hawaii?
+  A : Department of Housing and Urban Development (HUD)
+  B : National Association of Realtors (NAR)
+  C : State Board of Tax Appeals
+  D*: Real Estate Commission (REC) under DCCA
+MARKED ANSWER: D
+RATIONALE: The Real Estate Commission operating under the Department of Commerce and Consumer Affairs is the state regulatory body responsible for licensing and disciplining Hawaii real estate licensees.
+
+[hi-professional-conduct-q04.v2] (State · hi-professional-conduct)
+Q: A Hawaii real estate salesperson's license is issued and regulated by:
+  A*: DCCA's Real Estate Commission
+  B : The Hawaii Association of Realtors
+  C : The Federal Trade Commission
+  D : The Department of Land and Natural Resources
+MARKED ANSWER: A
+RATIONALE: The Real Estate Commission under the Department of Commerce and Consumer Affairs is the state agency that issues, renews, and disciplines Hawaii real estate licenses.
+
+[hi-professional-conduct-q04.v3] (State · hi-professional-conduct)
+Q: If a Hawaii real estate licensee faces disciplinary action, which state body would handle the complaint?
+  A : Hawaii Tax Department
+  B : National Association of Realtors ethics committee
+  C*: Real Estate Commission under DCCA
+  D : Consumer Protection Bureau only
+MARKED ANSWER: C
+RATIONALE: The Real Estate Commission, a division of the Department of Commerce and Consumer Affairs, has statutory authority to investigate and discipline Hawaii real estate licensees for violations of state law and commission rules.
+
+[hi-professional-conduct-q04.v4] (State · hi-professional-conduct)
+Q: Hawaii real estate licensees are primarily regulated at the state level by:
+  A : Federal HUD officials
+  B*: The Real Estate Commission within DCCA
+  C : County planning and zoning departments
+  D : Private real estate trade organizations
+MARKED ANSWER: B
+RATIONALE: The Real Estate Commission, which operates under Hawaii's Department of Commerce and Consumer Affairs, is the official state regulatory agency for all real estate licensees in the islands.
+
+[hi-professional-conduct-q04.v5] (State · hi-professional-conduct)
+Q: Which agency within Hawaii state government is responsible for licensing and disciplining real estate professionals?
+  A : Federal Trade Commission
+  B : Hawaii Department of Attorney General
+  C : Department of Labor and Industrial Relations
+  D*: Real Estate Commission under the Department of Commerce and Consumer Affairs
+MARKED ANSWER: D
+RATIONALE: The Real Estate Commission (REC) operates under DCCA and holds exclusive authority over real estate licensee regulation in Hawaii.
+
+[hi-professional-conduct-q04.v6] (State · hi-professional-conduct)
+Q: A salesperson in Hawaii needs to know which regulatory body enforces compliance with real estate laws and broker conduct standards. This would be:
+  A*: The Hawaii Real Estate Commission under DCCA
+  B : NAR (National Association of Realtors)
+  C : The IRS (Internal Revenue Service)
+  D : HUD (Department of Housing and Urban Development)
+MARKED ANSWER: A
+RATIONALE: The REC under DCCA is the state regulator with jurisdiction over Hawaii real estate licensees, not federal agencies or professional associations.
+
+[hi-professional-conduct-q04.v7] (State · hi-professional-conduct)
+Q: If a Hawaii real estate licensee faces disciplinary action, which state agency would initiate and conduct the hearing?
+  A*: DCCA's Real Estate Commission
+  B : The Federal Reserve
+  C : The Hawaii Tax Foundation
+  D : The National Association of Realtors ethics board
+MARKED ANSWER: A
+RATIONALE: DCCA's Real Estate Commission has statutory authority to investigate complaints and conduct disciplinary proceedings against Hawaii real estate licensees.
+
+[hi-professional-conduct-q04.v8] (State · hi-professional-conduct)
+Q: Under Hawaii law, which entity has the authority to deny, suspend, or revoke a real estate broker license?
+  A : The Hawaii State Legislature directly
+  B*: The state's Real Estate Commission within DCCA
+  C : The Mortgage Bankers Association
+  D : HUD's regional office
+MARKED ANSWER: B
+RATIONALE: The Real Estate Commission under the Department of Commerce and Consumer Affairs holds the statutory power to discipline and control real estate licensure in Hawaii.
+
+[hi-professional-conduct-q04.v9] (State · hi-professional-conduct)
+Q: Which agency is responsible for licensing and regulating real estate professionals in Hawaii?
+  A : The Federal Trade Commission (FTC)
+  B : The National Association of REALTORS® (NAR)
+  C*: The Hawaii Real Estate Commission, which operates under the DCCA
+  D : The Department of Land and Natural Resources (DLNR)
+MARKED ANSWER: C
+RATIONALE: The Real Estate Commission (REC) under the Department of Commerce and Consumer Affairs (DCCA) is the sole authority in Hawaii responsible for issuing, renewing, and disciplining real estate licenses.
+
+[hi-professional-conduct-q05] (State · hi-professional-conduct)
+Q: Hawaii's state fair housing statute (HRS 515) ADDS protected classes beyond federal, including:
+  A : Only race and religion
+  B*: Sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, age
+  C : Income only
+  D : No additional classes
+MARKED ANSWER: B
+RATIONALE: HRS 515 expands federal Fair Housing to additional Hawaii-specific protected classes.
+
+[hi-professional-conduct-q05.v1] (State · hi-professional-conduct)
+Q: Which of the following best describes how Hawaii Revised Statutes Chapter 515 relates to the federal Fair Housing Act?
+  A : It mirrors federal protections exactly without any modifications
+  B : It adds only disability and familial status protections
+  C*: It provides additional protected classes beyond those in federal law, such as sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age
+  D : It repeals federal protections and substitutes only state-level classes
+MARKED ANSWER: C
+RATIONALE: HRS 515 expands protections beyond the federal Fair Housing Act by including Hawaii-specific classes like sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age.
+
+[hi-professional-conduct-q05.v2] (State · hi-professional-conduct)
+Q: A Hawaii real estate licensee must be aware that state fair housing law protects additional classes of people not covered federally. Which list correctly identifies Hawaii's additional protected classes under HRS 515?
+  A*: Sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age
+  B : Employment status and income level only
+  C : Disability, familial status, and veteran status
+  D : Only ancestry and religion
+MARKED ANSWER: A
+RATIONALE: HRS 515 extends Fair Housing protections to include sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age—classes not explicitly protected under federal law.
+
+[hi-professional-conduct-q05.v3] (State · hi-professional-conduct)
+Q: When counseling clients on their fair housing rights in Hawaii, a licensee should explain that the state statute adds which of the following to federal Fair Housing Act protections?
+  A : Criminal history and credit score
+  B : Occupational status alone
+  C : Only color and national origin
+  D*: Gender identity, sexual orientation, marital status, HIV status, source of income, ancestry, and age
+MARKED ANSWER: D
+RATIONALE: HRS 515 broadens fair housing protections beyond federal law by explicitly protecting sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age.
+
+[hi-professional-conduct-q05.v4] (State · hi-professional-conduct)
+Q: Under Hawaii's fair housing statute, which classes receive protection under state law but NOT under federal Fair Housing Act?
+  A*: Sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age
+  B : Familial status and disability only
+  C : Religion and sex exclusively
+  D : Race, color, and national origin only
+MARKED ANSWER: A
+RATIONALE: HRS 515 provides state-level protection for sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age, which are not covered under the federal Fair Housing Act.
+
+[hi-professional-conduct-q05.v5] (State · hi-professional-conduct)
+Q: Which of the following represents a protected class under Hawaii's fair housing law (HRS 515) that is NOT included in the federal Fair Housing Act?
+  A : Color and familial status
+  B*: Gender identity, HIV status, and source of income
+  C : Religion and sex
+  D : National origin and disability
+MARKED ANSWER: B
+RATIONALE: Hawaii REC HRS 515 extends protections beyond federal law to include sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age.
+
+[hi-professional-conduct-q05.v6] (State · hi-professional-conduct)
+Q: A Hawaii real estate licensee must be aware that state law provides fair housing protections for several classifications beyond those mandated federally. Which category best describes Hawaii's additional protected classes?
+  A : Federal protections only; Hawaii adds no new classes
+  B*: Sexual orientation, marital status, age, ancestry, gender identity, HIV status, and source of income
+  C : Limited to protected groups in urban Honolulu only
+  D : Only economic status and employment history
+MARKED ANSWER: B
+RATIONALE: HRS 515 comprehensively expands the federal Fair Housing Act with seven additional protected classifications specific to Hawaii.
+
+[hi-professional-conduct-q05.v7] (State · hi-professional-conduct)
+Q: Under Hawaii fair housing law, a broker listing a property cannot discriminate based on any protected class. Beyond the federal Fair Housing Act, HRS 515 also prohibits discrimination based on:
+  A : Professional licensing or occupational background
+  B : Prior bankruptcy or credit score alone
+  C*: Sexual orientation, gender identity, marital status, ancestry, age, HIV status, and source of income
+  D : Citizenship status and veteran status
+MARKED ANSWER: C
+RATIONALE: Hawaii's state law adds seven classes not in federal law: sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age.
+
+[hi-professional-conduct-q05.v8] (State · hi-professional-conduct)
+Q: When completing fair housing training, a Hawaii licensee learns that the state statute (HRS 515) goes beyond federal law. Which statement accurately reflects Hawaii's expanded protected classes?
+  A : Hawaii mirrors federal law exactly with no additional protections
+  B : Hawaii protects only income level and family structure
+  C*: Hawaii adds protections for sexual orientation, gender identity, marital status, HIV status, ancestry, age, and source of income
+  D : Hawaii adds only ancestry and removes federal protections for religion
+MARKED ANSWER: C
+RATIONALE: HRS 515 explicitly includes seven state-level protected classes beyond the federal Fair Housing Act's enumerated categories.
+
+[hi-professional-conduct-q05.v9] (State · hi-professional-conduct)
+Q: Which of the following protected classes are recognized ONLY under Hawaii's fair housing law (HRS 515) and NOT under federal Fair Housing Act standards?
+  A : Religion and familial status
+  B*: Sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age
+  C : Disability and sex
+  D : Race, color, and national origin
+MARKED ANSWER: B
+RATIONALE: Hawaii's HRS 515 extends protection beyond the federal FHA by specifically adding sexual orientation, gender identity, marital status, HIV status, source of income, ancestry, and age as protected classes.
+

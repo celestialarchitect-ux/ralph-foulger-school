@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+/* Letter-size printable FRONT and BACK cover pages (portrait), for printing
+   the book on standard paper. Page 1 = front cover, Page 2 = back cover. */
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing:border-box; margin:0; padding:0; }
+:root{
+  --serif:'EB Garamond','Adobe Caslon Pro','Hoefler Text',Georgia,'Times New Roman',serif;
+  --sans:'Inter',-apple-system,'Helvetica Neue',Arial,sans-serif;
+  --gold:#c9a86a; --gold-bright:#e4c989; --cream:#f3e7c8; --rule:rgba(201,168,106,0.55);
+}
+html,body{ font-family:var(--serif); color:#fff; }
+.page{ position:relative; width:8.5in; height:11in; overflow:hidden; page-break-after:always;
+  background:radial-gradient(ellipse at 70% 35%, #15304a 0%, #0b1622 48%, #060d16 100%); }
+.page:last-child{ page-break-after:auto; }
+
+/* ── FRONT ── */
+.front-img{ position:absolute; inset:0; width:100%; height:100%;
+  background-image:url(cover-hero.jpg); background-size:cover; background-position:center 40%; }
+.front-scrim{ position:absolute; inset:0; width:100%; height:100%;
+  background:linear-gradient(180deg,
+    rgba(5,10,18,0.90) 0%, rgba(5,10,18,0.66) 24%, rgba(5,10,18,0.58) 46%,
+    rgba(5,10,18,0.76) 70%, rgba(4,8,15,0.96) 100%); }
+.frame{ position:absolute; top:0.36in; left:0.36in; right:0.36in; bottom:0.36in; border:0.9pt solid rgba(201,168,106,0.5); }
+.front-c{ position:absolute; top:1.05in; left:0.95in; right:0.95in; bottom:1.0in; display:flex; flex-direction:column; }
+.imprint{ font-family:var(--sans); font-size:11pt; letter-spacing:0.26em; text-transform:uppercase; color:var(--gold-bright); font-weight:600; }
+.imprint .sep{ display:block; width:0.5in; height:1.2pt; background:var(--gold); margin:10pt 0 0; }
+.f-title{ font-family:var(--serif); font-weight:500; color:#fff; font-size:48pt; line-height:1.05; letter-spacing:-0.01em; margin-top:28pt; }
+.f-title .accent{ font-style:italic; color:var(--gold-bright); }
+.f-sub{ font-family:var(--serif); font-style:italic; font-size:16pt; line-height:1.42; color:var(--cream); margin-top:18pt; }
+.f-spacer{ flex:1; }
+.f-author{ border-top:1pt solid var(--rule); padding-top:16pt; }
+.f-author .name{ font-family:var(--serif); font-size:24pt; font-weight:500; color:#fff; }
+.f-author .creds{ font-family:var(--sans); font-size:9.5pt; letter-spacing:0.08em; text-transform:uppercase; color:var(--cream); margin-top:7pt; font-weight:500; }
+.f-edition{ font-family:var(--sans); font-size:9pt; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold-bright); margin-top:12pt; font-weight:600; }
+
+/* ── BACK ── */
+.back-c{ position:absolute; top:0.95in; left:0.95in; right:0.95in; }
+.b-kicker{ font-family:var(--sans); font-size:9.5pt; letter-spacing:0.24em; text-transform:uppercase; color:var(--gold-bright); font-weight:600; margin-bottom:14pt; }
+.b-head{ font-family:var(--serif); font-size:28pt; line-height:1.16; color:#fff; font-weight:500; }
+.b-head .accent{ font-style:italic; color:var(--gold-bright); }
+.b-lead{ font-family:var(--serif); font-size:12.5pt; line-height:1.5; color:var(--cream); margin-top:14pt; }
+.b-inside-h{ font-family:var(--sans); font-size:9pt; letter-spacing:0.2em; text-transform:uppercase; color:var(--gold); font-weight:700; margin:20pt 0 8pt; }
+.b-list{ list-style:none; }
+.b-list li{ font-family:var(--serif); font-size:11.5pt; line-height:1.5; color:#eef2f6; padding-left:18pt; position:relative; margin-bottom:5pt; }
+.b-list li::before{ content:''; position:absolute; left:0; top:7pt; width:7pt; height:7pt; border:1pt solid var(--gold); transform:rotate(45deg); }
+.b-bio{ margin-top:18pt; padding-top:12pt; border-top:1pt solid var(--rule); font-family:var(--serif); font-size:10.5pt; line-height:1.5; color:var(--cream); }
+.b-bio strong{ color:#fff; }
+.b-pub{ position:absolute; bottom:0.95in; left:0.95in; right:0.95in; font-family:var(--sans); font-size:9pt; letter-spacing:0.1em; color:var(--cream); line-height:1.8; }
+.b-pub .name{ color:var(--gold-bright); font-weight:600; letter-spacing:0.14em; text-transform:uppercase; }
+</style>
+</head>
+<body>
+
+<!-- FRONT COVER PAGE -->
+<div class="page">
+  <div class="front-img"></div>
+  <div class="front-scrim"></div>
+  <div class="frame"></div>
+  <div class="front-c">
+    <div class="imprint">Ralph Foulger&rsquo;s Academy of Real Estate<span class="sep"></span></div>
+    <h1 class="f-title">The Complete Hawai&#699;i<br>Real Estate Salesperson<br><span class="accent">Textbook</span></h1>
+    <p class="f-sub">The full curriculum, 2,290 practice questions explained, real-estate mathematics, and a complete glossary &mdash; everything for the license exam, in one volume.</p>
+    <div class="f-spacer"></div>
+    <div class="f-author">
+      <div class="name">Ralph S. Foulger</div>
+      <div class="creds">Licensed since 1972 &middot; Broker &middot; CPM &middot; State-Certified Instructor</div>
+      <div class="f-edition">First Edition &middot; 2026</div>
+    </div>
+  </div>
+</div>
+
+<!-- BACK COVER PAGE -->
+<div class="page">
+  <div class="frame"></div>
+  <div class="back-c">
+    <div class="b-kicker">Hawai&#699;i Real Estate Salesperson License</div>
+    <div class="b-head">One book. The <span class="accent">entire</span> path to your license.</div>
+    <p class="b-lead">This is the complete textbook for the Hawai&#699;i Real Estate Salesperson License &mdash; the only volume a candidate needs. The full course of study, the entire question bank with every answer explained, the real-estate mathematics, and a complete glossary are gathered here in a single book, written and taught by an instructor with more than fifty years in Hawai&#699;i real estate.</p>
+    <div class="b-inside-h">Inside this volume</div>
+    <ul class="b-list">
+      <li>Twenty complete chapters &mdash; eleven national, nine Hawai&#699;i &mdash; every lesson and key concept in full</li>
+      <li>2,290 practice questions, each with all options, the correct answer, and a full explanation</li>
+      <li>Every exam math type, worked step by step</li>
+      <li>A complete real-estate glossary, with the Hawai&#699;i terms set apart</li>
+      <li>Aligned to the State of Hawai&#699;i Real Estate Commission exam blueprint</li>
+    </ul>
+    <p class="b-bio"><strong>Ralph S. Foulger</strong> has been licensed in Hawai&#699;i as a salesperson since 1972 and as a broker since 1987, holds the CPM designation, and is a state-certified instructor across all three license tracks. He founded the Academy in 1996 and has taught Hawai&#699;i real estate for three decades.</p>
+  </div>
+  <div class="b-pub">
+    <span class="name">Ralph Foulger&rsquo;s Academy of Real Estate</span><br>
+    Honolulu, Island of O&#699;ahu, Hawai&#699;i &middot; ralphfoulger.com &middot; First Edition &middot; 2026
+  </div>
+</div>
+
+</body>
+</html>

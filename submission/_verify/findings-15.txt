@@ -1,0 +1,21 @@
+BATCH 15 — reviewed 130 questions, found 0 critical, 10 major, 0 minor
+
+hi-professional-conduct-q05 | major | RATIONALE/option B asserts "source of income" is an HRS 515 protected class. Verified against current HRS 515-3 (capitol.hawaii.gov): enumerated bases are race; sex (incl gender identity/expression); sexual orientation; color; religion; marital status; familial status; ancestry; disability; age; HIV infection. "Source of income" is NOT enumerated (SB805/2013 attempt did not become law). Answer letter B still best available. | Remove "source of income" from the list; keep the other 6 Hawaii-added classes.
+hi-professional-conduct-q05.v1 | major | Correct-answer text C and rationale include "source of income" as an HRS 515 protected class — not enumerated in HRS 515-3. | Strike "source of income" from option C and rationale.
+hi-professional-conduct-q05.v2 | major | Keyed-correct option A and rationale list "source of income" as HRS 515 class — not enumerated. | Strike "source of income."
+hi-professional-conduct-q05.v3 | major | Keyed-correct option D and rationale list "source of income" — not in HRS 515-3. | Strike "source of income."
+hi-professional-conduct-q05.v4 | major | Keyed-correct option A and rationale list "source of income" — not enumerated. | Strike "source of income."
+hi-professional-conduct-q05.v5 | major | Keyed-correct answer B = "Gender identity, HIV status, and source of income." "Source of income" is NOT an HRS 515 protected class; gender identity & HIV are. Answer still best of four (distractors are federal classes), but keyed answer contains a false class. | Replace "source of income" with a verified class (e.g., ancestry or age).
+hi-professional-conduct-q05.v6 | major | Keyed-correct B and rationale include "source of income" — not enumerated in HRS 515. | Strike "source of income."
+hi-professional-conduct-q05.v7 | major | Keyed-correct C and rationale list "source of income" — not enumerated. | Strike "source of income."
+hi-professional-conduct-q05.v8 | major | Keyed-correct C and rationale list "source of income" — not enumerated. | Strike "source of income."
+hi-professional-conduct-q05.v9 | major | Keyed-correct B and rationale list "source of income" — not enumerated in HRS 515-3. | Strike "source of income."
+
+VERIFIED CORRECT (no flag):
+- HRS 478 = Interest and Usury (10% legal cap; first-mortgage exemption) — all q03 financing variants correct.
+- HRS 449 = Escrow Depositories — all q02 escrow variants correct.
+- HRS 467 = Real Estate Brokers and Salespersons — all q03 conduct variants correct.
+- REC under DCCA as regulator — all q04 variants correct.
+- 60-hour salesperson pre-licensing — all q00 variants correct.
+- 20 CE hours/biennial incl. mandatory Core Course — all q01 variants correct.
+- Conveyance tax = HI state transfer tax; commingling = per se violation; escrow-state custody; estoppel certificate for AOAO/condo; lease conversion = fee buyout; wire-fraud phone verification — all correct.

@@ -1,0 +1,8 @@
+BATCH 12 — reviewed 130 questions, found 0 critical, 5 major, 1 minor
+
+hi-property-management-q00.v5 | major | Rationale cites "HRS 521-42" for 14-day security deposit return; correct statute is HRS 521-44. Marked answer (14 days) is correct. | Change citation to HRS 521-44
+hi-property-management-q00.v7 | major | Rationale cites "HRS 521-42" for 14-day deposit return; correct statute is HRS 521-44. Marked answer correct. | Change citation to HRS 521-44
+hi-property-management-q00.v8/v9 note | minor | v9 rationale cites HRS 521-42; correct is 521-44 (answer correct). v8 cites generic HRS 521 (acceptable). | Use HRS 521-44 in v9 rationale
+hi-property-management-q05.v6 | major | Notice given on the 1st; 28 days before end of rental period is satisfied by end of the CURRENT month (29 days to month-end ≥ 28), so termination is end of current month, not "last day of the following month." Marked C overstates the required notice. | Earliest termination = last day of the current rental month
+hi-property-management-q05.v8 | major | Notice June 1; June 1→June 30 = 29 days ≥ 28-day requirement, so earliest lawful termination is June 30 (choice C), not July 1. Marked B is off and conflicts with the 28-day math. | Correct answer is June 30 (C)
+hi-types-of-ownership-q03.v8 | major | Rationale hedges ("through the following Sunday or Monday depending on interpretation") on a 7-calendar-day count from Monday, which is indefensibly ambiguous for an exam answer key; marked D (following Monday) is fine but rationale must be definite. | Fix rationale: 7 calendar days from Monday signing = the following Monday

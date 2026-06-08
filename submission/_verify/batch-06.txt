@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 6/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[mandated-disclosures-q05] (National · mandated-disclosures)
+Q: Lead-based paint buyer's right to inspect is:
+  A : 3 days
+  B : 30 days
+  C : 14 days
+  D*: 10 days
+MARKED ANSWER: D
+RATIONALE: 10-day right to inspect; can be waived in writing.
+
+[mandated-disclosures-q05.v1] (National · mandated-disclosures)
+Q: Under federal lead-based paint disclosure requirements, how many days does a buyer have to conduct an inspection for lead hazards before closing?
+  A : 21 days
+  B : 7 days
+  C : 45 days
+  D*: 10 days
+MARKED ANSWER: D
+RATIONALE: Federal law provides a 10-day inspection period for lead-based paint; this timeline can be shortened or waived if the buyer agrees in writing.
+
+[mandated-disclosures-q05.v2] (National · mandated-disclosures)
+Q: A seller receives an offer on a pre-1978 home. The buyer requests time to have the property inspected for lead-based paint. What is the standard inspection period allowed?
+  A*: 10 days
+  B : 20 days
+  C : 5 days
+  D : 15 days
+MARKED ANSWER: A
+RATIONALE: The lead-based paint inspection period is 10 days; buyers may waive this right in writing if they choose not to inspect.
+
+[mandated-disclosures-q05.v3] (National · mandated-disclosures)
+Q: Which timeframe represents the buyer's inspection opportunity for lead-based paint hazards on properties built before 1978?
+  A : 8 days from offer acceptance
+  B : 12 days from offer acceptance
+  C : 6 days from offer acceptance
+  D*: 10 days from offer acceptance
+MARKED ANSWER: D
+RATIONALE: Buyers have a 10-day right to inspect for lead-based paint; they may waive this right in writing to expedite the transaction.
+
+[mandated-disclosures-q05.v4] (National · mandated-disclosures)
+Q: If a buyer wants to exercise their right to inspect a pre-1978 property for lead-based paint, they must do so within what period?
+  A : 18 days of the purchase agreement
+  B*: 10 days of the purchase agreement
+  C : 3 days of the purchase agreement
+  D : 14 days of the purchase agreement
+MARKED ANSWER: B
+RATIONALE: The federal lead-based paint inspection period is 10 days from acceptance of the offer; this period can be waived in writing by the buyer.
+
+[mandated-disclosures-q05.v5] (National · mandated-disclosures)
+Q: Under federal lead-based paint disclosure rules, how long does a purchaser have to conduct an inspection for lead hazards before becoming obligated to proceed with the transaction?
+  A : 5 business days
+  B : 21 calendar days
+  C*: 10 calendar days
+  D : 45 calendar days
+MARKED ANSWER: C
+RATIONALE: Buyers have a 10-day inspection period for lead-based paint; this timeframe applies to all residential properties built before 1978 and can be shortened or waived by mutual written agreement.
+
+[mandated-disclosures-q05.v6] (National · mandated-disclosures)
+Q: A seller provides a lead-based paint disclosure to a buyer on a pre-1978 home. The buyer wishes to have the property inspected for lead. What is the maximum inspection window allowed?
+  A : 14 days from disclosure
+  B : 7 days from disclosure
+  C : 30 days from closing
+  D*: 10 days from disclosure
+MARKED ANSWER: D
+RATIONALE: The federal lead-based paint inspection period is 10 days from receipt of the disclosure; buyers may waive this right in writing if they choose to proceed without an inspection.
+
+[mandated-disclosures-q05.v7] (National · mandated-disclosures)
+Q: In a transaction involving a residential structure constructed before 1978, the buyer's inspection contingency for lead-based paint typically allows:
+  A : 20 days to obtain a lead-free certification
+  B : 15 days to complete all lead remediation
+  C*: 10 days to arrange and conduct inspections
+  D : 3 business days for testing and results
+MARKED ANSWER: C
+RATIONALE: Federal regulations provide a 10-day period for lead-based paint inspection in pre-1978 homes; the buyer may waive this right in writing at any time.
+
+[mandated-disclosures-q05.v8] (National · mandated-disclosures)
+Q: A licensee is assisting with a property sale built in 1975. The buyer asks how long they have after receiving the lead disclosure to inspect for lead-based paint hazards without penalty. What should the licensee state?
+  A : The buyer has only 3 days before the contract becomes binding
+  B : The buyer has until closing to arrange any lead testing
+  C*: The buyer has 10 days to request and complete an inspection
+  D : The buyer waives inspection rights unless demanded within 5 days
+MARKED ANSWER: C
+RATIONALE: Federal law grants a 10-day inspection period for lead-based paint in pre-1978 homes, which begins upon receipt of the disclosure and may be waived in writing by the buyer.
+
+[mandated-disclosures-q05.v9] (National · mandated-disclosures)
+Q: Under federal lead-based paint disclosure requirements, what is the standard timeframe a purchaser has to conduct an inspection for lead hazards before contract contingencies expire?
+  A*: 10 calendar days
+  B : 45 calendar days
+  C : 21 calendar days
+  D : 5 business days
+MARKED ANSWER: A
+RATIONALE: Federal law provides a 10-day inspection period for lead-based paint hazards; buyers may voluntarily waive this right in writing if they choose.
+
+[mandated-disclosures-q06] (National · mandated-disclosures)
+Q: A reasonable buyer would consider it important = the fact is:
+  A : Patent
+  B*: Material
+  C : Stigmatizing
+  D : Puffing
+MARKED ANSWER: B
+RATIONALE: Materiality standard is "would a reasonable party consider it important?"
+
+[mandated-disclosures-q06.v1] (National · mandated-disclosures)
+Q: Under Hawaii real estate law, a fact is considered significant enough to disclose if a prudent buyer would regard it as important. This standard is known as:
+  A*: Materiality
+  B : Misrepresentation
+  C : Caveat emptor
+  D : Latent defect
+MARKED ANSWER: A
+RATIONALE: The materiality standard requires disclosure of facts that a reasonable person would consider important to a purchase decision, regardless of whether they are hidden or obvious.
+
+[mandated-disclosures-q06.v2] (National · mandated-disclosures)
+Q: When evaluating whether a property condition must be disclosed to a prospective buyer, the key legal question is whether a typical buyer would find the information:
+  A*: Significant to their decision to buy or price offered
+  B : Fraudulent in nature
+  C : Obviously visible on inspection
+  D : Protected by the statute of limitations
+MARKED ANSWER: A
+RATIONALE: The materiality test applies significance based on what a reasonable buyer would consider important, not on visibility or legal protection categories.
+
+[mandated-disclosures-q06.v3] (National · mandated-disclosures)
+Q: A seller's agent must disclose information about a property defect if it meets which standard?
+  A : The defect affects the structural integrity only
+  B : The buyer specifically asks about it first
+  C*: A reasonable person in the buyer's position would consider it important
+  D : The defect is intentionally concealed
+MARKED ANSWER: C
+RATIONALE: Materiality is the standard applied—whether a reasonable person would find the fact important to their transaction decision—independent of other factors.
+
+[mandated-disclosures-q06.v4] (National · mandated-disclosures)
+Q: In a real estate transaction, information must be disclosed if it would influence a prudent purchaser's decision. This requirement is based on the concept of:
+  A : Stigmatized property status
+  B : Express warranty
+  C*: Materiality
+  D : Licensee liability
+MARKED ANSWER: C
+RATIONALE: Materiality is the standard that determines disclosure obligations based on whether a reasonable buyer would regard the information as important to the transaction.
+
+[mandated-disclosures-q06.v5] (National · mandated-disclosures)
+Q: In Hawaii real estate disclosure law, a fact that a prudent buyer would want to know before purchasing is considered:
+  A*: Material
+  B : Latent
+  C : Superficial
+  D : Speculative
+MARKED ANSWER: A
+RATIONALE: Material facts are those a reasonable person would consider important in deciding whether to buy or the price to pay; this is the standard test for disclosure obligations.
+
+[mandated-disclosures-q06.v6] (National · mandated-disclosures)
+Q: When determining whether a property defect must be disclosed, the legal standard asks: would an ordinary, prudent buyer regard this as significant? This describes the test of:
+  A : Fraudulent concealment
+  B : Apparent defect
+  C : Caveat emptor
+  D*: Materiality
+MARKED ANSWER: D
+RATIONALE: The materiality test is whether a reasonable person would consider the fact important in their purchase decision or financing; it is the benchmark for mandatory disclosure.
+
+[mandated-disclosures-q06.v7] (National · mandated-disclosures)
+Q: A real estate licensee must disclose information about a property defect if a reasonable person in the buyer's position would consider it important to their transaction. This criterion is known as:
+  A*: The materiality standard
+  B : The puffery exception
+  C : The stigmatized property test
+  D : The patent defect rule
+MARKED ANSWER: A
+RATIONALE: Materiality is the foundational standard—facts are material if they would influence a reasonable person's decision or affect the property's value or desirability.
+
+[mandated-disclosures-q06.v8] (National · mandated-disclosures)
+Q: A seller's agent learns that the property experiences occasional flooding during heavy rains. When deciding if this must be disclosed, the agent applies the test of whether a typical, reasonable buyer would find this fact significant. This is the:
+  A : Innocent misrepresentation threshold
+  B : Obvious defect exemption
+  C : Fiduciary disclosure duty
+  D*: Material fact standard
+MARKED ANSWER: D
+RATIONALE: The material fact standard asks whether a reasonable party would consider the information important in making a buying decision; flooding history clearly meets this threshold.
+
+[mandated-disclosures-q06.v9] (National · mandated-disclosures)
+Q: Under Hawaii real estate disclosure laws, a fact that a reasonable person in the buyer's position would regard as significant in making a purchase decision is classified as:
+  A : Caveat emptor
+  B : Latent
+  C : Immaterial
+  D*: Material
+MARKED ANSWER: D
+RATIONALE: Materiality is defined by what a reasonable buyer would consider important or significant to their decision-making; this is the legal standard for determining disclosure obligations in Hawaii.
+
+[mandated-disclosures-q07] (National · mandated-disclosures)
+Q: A statement made without knowing it is false but that should have been verified is:
+  A : Fraudulent misrepresentation
+  B*: Negligent misrepresentation
+  C : Innocent misrepresentation
+  D : Puffing
+MARKED ANSWER: B
+RATIONALE: Negligent = should have known.
+
+[mandated-disclosures-q07.v1] (National · mandated-disclosures)
+Q: A real estate agent describes a property's condition based on information that was not properly researched or verified. The agent made this statement in good faith but failed to exercise reasonable diligence. This represents:
+  A : Puffing or sales talk
+  B*: Negligent misrepresentation
+  C : Fraudulent misrepresentation with intent to deceive
+  D : Innocent misrepresentation due to lack of information
+MARKED ANSWER: B
+RATIONALE: Negligent misrepresentation occurs when someone makes a statement they should have verified through reasonable effort, even without intent to deceive. The failure to investigate constitutes negligence.
+
+[mandated-disclosures-q07.v2] (National · mandated-disclosures)
+Q: An agent tells a buyer that a property has never had foundation issues, but the agent did not review the inspection reports or title history. What type of misrepresentation is this?
+  A : Fraudulent misrepresentation
+  B : Puffing
+  C*: Negligent misrepresentation
+  D : Innocent misrepresentation
+MARKED ANSWER: C
+RATIONALE: This is negligent misrepresentation because the agent had a duty to verify material facts about the property and failed to do so, even though there was no intentional deception.
+
+[mandated-disclosures-q07.v3] (National · mandated-disclosures)
+Q: When a licensee makes a factual statement about a property without actual knowledge of its truth but with the belief it is true, and the licensee failed to conduct reasonable investigation, this is classified as:
+  A*: Negligent misrepresentation
+  B : Innocent misrepresentation
+  C : Puffing or opinion
+  D : Fraudulent misrepresentation with scienter
+MARKED ANSWER: A
+RATIONALE: Negligent misrepresentation is defined by the agent's failure to verify information that they should have investigated, regardless of their subjective belief in the statement's accuracy.
+
+[mandated-disclosures-q07.v4] (National · mandated-disclosures)
+Q: A property manager states that the rental income is consistent without checking the actual lease agreements or payment history. The manager believed the statement was true but did not verify it. This is an example of:
+  A : Puffing or exaggeration within industry standards
+  B : Fraudulent misrepresentation
+  C : Innocent misrepresentation caused by third-party information
+  D*: Negligent misrepresentation
+MARKED ANSWER: D
+RATIONALE: Negligent misrepresentation applies when a licensee should have verified material facts through reasonable investigation but failed to do so, creating liability despite lack of intent to defraud.
+
+[mandated-disclosures-q07.v5] (National · mandated-disclosures)
+Q: A real estate licensee states a property fact that turns out to be false. The licensee did not know it was false at the time but failed to conduct a reasonable investigation that would have revealed the truth. This is best classified as:
+  A*: Negligent misrepresentation
+  B : Puffing or sales talk
+  C : Innocent misrepresentation
+  D : Fraudulent misrepresentation with intent to deceive
+MARKED ANSWER: A
+RATIONALE: Negligent misrepresentation occurs when a party makes a false statement without knowledge of its falsity but should have known through reasonable investigation or due diligence.
+
+[mandated-disclosures-q07.v6] (National · mandated-disclosures)
+Q: An agent represents that a home's roof was recently replaced, but this claim was never verified. The agent genuinely believed the statement was true when made. Under Hawaii real estate law, this unverified assertion most likely constitutes:
+  A : Innocent misrepresentation only
+  B*: Negligent misrepresentation
+  C : Actionable puffery
+  D : Fraudulent misrepresentation
+MARKED ANSWER: B
+RATIONALE: Because the agent made the statement without verifying it despite having the opportunity and obligation to do so, this represents negligent misrepresentation—a failure to exercise reasonable care in confirming facts.
+
+[mandated-disclosures-q07.v7] (National · mandated-disclosures)
+Q: Which type of misrepresentation involves a false statement that the speaker did not know was false but reasonably should have discovered through proper inquiry?
+  A : Innocent misrepresentation
+  B : Harmless exaggeration
+  C : Fraudulent misrepresentation
+  D*: Negligent misrepresentation
+MARKED ANSWER: D
+RATIONALE: Negligent misrepresentation is defined by the speaker's failure to exercise reasonable care or verify information before stating it as fact, even without actual knowledge of falsity.
+
+[mandated-disclosures-q07.v8] (National · mandated-disclosures)
+Q: A licensee tells a buyer that the property has not had foundation issues based on a casual conversation with the seller, without ordering an inspection or reviewing public records. The statement proves false. This represents:
+  A : Innocent misstatement with no liability
+  B*: Negligent misrepresentation due to lack of reasonable verification
+  C : Opinion stated as fact that is protected by law
+  D : Fraud requiring proof of intentional deception
+MARKED ANSWER: B
+RATIONALE: The licensee failed to verify a material fact through reasonable methods available to them, making this negligent misrepresentation rather than innocent (which requires no duty to investigate) or fraudulent (which requires intent).
+
+[mandated-disclosures-q07.v9] (National · mandated-disclosures)
+Q: An agent makes a statement about property conditions that turns out to be false. The agent did not deliberately lie, but a reasonable person in the real estate profession would have investigated the claim before making it. This constitutes:
+  A : Fraudulent misrepresentation with intent to deceive
+  B : Innocent misrepresentation without duty to investigate
+  C*: Negligent misrepresentation due to failure to verify
+  D : Puffery regarding general market conditions
+MARKED ANSWER: C
+RATIONALE: Negligent misrepresentation occurs when a statement is made without actual knowledge of falsity but the agent failed to exercise reasonable care or verification that a professional should have performed.
+
+[mandated-disclosures-q08] (National · mandated-disclosures)
+Q: The historical "let the buyer beware" doctrine is:
+  A : Caveat venditor
+  B : Quid pro quo
+  C*: Caveat emptor
+  D : Statute of frauds
+MARKED ANSWER: C
+RATIONALE: Caveat emptor = buyer beware.
+
+[mandated-disclosures-q08.v1] (National · mandated-disclosures)
+Q: Which Latin maxim embodies the principle that a purchaser assumes the risk of inspecting property and bears responsibility for their own due diligence?
+  A : Caveat venditor
+  B*: Caveat emptor
+  C : Statute of frauds
+  D : Res ipsa loquitur
+MARKED ANSWER: B
+RATIONALE: Caveat emptor (buyer beware) places the burden on the purchaser to investigate property condition and assume risk unless otherwise protected by law or contract.
+
+[mandated-disclosures-q08.v2] (National · mandated-disclosures)
+Q: In traditional real estate law, the doctrine requiring buyers to conduct their own inspections and accept property 'as-is' unless expressly warranted is known as:
+  A*: Caveat emptor
+  B : Caveat venditor
+  C : Quid pro quo
+  D : Merger doctrine
+MARKED ANSWER: A
+RATIONALE: Caveat emptor (let the buyer beware) is the historical common-law principle that shifts inspection and disclosure responsibility primarily to the buyer.
+
+[mandated-disclosures-q08.v3] (National · mandated-disclosures)
+Q: Which of the following best describes the 'buyer beware' concept in historical real estate transactions?
+  A : The broker is liable for any undisclosed property conditions
+  B*: The buyer assumes the risk of discovering defects through reasonable inspection
+  C : The seller warrants the condition of all structural components
+  D : The seller must disclose all known defects to protect the buyer
+MARKED ANSWER: B
+RATIONALE: Caveat emptor places the onus on buyers to investigate and discover defects themselves rather than relying on seller disclosures.
+
+[mandated-disclosures-q08.v4] (National · mandated-disclosures)
+Q: The principle that historically placed the burden of property inspection and risk assumption on the purchaser rather than the seller is termed:
+  A*: Caveat emptor (buyer beware)
+  B : Accord and satisfaction
+  C : Lis pendens
+  D : Caveat venditor (seller beware)
+MARKED ANSWER: A
+RATIONALE: Caveat emptor is the Latin maxim meaning 'buyer beware,' reflecting the doctrine that buyers must verify property condition through their own diligence.
+
+[mandated-disclosures-q08.v5] (National · mandated-disclosures)
+Q: Under the traditional real estate principle known as 'buyer beware,' a purchaser is generally responsible for conducting due diligence on a property. What is the Latin term for this doctrine?
+  A : Quid pro quo
+  B : Caveat venditor
+  C : Statute of frauds
+  D*: Caveat emptor
+MARKED ANSWER: D
+RATIONALE: Caveat emptor is the Latin phrase meaning 'buyer beware,' placing the onus on the purchaser to inspect and verify property conditions.
+
+[mandated-disclosures-q08.v6] (National · mandated-disclosures)
+Q: Which of the following Latin legal principles historically placed the burden of inspection and verification on the purchaser rather than the seller?
+  A : Caveat venditor
+  B : Statute of frauds
+  C : Res ipsa loquitur
+  D*: Caveat emptor
+MARKED ANSWER: D
+RATIONALE: Caveat emptor ('buyer beware') is the doctrine that transfers responsibility to the buyer to examine property and assume risk of defects.
+
+[mandated-disclosures-q08.v7] (National · mandated-disclosures)
+Q: A real estate instructor explains that under common law, buyers were expected to discover property defects themselves rather than rely on seller disclosures. This principle is known as:
+  A : Good faith and fair dealing
+  B*: Caveat emptor
+  C : Caveat venditor
+  D : Estoppel
+MARKED ANSWER: B
+RATIONALE: Caveat emptor means 'let the buyer beware' and historically required purchasers to conduct their own investigation of property conditions.
+
+[mandated-disclosures-q08.v8] (National · mandated-disclosures)
+Q: In contrast to modern mandatory seller disclosure laws, the historical 'as-is' approach to real estate transactions was governed by which Latin doctrine?
+  A : Quid pro quo
+  B : Lis pendens
+  C*: Caveat emptor
+  D : Caveat venditor
+MARKED ANSWER: C
+RATIONALE: Caveat emptor ('buyer beware') was the historical default principle requiring buyers to assess property conditions without seller obligation to disclose defects.
+
+[mandated-disclosures-q08.v9] (National · mandated-disclosures)
+Q: Which Latin maxim reflects the principle that a purchaser assumes responsibility for inspecting property and accepting it in its present condition without reliance on the seller's representations?
+  A : Statute of frauds
+  B*: Caveat emptor
+  C : Quid pro quo
+  D : Caveat venditor
+MARKED ANSWER: B
+RATIONALE: Caveat emptor (buyer beware) is the doctrine placing the burden on the buyer to investigate property condition and negotiate protections rather than relying on seller warranties. This principle, though modified by modern disclosure laws, remains foundational to real estate transactions.
+
+[mandated-disclosures-q09] (National · mandated-disclosures)
+Q: A licensee notices fresh paint over one wall in a basement and water stains nearby. The licensee should:
+  A*: Investigate or recommend inspection
+  B : Tell only the listing broker
+  C : Wait for the buyer to ask
+  D : Ignore — buyer's problem
+MARKED ANSWER: A
+RATIONALE: Red flag = duty to inquire or recommend inspection.
+
+[mandated-disclosures-q09.v1] (National · mandated-disclosures)
+Q: During a property showing, a licensee observes peeling paint, a musty odor, and efflorescence on a basement wall. What is the licensee's appropriate course of action?
+  A : Report the findings exclusively to the listing agent without discussing with the buyer
+  B*: Document observations in writing and recommend the buyer obtain a professional inspection
+  C : Mention the condition only if the buyer directly asks about the basement
+  D : Assume the seller has already disclosed any moisture issues
+MARKED ANSWER: B
+RATIONALE: A licensee must take reasonable steps to investigate or recommend professional inspection when observable conditions suggest potential problems, fulfilling duty of disclosure.
+
+[mandated-disclosures-q09.v2] (National · mandated-disclosures)
+Q: A licensee showing a property notices a large water-stained ceiling patch covered with new drywall tape and spackle in an upstairs bedroom. The licensee's responsibility is to:
+  A : Assume it was cosmetic repair and proceed with the showing
+  B*: Note the condition and advise the buyer to have a professional inspector evaluate it
+  C : Decline to show the property until the seller explains the damage
+  D : Discuss the finding only with other agents during broker meetings
+MARKED ANSWER: B
+RATIONALE: Observable evidence of past or potential moisture/structural issues triggers a licensee's duty to inform the buyer and recommend professional inspection rather than overlook or minimize the observation.
+
+[mandated-disclosures-q09.v3] (National · mandated-disclosures)
+Q: While inspecting a property on behalf of a client, a licensee spots fresh caulking around a basement window frame and visible mold spots on adjacent framing. The licensee should:
+  A : Consider the repairs evidence of responsible maintenance and assure the buyer there are no issues
+  B : Remain silent unless the buyer specifically requests information about water intrusion
+  C : Report concerns to the seller's agent and wait for written clarification before mentioning anything to the buyer
+  D*: Promptly alert the buyer and suggest engaging a qualified home inspector or structural specialist
+MARKED ANSWER: D
+RATIONALE: A licensee who observes suspicious or concerning conditions must take affirmative steps to investigate or recommend professional inspection, not wait passively for buyer inquiries.
+
+[mandated-disclosures-q09.v4] (National · mandated-disclosures)
+Q: A licensee notices a basement wall has been freshly painted and there are rust stains on metal shelving stored nearby. When asked by the buyer about the basement condition, the licensee should:
+  A : State that the fresh paint indicates the seller has maintained the property well
+  B : Suggest the buyer contact the seller directly if they have concerns, as the licensee cannot comment on unpermitted repairs
+  C : Explain that cosmetic updates are common and do not warrant further investigation
+  D*: Acknowledge the observed conditions and recommend a professional home inspection to identify any underlying moisture or structural concerns
+MARKED ANSWER: D
+RATIONALE: When a licensee observes red flags suggesting possible defects—even during a direct buyer question—the appropriate response is to disclose the observation and recommend professional inspection.
+
+[mandated-disclosures-q09.v5] (National · mandated-disclosures)
+Q: During a showing, a licensee observes discolored drywall and newly applied caulk around a basement window frame. What is the licensee's appropriate action?
+  A : Assume the seller has already disclosed any issues and proceed with the showing
+  B*: Document the observation and actively investigate or suggest a professional inspection
+  C : Allow the buyer to discover and address any concerns independently
+  D : Report findings only to the seller's agent for private handling
+MARKED ANSWER: B
+RATIONALE: Visible signs of potential water damage or structural issues trigger a duty to investigate further or recommend professional inspection to protect all parties.
+
+[mandated-disclosures-q09.v6] (National · mandated-disclosures)
+Q: A licensee spots cracked paint and efflorescence (white mineral deposits) on a basement wall. The licensee's best practice is to:
+  A : Suggest cosmetic repairs to cover the affected area before closing
+  B : Inform only the listing side and let them decide whether to disclose
+  C : Stay silent unless the buyer specifically asks about basement conditions
+  D*: Recommend the buyer obtain a professional inspection or conduct further investigation
+MARKED ANSWER: D
+RATIONALE: Visible indicators of moisture or foundation issues create an obligation to recommend inspection or further inquiry to fulfill fiduciary duties.
+
+[mandated-disclosures-q09.v7] (National · mandated-disclosures)
+Q: At an open house, you notice recently painted drywall adjacent to dark staining that suggests prior water intrusion. What should you do?
+  A : Relay your concerns exclusively to your broker for internal documentation
+  B*: Encourage prospective buyers to hire an inspector and disclose or investigate the condition
+  C : Request the homeowner's written explanation before mentioning it to any prospective buyer
+  D : Consider it a cosmetic issue and focus the showing on other property features
+MARKED ANSWER: B
+RATIONALE: Signs of concealment or water damage—such as fresh paint over stains—obligate the licensee to recommend inspection or conduct due diligence.
+
+[mandated-disclosures-q09.v8] (National · mandated-disclosures)
+Q: While conducting a pre-listing walkthrough, you observe new paint covering what appears to be water-damaged drywall in the basement. Your responsibility is to:
+  A : Accept the owner's assurance that repairs were completed and list the property as-is
+  B*: Identify the red flag and recommend further inspection or investigation before marketing
+  C : Note it privately but only share with the buyer's agent if asked directly
+  D : Withhold the observation from any disclosure and let the buyer's inspector find it
+MARKED ANSWER: B
+RATIONALE: Fresh paint over suspicious stains is a red flag requiring investigation or professional inspection to ensure proper disclosure and protect all parties.
+
+[mandated-disclosures-q09.v9] (National · mandated-disclosures)
+Q: During a showing, a salesperson observes peeling paint in a bedroom closet and discovers mold spots on the adjacent wall. What is the licensee's appropriate course of action?
+  A : Report the findings exclusively to the listing agent without discussing with the buyer
+  B : Assume the seller will disclose this issue on the disclosure form
+  C*: Document observations and recommend the buyer obtain a professional mold inspection
+  D : Mention the issue only if the buyer directly asks about mold or moisture
+MARKED ANSWER: C
+RATIONALE: A licensee encountering visible defects or red flags must proactively investigate or recommend professional inspection to fulfill the duty of inquiry and care.
+
+[mandated-disclosures-q10] (National · mandated-disclosures)
+Q: A seller refuses to complete the property condition disclosure form. The licensee should:
+  A : Submit the listing without it
+  B : Only disclose to buyers who ask
+  C*: Insist on completion or decline the listing
+  D : Complete it themselves
+MARKED ANSWER: C
+RATIONALE: Most states require completed seller disclosure; refusal often means walking away.
+
+[mandated-disclosures-q10.v1] (National · mandated-disclosures)
+Q: A licensee receives a listing where the owner will not provide a completed property condition disclosure. What should the licensee do?
+  A : Market the property as-is and note in the listing remarks that no disclosure was provided
+  B*: Decline the listing or require the seller to complete the disclosure
+  C : Fill out the disclosure form based on public records and MLS data
+  D : Proceed with marketing and let the buyer's inspector find any issues
+MARKED ANSWER: B
+RATIONALE: Hawaii law requires seller disclosures; a licensee cannot proceed with a listing if the seller refuses to complete required disclosure forms. The licensee must either obtain completion or decline the engagement.
+
+[mandated-disclosures-q10.v2] (National · mandated-disclosures)
+Q: When a seller resists providing a property condition disclosure, a real estate agent's appropriate response is to:
+  A*: Require the disclosure or terminate the listing relationship
+  B : Prepare the disclosure on behalf of the seller to expedite the transaction
+  C : List the property contingent on buyer acceptance of unknown conditions
+  D : Accept the listing with a clause stating the buyer waives disclosure review
+MARKED ANSWER: A
+RATIONALE: A licensee has a professional and legal duty to ensure required disclosures are completed; accepting a listing without it violates REC regulations and exposes the licensee to liability.
+
+[mandated-disclosures-q10.v3] (National · mandated-disclosures)
+Q: A seller tells their agent, 'I don't want to fill out that condition form—just sell the house.' The licensee should:
+  A : Complete the disclosure form themselves based on their own observations
+  B : Allow the buyer to waive the disclosure requirement before closing
+  C : Honor the seller's preference and submit the listing immediately
+  D*: Explain that the disclosure is mandatory and either obtain it or withdraw from the listing
+MARKED ANSWER: D
+RATIONALE: Licensees cannot ignore mandatory seller disclosure requirements, regardless of seller preference. The licensee must insist on compliance or decline the listing.
+
+[mandated-disclosures-q10.v4] (National · mandated-disclosures)
+Q: Which action is improper when a seller adamantly refuses to complete a property condition disclosure?
+  A*: Proceeding with the listing and allowing disclosure to be withheld
+  B : Consulting with the broker about the seller's obligations before listing
+  C : Requesting the seller sign a statement acknowledging the disclosure requirement
+  D : Declining to accept the listing and referring the seller to another agent
+MARKED ANSWER: A
+RATIONALE: Moving forward without a completed mandatory disclosure violates Hawaii REC rules and real estate law; the licensee must enforce the requirement or withdraw.
+
+[mandated-disclosures-q10.v5] (National · mandated-disclosures)
+Q: During a listing appointment, the seller states they will not fill out the property condition disclosure required by Hawaii law. What is the licensee's most appropriate response?
+  A : Proceed with listing and note that disclosure is pending
+  B : Ask the seller to initial a waiver instead of completing the full form
+  C : Market the property without disclosure and let the buyer's inspector find issues
+  D*: Decline the listing or require the seller to complete the disclosure form
+MARKED ANSWER: D
+RATIONALE: Licensees cannot bypass mandatory seller disclosure requirements; refusing to complete it is grounds to decline representation to protect both parties and comply with law.
+
+[mandated-disclosures-q10.v6] (National · mandated-disclosures)
+Q: A property owner tells their real estate agent that completing a property condition disclosure form is too time-consuming and wants to list without it. The agent should:
+  A : Contact the broker to get written permission to skip the disclosure
+  B : Obtain a signed statement from the seller acknowledging they refuse to disclose and proceed with listing
+  C : Prepare the disclosure based on publicly available information and the seller's verbal statements
+  D*: Require completion of the disclosure or terminate the listing agreement
+MARKED ANSWER: D
+RATIONALE: Licensees must enforce disclosure compliance as a condition of representation; accepting a refusal without consequences violates fiduciary duty and regulatory requirements.
+
+[mandated-disclosures-q10.v7] (National · mandated-disclosures)
+Q: When a seller declines to complete the mandatory property condition disclosure, which action best protects the licensee and client?
+  A : Modify the disclosure to include only positive features the seller confirms
+  B*: Refuse to take the listing until the disclosure is properly completed
+  C : Allow the sale to proceed contingent on buyer discovery and inspection
+  D : Request the seller sign a form acknowledging their refusal and continue marketing
+MARKED ANSWER: B
+RATIONALE: A licensee's professional obligation is to insist on compliance with disclosure laws; proceeding without it exposes the licensee to liability and violates consumer protection standards.
+
+[mandated-disclosures-q10.v8] (National · mandated-disclosures)
+Q: A licensee encounters a seller who explicitly refuses to complete a required property condition disclosure statement. The licensee's proper course of action is to:
+  A : Advise the buyer that disclosure is not available and reduce the offer price accordingly
+  B : Create a simplified disclosure form that summarizes only the seller's known defects
+  C*: Require the seller to complete the disclosure or decline representation of that listing
+  D : File a complaint with the Hawaii Real Estate Commission and then list the property
+MARKED ANSWER: C
+RATIONALE: Licensees must uphold disclosure requirements; if a seller will not comply, the licensee must choose not to represent them rather than circumvent legal obligations.
+
+[mandated-disclosures-q10.v9] (National · mandated-disclosures)
+Q: During listing intake, a seller states they will not complete the property condition disclosure required by Hawaii law. As the listing agent, what is your most appropriate response?
+  A : Prepare a summary disclosure based on your own inspection and have the seller initial it
+  B : Have the seller sign a waiver exempting them from the disclosure requirement
+  C*: Decline the listing unless the seller agrees to provide the completed disclosure form
+  D : Proceed with marketing the property and note in the MLS that disclosure is pending
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires sellers to provide accurate property condition disclosures; a licensee cannot ethically list a property or circumvent this requirement, and must decline the listing if the seller refuses compliance.
+
+[mandated-disclosures-q11] (National · mandated-disclosures)
+Q: Stigmatized property disclosure rules:
+  A : Only apply to murder
+  B*: Vary by state
+  C : Don't exist
+  D : Are uniform federally
+MARKED ANSWER: B
+RATIONALE: State-specific. Some require, some don't.
+
+[mandated-disclosures-q11.v1] (National · mandated-disclosures)
+Q: A real estate agent in Hawaii is asked about disclosure obligations for a property where a suicide occurred five years ago. Which statement best describes the legal framework for such disclosures?
+  A : Federal law establishes a uniform national standard for all stigmatizing events
+  B : Hawaii law prohibits any disclosure of non-death-related stigmatizing events
+  C*: Requirements differ depending on which state the property is located in
+  D : Disclosure is only mandatory if the death was violent
+MARKED ANSWER: C
+RATIONALE: Stigmatized property disclosure laws vary significantly by state; there is no uniform federal requirement, and some states mandate disclosure while others do not.
+
+[mandated-disclosures-q11.v2] (National · mandated-disclosures)
+Q: When counseling a seller about a property involved in a highly publicized crime, an agent should understand that:
+  A : Only homicides trigger disclosure obligations under real estate law
+  B : The Federal Trade Commission sets national standards for all stigma-related disclosures
+  C*: Each state has its own rules—some require disclosure, others do not
+  D : Disclosure requirements apply uniformly across all U.S. states and territories
+MARKED ANSWER: C
+RATIONALE: Stigmatized property disclosure requirements are state-specific; there is no federal mandate, and states have adopted varying approaches from mandatory disclosure to no requirement.
+
+[mandated-disclosures-q11.v3] (National · mandated-disclosures)
+Q: Which of the following correctly describes the legal status of stigmatized property disclosures in real estate?
+  A*: State laws govern whether and how stigmatizing information must be disclosed
+  B : A national standard created by the National Association of REALTORS® applies in all states
+  C : Federal housing law requires disclosure of all stigmatizing events nationwide
+  D : Disclosure is only required when a property is involved in criminal activity
+MARKED ANSWER: A
+RATIONALE: Stigmatized property disclosure is regulated at the state level with no uniform federal requirement; states determine their own disclosure obligations.
+
+[mandated-disclosures-q11.v4] (National · mandated-disclosures)
+Q: A broker is handling a listing for a property with a concerning history. Regarding disclosure obligations for stigmatizing factors, the broker should know:
+  A : Disclosure applies only to properties where deaths occurred
+  B : HUD establishes binding disclosure rules that apply everywhere
+  C : There are no legal disclosure requirements for any stigmatizing information
+  D*: Disclosure requirements are determined individually by each state and vary widely
+MARKED ANSWER: D
+RATIONALE: Stigmatized property disclosure laws vary by state—some require it, some forbid it, and some are silent, creating a patchwork of state-specific rules with no national standard.
+
+[mandated-disclosures-q11.v5] (National · mandated-disclosures)
+Q: When advising a client about disclosure obligations for a property where a suicide occurred, a Hawaii real estate agent should understand that:
+  A : Hawaii law prohibits any disclosure of stigmatized property information to buyers
+  B*: Disclosure requirements for stigmatized properties differ from state to state
+  C : Only deaths resulting from criminal acts must be disclosed in every state
+  D : Federal law mandates identical disclosure requirements nationwide for all stigmatized properties
+MARKED ANSWER: B
+RATIONALE: Stigmatized property disclosure rules vary significantly by state; some states require disclosure while others do not, and the time periods and types of events differ.
+
+[mandated-disclosures-q11.v6] (National · mandated-disclosures)
+Q: A real estate licensee in Hawaii is asked whether a property where a felony occurred must be disclosed to potential buyers. The correct response is:
+  A : Stigmatized property disclosures are only required for properties involved in drug manufacturing
+  B*: Disclosure requirements depend on which state the property is located in, as rules are not uniform
+  C : Federal regulations override all state laws regarding stigmatized property disclosure
+  D : All states have adopted the same stigmatized property disclosure statute
+MARKED ANSWER: B
+RATIONALE: Each state sets its own rules on what events trigger stigmatized property disclosure requirements, meaning requirements are not consistent across jurisdictions.
+
+[mandated-disclosures-q11.v7] (National · mandated-disclosures)
+Q: Which statement accurately describes how Hawaii real estate law handles stigmatized property disclosure?
+  A*: State laws control stigmatized property disclosure requirements; they are not standardized federally
+  B : Stigmatized property rules apply equally to all property types and circumstances across the country
+  C : The National Association of REALTORS® has established a single nationwide standard that all agents must follow
+  D : Only events causing death require disclosure, and this requirement is uniform in all states
+MARKED ANSWER: A
+RATIONALE: Stigmatized property disclosure obligations are determined by individual state law, not by federal mandate or national standards, resulting in significant variations.
+
+[mandated-disclosures-q11.v8] (National · mandated-disclosures)
+Q: When a Hawaii agent encounters a property with a negative history, the agent should recognize that requirements to disclose such stigmatizing information:
+  A : Are nonexistent in all jurisdictions as a matter of public policy
+  B : Apply exclusively to properties where violent crimes occurred within the past year
+  C : Follow a federal template that applies identically in all 50 states
+  D*: Differ from state to state based on each state's specific statutory framework
+MARKED ANSWER: D
+RATIONALE: Stigmatized property disclosure laws vary by state; some jurisdictions require disclosure while others do not, and the scope of what must be disclosed differs widely.
+
+[mandated-disclosures-q11.v9] (National · mandated-disclosures)
+Q: A Hawaii real estate licensee is advising a seller about potential disclosure obligations related to a property's negative history. Which statement best describes how stigmatized property laws function?
+  A*: Each state establishes its own rules regarding what must be disclosed about a property's stigmatized status
+  B : Hawaii has no legal framework addressing disclosure of properties with negative events or reputations
+  C : Disclosure is required only when a death occurred on the property within the past year
+  D : Federal law provides a single standard that all states must follow for disclosure
+MARKED ANSWER: A
+RATIONALE: Stigmatized property disclosure requirements vary significantly by state; Hawaii and other states each set their own rules about which negative events require disclosure, making this a state-level determination rather than a uniform federal mandate.
+
+[contracts-q00] (National · contracts)
+Q: A buyer's offer is accepted by the seller's verbal "OK." Is there a contract?
+  A : Yes
+  B : Yes if earnest money posted
+  C : Yes if witnessed
+  D*: No — Statute of Frauds requires writing
+MARKED ANSWER: D
+RATIONALE: Real estate contracts must be in writing to be enforceable.
+
+[contracts-q00.v1] (National · contracts)
+Q: A seller orally agrees to sell their residential property to a buyer over the phone. The buyer immediately sends a text confirming the conversation. Is this oral agreement enforceable as a valid real estate contract in Hawaii?
+  A : Yes, if the text message is saved and printed within 24 hours
+  B : Yes, if the buyer has already scheduled a home inspection
+  C : Yes, because both parties agreed and there was prompt confirmation
+  D*: No, because the Statute of Frauds requires a signed written instrument
+MARKED ANSWER: D
+RATIONALE: Hawaii real estate law, based on the Statute of Frauds, requires all contracts for the sale of land to be evidenced by a written document signed by the party being charged—oral agreements alone are unenforceable.
+
+[contracts-q00.v2] (National · contracts)
+Q: During a negotiation, a seller verbally tells a real estate agent, 'Yes, I will accept $450,000 for my home.' The agent relays this to the buyer's agent, who immediately notifies the buyer. At this point, is there a binding and enforceable contract?
+  A : Yes, verbal acceptance combined with agent communication creates a binding contract
+  B*: No—a written, signed agreement is required for any real estate sales contract
+  C : Yes, if both agents co-sign a memorandum of their conversation
+  D : Yes, but only if the earnest money deposit has been delivered to escrow
+MARKED ANSWER: B
+RATIONALE: Real estate contracts must be in writing and signed by the seller to satisfy the Statute of Frauds; mere verbal acceptance, even when communicated through agents, does not create an enforceable contract.
+
+[contracts-q00.v3] (National · contracts)
+Q: A buyer and seller shake hands and verbally agree on all material terms of a residential sale in Honolulu, including price, closing date, and contingencies. No written document is prepared that day. Does this handshake agreement constitute a valid, enforceable real estate contract?
+  A : Yes, if the buyer has provided identification and proof of funds
+  B : Yes, but only if a neutral third party witnessed the handshake
+  C*: No—Hawaii law requires a written contract signed by the seller to be enforceable
+  D : Yes, if both parties genuinely intended to be bound by their spoken words
+MARKED ANSWER: C
+RATIONALE: Even when parties intend to be bound and have agreed on all material terms, a real estate contract is not enforceable without a written instrument complying with the Statute of Frauds.
+
+[contracts-q00.v4] (National · contracts)
+Q: A property seller emails a buyer saying 'I accept your offer at the stated price and terms.' However, neither the email nor any other document has been signed by the seller. Is this acceptance sufficient to create an enforceable real estate contract?
+  A : Yes, if the buyer immediately deposits earnest money upon receiving the email
+  B*: No, because the Statute of Frauds requires a signed written agreement for real estate sales
+  C : Yes, email communication satisfies the Statute of Frauds requirement
+  D : Yes, if the email is printed out and notarized within 10 days
+MARKED ANSWER: B
+RATIONALE: Although an email may constitute writing, it must be signed by the party to be charged to satisfy the Statute of Frauds; an unsigned electronic acceptance alone cannot create an enforceable real estate contract.
+
+[contracts-q00.v5] (National · contracts)
+Q: A seller orally agrees to sell residential property to a buyer over the phone. Both parties shake hands later and agree to proceed. Is this arrangement enforceable as a real estate contract in Hawaii?
+  A*: No, because Hawaii law requires real estate contracts to be documented in writing
+  B : Yes, if the buyer immediately deposits earnest money into escrow
+  C : Yes, because both parties agreed and shook hands
+  D : Yes, if a third party witnessed the oral agreement
+MARKED ANSWER: A
+RATIONALE: The Statute of Frauds mandates that contracts for the sale of real property must be in writing to be enforceable, regardless of witness or earnest money.
+
+[contracts-q00.v6] (National · contracts)
+Q: During a property showing, a seller verbally tells a prospective buyer, "I accept your offer." The buyer leaves satisfied that a binding agreement exists. What is the legal status of this transaction?
+  A*: Unenforceable because the agreement lacks written documentation
+  B : Binding only if the buyer provides proof of earnest money deposit
+  C : Enforceable if both parties later acknowledge it in front of witnesses
+  D : Binding and fully enforceable as a valid contract
+MARKED ANSWER: A
+RATIONALE: Without a written instrument, no enforceable real estate contract exists under the Statute of Frauds, even if both parties intended to be bound.
+
+[contracts-q00.v7] (National · contracts)
+Q: Two parties negotiate the sale of a lot in Hawaii. The seller sends an email saying "I accept your terms," but no formal purchase agreement document is ever signed by either party. Do the parties have an enforceable contract?
+  A : Yes, if earnest money has been exchanged between the parties
+  B : Yes, the email constitutes written acceptance
+  C*: No, a formal written purchase agreement signed by both parties is required
+  D : Yes, provided both parties have proof of the negotiation discussions
+MARKED ANSWER: C
+RATIONALE: While an email may satisfy the writing requirement in some jurisdictions, a formalized purchase agreement typically signed by both parties is required to create an enforceable real estate contract.
+
+[contracts-q00.v8] (National · contracts)
+Q: A buyer makes an offer for a condominium and the seller responds with a verbal counteroffer at a social gathering, saying "I'll sell for that price." The buyer agrees verbally on the spot. Which statement accurately reflects the legal enforceability of this transaction?
+  A : It is enforceable if the parties later confirm the terms via telephone conversation with a witness
+  B : It is enforceable if the buyer can produce written notes documenting the conversation
+  C : It is fully enforceable because both parties made mutual assent and consideration was present
+  D*: It is not enforceable; Hawaii's Statute of Frauds requires real estate sales contracts to be in writing
+MARKED ANSWER: D
+RATIONALE: Oral agreements for the sale of real estate cannot be enforced, no matter how clear the mutual intent, because the Statute of Frauds requires a written contract.
+
+[contracts-q00.v9] (National · contracts)
+Q: A seller orally agrees to sell residential property to a buyer over the phone. Both parties clearly understand the terms and price. Is this oral agreement enforceable as a real estate contract in Hawaii?
+  A : Yes, if the buyer deposits earnest money within 24 hours
+  B*: No, because Hawaii law requires all real estate sales contracts to be evidenced by a signed written document
+  C : Yes, if a real estate licensee was present during the conversation
+  D : Yes, if both parties are competent and agree on material terms
+MARKED ANSWER: B
+RATIONALE: The Statute of Frauds mandates that real estate contracts must be in writing and signed to be legally enforceable, regardless of oral agreement or witness presence.
+
+[contracts-q01] (National · contracts)
+Q: In an exclusive-agency listing, the seller pays the broker:
+  A : Only if seller produces buyer
+  B : Always
+  C*: Unless seller produces the buyer
+  D : Never
+MARKED ANSWER: C
+RATIONALE: Exclusive agency = broker earns UNLESS the seller themselves found the buyer.
+
+[contracts-q01.v1] (National · contracts)
+Q: Under an exclusive-agency agreement, when does the listing broker NOT earn a commission?
+  A : When the sale closes after the listing expires
+  B*: When the seller independently locates and produces the buyer
+  C : When the property sells through any source
+  D : When another broker brings an offer
+MARKED ANSWER: B
+RATIONALE: Exclusive agency allows the seller to avoid paying commission only if the seller themselves finds the buyer; the broker earns in all other situations.
+
+[contracts-q01.v2] (National · contracts)
+Q: A property is listed under an exclusive-agency agreement. The seller's neighbor expresses interest and purchases the home directly from the seller without broker involvement. Who owes commission?
+  A*: Neither party owes commission since the seller produced the buyer
+  B : The seller owes commission because any sale requires payment
+  C : The listing broker owes commission to the MLS
+  D : The buyer owes commission to the listing broker
+MARKED ANSWER: A
+RATIONALE: In exclusive agency, the seller's right to sell without paying commission applies specifically when the seller personally finds and produces the buyer, which is the case here.
+
+[contracts-q01.v3] (National · contracts)
+Q: An exclusive-agency listing broker will receive compensation in all scenarios EXCEPT when:
+  A : A cooperating broker brings an offer that closes
+  B : The sale occurs after marketing by the broker
+  C : The property sells within the listing period
+  D*: The seller themselves source the buyer
+MARKED ANSWER: D
+RATIONALE: Exclusive agency creates one exception to the broker's automatic commission right: when the seller, not the broker, is responsible for finding the buyer.
+
+[contracts-q01.v4] (National · contracts)
+Q: Which situation would result in NO commission owed to the listing broker under an exclusive-agency listing agreement?
+  A : Another brokerage introduces the successful buyer
+  B*: The seller personally negotiates with an interested party and completes the sale
+  C : The property sells through the local MLS database
+  D : The seller contacts a prospect from the broker's advertising and that person buys
+MARKED ANSWER: B
+RATIONALE: Exclusive agency permits the seller to circumvent the commission obligation only when the seller is the source of the buyer; broker involvement from any other source triggers the commission obligation.
+
+[contracts-q01.v5] (National · contracts)
+Q: When a seller signs an exclusive-agency listing agreement, the broker's compensation is NOT earned if:
+  A : Another broker brings a qualified offer
+  B : The sale closes within 60 days of listing
+  C*: The seller locates and procures the buyer themselves
+  D : The property remains on the market for more than 30 days
+MARKED ANSWER: C
+RATIONALE: Under exclusive agency, the broker foregoes commission only when the seller, not the broker or another agent, finds the buyer; in all other scenarios, the broker is entitled to compensation.
+
+[contracts-q01.v6] (National · contracts)
+Q: Which statement correctly describes the broker's right to commission under an exclusive-agency listing?
+  A : The broker is paid a commission regardless of who brings the buyer
+  B : The broker is only paid if they are the sole source of the buyer
+  C*: The broker earns commission except when the seller personally produces the buyer
+  D : The broker forfeits all compensation if the property sells within the listing period
+MARKED ANSWER: C
+RATIONALE: Exclusive agency protects the seller's right to avoid paying commission if they independently find their own buyer, but the broker receives commission in all other buyer-source scenarios.
+
+[contracts-q01.v7] (National · contracts)
+Q: A seller enters into an exclusive-agency listing with Broker Chen. Broker Chen should expect to receive compensation:
+  A : Whenever a sale closes, with no exceptions
+  B*: Unless the seller personally identifies and brings the buyer to closing
+  C : When any licensed agent procures an offer, even if the seller found them first
+  D : Only if Broker Chen's agents show the property to the eventual buyer
+MARKED ANSWER: B
+RATIONALE: The defining feature of exclusive agency is that the broker retains the right to commission in most scenarios, except when the seller themselves (not any agent or third party) produces the buyer.
+
+[contracts-q01.v8] (National · contracts)
+Q: Under an exclusive-agency listing arrangement, the broker's entitlement to commission is contingent on which factor?
+  A*: Whether someone other than the seller was the procuring cause of the buyer
+  B : Whether the transaction includes both a buyer's and seller's agent
+  C : Whether the listing period extends beyond 90 days
+  D : Whether the property appraises at or above the listing price
+MARKED ANSWER: A
+RATIONALE: Exclusive agency allows the broker to earn commission from any buyer source except the seller themselves; if the seller is the procuring cause, no commission is due.
+
+[contracts-q01.v9] (National · contracts)
+Q: Under an exclusive-agency listing agreement, when is the broker NOT entitled to a commission?
+  A : When another broker brings the buyer
+  B : When the listing period expires without a sale
+  C*: When the seller procures the buyer without broker assistance
+  D : When the property is sold through the MLS
+MARKED ANSWER: C
+RATIONALE: In exclusive agency, the broker earns commission on all sales except those directly procured by the seller themselves; this is the defining exception to the broker's commission guarantee.
+
+[contracts-q02] (National · contracts)
+Q: A counteroffer:
+  A : Voids the listing
+  B : Must be accepted
+  C*: Cancels the original offer
+  D : Locks in the original price
+MARKED ANSWER: C
+RATIONALE: A counteroffer rejects + replaces the original offer.
+
+[contracts-q02.v1] (National · contracts)
+Q: When a seller presents a counteroffer to a buyer's initial proposal, what happens to the original offer?
+  A*: It is terminated and replaced by the counteroffer
+  B : It is suspended until the counteroffer expires
+  C : It becomes a backup offer with reduced terms
+  D : It remains valid and the buyer may accept either offer
+MARKED ANSWER: A
+RATIONALE: A counteroffer constitutes a rejection of the original offer and substitutes new terms in its place; the original offer no longer exists.
+
+[contracts-q02.v2] (National · contracts)
+Q: Under Hawaii real estate law, if a seller rejects a buyer's offer and submits modified contract terms instead, the buyer's original offer is:
+  A : Enforceable as a secondary contingency
+  B*: Extinguished and superseded by the counteroffer
+  C : Held in escrow pending the counteroffer outcome
+  D : Still binding on both parties unless formally withdrawn
+MARKED ANSWER: B
+RATIONALE: The act of countering an offer constitutes a rejection of the original terms, eliminating that offer and creating a new negotiation point.
+
+[contracts-q02.v3] (National · contracts)
+Q: A buyer submits an offer on a property. The seller responds with a counteroffer containing different price and closing date. What is the status of the buyer's initial offer?
+  A*: Automatically dead upon the seller's counteroffer
+  B : Enforceable if the counteroffer is rejected within 48 hours
+  C : Converted to a contingent backup agreement
+  D : Active until expressly revoked in writing by the buyer
+MARKED ANSWER: A
+RATIONALE: By presenting a counteroffer, the seller has rejected the original offer, which ceases to exist as a binding or enforceable agreement.
+
+[contracts-q02.v4] (National · contracts)
+Q: In a real estate transaction, a counteroffer differs from a rejection in that a counteroffer:
+  A*: Proposes alternative terms while eliminating the previous offer
+  B : Preserves the buyer's earnest money deposit from the initial offer
+  C : Requires the listing agent's approval before the original offer expires
+  D : Allows the original offer to remain open for acceptance
+MARKED ANSWER: A
+RATIONALE: A counteroffer rejects the original proposal and simultaneously introduces new contract terms; the original offer is extinguished in this process.
+
+[contracts-q02.v5] (National · contracts)
+Q: When a seller presents a counteroffer to a buyer's initial offer, what happens to the original offer?
+  A : It is held in escrow pending the seller's decision
+  B*: It is terminated and replaced by the counteroffer
+  C : It becomes a contingent offer
+  D : It remains valid until the counteroffer is rejected
+MARKED ANSWER: B
+RATIONALE: A counteroffer legally rejects and supersedes the original offer; the two cannot coexist simultaneously.
+
+[contracts-q02.v6] (National · contracts)
+Q: An offeree who responds with different terms than those proposed in the original offer has:
+  A*: Made a counteroffer that extinguishes the original offer
+  B : Preserved both offers for later comparison
+  C : Accepted the original offer conditionally
+  D : Requested mediation under Hawaii's real estate law
+MARKED ANSWER: A
+RATIONALE: Presenting modified terms constitutes a counteroffer, which automatically rejects and replaces the prior offer.
+
+[contracts-q02.v7] (National · contracts)
+Q: If a buyer submits an offer at $500,000 and the seller responds with different price terms, the seller's response:
+  A*: Cancels the original offer and creates a new negotiating point
+  B : Keeps both offers active simultaneously
+  C : Requires the buyer to pay the difference immediately
+  D : Extends the inspection period by law
+MARKED ANSWER: A
+RATIONALE: The seller's response with different terms is a counteroffer that terminates the buyer's original offer.
+
+[contracts-q02.v8] (National · contracts)
+Q: Under Hawaii real estate practice, when a seller issues a counteroffer with modified conditions, the buyer's original offer:
+  A : Automatically converts to a backup offer
+  B*: Is no longer available for acceptance
+  C : Gains legal priority over the counteroffer
+  D : Must be notarized before the counteroffer takes effect
+MARKED ANSWER: B
+RATIONALE: A counteroffer rejection destroys the original offer, so the buyer can no longer accept it—they must respond to the counteroffer instead.
+
+[contracts-q02.v9] (National · contracts)
+Q: When a seller presents a counteroffer to a buyer's initial offer, what is the legal effect on the original offer?
+  A : It becomes a binding backup offer if the counteroffer is declined
+  B : It continues in effect alongside the counteroffer until closing
+  C*: It is terminated and replaced by the new counteroffer terms
+  D : It remains valid until the counteroffer is formally rejected in writing
+MARKED ANSWER: C
+RATIONALE: A counteroffer constitutes a rejection of the original offer and replaces it with new terms; the original offer ceases to exist once the counteroffer is made.
+
+[contracts-q03] (National · contracts)
+Q: Specific performance is most often sought by:
+  A : Listing brokers
+  B : Lenders
+  C*: Buyers
+  D : Insurers
+MARKED ANSWER: C
+RATIONALE: Buyers can compel conveyance because real estate is unique.
+
+[contracts-q03.v1] (National · contracts)
+Q: When a seller refuses to close on a purchase agreement for residential property, which party is most likely to file a lawsuit seeking specific performance?
+  A : The listing agent's broker
+  B : The title insurance company
+  C*: The purchaser
+  D : The mortgagee holding a construction loan
+MARKED ANSWER: C
+RATIONALE: Buyers seek specific performance because real estate is considered unique property that cannot be adequately replaced by monetary damages alone.
+
+[contracts-q03.v2] (National · contracts)
+Q: In a real estate dispute, a court is most likely to award specific performance to satisfy the claims of:
+  A*: A buyer seeking to compel the owner to convey the property
+  B : A real estate agent claiming lost commission
+  C : An escrow officer demanding fee payment
+  D : A lender attempting to recover loss reserves
+MARKED ANSWER: A
+RATIONALE: Specific performance compels conveyance because each parcel of land is unique and irreplaceable, making it the appropriate remedy for a buyer's breach claim.
+
+[contracts-q03.v3] (National · contracts)
+Q: Which party in a real estate transaction typically pursues specific performance as their remedy for breach of a sales contract?
+  A : Property managers
+  B*: The buyer
+  C : Insurance underwriters
+  D : Closing attorneys representing the title company
+MARKED ANSWER: B
+RATIONALE: Buyers pursue specific performance because land and buildings are unique assets where no two properties are identical, making monetary damages insufficient.
+
+[contracts-q03.v4] (National · contracts)
+Q: Specific performance as a remedy in Hawaii real estate law is most commonly invoked by:
+  A*: Buyers compelling sellers to complete the sale
+  B : Homeowners associations enforcing CC&Rs
+  C : Brokers seeking to enforce listing agreement terms
+  D : Appraisers challenging valuation disputes
+MARKED ANSWER: A
+RATIONALE: Buyers invoke specific performance because real property's unique nature means a breach cannot be remedied by damages; only actual conveyance satisfies the buyer's interest.
+
+[contracts-q03.v5] (National · contracts)
+Q: When a seller refuses to close and transfer title, which party has the strongest legal basis to request specific performance in Hawaii court?
+  A*: The purchaser under the sales contract
+  B : The title insurance company
+  C : The listing agent's employing broker
+  D : The mortgage lender holding the promissory note
+MARKED ANSWER: A
+RATIONALE: A buyer can pursue specific performance because real property is considered unique and cannot be adequately replaced with monetary damages alone.
+
+[contracts-q03.v6] (National · contracts)
+Q: In a real estate dispute where the seller breaches the purchase agreement, specific performance is typically the remedy of choice for:
+  A : Lenders seeking foreclosure authority
+  B : Brokers seeking compensation for lost commissions
+  C*: Buyers seeking to force conveyance of the property
+  D : Sellers seeking to recover earnest money deposits
+MARKED ANSWER: C
+RATIONALE: Buyers invoke specific performance because each parcel of real estate is unique; money damages cannot replicate the specific property the buyer contracted to purchase.
+
+[contracts-q03.v7] (National · contracts)
+Q: Which party to a real estate transaction would most likely ask a court to compel the other party to perform the actual deed transfer rather than accept monetary compensation?
+  A : A hazard insurance provider
+  B : A bank financing the property purchase
+  C*: A prospective owner who signed a binding purchase agreement
+  D : A managing broker seeking commission enforcement
+MARKED ANSWER: C
+RATIONALE: The buyer has the strongest claim for specific performance because real estate's unique nature makes it impossible to substitute with damages; the buyer wants the actual property conveyed.
+
+[contracts-q03.v8] (National · contracts)
+Q: Specific performance as a contractual remedy in Hawaii real estate law is pursued most commonly by:
+  A : Real estate brokers collecting earned commissions
+  B : Escrow agents protecting earnest money
+  C : Sellers defending against breach claims
+  D*: Purchasers seeking to enforce a binding sales agreement
+MARKED ANSWER: D
+RATIONALE: Purchasers use specific performance to force the actual conveyance of the real property because land is inherently unique and its loss cannot be compensated adequately through money damages.
+
+[contracts-q03.v9] (National · contracts)
+Q: When a seller refuses to close on a valid purchase agreement, which party is most likely to pursue specific performance in court?
+  A : The real estate appraiser
+  B : The escrow agent
+  C*: The purchaser
+  D : The title insurance company
+MARKED ANSWER: C
+RATIONALE: Purchasers seek specific performance to force the seller to convey the property because real estate is considered unique and irreplaceable, making monetary damages an inadequate remedy.
+
+[contracts-q04] (National · contracts)
+Q: Time is of the essence means:
+  A : Closing must be within 30 days
+  B : The seller controls timing
+  C*: Deadlines are strictly enforced
+  D : Negotiations should be fast
+MARKED ANSWER: C
+RATIONALE: Strict performance is required by the deadline.
+
+[contracts-q04.v1] (National · contracts)
+Q: In a Hawaii real estate contract, when a clause states 'time is of the essence,' what legal consequence does this create?
+  A : Both parties are encouraged to complete the transaction quickly but have flexibility
+  B*: Failure to perform by the specified date constitutes a material breach
+  C : The listing agent has authority to adjust closing deadlines as needed
+  D : The buyer may extend the closing date once without penalty
+MARKED ANSWER: B
+RATIONALE: When time is of the essence, the deadline becomes a critical contractual term, and missing it is a material breach rather than a minor delay. This creates strict enforceability of the stated completion date.
+
+[contracts-q04.v2] (National · contracts)
+Q: A buyer and seller execute a purchase contract that includes the phrase 'time is of the essence.' What does this language require?
+  A : Prompt negotiation of repairs and credits between inspection and closing
+  B*: Strict adherence to all dates and deadlines specified in the agreement
+  C : The transaction must close by the end of the calendar month
+  D : All parties must communicate within 24 hours of any contract change
+MARKED ANSWER: B
+RATIONALE: This language makes performance on or before the specified deadline a binding obligation; failure to meet deadlines becomes grounds for default rather than acceptable delay.
+
+[contracts-q04.v3] (National · contracts)
+Q: Which statement best describes the legal effect of including 'time is of the essence' in a real estate purchase agreement?
+  A : It requires the transaction to occur within a mutually agreed-upon general timeframe
+  B : It permits either party to walk away without penalty if deadlines slip by a few days
+  C : It allows the seller to unilaterally extend closing if repairs are incomplete
+  D*: It makes timely performance a condition that must be satisfied to avoid breach
+MARKED ANSWER: D
+RATIONALE: This clause transforms deadlines from guidelines into strict contractual conditions; failure to perform by the deadline constitutes a material breach of contract.
+
+[contracts-q04.v4] (National · contracts)
+Q: A Hawaii real estate contract states 'time is of the essence.' A buyer misses the earnest money deposit deadline by three business days. What is the likely outcome?
+  A : The parties should negotiate a reasonable extension without legal consequences
+  B : The seller must accept the late deposit as long as it arrives within one week
+  C*: The buyer's failure to meet the deadline is a material breach of contract
+  D : The earnest money deadline is waived if the buyer communicates intent to close
+MARKED ANSWER: C
+RATIONALE: With 'time is of the essence' language, even relatively minor delays in meeting specified deadlines constitute material breaches because the contract has established that timely performance is essential.
+
+[contracts-q04.v5] (National · contracts)
+Q: In a real estate contract, when a clause states 'time is of the essence,' what legal obligation does this create?
+  A*: Performance must occur by the specified date or the contract may be breached
+  B : Either party can request a 15-day extension without cause
+  C : The buyer may delay closing without penalty if market conditions change
+  D : The transaction timeline becomes a suggestion rather than a requirement
+MARKED ANSWER: A
+RATIONALE: This clause makes the deadline a material term of the contract; failure to perform by the stated date constitutes a breach.
+
+[contracts-q04.v6] (National · contracts)
+Q: A seller's agent includes 'time is of the essence' in the purchase agreement. What does this language primarily accomplish?
+  A*: It establishes that failure to close by the deadline is a material breach
+  B : It allows the escrow company to set closing dates unilaterally
+  C : It prevents either party from requesting inspection contingencies
+  D : It encourages buyers to make quick offers during negotiation
+MARKED ANSWER: A
+RATIONALE: The phrase makes timeliness a critical contract obligation; parties cannot disregard deadlines without risking breach of contract.
+
+[contracts-q04.v7] (National · contracts)
+Q: Which statement best explains the legal effect of including 'time is of the essence' in a Hawaii real estate purchase contract?
+  A : Negotiations must conclude within a specific timeframe set by the MLS
+  B : The real estate commission may issue a fine if closing is delayed
+  C*: Strict compliance with stated deadlines becomes a contractual obligation
+  D : The closing agent must schedule settlement within 20 business days
+MARKED ANSWER: C
+RATIONALE: This clause converts the closing date and other time-sensitive terms into mandatory contract requirements rather than flexible guidelines.
+
+[contracts-q04.v8] (National · contracts)
+Q: A buyer's attorney advises that 'time is of the essence' language in the offer should be carefully negotiated. Why is this contract language significant?
+  A : It reduces the number of days allowed for title search and review
+  B*: It makes the deadline a material term, and missing it can trigger contract default
+  C : It grants the seller authority to proceed with other offers if closing is one day late
+  D : It automatically waives the buyer's right to conduct inspections
+MARKED ANSWER: B
+RATIONALE: Including this clause means the parties have explicitly agreed that deadlines are binding; breach of the deadline may justify rescission or damages.
+
+[contracts-q04.v9] (National · contracts)
+Q: When a real estate contract includes the clause 'time is of the essence,' what legal obligation does this create for the parties?
+  A : The buyer may request a reasonable extension without penalty
+  B : The listing agent has authority to extend closing by up to 10 business days
+  C : Both parties are encouraged to complete the transaction promptly but flexibility is allowed
+  D*: Performance must occur by the specified date or the contract may be breached
+MARKED ANSWER: D
+RATIONALE: This clause makes the deadline a material condition of the contract; failure to perform by the stated date constitutes a breach, with no automatic right to extension.
+
+[contracts-q05] (National · contracts)
+Q: Net listings are:
+  A : Most common for new construction
+  B*: Disfavored or prohibited in most states
+  C : Encouraged by NAR
+  D : Required by law
+MARKED ANSWER: B
+RATIONALE: Net listings create conflict-of-interest risk.
+
+[contracts-q05.v1] (National · contracts)
+Q: A net listing arrangement, where the seller retains all proceeds above a set price and the broker keeps the difference, is generally regarded by most state regulators as:
+  A*: Problematic due to inherent conflicts of interest
+  B : The preferred method for commercial properties
+  C : An arrangement explicitly recommended by the National Association of REALTORS®
+  D : A standard practice compliant with fiduciary duties
+MARKED ANSWER: A
+RATIONALE: Net listings create a conflict of interest because the broker's compensation increases if the sale price rises, incentivizing the broker to prioritize personal profit over the client's best interest; most states restrict or prohibit them.
+
+[contracts-q05.v2] (National · contracts)
+Q: Which statement accurately reflects how net listings are treated under real estate law and professional standards?
+  A*: They are widely prohibited or disfavored due to conflict-of-interest concerns
+  B : They are required by the Hawaii Real Estate Commission before listing any property
+  C : They are the most efficient pricing method for luxury homes
+  D : They are mandated in all residential transactions
+MARKED ANSWER: A
+RATIONALE: Net listings inherently create a perverse incentive structure where the agent benefits more from higher sale prices, undermining the agent's fiduciary obligation to the seller; most states and professional organizations discourage or ban them.
+
+[contracts-q05.v3] (National · contracts)
+Q: In a net listing, the broker's commission is determined by the amount above a predetermined net price the seller will receive. What is the primary regulatory concern with this arrangement?
+  A : It reduces transparency and increases broker liability for disclosure violations
+  B*: It establishes a financial incentive that conflicts with undivided loyalty to the client
+  C : It creates an undisclosed dual agency situation
+  D : It violates the Equal Credit Opportunity Act
+MARKED ANSWER: B
+RATIONALE: Net listings create a problematic incentive where the broker's profit grows with the sale price, creating a conflict of interest that undermines the broker's duty to represent the client's interests; this structural flaw is why they are disfavored or prohibited in most jurisdictions.
+
+[contracts-q05.v4] (National · contracts)
+Q: A broker proposes a net listing structure to a prospective seller, claiming it will maximize the seller's proceeds. From a regulatory and ethical standpoint, how are net listings typically addressed?
+  A : They are permitted without limitation as long as both parties consent in writing
+  B*: They are restricted or prohibited in most states due to inherent conflict-of-interest problems
+  C : They are actively promoted by state real estate commissions as consumer-friendly
+  D : They are the standard arrangement for properties listed under $500,000
+MARKED ANSWER: B
+RATIONALE: Net listings are disfavored or prohibited because the broker's compensation incentive misaligns with fiduciary duty—the agent profits more by negotiating a higher price, creating a conflict that many jurisdictions restrict to protect consumers.
+
+[contracts-q05.v5] (National · contracts)
+Q: In Hawaii and most U.S. states, a net listing arrangement is generally:
+  A*: Subject to strict regulation or outright prohibition due to ethical concerns
+  B : Mandated by the Hawaii Real Estate Commission for all residential transactions
+  C : The preferred method for commercial property sales
+  D : Recommended by the National Association of REALTORS® as a best practice
+MARKED ANSWER: A
+RATIONALE: Net listings are disfavored or prohibited in most states because they create inherent conflicts of interest between the agent's personal profit motive and the seller's interest in maximizing net proceeds.
+
+[contracts-q05.v6] (National · contracts)
+Q: Why would a Hawaii real estate licensee face regulatory scrutiny when entering into a net listing with a seller?
+  A*: The arrangement creates a significant risk of agent self-dealing and undisclosed conflicts of interest
+  B : Net listings reduce transaction costs and are considered industry standard practice
+  C : Federal law mandates that all listings must include a net price floor
+  D : Net listings are explicitly required by Hawaii statute for all residential properties
+MARKED ANSWER: A
+RATIONALE: Net listings inherently incentivize the agent to keep any amount above the net price for themselves, rather than seeking the best possible price for the seller, creating a problematic conflict of interest.
+
+[contracts-q05.v7] (National · contracts)
+Q: Which statement accurately reflects the regulatory position on net listings in most states?
+  A*: They are generally discouraged or prohibited because the listing agent's personal profit motive may override the seller's interests
+  B : They are most frequently used in new construction and commercial development markets
+  C : They are encouraged by real estate commissions as a way to align broker and seller incentives
+  D : They are required by law whenever a seller requests a guaranteed sale price
+MARKED ANSWER: A
+RATIONALE: Most states restrict or prohibit net listings due to the inherent conflict of interest: the agent benefits by keeping the difference between the sale price and the net price, rather than advocating for the highest possible price for the seller.
+
+[contracts-q05.v8] (National · contracts)
+Q: A seller asks a Hawaii licensee: 'Can we set up a net listing where you get to keep anything above $500,000?' The licensee should understand that this arrangement is:
+  A : Compliant with NAR Code of Ethics requirements
+  B*: Problematic due to the conflict of interest it creates between the agent's compensation and the seller's best interest
+  C : A common structure for listing agreements in residential real estate
+  D : Permissible under Hawaii law and standard industry practice
+MARKED ANSWER: B
+RATIONALE: Net listings create an unacceptable conflict of interest because the agent profits directly from keeping the spread above the net price, rather than being motivated to achieve the highest possible sale price for the seller.
+
+[contracts-q05.v9] (National · contracts)
+Q: In Hawaii and most U.S. states, a net listing arrangement is generally viewed with caution or restricted because:
+  A : It is mandated by the Hawaii Real Estate Commission for all exclusive listings
+  B : It is the fastest way to sell residential properties in competitive markets
+  C*: It creates an inherent conflict of interest between broker compensation and seller's best interest
+  D : It guarantees the seller receives a minimum net amount regardless of sale price
+MARKED ANSWER: C
+RATIONALE: Net listings are problematic because the broker's commission increases with the sale price above the net, incentivizing the broker to prioritize their own gain over maximizing the seller's proceeds, creating an ethical conflict.
+

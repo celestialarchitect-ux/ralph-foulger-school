@@ -1,0 +1,2 @@
+MATH — reviewed 25 drills, found 0 critical, 0 major, 1 minor
+math-2 | minor | Given states π ≈ 3.14, but 3.14 × 2,500 = 7,850; the 7,854 answer uses the more precise π ≈ 3.14159. Either change given to π ≈ 3.14159 or set answer to 7,850 for internal consistency. | 7,850 sq ft with π=3.14 (or 7,854 with π=3.14159)

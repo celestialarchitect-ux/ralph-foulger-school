@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 13/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[hi-property-management-q06] (State · hi-property-management)
+Q: Compensated property management requires:
+  A*: A broker license
+  B : A general business license only
+  C : No license
+  D : A salesperson license only
+MARKED ANSWER: A
+RATIONALE: Property management for compensation requires a broker license in Hawaii.
+
+[hi-property-management-q06.v1] (State · hi-property-management)
+Q: A real estate professional who manages rental properties for a fee in Hawaii must hold what type of license?
+  A : A salesperson license with broker supervision
+  B : A property management certificate
+  C*: A broker license
+  D : A general contractor license
+MARKED ANSWER: C
+RATIONALE: Property management for compensation requires a broker license in Hawaii; a salesperson license is insufficient and no certificate alone qualifies.
+
+[hi-property-management-q06.v2] (State · hi-property-management)
+Q: Which licensing requirement applies to an individual who receives payment to manage residential rental units?
+  A*: Broker license only
+  B : Real estate transaction coordinator certification
+  C : A notary public endorsement
+  D : Salesperson license under a broker
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires a broker license to perform property management services for compensation; salesperson licenses do not authorize independent property management.
+
+[hi-property-management-q06.v3] (State · hi-property-management)
+Q: An individual acting as a paid property manager in Hawaii is required to possess:
+  A : A real estate sales license only
+  B : A business tax permit
+  C*: A broker license
+  D : A condominium management license
+MARKED ANSWER: C
+RATIONALE: Compensated property management in Hawaii requires a broker license; other credentials like sales licenses or business permits do not satisfy the statutory requirement.
+
+[hi-property-management-q06.v4] (State · hi-property-management)
+Q: To legally charge fees for managing another person's real property in Hawaii, a licensee must have:
+  A*: A broker license
+  B : An affiliation with a property management association
+  C : A salesperson license issued by the Hawaii Real Estate Commission
+  D : A trust account authorization only
+MARKED ANSWER: A
+RATIONALE: Property management for compensation is a broker function in Hawaii and cannot be performed under a salesperson license or through association affiliation alone.
+
+[hi-property-management-q06.v5] (State · hi-property-management)
+Q: A real estate professional accepts a fee to manage rental properties on behalf of an owner. What licensing requirement must be satisfied?
+  A : A salesperson license with property management endorsement
+  B : No real estate license if the manager is an employee of the owner
+  C : Registration with the Hawaii Department of Commerce and Consumer Affairs only
+  D*: A broker license
+MARKED ANSWER: D
+RATIONALE: Property management services provided for compensation require a broker license under Hawaii real estate law, regardless of employment status or other registrations.
+
+[hi-property-management-q06.v6] (State · hi-property-management)
+Q: Which licensing credential is mandatory for an individual who charges fees to oversee tenant relations, collect rents, and maintain rental properties?
+  A : Salesperson license
+  B*: Broker license
+  C : Business tax license only
+  D : Property manager certificate from the Hawaii Real Estate Commission
+MARKED ANSWER: B
+RATIONALE: In Hawaii, any person receiving compensation for property management must hold a broker license; a salesperson license or business tax license alone is insufficient.
+
+[hi-property-management-q06.v7] (State · hi-property-management)
+Q: A property owner hires a professional to handle leasing, maintenance coordination, and rent collection for multiple residential units in exchange for a monthly management fee. What is required?
+  A : No real estate license if the owner provides written authorization
+  B*: A broker license
+  C : An escrow account license
+  D : A general real estate salesperson license
+MARKED ANSWER: B
+RATIONALE: Property management for compensation in Hawaii requires a broker license; written owner authorization does not exempt the manager from licensing requirements.
+
+[hi-property-management-q06.v8] (State · hi-property-management)
+Q: Under Hawaii real estate law, if a property manager receives compensation for managing residential or commercial properties, which licensing requirement applies?
+  A*: Broker license only
+  B : Salesperson license only
+  C : Either a broker or salesperson license at the manager's discretion
+  D : No real estate license is required if the manager is bonded
+MARKED ANSWER: A
+RATIONALE: Hawaii REC regulations mandate that paid property managers must hold a broker license; a salesperson license or bonding does not satisfy this requirement.
+
+[hi-property-management-q06.v9] (State · hi-property-management)
+Q: A property manager in Hawaii who receives a fee for managing rental properties on behalf of an owner must hold which type of license?
+  A : Only a general business permit from the city
+  B : A salesperson license with property management endorsement
+  C : No real estate license if bonded and insured
+  D*: A broker license
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires a broker license to engage in property management for compensation; a salesperson license is insufficient, and general business permits do not satisfy real estate licensing requirements.
+
+[hi-property-management-q07] (State · hi-property-management)
+Q: A 5-day notice is for:
+  A : Annual inspection
+  B : Lease end
+  C*: Non-payment of rent
+  D : Routine maintenance
+MARKED ANSWER: C
+RATIONALE: 5-day = non-payment of rent.
+
+[hi-property-management-q07.v1] (State · hi-property-management)
+Q: Under Hawaii residential tenancy law, when a landlord issues a 5-day notice to the tenant, what breach is being addressed?
+  A : Violation of lease terms regarding occupancy limits
+  B : Unauthorized alterations to the rental unit
+  C*: Failure to pay rent when due
+  D : Failure to maintain the premises in habitable condition
+MARKED ANSWER: C
+RATIONALE: A 5-day notice in Hawaii is specifically for non-payment of rent, giving the tenant 5 days to cure or vacate before eviction proceedings begin.
+
+[hi-property-management-q07.v2] (State · hi-property-management)
+Q: A landlord in Hawaii provides written notice giving a tenant 5 days to remedy the situation or face lease termination. Which tenant default triggered this notice?
+  A : Late submission of a lease renewal application
+  B : Request for a lease modification
+  C : Complaint about unit temperature control
+  D*: Delinquent rental payment
+MARKED ANSWER: D
+RATIONALE: The 5-day cure-or-quit notice is the statutory notice period in Hawaii for non-payment of rent, allowing the tenant 5 days to pay before eviction action.
+
+[hi-property-management-q07.v3] (State · hi-property-management)
+Q: Which of the following tenant violations requires a landlord to serve exactly 5 days' written notice under Hawaii law?
+  A*: Rent arrearages
+  B : Pest infestation discovery
+  C : Lease expiration
+  D : Month-to-month termination
+MARKED ANSWER: A
+RATIONALE: Hawaii law mandates a 5-day notice for non-payment of rent, establishing the minimum cure period before a landlord may proceed with eviction.
+
+[hi-property-management-q07.v4] (State · hi-property-management)
+Q: In Hawaii, a landlord sends a tenant a 5-day notice to cure or quit. The tenant most likely failed to:
+  A : Provide proper notice of lease termination intent
+  B : Disclose a roommate moving into the unit
+  C : Complete a required annual safety inspection
+  D*: Make timely rent payment
+MARKED ANSWER: D
+RATIONALE: The 5-day notice period in Hawaii is statutory for non-payment of rent; it is the landlord's first formal step in the eviction process for this specific breach.
+
+[hi-property-management-q07.v5] (State · hi-property-management)
+Q: Under Hawaii residential tenancy law, when a landlord issues a notice requiring the tenant to cure or quit within 5 days, the most common reason is:
+  A*: Failure to remit monthly rent payment
+  B : Advance notice of lease expiration
+  C : Scheduling a routine property walkthrough
+  D : Failure to maintain the property's exterior appearance
+MARKED ANSWER: A
+RATIONALE: A 5-day cure or quit notice in Hawaii is typically used for non-payment of rent, giving the tenant 5 days to pay or vacate.
+
+[hi-property-management-q07.v6] (State · hi-property-management)
+Q: A landlord serves a tenant with a 5-day notice. Which of the following is the primary breach being addressed?
+  A : Required annual safety inspection
+  B*: Delinquent rent obligation
+  C : Damage from normal wear and tear
+  D : Unauthorized alterations to the leased premises
+MARKED ANSWER: B
+RATIONALE: The 5-day notice period in Hawaii residential tenancy is the standard cure-or-quit timeframe for rent default situations.
+
+[hi-property-management-q07.v7] (State · hi-property-management)
+Q: If a tenant receives a 5-day notice to cure or quit, what tenant conduct most likely triggered it?
+  A*: Not paying rent on the due date
+  B : Keeping a pet without written permission
+  C : Providing 30 days' notice of intent to move
+  D : Requesting repairs to plumbing
+MARKED ANSWER: A
+RATIONALE: The 5-day notice is the statutory period given to tenants to remedy rent arrearages before eviction proceedings can commence.
+
+[hi-property-management-q07.v8] (State · hi-property-management)
+Q: A Hawaii property manager issues a 5-day notice to a residential tenant. This action is most commonly associated with:
+  A : Tenant's lease term reaching its natural expiration date
+  B : Landlord's request for voluntary lease renewal discussion
+  C*: Tenant's failure to meet a rental payment obligation
+  D : Landlord's need to conduct a mandatory annual inspection
+MARKED ANSWER: C
+RATIONALE: Under Hawaii law, a 5-day notice is the required cure-or-quit period for non-payment of rent before formal eviction action.
+
+[hi-property-management-q07.v9] (State · hi-property-management)
+Q: Under Hawaii rental law, when a landlord provides a tenant with a 5-day notice, what is the landlord most likely addressing?
+  A : Performance of necessary repairs to common areas
+  B : Termination of the lease agreement at expiration
+  C : Scheduling a required annual property inspection
+  D*: Failure to pay the monthly rent obligation
+MARKED ANSWER: D
+RATIONALE: A 5-day notice in Hawaii rental law is the statutory notice period for non-payment of rent, giving the tenant 5 days to cure the delinquency before eviction proceedings may commence.
+
+[hi-property-management-q08] (State · hi-property-management)
+Q: Tenant security deposits must be held:
+  A : By tenant's bank
+  B : In safe deposit box
+  C*: In a separate trust account
+  D : In broker operating account
+MARKED ANSWER: C
+RATIONALE: Trust account separate from broker funds.
+
+[hi-property-management-q08.v1] (State · hi-property-management)
+Q: When a real estate broker receives earnest money from a buyer, where must these funds be deposited?
+  A*: In a segregated trust account maintained separately from broker funds
+  B : In a money market fund owned by the brokerage
+  C : In the buyer's personal savings account
+  D : In the broker's general operating account for immediate access
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires brokers to maintain client funds in a separate trust account that is distinct from the broker's own operating funds to protect client money.
+
+[hi-property-management-q08.v2] (State · hi-property-management)
+Q: Which of the following best describes the proper handling of client funds received by a real estate broker?
+  A : Hold in the broker's safe deposit box at a local bank
+  B*: Maintain in a dedicated trust account separate from broker business funds
+  C : Commingle with broker operating funds for accounting efficiency
+  D : Deposit directly into the client's designated escrow account
+MARKED ANSWER: B
+RATIONALE: Trust accounts must be segregated from broker operating accounts to ensure client funds remain protected and are not subject to broker debts or business operations.
+
+[hi-property-management-q08.v3] (State · hi-property-management)
+Q: A broker receives a rental security deposit from a landlord's tenant. According to Hawaii real estate regulations, this deposit should be placed in:
+  A : A brokerage investment account for interest-bearing purposes
+  B*: A separate trust account distinct from the broker's business accounts
+  C : A joint account between the broker and the property owner
+  D : The property owner's personal checking account
+MARKED ANSWER: B
+RATIONALE: Client funds, including security deposits, must be held in a segregated trust account to maintain fiduciary duty and compliance with Hawaii real estate regulations.
+
+[hi-property-management-q08.v4] (State · hi-property-management)
+Q: Under Hawaii real estate law, earnest money deposits collected by a broker are required to be held in which type of account?
+  A : The broker's payroll or general business account
+  B : An escrow service owned and operated by the listing agent
+  C : A corporate investment account in the brokerage's name
+  D*: A trust account segregated from the broker's operating funds
+MARKED ANSWER: D
+RATIONALE: Hawaii regulations mandate that client funds be held in a separate trust account to protect these funds from broker liability and ensure proper accounting and return of deposits.
+
+[hi-property-management-q08.v5] (State · hi-property-management)
+Q: Under Hawaii real estate law, where should a broker deposit rental security funds received from a tenant?
+  A : In the broker's personal safe deposit box at a financial institution
+  B : In the broker's general operating or business account
+  C*: In a segregated trust or escrow account maintained separately from broker funds
+  D : In a money market account under the tenant's name
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires security deposits to be held in a trust account separate and distinct from the broker's operating funds to protect tenant money.
+
+[hi-property-management-q08.v6] (State · hi-property-management)
+Q: A broker receives a security deposit from a tenant for a rental property. Which account is the legally correct place to deposit these funds?
+  A : A joint account with the property owner and broker
+  B : The broker's escrow account used for earnest money only
+  C*: A trust account separate from all broker business accounts
+  D : The broker's regular business checking account
+MARKED ANSWER: C
+RATIONALE: Security deposits must be held in a segregated trust account kept separate from the broker's operating accounts and other client funds.
+
+[hi-property-management-q08.v7] (State · hi-property-management)
+Q: When a property manager collects security deposits from tenants, these funds must be placed in:
+  A : The broker's escrow account combined with earnest money deposits
+  B : The property owner's personal bank account
+  C*: A dedicated trust account maintained separately from the broker's business funds
+  D : A certificate of deposit in the property owner's name
+MARKED ANSWER: C
+RATIONALE: Security deposits are trust funds that must be held in a separate trust account to maintain segregation and protect tenant deposits from broker operations.
+
+[hi-property-management-q08.v8] (State · hi-property-management)
+Q: A real estate broker in Hawaii receives tenant security deposits. According to licensing law, these funds must NOT be:
+  A : Maintained in an account clearly designated for client funds
+  B : Placed in a trust account separate from operating funds
+  C : Kept in a segregated account away from broker business money
+  D*: Deposited in the broker's general operating account
+MARKED ANSWER: D
+RATIONALE: Security deposits must be held in a separate trust account and cannot be commingled with the broker's operating or business accounts.
+
+[hi-property-management-q08.v9] (State · hi-property-management)
+Q: Under Hawaii real estate law, where should a broker deposit funds collected from a tenant as a security deposit?
+  A : In the broker's personal safe deposit box at a local bank
+  B : In the broker's general operating account mixed with other business funds
+  C*: In a designated trust or escrow account kept separate from the broker's own money
+  D : In a money market account registered under the tenant's name
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires brokers to maintain security deposits in a separate trust account, not commingled with broker operating funds, to protect tenant money from broker liability.
+
+[hi-land-utilization-q00] (State · hi-land-utilization)
+Q: Hawaii's four state land use districts are:
+  A*: Urban, Rural, Agricultural, Conservation
+  B : Single, Multi, Mixed, Open
+  C : Honolulu, Maui, Kauai, Hawaii
+  D : Residential, Commercial, Industrial, Agricultural
+MARKED ANSWER: A
+RATIONALE: LUC classifies land into Urban, Rural, Ag, and Conservation.
+
+[hi-land-utilization-q00.v1] (State · hi-land-utilization)
+Q: Under Hawaii's Land Use Commission framework, which of the following correctly identifies the state's four primary land use classifications?
+  A : Residential, Commercial, Industrial, Recreational
+  B*: Urban, Rural, Agricultural, Conservation
+  C : Honolulu, County, State, Federal
+  D : Zoned, Unzoned, Exempt, Restricted
+MARKED ANSWER: B
+RATIONALE: The Hawaii Land Use Commission designates all land into exactly four districts: Urban, Rural, Agricultural, and Conservation, as established by Chapter 205, HRS.
+
+[hi-land-utilization-q00.v2] (State · hi-land-utilization)
+Q: A real estate professional in Hawaii needs to understand the state's foundational land use categories. Which set accurately reflects the LUC's classification system?
+  A : Single-Family, Multi-Family, Commercial, Open Space
+  B*: Conservation, Agricultural, Rural, and Urban
+  C : Developed, Developing, Agricultural, Protected
+  D : County, State, Private, Public
+MARKED ANSWER: B
+RATIONALE: The Land Use Commission divides all Hawaiian land into Conservation, Agricultural, Rural, and Urban districts to manage statewide development and resource protection.
+
+[hi-land-utilization-q00.v3] (State · hi-land-utilization)
+Q: When discussing Hawaii's statewide land use regulatory framework, an agent should know that the LUC oversees which four land use districts?
+  A : Maui County, Honolulu County, Hawaii County, Kalawao County
+  B : Metropolitan, Suburban, Rural, Wilderness
+  C : Residential, Commercial, Industrial, Mixed-Use
+  D*: Agricultural, Conservation, Rural, Urban
+MARKED ANSWER: D
+RATIONALE: Hawaii's Land Use Commission statute creates four mandatory statewide districts—Agricultural, Conservation, Rural, and Urban—to coordinate land use across all islands.
+
+[hi-land-utilization-q00.v4] (State · hi-land-utilization)
+Q: Which of the following accurately describes Hawaii's four state land use district classifications established by the Land Use Commission?
+  A : Coastal, Inland, Transitional, Protected
+  B : Zoning, Conditional Use, Variances, and Overlays
+  C : Residential, Commercial, Industrial, Public Facility
+  D*: Agricultural, Urban, Rural, Conservation
+MARKED ANSWER: D
+RATIONALE: The LUC's four state land use districts are Agricultural, Urban, Rural, and Conservation, which form the legal framework for all land use planning in Hawaii.
+
+[hi-land-utilization-q00.v5] (State · hi-land-utilization)
+Q: According to Hawaii's Land Use Commission, land in the state is divided into how many primary districts, and which of the following correctly lists all of them?
+  A : Three districts: Urban, Agricultural, and Conservation
+  B*: Four districts: Urban, Rural, Agricultural, and Conservation
+  C : Five districts: Residential, Commercial, Industrial, Agricultural, and Conservation
+  D : Four districts: Honolulu County, Hawaii County, Maui County, and Kalawao County
+MARKED ANSWER: B
+RATIONALE: Hawaii's Land Use Commission statute establishes exactly four state land use districts: Urban, Rural, Agricultural, and Conservation.
+
+[hi-land-utilization-q00.v6] (State · hi-land-utilization)
+Q: A real estate professional in Hawaii must understand the state's foundational land classification system. Which of the following accurately describes Hawaii's land use district framework?
+  A*: Urban, Rural, Agricultural, and Conservation
+  B : Residential, Agricultural, Commercial, and Mixed-Use
+  C : Rural, Suburban, Agricultural, and Environmental
+  D : County-based districts aligned with the four major islands
+MARKED ANSWER: A
+RATIONALE: The Hawaii Land Use Commission classifies all state land into four statutory districts: Urban, Rural, Agricultural, and Conservation.
+
+[hi-land-utilization-q00.v7] (State · hi-land-utilization)
+Q: When reviewing property zoning in Hawaii, an agent must reference the state's primary land use classification system. What are the four state land use districts?
+  A : Coastal, Inland, Plantation, and Preservation
+  B : Single-Family, Multi-Family, Business, and Protected
+  C*: Agricultural, Conservation, Urban, and Rural
+  D : Residential, Commercial, Industrial, and Public
+MARKED ANSWER: C
+RATIONALE: Hawaii's Land Use Commission divides all state land into four districts—Agricultural, Conservation, Urban, and Rural—regardless of county or zoning overlay.
+
+[hi-land-utilization-q00.v8] (State · hi-land-utilization)
+Q: The Hawaii Revised Statutes establish a statewide land use classification system. Which set of districts comprises this foundational framework?
+  A : Residential, Vacation, Commercial, and Protected
+  B : Developable, Semi-Protected, Protected, and Restricted
+  C*: Urban, Rural, Agricultural, and Conservation
+  D : State Parks, Forestry, Agricultural Reserves, and Urban Zones
+MARKED ANSWER: C
+RATIONALE: Hawaii's Land Use Commission statute establishes four state land use districts: Urban, Rural, Agricultural, and Conservation as the primary classification system.
+
+[hi-land-utilization-q00.v9] (State · hi-land-utilization)
+Q: Under Hawaii's Land Use Commission framework, which classification system divides the state's land into four primary categories?
+  A : Zoning by county (Honolulu, Maui, Hawaii, Kalawao)
+  B : Density-based categories: Low, Medium, High, and Preservation
+  C : Residential, Commercial, Industrial, and Recreational zones
+  D*: Urban, Rural, Agricultural, and Conservation districts
+MARKED ANSWER: D
+RATIONALE: Hawaii's Land Use Commission established four state-level districts: Urban, Rural, Agricultural, and Conservation to regulate land use statewide.
+
+[hi-land-utilization-q01] (State · hi-land-utilization)
+Q: A coastal-zone area requiring development permit is called:
+  A : AOAO
+  B*: SMA
+  C : TMK
+  D : CPR
+MARKED ANSWER: B
+RATIONALE: Special Management Area requires SMA permit.
+
+[hi-land-utilization-q01.v1] (State · hi-land-utilization)
+Q: Which Hawaii coastal regulation requires a landowner to obtain a permit before commencing development activities in a protected shoreline zone?
+  A : Conservation District Use Permit (CDUP)
+  B : Tax Map Key (TMK) registration
+  C : Zoning Variance Application (ZVA)
+  D*: Special Management Area (SMA) permit
+MARKED ANSWER: D
+RATIONALE: SMA permits are mandatory for developments in designated coastal Special Management Areas in Hawaii. A CDUP and ZVA are different permit types; TMK is a parcel identifier, not a permit.
+
+[hi-land-utilization-q01.v2] (State · hi-land-utilization)
+Q: A developer plans to build a resort along Hawaii's coastline. Before construction begins, which designation identifies the area requiring specific government approval?
+  A : CPR boundary
+  B : AOAO district
+  C*: SMA designation
+  D : TMK zone
+MARKED ANSWER: C
+RATIONALE: Special Management Area (SMA) designation marks coastal zones where development permits are required under Hawaii's coastal zone management rules. TMK is a property identifier; AOAO is a homeowners' association; CPR is not a coastal designation.
+
+[hi-land-utilization-q01.v3] (State · hi-land-utilization)
+Q: In Hawaii, if a property falls within a coastal-protection area that mandates environmental review and permitting before development, the property likely is situated in a:
+  A*: SMA (Special Management Area)
+  B : AOAO (Association of Apartment Owners)
+  C : TMK (Tax Map Key) overlay
+  D : CPR (Coastal Protection Regulation)
+MARKED ANSWER: A
+RATIONALE: Special Management Areas require SMA permits for development in Hawaii's coastal zones. CPR is not a standard Hawaii coastal designation; AOAO is for condominiums; TMK is a parcel tax identifier.
+
+[hi-land-utilization-q01.v4] (State · hi-land-utilization)
+Q: A real estate agent must inform a client that their beachfront property falls within a regulatory zone requiring a development permit. Which term describes this coastal protection area?
+  A : CPR sector
+  B*: Special Management Area
+  C : AOAO zone
+  D : TMK classification
+MARKED ANSWER: B
+RATIONALE: Special Management Area (SMA) is Hawaii's coastal zone designation requiring permits for development. AOAO applies to condominiums; CPR and TMK are unrelated to coastal development permit requirements.
+
+[hi-land-utilization-q01.v5] (State · hi-land-utilization)
+Q: Which designation applies to Hawaii coastal properties requiring environmental review and special development authorization?
+  A*: Special Management Area
+  B : Condominium Property Regime
+  C : Association of Apartment Owners
+  D : Tax Map Key
+MARKED ANSWER: A
+RATIONALE: Special Management Area (SMA) is the Hawaii coastal-zone overlay that mandates permit approval for development activities in environmentally sensitive coastal regions.
+
+[hi-land-utilization-q01.v6] (State · hi-land-utilization)
+Q: A buyer is informed that her oceanfront property falls within a coastal overlay zone requiring a specific permit before construction. The zone is known as:
+  A : TMK classification
+  B : CPR overlay
+  C*: SMA zone
+  D : AOAO designation
+MARKED ANSWER: C
+RATIONALE: The Special Management Area (SMA) is Hawaii's coastal management tool that requires permits for development, modifications, and land use changes in designated coastal zones.
+
+[hi-land-utilization-q01.v7] (State · hi-land-utilization)
+Q: Under Hawaii land-use law, what acronym represents the coastal protection area where development permits are mandatory?
+  A : CPR
+  B : AOAO
+  C : TMK
+  D*: SMA
+MARKED ANSWER: D
+RATIONALE: SMA (Special Management Area) is the Hawaii regulatory designation for coastal zones where development activities require state and/or county permit approval.
+
+[hi-land-utilization-q01.v8] (State · hi-land-utilization)
+Q: A real estate licensee explains to her client that the beachfront parcel requires approval from the state because it is located in a Special Management Area. This acronym is:
+  A : TMK
+  B : CPR
+  C : AOAO
+  D*: SMA
+MARKED ANSWER: D
+RATIONALE: SMA stands for Special Management Area, the Hawaii coastal-overlay designation requiring environmental review and development permits for qualifying land uses and construction activities.
+
+[hi-land-utilization-q01.v9] (State · hi-land-utilization)
+Q: Under Hawaii law, which designation identifies a zone where environmental review and a special permit are required before development can proceed?
+  A : Association of Apartment Owners
+  B : Coastal Property Registry
+  C*: Special Management Area
+  D : Tax Map Key
+MARKED ANSWER: C
+RATIONALE: An SMA (Special Management Area) is a Hawaii coastal zone requiring an SMA permit for development activities. TMK is a parcel identifier, AOAO is a condominium association type, and CPR is not a Hawaii zoning designation.
+
+[hi-land-utilization-q02] (State · hi-land-utilization)
+Q: County zoning in Honolulu is governed by:
+  A : GET
+  B : TCT
+  C : HRS 521
+  D*: LUO
+MARKED ANSWER: D
+RATIONALE: Honolulu Land Use Ordinance.
+
+[hi-land-utilization-q02.v1] (State · hi-land-utilization)
+Q: Which ordinance establishes the zoning regulations and land use classifications for the City and County of Honolulu?
+  A : GET
+  B : TCT
+  C*: LUO
+  D : HRS 521
+MARKED ANSWER: C
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the primary municipal code that governs zoning classifications, permitted uses, and land use restrictions in Honolulu.
+
+[hi-land-utilization-q02.v2] (State · hi-land-utilization)
+Q: A real estate licensee in Honolulu needs to determine what uses are permitted on a residential parcel. This information would be found in:
+  A : Hawaii Revised Statutes Chapter 521
+  B : The General Excise Tax Code
+  C : The Title Commitment and TCT
+  D*: The Land Use Ordinance
+MARKED ANSWER: D
+RATIONALE: The Honolulu Land Use Ordinance (LUO) specifies permitted uses, restrictions, and zoning classifications for each land use district in the county.
+
+[hi-land-utilization-q02.v3] (State · hi-land-utilization)
+Q: Which of the following is the authoritative county document that defines zoning districts and regulations for Honolulu?
+  A : Hawaii Revised Statutes 521
+  B : Tax Clearance Certificate
+  C*: Honolulu Land Use Ordinance
+  D : General Excise Tax Statute
+MARKED ANSWER: C
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the county-level zoning and land use regulation document that governs all property classifications and permitted uses within Honolulu.
+
+[hi-land-utilization-q02.v4] (State · hi-land-utilization)
+Q: A broker is analyzing a commercial property in Honolulu and needs to verify zoning compliance and use restrictions. Which source would be most appropriate?
+  A*: The Honolulu Land Use Ordinance
+  B : County General Excise Tax guidelines
+  C : HRS Chapter 521
+  D : The applicable TCT and deed
+MARKED ANSWER: A
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the definitive municipal source for zoning designations, permitted uses, and land use restrictions in Honolulu.
+
+[hi-land-utilization-q02.v5] (State · hi-land-utilization)
+Q: Which regulatory framework establishes zoning classifications and land use restrictions within the City and County of Honolulu?
+  A : General Excise Tax Code
+  B : Transfer Certificate of Title requirements
+  C : Hawaii Revised Statutes Chapter 521
+  D*: Honolulu Land Use Ordinance
+MARKED ANSWER: D
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the local municipal code that controls zoning designations and permitted uses for properties in Honolulu.
+
+[hi-land-utilization-q02.v6] (State · hi-land-utilization)
+Q: A real estate agent in Honolulu advises a client that their residential property cannot be converted to commercial use. What document would the agent cite as the basis for this zoning restriction?
+  A*: The Honolulu Land Use Ordinance
+  B : HRS 521
+  C : Hawaii Transfer Certificate of Title Act
+  D : Honolulu General Excise Tax Ordinance
+MARKED ANSWER: A
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the county-level zoning regulation that determines which land uses are permitted in specific zoning districts.
+
+[hi-land-utilization-q02.v7] (State · hi-land-utilization)
+Q: When a broker needs to determine whether a parcel in Honolulu is zoned for a particular use, which document should be consulted?
+  A*: Honolulu Land Use Ordinance
+  B : Hawaii Revised Statutes 521
+  C : County General Excise Tax regulations
+  D : Transfer Certificate of Title
+MARKED ANSWER: A
+RATIONALE: The Honolulu Land Use Ordinance (LUO) contains the local zoning codes and permitted uses for different zoning classifications in the City and County of Honolulu.
+
+[hi-land-utilization-q02.v8] (State · hi-land-utilization)
+Q: What is the primary source of zoning authority for properties located in Honolulu?
+  A*: The City and County of Honolulu Land Use Ordinance
+  B : Hawaii Revised Statutes Chapter 521
+  C : Hawaii General Excise Tax Code
+  D : State Transfer Certificate of Title statutes
+MARKED ANSWER: A
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the municipal ordinance that serves as the definitive source for all zoning regulations and land use controls in Honolulu.
+
+[hi-land-utilization-q02.v9] (State · hi-land-utilization)
+Q: Which legal instrument establishes zoning classifications and land use restrictions for the City and County of Honolulu?
+  A*: Honolulu Land Use Ordinance
+  B : Hawaii Revised Statutes Chapter 205
+  C : General Excise Tax Code
+  D : State Land Use Commission Order
+MARKED ANSWER: A
+RATIONALE: The Honolulu Land Use Ordinance (LUO) is the municipal code that governs all zoning and land use regulations within Honolulu's jurisdiction. HRS 205 applies to statewide land use districts, not county zoning.
+
+[hi-land-utilization-q03] (State · hi-land-utilization)
+Q: Development in the Conservation district typically requires:
+  A : Building permit only
+  B : County variance only
+  C : No permit
+  D*: Conservation District Use Permit (CDUP)
+MARKED ANSWER: D
+RATIONALE: CDUP from DLNR required for Conservation development.
+
+[hi-land-utilization-q03.v1] (State · hi-land-utilization)
+Q: A property owner wants to construct a facility within Hawaii's Conservation district. Which authorization document must be obtained from the Department of Land and Natural Resources?
+  A : Conditional Use Permit from the county planning department
+  B : Environmental Assessment exemption certificate
+  C*: Conservation District Use Permit (CDUP)
+  D : Agricultural lease agreement
+MARKED ANSWER: C
+RATIONALE: DLNR issues the CDUP, which is the mandatory authorization for any use or development activity in Conservation districts under Hawaii administrative rules.
+
+[hi-land-utilization-q03.v2] (State · hi-land-utilization)
+Q: Before undertaking any development activity in a Conservation district, a developer must first secure:
+  A : Zoning approval from the county zoning board
+  B : A variance from the state land board
+  C : Only a standard building permit from the county
+  D*: A CDUP from the Department of Land and Natural Resources
+MARKED ANSWER: D
+RATIONALE: The CDUP is the primary state-level permit required by DLNR before any land use or development can proceed in Conservation-zoned areas.
+
+[hi-land-utilization-q03.v3] (State · hi-land-utilization)
+Q: Which of the following is the correct regulatory pathway for a project proposed in Hawaii's Conservation district?
+  A*: Obtain Conservation District Use Permit from DLNR prior to other approvals
+  B : File an environmental impact statement and bypass local permits
+  C : Receive county zoning board approval, which supersedes state requirements
+  D : Obtain county building permit, then proceed with construction
+MARKED ANSWER: A
+RATIONALE: DLNR's CDUP is a prerequisite authorization; county building permits and other local approvals come after the CDUP is secured for Conservation district projects.
+
+[hi-land-utilization-q03.v4] (State · hi-land-utilization)
+Q: A real estate licensee is representing a client interested in developing land designated as Conservation district. What should the licensee advise the client regarding required permits?
+  A : Only a county building permit is necessary for Conservation district development
+  B : Local county zoning variance replaces all state-level permitting requirements
+  C*: A Conservation District Use Permit from DLNR is essential before proceeding with development plans
+  D : State Legislature pre-approval is the only requirement in Conservation areas
+MARKED ANSWER: C
+RATIONALE: The CDUP issued by the Department of Land and Natural Resources is the mandatory state-level permit that must be secured before any development activity can legally occur in a Conservation district.
+
+[hi-land-utilization-q03.v5] (State · hi-land-utilization)
+Q: When a property owner wants to undertake any land use activity in Hawaii's Conservation district, which authorization is mandatory?
+  A : State Environmental Impact Statement approval
+  B : County Planning Commission recommendation letter
+  C*: Conservation District Use Permit from the Department of Land and Natural Resources
+  D : Municipal zoning board conditional use permit
+MARKED ANSWER: C
+RATIONALE: The DLNR issues Conservation District Use Permits (CDUP) for any use or development in Conservation districts; this is the required state-level authorization.
+
+[hi-land-utilization-q03.v6] (State · hi-land-utilization)
+Q: A developer proposes a project in Hawaii's Conservation district. Which permit type is the primary requirement before any construction or land alteration can occur?
+  A : Environmental waiver from the State Attorney General
+  B : Grading and excavation permit from Public Works
+  C : Special Management Area permit from the county
+  D*: Conservation District Use Permit issued by DLNR
+MARKED ANSWER: D
+RATIONALE: Development in Conservation districts requires a CDUP from the Department of Land and Natural Resources as the controlling state permit for conservation lands.
+
+[hi-land-utilization-q03.v7] (State · hi-land-utilization)
+Q: Which state agency must approve activities in Hawaii's Conservation district through a specific permit process?
+  A*: Department of Land and Natural Resources via Conservation District Use Permit
+  B : Hawaii Board of Real Estate
+  C : State Department of Transportation
+  D : County Building and Planning Department
+MARKED ANSWER: A
+RATIONALE: DLNR administers Conservation district land and requires a CDUP before any development, use change, or significant land alteration may proceed.
+
+[hi-land-utilization-q03.v8] (State · hi-land-utilization)
+Q: If a property is located within Hawaii's Conservation district, what is the prerequisite approval mechanism for proposed improvements or land use changes?
+  A*: Conservation District Use Permit obtained from DLNR
+  B : Automatic approval upon filing with the county assessor
+  C : County historic preservation exemption letter
+  D : Standard building permit with no additional state review
+MARKED ANSWER: A
+RATIONALE: Conservation District Use Permits from DLNR are the mandatory gatekeeping authorization for any development or use modification in Conservation-zoned lands.
+
+[hi-land-utilization-q03.v9] (State · hi-land-utilization)
+Q: Before a property owner can undertake any land use activity in Hawaii's Conservation district, which approval is mandatory?
+  A : Only a standard building permit from the county
+  B : A zoning variance from the county planning department
+  C : An environmental impact statement filed with the state legislature
+  D*: A Conservation District Use Permit (CDUP) from the Department of Land and Natural Resources
+MARKED ANSWER: D
+RATIONALE: The Department of Land and Natural Resources (DLNR) administers Conservation districts and requires a CDUP for any use or development activity in these protected areas.
+
+[hi-land-utilization-q04] (State · hi-land-utilization)
+Q: Agricultural-district residential homes:
+  A : Are illegal in Hawaii
+  B : Have no restrictions
+  C*: May require genuine farm-related activity (farm dwelling)
+  D : Are taxed at urban rates
+MARKED ANSWER: C
+RATIONALE: Farm dwelling requirement on some Ag-district residential.
+
+[hi-land-utilization-q04.v1] (State · hi-land-utilization)
+Q: A property owner in Hawaii's agricultural zoning district wants to build a single-family residence. Which statement best describes the likely requirement?
+  A : Residential construction is permitted without any agricultural use conditions
+  B : Urban zoning variances automatically apply to all agricultural parcels
+  C : The property will be reassessed at commercial rates upon residential development
+  D*: The residence must be located on land actively used for crop production or livestock operations
+MARKED ANSWER: D
+RATIONALE: Agricultural-district residences often trigger farm-dwelling requirements that tie occupancy to genuine agricultural activity on the same parcel or related operations.
+
+[hi-land-utilization-q04.v2] (State · hi-land-utilization)
+Q: Under Hawaii's zoning regulations, a residence constructed within an agricultural district may be subject to which condition?
+  A : Mandatory annual rezoning applications
+  B*: Demonstrated engagement in bona fide agricultural practices by the resident
+  C : Conversion to commercial use within five years
+  D : Exemption from all state and county land-use ordinances
+MARKED ANSWER: B
+RATIONALE: Farm-dwelling provisions in agricultural zones often require that residents engage in legitimate agricultural operations, linking residential use to actual farm activity.
+
+[hi-land-utilization-q04.v3] (State · hi-land-utilization)
+Q: A prospective buyer is considering a residential lot in an agricultural-zoning area of Hawaii. What should the buyer understand about possible dwelling restrictions?
+  A*: Occupancy may depend on the property owner conducting actual farm-related operations
+  B : Property taxes will be assessed using standard residential rates regardless of zoning
+  C : No restrictions exist; the property can be developed as conventional residential subdivision
+  D : All residential uses are automatically prohibited in agricultural districts
+MARKED ANSWER: A
+RATIONALE: Agricultural-zoned residences may carry farm-dwelling requirements that condition residential use on bona fide agricultural activity, distinguishing them from standard residential development.
+
+[hi-land-utilization-q04.v4] (State · hi-land-utilization)
+Q: When a real estate agent discusses a residential property located in Hawaii's agricultural district, which regulatory requirement should be addressed?
+  A : County agricultural permits have no bearing on residential occupancy
+  B : The property is automatically eligible for standard urban residential financing
+  C : The property owner is relieved of all state and county zoning compliance
+  D*: The dwelling may require connection to genuine farming or ranching operations
+MARKED ANSWER: D
+RATIONALE: Farm-dwelling requirements in agricultural zones typically mandate that residential occupants participate in legitimate agricultural or pastoral activities on the property.
+
+[hi-land-utilization-q04.v5] (State · hi-land-utilization)
+Q: A property owner in Hawaii's Agricultural district wants to build a residential home. Which of the following best describes what zoning regulations typically require?
+  A : The property must be assessed as commercial land for tax purposes
+  B*: Proof of actual farming operations or farm dwelling eligibility may be needed
+  C : The home must be located within 500 feet of an active orchard or pasture
+  D : Residential construction is automatically permitted without condition in Ag zones
+MARKED ANSWER: B
+RATIONALE: Agricultural-district residential homes may be subject to farm dwelling requirements, meaning owners must demonstrate genuine farm-related activity or qualify under farm dwelling provisions depending on the specific county regulations.
+
+[hi-land-utilization-q04.v6] (State · hi-land-utilization)
+Q: Under Hawaii zoning law, a residential dwelling in an Agricultural district:
+  A : Receives the same tax treatment as properties in Urban districts
+  B : Is permitted by right without any special conditions or requirements
+  C : Is prohibited unless the landowner operates a commercial agricultural business
+  D*: May be contingent upon meeting farm dwelling criteria or demonstrated agricultural use
+MARKED ANSWER: D
+RATIONALE: Many Agricultural-zoned residential properties must satisfy farm dwelling requirements, which typically involve proof of actual or intended farm activity to maintain residential use in that zoning classification.
+
+[hi-land-utilization-q04.v7] (State · hi-land-utilization)
+Q: What is a common regulatory consideration for homeowners constructing a residence on Agricultural-zoned land in Hawaii?
+  A : A separate industrial use permit is required for any residential occupancy
+  B*: Agricultural dwellings may be subject to genuine farm-activity requirements or farm dwelling status
+  C : No difference exists between Ag-district and Urban-district residential restrictions
+  D : The property will automatically be rezoned to Residential upon building completion
+MARKED ANSWER: B
+RATIONALE: Residential properties in Agricultural districts often trigger farm dwelling requirements that obligate owners to maintain agricultural operations or qualify under specific farm dwelling exemptions to legally occupy the home.
+
+[hi-land-utilization-q04.v8] (State · hi-land-utilization)
+Q: A real estate agent is counseling a buyer interested in purchasing a residential home zoned Agricultural in Hawaii. What should the agent explain about potential restrictions?
+  A : The buyer will face penalties if any farming activity occurs on the property
+  B : The buyer must immediately convert the zoning to Residential or lose homeownership rights
+  C*: The property may impose farm dwelling obligations requiring actual agricultural use or exemption status
+  D : Agricultural-zoned residential properties are entirely unrestricted compared to other zones
+MARKED ANSWER: C
+RATIONALE: Agricultural-district residential homes may carry farm dwelling requirements—conditions that necessitate demonstrated farm activity or eligibility under farm dwelling provisions—which licensees must disclose to buyers.
+
+[hi-land-utilization-q04.v9] (State · hi-land-utilization)
+Q: A residential property located in Hawaii's agricultural district may be subject to which of the following requirements?
+  A : Reclassification to urban zoning upon first resale
+  B : Conversion to commercial use within five years of purchase
+  C : Mandatory participation in the state's soil conservation program
+  D*: Demonstration of bona fide agricultural operations or farm-dwelling qualification
+MARKED ANSWER: D
+RATIONALE: Agricultural-district residential dwellings may require documentation of genuine farm-related activity or qualification as a farm dwelling under Hawaii's land-use regulations.
+
+[hi-land-utilization-q05] (State · hi-land-utilization)
+Q: Hawaii has how many counties with their own zoning?
+  A*: 4
+  B : 1
+  C : 8
+  D : 2
+MARKED ANSWER: A
+RATIONALE: Honolulu, Hawaii, Maui, and Kauai counties.
+
+[hi-land-utilization-q05.v1] (State · hi-land-utilization)
+Q: Which of the following best describes the number of counties in Hawaii that exercise independent zoning authority?
+  A : All eight Hawaiian islands have their own zoning departments
+  B*: Four counties each maintain separate zoning codes
+  C : Three counties share zoning responsibilities
+  D : Two counties have zoning; the rest use state guidelines
+MARKED ANSWER: B
+RATIONALE: Hawaii's four counties—Honolulu, Hawaii, Maui, and Kauai—each exercise independent zoning authority over their respective jurisdictions.
+
+[hi-land-utilization-q05.v2] (State · hi-land-utilization)
+Q: A real estate licensee working in Hawaii needs to understand zoning regulations. In how many distinct county zoning jurisdictions does Hawaii operate?
+  A : 2
+  B : 6
+  C*: 4
+  D : 5
+MARKED ANSWER: C
+RATIONALE: The four counties—Honolulu, Hawaii, Maui, and Kauai—each maintain their own zoning ordinances and enforcement mechanisms.
+
+[hi-land-utilization-q05.v3] (State · hi-land-utilization)
+Q: When reviewing property zoning requirements across Hawaii, an agent must be familiar with the zoning codes of how many county jurisdictions?
+  A : One statewide zoning authority
+  B : Three regional zoning districts
+  C*: Four distinct county zoning frameworks
+  D : Seven separate county zoning systems
+MARKED ANSWER: C
+RATIONALE: Honolulu County, Hawaii County, Maui County, and Kauai County each have independent zoning regulations that agents must understand for practice in those areas.
+
+[hi-land-utilization-q05.v4] (State · hi-land-utilization)
+Q: Hawaii's zoning structure is divided among how many separate county jurisdictions?
+  A : 8 counties corresponding to the major islands
+  B*: 4 counties with independent zoning authority
+  C : 1 statewide zoning commission
+  D : 2 counties that share zoning responsibilities
+MARKED ANSWER: B
+RATIONALE: The State of Hawaii is organized into four counties—Honolulu, Hawaii, Maui, and Kauai—each with autonomous zoning authority.
+
+[hi-land-utilization-q05.v5] (State · hi-land-utilization)
+Q: Which statement accurately reflects the number of counties in Hawaii that exercise independent zoning authority?
+  A : Only Honolulu County has the power to establish and enforce zoning ordinances.
+  B : Hawaii operates under a statewide zoning system with no county-level zoning authority.
+  C*: Four counties—Honolulu, Hawaii, Maui, and Kauai—each maintain their own zoning codes.
+  D : Hawaii is divided into 8 separate zoning jurisdictions, one per island.
+MARKED ANSWER: C
+RATIONALE: Hawaii's four counties (Honolulu, Hawaii, Maui, and Kauai) each have independent zoning authority and maintain separate zoning codes.
+
+[hi-land-utilization-q05.v6] (State · hi-land-utilization)
+Q: When a Hawaii real estate agent must research zoning restrictions for a property, how many different county zoning jurisdictions might they need to consult?
+  A*: Four—corresponding to the four counties.
+  B : Six—based on the number of major islands.
+  C : One—all zoning is administered statewide.
+  D : Two—East and West zoning regions.
+MARKED ANSWER: A
+RATIONALE: Each of Hawaii's four counties (Honolulu, Hawaii, Maui, and Kauai) independently administers its own zoning regulations.
+
+[hi-land-utilization-q05.v7] (State · hi-land-utilization)
+Q: How many separate zoning ordinances exist at the county level in the State of Hawaii?
+  A : 8—two separate codes per island group.
+  B*: 4—one enacted and enforced by each county government.
+  C : 12—one for residential, commercial, and agricultural per county.
+  D : 1—Hawaii operates under unified state zoning standards.
+MARKED ANSWER: B
+RATIONALE: Honolulu, Hawaii, Maui, and Kauai counties each independently adopt and enforce their own zoning ordinances.
+
+[hi-land-utilization-q05.v8] (State · hi-land-utilization)
+Q: A property owner in Maui County wants to understand the zoning regulations that apply to their land. Which county's zoning code would NOT be the controlling authority?
+  A : Honolulu County
+  B*: Hawaii County
+  C : Kauai County
+  D : Maui County
+MARKED ANSWER: B
+RATIONALE: Hawaii County's zoning would not apply to property in Maui County; each of the four counties (Honolulu, Hawaii, Maui, and Kauai) has independent zoning jurisdiction.
+
+[hi-land-utilization-q05.v9] (State · hi-land-utilization)
+Q: Which of the following correctly identifies the number of separate zoning jurisdictions in Hawaii?
+  A : Three counties manage zoning authority
+  B : Two counties handle all zoning matters statewide
+  C*: Four counties exercise independent zoning control
+  D : Five counties share zoning responsibilities
+MARKED ANSWER: C
+RATIONALE: Hawaii's four counties—Honolulu, Hawaii, Maui, and Kauai—each maintain their own zoning ordinances and authority over land use within their jurisdictions.
+
+[hi-title-conveyances-q00] (State · hi-title-conveyances)
+Q: A parcel registered in Land Court is evidenced by:
+  A*: TCT
+  B : CPR declaration
+  C : Plat map
+  D : Quitclaim deed
+MARKED ANSWER: A
+RATIONALE: Land Court issues a Transfer Certificate of Title.
+
+[hi-title-conveyances-q00.v1] (State · hi-title-conveyances)
+Q: Which document serves as the official proof of ownership for property registered through Hawaii's Land Court system?
+  A : Condominium Property Regime certificate
+  B*: Transfer Certificate of Title
+  C : Survey certificate from a licensed surveyor
+  D : Warranty deed with full covenants
+MARKED ANSWER: B
+RATIONALE: The Transfer Certificate of Title (TCT) is the Land Court's official instrument proving ownership and containing all encumbrances and restrictions on the property.
+
+[hi-title-conveyances-q00.v2] (State · hi-title-conveyances)
+Q: A real estate licensee is assisting a buyer who wants to verify ownership of a Land Court property. The licensee should direct the buyer to obtain a copy of the:
+  A*: Transfer Certificate of Title
+  B : General Warranty Deed
+  C : Easement and Right of Way agreement
+  D : Mortgage and Assignment documents
+MARKED ANSWER: A
+RATIONALE: The TCT is the definitive Land Court document that establishes and evidences title to registered land in Hawaii.
+
+[hi-title-conveyances-q00.v3] (State · hi-title-conveyances)
+Q: In Hawaii, when property is registered under the Land Court system, title is evidenced by what type of document?
+  A : Special Warranty Deed
+  B : Torrens Certificate of Occupancy
+  C*: Transfer Certificate of Title
+  D : Declaration of Condominium Property
+MARKED ANSWER: C
+RATIONALE: Land Court registration produces a TCT, which is the conclusive evidence of title and ownership rights for registered properties.
+
+[hi-title-conveyances-q00.v4] (State · hi-title-conveyances)
+Q: A seller informs their real estate agent that their property is registered in Hawaii's Land Court. The agent knows the seller's ownership interest is documented in a:
+  A : Recorded Plat and subdivision map
+  B : Statutory Warranty Deed form
+  C : Homestead Declaration filing
+  D*: Transfer Certificate of Title
+MARKED ANSWER: D
+RATIONALE: The TCT is the exclusive Land Court document that evidences and records ownership of registered land parcels in Hawaii.
+
+[hi-title-conveyances-q00.v5] (State · hi-title-conveyances)
+Q: Which document serves as the official proof of ownership for property registered through Hawaii's Land Court system?
+  A : Condominium Property Regime agreement
+  B*: Transfer Certificate of Title
+  C : General Excise Tax certificate
+  D : Warranty deed
+MARKED ANSWER: B
+RATIONALE: The Transfer Certificate of Title (TCT) is the official document issued by Land Court that evidences registered ownership of real property in Hawaii.
+
+[hi-title-conveyances-q00.v6] (State · hi-title-conveyances)
+Q: A buyer receives documentation from Land Court showing ownership of a parcel. This evidence of title would be a:
+  A : Native Hawaiian registry
+  B : Declaration of covenants
+  C*: TCT
+  D : Special warranty deed
+MARKED ANSWER: C
+RATIONALE: Land Court registration is evidenced by a Transfer Certificate of Title (TCT), which is the definitive document of ownership in the Land Court system.
+
+[hi-title-conveyances-q00.v7] (State · hi-title-conveyances)
+Q: When property is registered in Land Court, the owner receives which document as evidence of their registered ownership?
+  A : Affidavit of title
+  B : Survey certification
+  C*: Transfer Certificate of Title
+  D : Recorded deed copy
+MARKED ANSWER: C
+RATIONALE: The Transfer Certificate of Title (TCT) is the conclusive evidence of ownership issued by Land Court upon registration of a parcel.
+
+[hi-title-conveyances-q00.v8] (State · hi-title-conveyances)
+Q: A parcel subject to Land Court registration is legally evidenced by which of the following?
+  A*: TCT issued by Land Court
+  B : Plat of subdivision
+  C : Property tax assessment notice
+  D : Notarized grant deed
+MARKED ANSWER: A
+RATIONALE: A Transfer Certificate of Title (TCT) is the official proof of ownership for land registered in the Land Court system in Hawaii.
+
+[hi-title-conveyances-q00.v9] (State · hi-title-conveyances)
+Q: When a property owner receives formal documentation from Land Court proving ownership of a registered parcel in Hawaii, what document is issued?
+  A : Warranty deed with survey attachment
+  B : CPR certification
+  C : Statutory plat endorsement
+  D*: Transfer Certificate of Title
+MARKED ANSWER: D
+RATIONALE: The Transfer Certificate of Title (TCT) is the official document issued by the Land Court of Hawaii to evidence ownership of a land-court-registered parcel and serves as proof of title.
+
+[hi-title-conveyances-q01] (State · hi-title-conveyances)
+Q: Hawaii's mechanic's lien statute is:
+  A : HRS 521
+  B : HRS 514B
+  C : HRS 467
+  D*: HRS 507
+MARKED ANSWER: D
+RATIONALE: HRS 507 governs mechanic's and materialman's liens.
+
+[hi-title-conveyances-q01.v1] (State · hi-title-conveyances)
+Q: Which Hawaii Revised Statutes chapter establishes the legal framework for contractors and suppliers to file liens against real property?
+  A : HRS 521
+  B : HRS 514B
+  C*: HRS 507
+  D : HRS 467
+MARKED ANSWER: C
+RATIONALE: HRS 507 is Hawaii's mechanic's and materialman's lien statute that provides the statutory basis for liens filed by construction professionals and material suppliers.
+
+[hi-title-conveyances-q01.v2] (State · hi-title-conveyances)
+Q: A subcontractor in Hawaii who was not paid for labor and materials supplied to a construction project would file a lien claim under:
+  A : HRS 467
+  B : HRS 521
+  C*: HRS 507
+  D : HRS 514B
+MARKED ANSWER: C
+RATIONALE: HRS 507 governs mechanic's liens and materialman's liens, which provide statutory remedies for unpaid contractors, subcontractors, and material suppliers in Hawaii.
+
+[hi-title-conveyances-q01.v3] (State · hi-title-conveyances)
+Q: Under Hawaii law, the statutory chapter that governs liens filed by construction workers and suppliers against real property is:
+  A : HRS 467
+  B*: HRS 507
+  C : HRS 514B
+  D : HRS 521
+MARKED ANSWER: B
+RATIONALE: HRS 507 is Hawaii's primary statute addressing mechanic's and materialman's liens, which protect construction industry participants who provide labor or materials.
+
+[hi-title-conveyances-q01.v4] (State · hi-title-conveyances)
+Q: If a Hawaii material supplier has not been paid for supplies delivered to a construction site, what is the applicable statutory chapter for filing a lien?
+  A : HRS 521
+  B : HRS 514B
+  C*: HRS 507
+  D : HRS 467
+MARKED ANSWER: C
+RATIONALE: HRS 507 is the statutory chapter governing mechanic's and materialman's liens in Hawaii, allowing suppliers and contractors to file liens for unpaid services or materials.
+
+[hi-title-conveyances-q01.v5] (State · hi-title-conveyances)
+Q: Which Hawaii Revised Statute specifically addresses liens filed by contractors and suppliers for unpaid work or materials on real property?
+  A*: HRS 507 (Mechanic's and Materialman's Liens)
+  B : HRS 467 (Real Estate Commission)
+  C : HRS 521 (Residential Tenancies)
+  D : HRS 514B (Condominium Property Ownership)
+MARKED ANSWER: A
+RATIONALE: HRS 507 is Hawaii's statutory framework governing mechanic's and materialman's liens, which protect contractors and suppliers by allowing them to file liens against property.
+
+[hi-title-conveyances-q01.v6] (State · hi-title-conveyances)
+Q: A general contractor in Hawaii is unable to collect payment from a homeowner for construction work completed. Under which statute can the contractor file a lien against the property?
+  A : HRS 514B
+  B*: HRS 507
+  C : HRS 521
+  D : HRS 467
+MARKED ANSWER: B
+RATIONALE: HRS 507 provides the legal mechanism for contractors and materialmen to file liens on real property when they are not paid for labor or materials supplied.
+
+[hi-title-conveyances-q01.v7] (State · hi-title-conveyances)
+Q: Real estate licensees should be familiar with Hawaii's mechanic's lien law found in:
+  A*: HRS 507
+  B : HRS 521
+  C : HRS 514B
+  D : HRS 467
+MARKED ANSWER: A
+RATIONALE: HRS 507 is the controlling statute for mechanic's and materialman's liens in Hawaii, essential knowledge for agents handling property transactions.
+
+[hi-title-conveyances-q01.v8] (State · hi-title-conveyances)
+Q: Which of the following Hawaii statutes would a title company review to determine if a contractor's lien might attach to a property?
+  A : HRS 514B (Condominium Law)
+  B : HRS 467 (Real Estate Commission Rules)
+  C : HRS 521 (Residential Tenancies Law)
+  D*: HRS 507 (Mechanic's and Materialman's Liens)
+MARKED ANSWER: D
+RATIONALE: HRS 507 governs mechanic's and materialman's liens, which title companies must examine during a property search to ensure clear marketable title.
+
+[hi-title-conveyances-q01.v9] (State · hi-title-conveyances)
+Q: A contractor in Hawaii files a claim against a property owner for unpaid labor and materials supplied during a renovation project. Under which Hawaii Revised Statute can this lien be properly recorded?
+  A*: HRS 507 (Mechanic's and Materialman's Liens)
+  B : HRS 514B (Condominiums)
+  C : HRS 467 (Property Tax Assessment)
+  D : HRS 521 (Residential Tenancies)
+MARKED ANSWER: A
+RATIONALE: HRS 507 is the controlling statute that establishes the rights and procedures for mechanic's and materialman's liens in Hawaii, allowing contractors and suppliers to file liens for unpaid work and materials.
+
+[hi-title-conveyances-q02] (State · hi-title-conveyances)
+Q: Non-judicial foreclosure procedures are governed by:
+  A : HRS 521
+  B : HRS 467
+  C : HRS 514B
+  D*: HRS 667
+MARKED ANSWER: D
+RATIONALE: HRS 667 governs Hawaii foreclosure procedures.
+
+[hi-title-conveyances-q02.v1] (State · hi-title-conveyances)
+Q: Under Hawaii law, which statute provides the framework for a lender to pursue foreclosure without court involvement?
+  A : HRS 480
+  B*: HRS 667
+  C : HRS 521
+  D : HRS 514B
+MARKED ANSWER: B
+RATIONALE: HRS 667 is the Hawaii statute that establishes the procedures and requirements for non-judicial (power of sale) foreclosure actions by lenders.
+
+[hi-title-conveyances-q02.v2] (State · hi-title-conveyances)
+Q: A mortgage servicer in Hawaii wants to initiate a foreclosure action through a private sale rather than court proceedings. Which statute should the servicer reference?
+  A*: HRS 667
+  B : HRS 467
+  C : HRS 521
+  D : HRS 514B
+MARKED ANSWER: A
+RATIONALE: HRS 667 governs all non-judicial foreclosure procedures in Hawaii, including power-of-sale foreclosures conducted outside the court system.
+
+[hi-title-conveyances-q02.v3] (State · hi-title-conveyances)
+Q: When a Hawaii lender seeks to enforce a mortgage through foreclosure by public sale without obtaining a court judgment, compliance with which statute is mandatory?
+  A : HRS 521
+  B*: HRS 667
+  C : HRS 480
+  D : HRS 514B
+MARKED ANSWER: B
+RATIONALE: HRS 667 is the controlling statute for non-judicial foreclosure procedures in Hawaii and establishes all requirements for power-of-sale foreclosures.
+
+[hi-title-conveyances-q02.v4] (State · hi-title-conveyances)
+Q: Which Hawaii Revised Statute contains the statutory requirements for a nonjudicial mortgage foreclosure sale?
+  A : HRS 514B
+  B : HRS 521
+  C : HRS 467
+  D*: HRS 667
+MARKED ANSWER: D
+RATIONALE: HRS 667 is Hawaii's primary statute governing non-judicial foreclosure procedures, including all notice, timing, and conduct requirements for power-of-sale foreclosures.
+
+[hi-title-conveyances-q02.v5] (State · hi-title-conveyances)
+Q: Which Hawaii Revised Statute establishes the framework for power-of-sale foreclosures?
+  A : HRS 521
+  B*: HRS 667
+  C : HRS 514B
+  D : HRS 480
+MARKED ANSWER: B
+RATIONALE: HRS 667 contains Hawaii's foreclosure statutes, including procedures for power-of-sale and non-judicial foreclosures.
+
+[hi-title-conveyances-q02.v6] (State · hi-title-conveyances)
+Q: A lender seeking to conduct a foreclosure sale without court involvement must comply with requirements under:
+  A*: HRS 667
+  B : HRS 521
+  C : HRS 480 and HRS 508
+  D : HRS 467 and HRS 514B
+MARKED ANSWER: A
+RATIONALE: HRS 667 is the controlling statute for all Hawaii foreclosure procedures, including non-judicial foreclosures conducted through power-of-sale provisions.
+
+[hi-title-conveyances-q02.v7] (State · hi-title-conveyances)
+Q: When a mortgagee exercises a power-of-sale clause without filing in court, the applicable Hawaii statute is:
+  A : HRS 514B
+  B : HRS 521
+  C*: HRS 667
+  D : HRS 480
+MARKED ANSWER: C
+RATIONALE: HRS 667 governs all foreclosure procedures in Hawaii, including non-judicial foreclosures executed under power-of-sale authority.
+
+[hi-title-conveyances-q02.v8] (State · hi-title-conveyances)
+Q: A foreclosure conducted by a mortgagee outside the judicial system must follow the procedures outlined in:
+  A*: HRS 667
+  B : HRS 521
+  C : HRS 508
+  D : HRS 514B
+MARKED ANSWER: A
+RATIONALE: HRS 667 is Hawaii's comprehensive foreclosure statute that regulates both judicial and non-judicial foreclosure procedures.
+
+[hi-title-conveyances-q02.v9] (State · hi-title-conveyances)
+Q: A residential mortgage lender in Hawaii initiates a foreclosure action without judicial court proceedings. Which statute provides the legal framework for this type of foreclosure?
+  A : HRS 480
+  B : HRS 514B
+  C : HRS 521
+  D*: HRS 667
+MARKED ANSWER: D
+RATIONALE: HRS 667 is the Hawaii statute that establishes the procedures and requirements for non-judicial foreclosures in Hawaii.
+
+[hi-title-conveyances-q03] (State · hi-title-conveyances)
+Q: Hawaii's alternative dispute process for owner-occupied foreclosures is:
+  A : CPR
+  B : HARPTA
+  C : TMK
+  D*: MFDR
+MARKED ANSWER: D
+RATIONALE: Mortgage Foreclosure Dispute Resolution under HRS 667.
+
+[hi-title-conveyances-q03.v1] (State · hi-title-conveyances)
+Q: Which Hawaii statutory mechanism allows owner-occupants to challenge a foreclosure action before proceeding to court?
+  A : Hawaii Association of Realtors Property Transfer Act (HARPTA)
+  B : Certified Property Review (CPR)
+  C : Tax Map Key filing requirement (TMK)
+  D*: Mediation and Dispute Resolution (MFDR)
+MARKED ANSWER: D
+RATIONALE: MFDR under HRS 667 provides a pre-foreclosure alternative dispute resolution process specifically for owner-occupied properties to avoid litigation.
+
+[hi-title-conveyances-q03.v2] (State · hi-title-conveyances)
+Q: An owner-occupant in Hawaii receives a notice of default on their mortgage. What pre-litigation resolution option is available under state law?
+  A : HARPTA notification and waiting period
+  B : County Property Appraiser Review (CPR)
+  C : TMK certification from the county assessor
+  D*: Mortgage Foreclosure Dispute Resolution (MFDR)
+MARKED ANSWER: D
+RATIONALE: MFDR provides owner-occupants with a statutory alternative dispute resolution process before a foreclosure lawsuit is filed under HRS 667.
+
+[hi-title-conveyances-q03.v3] (State · hi-title-conveyances)
+Q: Under Hawaii law, owner-occupants have access to a required dispute resolution process. This process is known as:
+  A*: MFDR
+  B : CPR
+  C : TMK
+  D : HARPTA
+MARKED ANSWER: A
+RATIONALE: Mortgage Foreclosure Dispute Resolution (MFDR) established under HRS 667 is Hawaii's mandatory alternative dispute process for residential foreclosures on owner-occupied properties.
+
+[hi-title-conveyances-q03.v4] (State · hi-title-conveyances)
+Q: Which of the following is the correct abbreviation for Hawaii's owner-occupied foreclosure alternative dispute resolution process codified in HRS 667?
+  A : CPR
+  B : HARPTA
+  C : TMK
+  D*: MFDR
+MARKED ANSWER: D
+RATIONALE: MFDR (Mortgage Foreclosure Dispute Resolution) is the Hawaii statutory alternative dispute mechanism that must be offered to owner-occupants before a foreclosure action proceeds.
+
+[hi-title-conveyances-q03.v5] (State · hi-title-conveyances)
+Q: Under Hawaii Revised Statutes Chapter 667, what is the required dispute resolution process before a lender can proceed with foreclosure on a principal residence?
+  A : CPR (Cyber Property Rights)
+  B : TMK (Tax Map Key) arbitration
+  C : HARPTA (Hawaii Anti-Deficiency Residential Property Tax Act)
+  D*: MFDR (Mortgage Foreclosure Dispute Resolution)
+MARKED ANSWER: D
+RATIONALE: MFDR is the statutory alternative dispute resolution mechanism mandated by HRS 667 for owner-occupied residential foreclosures in Hawaii before judicial action can commence.
+
+[hi-title-conveyances-q03.v6] (State · hi-title-conveyances)
+Q: A homeowner in Hawaii receives a notice of intent to foreclose on her primary residence. Which pre-litigation resolution process must the lender offer before initiating foreclosure proceedings?
+  A : CPR (Commercial Property Recordation)
+  B*: MFDR (Mortgage Foreclosure Dispute Resolution)
+  C : HARPTA compliance certification
+  D : TMK identification and assessment review
+MARKED ANSWER: B
+RATIONALE: MFDR is Hawaii's mandatory alternative dispute resolution process that lenders must provide to owner-occupants before foreclosing on residential property under HRS 667.
+
+[hi-title-conveyances-q03.v7] (State · hi-title-conveyances)
+Q: Which of the following is Hawaii's statutory alternative dispute resolution requirement for residential mortgage foreclosures?
+  A : TMK verification process
+  B*: MFDR
+  C : CPR dispute filing
+  D : HARPTA
+MARKED ANSWER: B
+RATIONALE: MFDR (Mortgage Foreclosure Dispute Resolution) is the required pre-foreclosure alternative dispute mechanism established in HRS Chapter 667 for owner-occupied residential properties.
+
+[hi-title-conveyances-q03.v8] (State · hi-title-conveyances)
+Q: A lender seeks to foreclose on an owner-occupied dwelling in Hawaii. Prior to filing a judicial foreclosure action, the lender must comply with which mandatory alternative dispute process?
+  A : TMK reassessment and grievance procedure
+  B : HARPTA mediation and notice requirements
+  C*: Mortgage Foreclosure Dispute Resolution (MFDR)
+  D : CPR (Consumer Property Rights) hearing
+MARKED ANSWER: C
+RATIONALE: MFDR, codified in HRS 667, is Hawaii's required alternative dispute resolution process that must occur before a lender can proceed with foreclosure on a principal residence.
+
+[hi-title-conveyances-q03.v9] (State · hi-title-conveyances)
+Q: When an owner-occupant in Hawaii faces potential foreclosure, which statutory mechanism provides a structured dispute resolution process before judicial proceedings?
+  A : HARPTA
+  B : TMK
+  C : CPR
+  D*: MFDR
+MARKED ANSWER: D
+RATIONALE: Mortgage Foreclosure Dispute Resolution (MFDR) under HRS 667 is Hawaii's required alternative dispute process that allows owner-occupants to challenge foreclosures through negotiation and mediation before court action proceeds.
+

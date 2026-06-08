@@ -1,0 +1,5 @@
+BATCH 10 — reviewed 130 questions, found 3 critical, 0 major, 0 minor
+
+real-estate-calculations-q09.v6 | critical | $350K×6%÷2×70% = $7,350, but marked answer is A=$14,700; rationale itself concludes $7,350 | correct answer is D ($7,350)
+real-estate-calculations-q09.v8 | critical | $450K×6%÷2×70% = $9,450, but marked answer is C=$13,500; rationale itself concludes $9,450 | correct answer is D ($9,450)
+real-estate-calculations-q10.v1 | critical | ($195K−$150K)÷$150K = 30%, but marked answer is D=25%; rationale rambles but admits 30% | correct answer is B (30%)

@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 2/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[land-use-controls-q01] (National · land-use-controls)
+Q: Eminent domain requires:
+  A : Owner consent
+  B : A vote of property owners
+  C : Federal approval
+  D*: Public use + just compensation
+MARKED ANSWER: D
+RATIONALE: Fifth Amendment requires public use + just compensation.
+
+[land-use-controls-q01.v1] (National · land-use-controls)
+Q: When a government agency exercises the power of eminent domain, what two essential requirements must be satisfied?
+  A*: A legitimate public purpose and fair market value compensation
+  B : Unanimous consent from neighboring property owners
+  C : Environmental impact assessment and federal licensing
+  D : Landowner notification and state legislative approval
+MARKED ANSWER: A
+RATIONALE: The Fifth Amendment mandates that eminent domain takings serve a public purpose and provide just compensation to the owner, regardless of the owner's consent.
+
+[land-use-controls-q01.v2] (National · land-use-controls)
+Q: Under the takings clause, a government's condemnation of private property for a public project is constitutional only if:
+  A : Local zoning boards approve the taking by majority vote
+  B : The property owner receives written notice 90 days in advance
+  C*: The taking is for public benefit and the owner receives just compensation
+  D : The federal government reimburses the state for all acquisition costs
+MARKED ANSWER: C
+RATIONALE: Constitutional takings require both a genuine public use/benefit and just compensation to the property owner; owner consent is not required by the Fifth Amendment.
+
+[land-use-controls-q01.v3] (National · land-use-controls)
+Q: Which statement correctly describes the legal requirements for eminent domain in Hawaii and across the United States?
+  A : The taking must be approved by both state and county governments before any compensation is offered
+  B : A supermajority of affected property owners must petition the government to initiate the taking
+  C*: The government must demonstrate public necessity and pay fair market value compensation to the owner
+  D : The property owner must voluntarily agree to the sale price negotiated by the condemning authority
+MARKED ANSWER: C
+RATIONALE: Eminent domain requires that the taking serve a public purpose and that owners receive just compensation; owner agreement is not a legal prerequisite.
+
+[land-use-controls-q01.v4] (National · land-use-controls)
+Q: A Hawaii county government wants to acquire land for a public highway expansion. Under the law of eminent domain, this action is permissible provided:
+  A : At least 75% of nearby residents vote in favor of the project
+  B*: The project serves a public purpose and displaced owners receive just compensation
+  C : All affected property owners formally waive their right to judicial review
+  D : The U.S. Secretary of Transportation authorizes the specific land acquisition
+MARKED ANSWER: B
+RATIONALE: The Fifth Amendment permits condemnation for public use when just compensation is paid; neither owner consent nor public referendum is constitutionally required.
+
+[land-use-controls-q01.v5] (National · land-use-controls)
+Q: When a government entity exercises eminent domain, what two essential requirements must be satisfied under the Fifth Amendment?
+  A*: A legitimate public purpose and payment of fair market value to the owner
+  B : State legislative authorization and appraisal by a licensed real estate appraiser
+  C : Written consent from the property owner and environmental clearance
+  D : Majority approval by affected neighbors and a hearing before a county board
+MARKED ANSWER: A
+RATIONALE: The Fifth Amendment mandates that taking of private property for public use requires just compensation; public purpose and fair payment are the two non-negotiable elements.
+
+[land-use-controls-q01.v6] (National · land-use-controls)
+Q: Which of the following correctly describes a constitutional limitation on the government's power of eminent domain?
+  A : The taking can occur only if the property owner waives the right to challenge it
+  B : Federal law supersedes state law, so only the federal government can condemn property
+  C : The taking requires approval from a supermajority of the local city council
+  D*: The property must be taken for public benefit, and the owner must receive just compensation
+MARKED ANSWER: D
+RATIONALE: The Fifth Amendment protects property owners by requiring both a public use/benefit and just compensation; these are constitutionally protected safeguards against arbitrary taking.
+
+[land-use-controls-q01.v7] (National · land-use-controls)
+Q: Under eminent domain law, a condemnation action by a municipal government is valid only when:
+  A*: The taking serves a public interest and the owner receives compensation equal to fair market value
+  B : The title is held by a non-resident owner or a corporate entity
+  C : A referendum is held and at least 60% of voters approve the taking
+  D : The property owner fails to pay property taxes for two consecutive years
+MARKED ANSWER: A
+RATIONALE: Constitutional law requires that eminent domain takings must be for public use/purpose and accompanied by just compensation to the property owner.
+
+[land-use-controls-q01.v8] (National · land-use-controls)
+Q: A state government wishes to acquire private land to build a public highway. Under the takings clause of the Fifth Amendment, this action is permitted only if:
+  A : The property owner voluntarily agrees to sell at a discount to support the public project
+  B*: The government can demonstrate public use and pays the owner just compensation
+  C : The property has been declared blighted or unsuitable for private development
+  D : The land is put up for public auction before condemnation is pursued
+MARKED ANSWER: B
+RATIONALE: The Fifth Amendment requires that property taken via eminent domain serve a public purpose and that owners receive just compensation; both elements must be present for a valid taking.
+
+[land-use-controls-q01.v9] (National · land-use-controls)
+Q: When a government agency exercises its power of eminent domain to acquire private land for a highway project, which of the following must occur?
+  A : A majority of neighboring property owners must petition the government
+  B*: Just compensation must be paid and the taking must be for public use
+  C : The state legislature must pass a special statute authorizing the specific taking
+  D : The property owner must voluntarily transfer title within 30 days
+MARKED ANSWER: B
+RATIONALE: Eminent domain under the Fifth Amendment requires both a legitimate public use and payment of just compensation to the owner; voluntary transfer and legislative approval are not constitutional requirements.
+
+[land-use-controls-q02] (National · land-use-controls)
+Q: A use that pre-dates current zoning and continues to operate is:
+  A : Conditional use
+  B*: Nonconforming use
+  C : Spot zoning
+  D : Variance
+MARKED ANSWER: B
+RATIONALE: Pre-existing uses are grandfathered as nonconforming uses.
+
+[land-use-controls-q02.v1] (National · land-use-controls)
+Q: When a property owner operated a use before zoning was implemented and continues that same use today, what is this use called?
+  A : Spot zoning exception
+  B*: Nonconforming use
+  C : Conditional use permit
+  D : Variance from the zoning board
+MARKED ANSWER: B
+RATIONALE: Uses that existed prior to zoning restrictions are grandfathered in as nonconforming uses and may continue operating despite current zoning regulations.
+
+[land-use-controls-q02.v2] (National · land-use-controls)
+Q: A property has been used for a particular purpose for 15 years. A new zoning ordinance is enacted that prohibits this use in the district. The property owner is allowed to continue the use under the concept of:
+  A : Variance
+  B : Conditional use permit
+  C : Rezoning
+  D*: Nonconforming use
+MARKED ANSWER: D
+RATIONALE: Pre-existing uses that do not comply with new zoning codes are protected as nonconforming uses and may continue despite the change in zoning restrictions.
+
+[land-use-controls-q02.v3] (National · land-use-controls)
+Q: Which of the following best describes a use that was lawfully established before the current zoning regulations took effect and is allowed to persist?
+  A : Conditional use
+  B : Spot zoning
+  C*: Nonconforming use
+  D : Variance
+MARKED ANSWER: C
+RATIONALE: Nonconforming uses are those that lawfully existed before zoning changes and are granted grandfather rights to continue operating despite no longer conforming to current zoning.
+
+[land-use-controls-q02.v4] (National · land-use-controls)
+Q: A retail store operated in a residential zone for 20 years before the zoning designation changed to residential-only. The store's continued operation would be classified as a:
+  A : Temporary conditional use
+  B : Special permit
+  C*: Nonconforming use
+  D : Variance approval
+MARKED ANSWER: C
+RATIONALE: Uses that pre-date zoning changes are protected as nonconforming uses and may continue indefinitely, provided they are not abandoned or discontinued.
+
+[land-use-controls-q02.v5] (National · land-use-controls)
+Q: When a property owner operates a use that was lawful before the zoning code changed, and the use is now prohibited under the new zoning classification, the use is classified as a:
+  A : Conditional use permit
+  B : Overlay district exception
+  C*: Nonconforming use
+  D : Variance from the zoning board
+MARKED ANSWER: C
+RATIONALE: Uses that existed legally before zoning changes are grandfathered in as nonconforming uses and may continue operating despite current zoning restrictions.
+
+[land-use-controls-q02.v6] (National · land-use-controls)
+Q: A property has been operating a commercial laundry in a residential zone for 15 years. Last year, the zone was changed to prohibit laundromats. Which term best describes the legal status of this laundry operation?
+  A : Spot zoning
+  B : Special use permit
+  C : Variance
+  D*: Nonconforming use
+MARKED ANSWER: D
+RATIONALE: Establishments that operated legally before zoning ordinances prohibited them are protected as nonconforming uses and may generally continue despite the new zoning classification.
+
+[land-use-controls-q02.v7] (National · land-use-controls)
+Q: An office building was constructed and operating lawfully for many years in what is now zoned exclusively for residential use. The building continues to function as an office. This situation is an example of:
+  A : Conditional use
+  B*: Nonconforming use
+  C : Variance
+  D : Zoning appeal
+MARKED ANSWER: B
+RATIONALE: Properties that legally existed before restrictive zoning was adopted retain nonconforming use status, allowing them to continue operations despite current zoning prohibitions.
+
+[land-use-controls-q02.v8] (National · land-use-controls)
+Q: Under Hawaii zoning law, what is the name of the protection that allows an existing use to continue operating even though the current zoning code no longer permits that type of use?
+  A : Deviation approval
+  B*: Nonconforming use
+  C : Conditional use permit
+  D : Administrative waiver
+MARKED ANSWER: B
+RATIONALE: Nonconforming use is the legal doctrine that grandfathers in pre-existing uses, allowing them to persist despite being incompatible with current zoning regulations.
+
+[land-use-controls-q02.v9] (National · land-use-controls)
+Q: A property owner operates a business that was lawfully established before new zoning regulations were enacted. The business does not comply with the current zoning code but is allowed to continue. This is known as a:
+  A : Floating zone
+  B*: Nonconforming use
+  C : Zoning variance
+  D : Conditional use permit
+MARKED ANSWER: B
+RATIONALE: Uses that existed legally before zoning changes are grandfathered in as nonconforming uses and may continue despite current zoning restrictions.
+
+[land-use-controls-q03] (National · land-use-controls)
+Q: CERCLA imposes liability for cleanup on:
+  A : Only the original polluter
+  B : Only the federal government
+  C : Current owner only
+  D*: A broad class including current and prior owners and operators
+MARKED ANSWER: D
+RATIONALE: CERCLA imposes strict, joint and several liability across owners, operators, transporters, and generators.
+
+[land-use-controls-q03.v1] (National · land-use-controls)
+Q: Under the Comprehensive Environmental Response, Compensation, and Liability Act, who can be held responsible for hazardous substance cleanup costs at a contaminated property?
+  A : The federal EPA exclusively
+  B : The state environmental agency only
+  C : Only entities that directly disposed of the hazardous materials
+  D*: Current owners, former owners, operators, and other responsible parties
+MARKED ANSWER: D
+RATIONALE: CERCLA establishes broad liability extending to current and former property owners, operators, transporters, and waste generators, creating joint and several liability among multiple parties.
+
+[land-use-controls-q03.v2] (National · land-use-controls)
+Q: Which parties may face liability for environmental remediation under CERCLA?
+  A*: Past site operators and current property owners among others
+  B : Municipal governments in the jurisdiction where contamination occurred
+  C : Current occupants of the property exclusively
+  D : Only the original waste generator
+MARKED ANSWER: A
+RATIONALE: CERCLA imposes liability on a wide spectrum of responsible parties including both current and former owners and operators, not limited to a single party.
+
+[land-use-controls-q03.v3] (National · land-use-controls)
+Q: A real estate professional should understand that CERCLA cleanup liability attaches to:
+  A : Only the individual or entity that initially caused the contamination
+  B*: Anyone in the chain of ownership or operation, past or present
+  C : Local zoning boards responsible for land use approval
+  D : Federal agencies that fail to prevent contamination
+MARKED ANSWER: B
+RATIONALE: CERCLA's liability framework is broad and includes current owners, former owners, operators, and other responsible parties throughout a property's history.
+
+[land-use-controls-q03.v4] (National · land-use-controls)
+Q: When a parcel becomes contaminated with hazardous substances, CERCLA may impose cleanup responsibility on:
+  A : Environmental consultants who conducted site assessments
+  B : Only whoever first brought hazardous materials to the site
+  C : The state legislature
+  D*: Current and previous owners, operators, transporters, and generators
+MARKED ANSWER: D
+RATIONALE: CERCLA establishes strict liability across multiple categories of responsible parties, including both current and former owners and operators, creating potential exposure for multiple defendants.
+
+[land-use-controls-q03.v5] (National · land-use-controls)
+Q: Under CERCLA, who may be held responsible for environmental remediation costs at a contaminated property?
+  A : The federal EPA administrator exclusively
+  B : State environmental agencies with no federal involvement
+  C*: Current property owners, former property owners, site operators, and potentially waste generators
+  D : Only the entity that directly caused the contamination
+MARKED ANSWER: C
+RATIONALE: CERCLA establishes broad liability for current owners, previous owners, operators, and potentially generators of hazardous substances at contaminated sites.
+
+[land-use-controls-q03.v6] (National · land-use-controls)
+Q: Which party or parties could potentially face CERCLA liability for cleanup costs?
+  A : Only those who knowingly discharged hazardous materials
+  B*: Anyone in the chain of ownership or operation, including past owners, current owners, operators, and waste transporters
+  C : The current property owner and current operator only
+  D : Only the original entity responsible for dumping the waste
+MARKED ANSWER: B
+RATIONALE: CERCLA imposes strict liability without regard to fault and extends to a wide range of potentially responsible parties including current and former owners and operators.
+
+[land-use-controls-q03.v7] (National · land-use-controls)
+Q: CERCLA's liability framework applies to:
+  A : Solely the present owner of contaminated real property
+  B : Exclusively those who obtained permits to operate on the property
+  C : Only parties with direct knowledge of the contamination
+  D*: Current owners, previous owners, operators of the site, and generators of hazardous substances
+MARKED ANSWER: D
+RATIONALE: CERCLA assigns liability broadly across multiple classes of responsible parties without requiring proof of negligence or causation.
+
+[land-use-controls-q03.v8] (National · land-use-controls)
+Q: A commercial property shows signs of historical contamination. Under CERCLA, liability for cleanup expenses may attach to:
+  A : Only the company currently operating the business on the site
+  B : Only the original owner from decades ago
+  C : The state environmental agency responsible for permitting
+  D*: The current landowner, any previous landowners, the current operator, and possibly parties who generated or transported waste there
+MARKED ANSWER: D
+RATIONALE: CERCLA imposes joint and several strict liability across the current owner, prior owners, current operators, and potentially other parties in the chain of responsibility.
+
+[land-use-controls-q03.v9] (National · land-use-controls)
+Q: Under the Comprehensive Environmental Response, Compensation, and Liability Act, which parties may be held responsible for contaminated site remediation?
+  A : State environmental agencies exclusively
+  B*: Current owners, previous owners, operators, transporters, and waste generators
+  C : Only entities that currently own or occupy the contaminated property
+  D : The party that directly caused the pollution and no other party
+MARKED ANSWER: B
+RATIONALE: CERCLA establishes strict liability that extends to a broad group of potentially responsible parties (PRPs), including current and former property owners, operators, and those who arranged for waste disposal.
+
+[land-use-controls-q04] (National · land-use-controls)
+Q: Property taxes typically take priority over:
+  A : Earlier-recorded mortgages
+  B : Mechanic's liens
+  C : Federal tax liens
+  D*: All of the above
+MARKED ANSWER: D
+RATIONALE: Property tax liens generally take priority regardless of recording order.
+
+[land-use-controls-q04.v1] (National · land-use-controls)
+Q: In Hawaii, property tax liens rank senior to which of the following encumbrances?
+  A : Mechanic's liens and mortgages only
+  B : Federal tax liens and earlier mortgages only
+  C : Construction liens and homeowner association assessments only
+  D*: Mechanic's liens, mortgages, and federal tax liens
+MARKED ANSWER: D
+RATIONALE: Property tax liens hold the highest priority position and take precedence over mortgages (regardless of recording date), mechanic's liens, and even federal tax liens in Hawaii.
+
+[land-use-controls-q04.v2] (National · land-use-controls)
+Q: When determining lien priority, a property tax lien will typically supersede:
+  A : A second mortgage recorded five years prior
+  B : A mechanic's lien filed after construction
+  C : A federal income tax lien
+  D*: All of the above
+MARKED ANSWER: D
+RATIONALE: Property tax liens maintain superior lien priority over all other claims, including pre-existing mortgages, mechanic's liens, and federal tax liens, making them the most senior lien type.
+
+[land-use-controls-q04.v3] (National · land-use-controls)
+Q: Which statement accurately reflects Hawaii lien priority law?
+  A : Mechanic's liens take precedence based on their filing date relative to property tax assessments
+  B : Federal tax liens automatically supersede property tax liens
+  C : A first mortgage always takes priority over property tax liens
+  D*: Property tax liens hold priority status above mechanic's liens and mortgages
+MARKED ANSWER: D
+RATIONALE: Property tax liens occupy the highest priority position in the lien hierarchy, remaining senior to mortgages (first or otherwise), mechanic's liens, and federal tax liens.
+
+[land-use-controls-q04.v4] (National · land-use-controls)
+Q: In a foreclosure scenario involving multiple liens, property tax liens typically rank:
+  A : Equal to first mortgages in all cases
+  B : Below mortgages but above judgment liens
+  C*: Senior to mortgages, federal tax liens, and mechanic's liens
+  D : Third, after federal liens and mortgages
+MARKED ANSWER: C
+RATIONALE: Property tax liens maintain the highest priority status and are paid before mortgages, federal tax liens, and mechanic's liens in the foreclosure or sale proceeds distribution.
+
+[land-use-controls-q04.v5] (National · land-use-controls)
+Q: In a foreclosure sale, which of the following liens would be satisfied BEFORE a previously recorded first mortgage?
+  A : Homeowner association assessment liens
+  B : Deed of trust liens
+  C*: Property tax liens
+  D : Judgment liens recorded after the mortgage
+MARKED ANSWER: C
+RATIONALE: Property tax liens hold superior priority over virtually all other liens, including mortgages and judgment liens, regardless of recording sequence.
+
+[land-use-controls-q04.v6] (National · land-use-controls)
+Q: A property owner has a delinquent property tax obligation, an unpaid contractor's lien, and a recorded mortgage. If the property is sold at auction, which creditor typically receives payment first?
+  A*: The taxing authority
+  B : The contractor with a mechanic's lien
+  C : The mortgage holder
+  D : Whichever lien was recorded earliest
+MARKED ANSWER: A
+RATIONALE: Property tax liens maintain statutory priority over mortgages, mechanic's liens, and other encumbrances, making the taxing authority the first to be paid.
+
+[land-use-controls-q04.v7] (National · land-use-controls)
+Q: Which of the following would a title company typically list FIRST in the priority sequence on a preliminary report?
+  A*: Property tax assessments and liens
+  B : Federal income tax liens
+  C : Judgments against the property owner
+  D : Existing mortgages and deeds of trust
+MARKED ANSWER: A
+RATIONALE: Property tax liens hold the highest statutory priority and appear first in the lien hierarchy, superseding federal tax liens, mortgages, and judgment liens.
+
+[land-use-controls-q04.v8] (National · land-use-controls)
+Q: A buyer is concerned about title issues. The property has a senior mortgage, unpaid property taxes, and a filed UCC lien. In what order would these typically be paid from sale proceeds?
+  A : Mortgage, property taxes, UCC lien
+  B*: Property taxes, mortgage, UCC lien
+  C : Order depends solely on recording dates
+  D : UCC lien, mortgage, property taxes
+MARKED ANSWER: B
+RATIONALE: Property tax liens take statutory priority regardless of recording order, followed by mortgages and other liens; the UCC lien would typically be lowest in priority.
+
+[land-use-controls-q04.v9] (National · land-use-controls)
+Q: In Hawaii, when determining lien priority on real property, property tax liens would rank ahead of which of the following?
+  A : Mortgages and judgment liens, but property tax liens rank below mechanic's liens
+  B : Judgment liens recorded before the tax assessment
+  C*: Mechanic's liens, mortgages, and federal tax liens
+  D : Only federal tax liens and mechanic's liens, but not mortgages
+MARKED ANSWER: C
+RATIONALE: Property tax liens hold superior lien position over mechanic's liens, mortgages, and federal tax liens regardless of when those other liens were recorded or perfected.
+
+[land-use-controls-q05] (National · land-use-controls)
+Q: PETE stands for:
+  A : Property, Encumbrance, Title, Estate
+  B : Possession, Encroachment, Tax, Easement
+  C*: Police, Eminent domain, Taxation, Escheat
+  D : Public, Eminent, Taking, Exchange
+MARKED ANSWER: C
+RATIONALE: The four government powers over land.
+
+[land-use-controls-q05.v1] (National · land-use-controls)
+Q: Which acronym correctly identifies the four sovereign powers a government exercises over real property?
+  A*: Police, Escheat, Taxation, Eminent domain
+  B : Property rights, Encroachment, Title transfer, Exchange
+  C : Possession, Easement, Taking, Encumbrance
+  D : Permit, Environmental, Tax lien, Estate seizure
+MARKED ANSWER: A
+RATIONALE: PETE represents the four governmental powers: Police power, Escheat, Taxation, and Eminent domain. These are sovereign authority functions distinct from private property rights.
+
+[land-use-controls-q05.v2] (National · land-use-controls)
+Q: A Hawaii licensee explains to a client that the government can regulate land use through various powers. Which set of powers is most accurately described as PETE?
+  A : Public easement, Economic regulation, Title restriction, Estate planning
+  B*: Police power, Eminent domain, Taxation, Escheat
+  C : Partition, Encumbrance, Tenancy, Easement
+  D : Payroll tax, Environmental rules, Tenant rights, Estate tax
+MARKED ANSWER: B
+RATIONALE: PETE acronym stands for the four governmental powers over land: Police power (regulation), Eminent domain (taking for public use), Taxation (property taxes), and Escheat (reversion to state).
+
+[land-use-controls-q05.v3] (National · land-use-controls)
+Q: When discussing how governments can control and claim property, a real estate instructor mentions PETE. What does this acronym represent?
+  A*: Taxation, Eminent domain, Police power, Escheat
+  B : Trust account, Escrow, Title insurance, Estate recording
+  C : Title encumbrance, Encroachment liability, Taking clause, Equitable interest
+  D : Transferable easement, Environmental claims, Tax assessment, Estate rights
+MARKED ANSWER: A
+RATIONALE: PETE encompasses the four sovereign government powers over real property: Police power, Eminent domain, Taxation, and Escheat, which function independently from private ownership rights.
+
+[land-use-controls-q05.v4] (National · land-use-controls)
+Q: A property owner in Hawaii learns about governmental authority over land. Which of the following correctly defines PETE in real estate context?
+  A : Permit requirement, Eminent taking, Title tax, Equity claim
+  B : Public record, Environmental easement, Torrens title, Estate assessment
+  C*: Police power, Eminent domain, Taxation, Escheat
+  D : Property lien, Encumbrance, Tender clause, Easement right
+MARKED ANSWER: C
+RATIONALE: PETE is the acronym for the four governmental powers: Police power (zoning/regulation), Eminent domain (forced acquisition), Taxation (property tax), and Escheat (reversion when no heirs exist).
+
+[land-use-controls-q05.v5] (National · land-use-controls)
+Q: Which acronym correctly identifies the four sovereign powers that government exercises over real property?
+  A : Possession, Encumbrance, Title, Exchange
+  B : Public lands, Environmental protection, Tenancy, Equitable conversion
+  C : Partition, Easement, Transfer, Estate division
+  D*: Police, Eminent domain, Taxation, Escheat
+MARKED ANSWER: D
+RATIONALE: PETE represents the four inherent government powers over land: police power (health/safety/welfare), eminent domain (taking for public use), taxation, and escheat (reversion to state).
+
+[land-use-controls-q05.v6] (National · land-use-controls)
+Q: A Hawaii real estate professional should understand that PETE refers to:
+  A*: Police power, Eminent domain, Taxation, and Escheat
+  B : Public records, Environmental zones, Title insurance, and Encumbrances
+  C : Possession, Encroachment, Tenancy, and Estates
+  D : Property owners, Easement holders, Tax assessors, and Equity investors
+MARKED ANSWER: A
+RATIONALE: PETE is the mnemonic for the four sovereign governmental powers over real property, which all property owners must respect and understand.
+
+[land-use-controls-q05.v7] (National · land-use-controls)
+Q: In real estate law, when discussing the government's authority over land, PETE encompasses all of the following EXCEPT:
+  A : The power to assess and collect property taxes
+  B : The power to regulate use through police authority
+  C : The power of eminent domain to acquire private property for public purposes
+  D*: The power to regulate conveyancing and deed recording
+MARKED ANSWER: D
+RATIONALE: PETE (Police power, Eminent domain, Taxation, Escheat) represents four sovereign powers; regulating conveyancing and recording is a state administrative function, not one of the four core governmental powers over land.
+
+[land-use-controls-q05.v8] (National · land-use-controls)
+Q: Which set of terms best represents the four governmental powers abbreviated as PETE?
+  A : Public utility easements, Environmental restrictions, Tax liens, and Estate succession
+  B : Possession by the state, Encumbrances on title, Taking of land, and Equitable conversion
+  C*: Police authority, Eminent domain, Taxation, and Escheat
+  D : Partition rights, Exclusive use, Transfer taxes, and Equitable title
+MARKED ANSWER: C
+RATIONALE: PETE is the standard real estate acronym for the four inherent sovereign powers that government holds over all real property: police power, eminent domain, taxation, and escheat.
+
+[land-use-controls-q05.v9] (National · land-use-controls)
+Q: Which acronym correctly identifies the four sovereign powers that government may exercise over real property?
+  A : Easement, Encumbrance, Property tax, and Title transfer
+  B : Permit, Encumbrance, Taking, and Estate restriction
+  C : Eviction, Exchange, Possession, and Encroachment
+  D*: Taxation, Escheat, Police power, and Eminent domain
+MARKED ANSWER: D
+RATIONALE: Police power, Eminent domain, Taxation, and Escheat are the four inherent government powers over land; rearranged here as T-E-P-E to test understanding beyond memorization of the acronym order.
+
+[land-use-controls-q06] (National · land-use-controls)
+Q: Singling out one parcel for different zoning treatment is:
+  A : Nonconforming use
+  B : Conditional use
+  C*: Spot zoning
+  D : Variance
+MARKED ANSWER: C
+RATIONALE: Spot zoning — generally unconstitutional unless serves public purpose.
+
+[land-use-controls-q06.v1] (National · land-use-controls)
+Q: When a municipality grants a single property owner zoning relief that is not available to other similarly situated parcels in the same district, this practice is called:
+  A : Grandfather zoning
+  B : Cumulative zoning
+  C : Aesthetic zoning
+  D*: Spot zoning
+MARKED ANSWER: D
+RATIONALE: Spot zoning is the arbitrary singling out of one parcel for different zoning treatment, which is generally held unconstitutional unless it serves a legitimate public purpose.
+
+[land-use-controls-q06.v2] (National · land-use-controls)
+Q: A property owner requests that one lot in a residential zone be rezoned for commercial use while surrounding lots remain residential. If approved without clear public benefit, this would constitute:
+  A : Density modification
+  B : Use variance
+  C*: Spot zoning
+  D : Conditional use approval
+MARKED ANSWER: C
+RATIONALE: Spot zoning refers to rezoning a single parcel for different treatment than the surrounding area, and is generally unconstitutional unless justified by public interest.
+
+[land-use-controls-q06.v3] (National · land-use-controls)
+Q: Which zoning action is most vulnerable to legal challenge when applied to isolate one property for treatment that differs from adjacent properties in the same zone?
+  A : Special permit issuance
+  B*: Spot zoning
+  C : Permitted use classification
+  D : Area variance approval
+MARKED ANSWER: B
+RATIONALE: Spot zoning—singling out one parcel for different zoning treatment—is constitutionally suspect and may be invalidated unless shown to serve a legitimate public purpose.
+
+[land-use-controls-q06.v4] (National · land-use-controls)
+Q: A developer owns Parcel A in a multifamily zoning district. The city council votes to rezone only Parcel A to single-family residential while leaving all other parcels in the district as multifamily. This selective rezoning is an example of:
+  A : Overlay district application
+  B*: Spot zoning
+  C : Downzoning restriction
+  D : Floating zone creation
+MARKED ANSWER: B
+RATIONALE: Spot zoning is the practice of singling out one individual parcel for different zoning treatment than similar properties, which is generally unconstitutional absent a clear public purpose.
+
+[land-use-controls-q06.v5] (National · land-use-controls)
+Q: A city council rezones a single residential lot to commercial use while leaving all adjacent parcels zoned residential. This action is best described as:
+  A*: Spot zoning
+  B : A variance from the zoning ordinance
+  C : A nonconforming use exception
+  D : A conditional use permit
+MARKED ANSWER: A
+RATIONALE: Spot zoning refers to the improper practice of rezoning one parcel differently from surrounding properties without a legitimate planning purpose; it is generally unconstitutional unless it serves the public interest.
+
+[land-use-controls-q06.v6] (National · land-use-controls)
+Q: When a local government grants zoning relief to a single property that differs fundamentally from the treatment of nearby similarly-situated properties, this practice is known as:
+  A*: Spot zoning
+  B : Special permit issuance
+  C : Grandfather clause application
+  D : Variance approval
+MARKED ANSWER: A
+RATIONALE: Spot zoning is the discriminatory rezoning of an individual parcel to a different classification than surrounding properties, which courts generally invalidate unless justified by clear public benefit.
+
+[land-use-controls-q06.v7] (National · land-use-controls)
+Q: A property owner requests that their lot be rezoned to allow a use prohibited in the surrounding district. If the city rezones only that one parcel without changing the zoning of the entire district, this would likely constitute:
+  A : A legal conditional use
+  B*: Spot zoning
+  C : An enforceable variance
+  D : A valid amendment to the comprehensive plan
+MARKED ANSWER: B
+RATIONALE: Spot zoning occurs when a single parcel receives zoning treatment different from adjacent properties without a comprehensive planning rationale; courts typically strike down this practice as arbitrary and capricious.
+
+[land-use-controls-q06.v8] (National · land-use-controls)
+Q: If a municipality rezones one parcel in a residential zone to permit commercial development while all surrounding properties remain residential, the rezoning could be challenged as:
+  A*: Spot zoning
+  B : An illegal nonconforming use
+  C : A failure to comply with conditional use standards
+  D : A variance that exceeds the applicant's hardship
+MARKED ANSWER: A
+RATIONALE: Spot zoning—treating one parcel differently from similarly-situated neighboring properties—is generally unconstitutional absent a legitimate public purpose and comprehensive planning justification.
+
+[land-use-controls-q06.v9] (National · land-use-controls)
+Q: A city zoning board grants one property owner special zoning classification that differs from surrounding parcels in the same district without a public purpose. This action is most likely an example of:
+  A : A permitted nonconforming use under grandfathering provisions
+  B*: An illegal spot zoning practice
+  C : A legitimate variance based on hardship
+  D : A properly granted conditional use permit
+MARKED ANSWER: B
+RATIONALE: Spot zoning illegally singles out an individual parcel for different zoning treatment without serving a legitimate public purpose, distinguishing it from variances, conditional uses, or nonconforming uses.
+
+[land-use-controls-q07] (National · land-use-controls)
+Q: Lead-based paint disclosure applies to housing built before:
+  A : 1965
+  B : 1972
+  C : 1986
+  D*: 1978
+MARKED ANSWER: D
+RATIONALE: Pre-1978 residential housing.
+
+[land-use-controls-q07.v1] (National · land-use-controls)
+Q: Under federal law, which homes require a lead-based paint disclosure when being sold or leased?
+  A : Only multi-unit properties constructed before 1975
+  B : All residential properties constructed after 1980
+  C : Commercial buildings and single-family homes built before 1990
+  D*: Residential properties built on or before December 31, 1977
+MARKED ANSWER: D
+RATIONALE: Federal lead-based paint disclosure requirements apply to residential housing constructed on or before December 31, 1977, which is the pre-1978 standard.
+
+[land-use-controls-q07.v2] (National · land-use-controls)
+Q: A Hawaii real estate licensee is selling a 40-year-old single-family home. The agent must provide lead-based paint disclosure because the home was built before:
+  A : 1985
+  B : 1975
+  C*: 1978
+  D : 1970
+MARKED ANSWER: C
+RATIONALE: Lead-based paint disclosure is mandated for residential properties constructed before 1978 under federal EPA regulations.
+
+[land-use-controls-q07.v3] (National · land-use-controls)
+Q: When does federal lead-based paint disclosure apply to a residential lease or sale transaction in Hawaii?
+  A*: Residential dwellings built prior to 1978
+  B : Multi-family units constructed before 1980
+  C : All properties regardless of age
+  D : Properties built before 1960 only
+MARKED ANSWER: A
+RATIONALE: The federal lead-based paint disclosure requirement applies to any residential dwelling built before 1978, as this is when lead-based paint was phased out.
+
+[land-use-controls-q07.v4] (National · land-use-controls)
+Q: A property owner is listing a condominium in Honolulu built in 1976. Which statement is correct regarding lead-based paint disclosure?
+  A : Disclosure is only required if the paint is visibly deteriorated
+  B : Disclosure is required only for buildings with more than 10 units
+  C : Disclosure is not required because it is a condo unit
+  D*: Disclosure is required because the unit was built before 1978
+MARKED ANSWER: D
+RATIONALE: Lead-based paint disclosure requirements apply to any residential property built before 1978, including individual condo units.
+
+[land-use-controls-q07.v5] (National · land-use-controls)
+Q: Under federal law, which residential properties require lead-based paint disclosures in Hawaii real estate transactions?
+  A : Commercial properties and apartments built before 1975
+  B : All properties regardless of construction date
+  C : Only single-family homes constructed after 1980
+  D*: Residential units built in or before 1977
+MARKED ANSWER: D
+RATIONALE: Federal law requires lead-based paint disclosure for residential properties built before 1978, as lead paint was commonly used in residential construction until that year.
+
+[land-use-controls-q07.v6] (National · land-use-controls)
+Q: A Hawaii licensee is listing a home built in 1976. Which statement correctly describes the lead-based paint disclosure requirement?
+  A : Disclosure applies only if the seller is aware of lead contamination
+  B : This property is exempt because it was built before 1980
+  C : Disclosure is optional if the property has been recently renovated
+  D*: The property must include lead-based paint disclosures in all marketing and sale documents
+MARKED ANSWER: D
+RATIONALE: Properties built before 1978 are presumed to contain lead-based paint and require mandatory disclosure in all real estate transactions, regardless of actual testing or seller knowledge.
+
+[land-use-controls-q07.v7] (National · land-use-controls)
+Q: When does the federal lead-based paint disclosure requirement become mandatory for a residential property in Hawaii?
+  A : Never, unless the property has tested positive for lead
+  B : For all properties built before 1985 that will be owner-occupied
+  C*: For any home constructed prior to 1978
+  D : Only for properties built between 1968 and 1975
+MARKED ANSWER: C
+RATIONALE: Federal lead-based paint disclosure applies to all residential properties constructed before 1978, as this was when lead paint regulations were implemented.
+
+[land-use-controls-q07.v8] (National · land-use-controls)
+Q: A prospective buyer asks why a disclosure form is required for a house built in 1975. What is the correct explanation?
+  A*: Lead-based paint was commonly used in residential construction until 1978, so homes built before that year are subject to disclosure requirements
+  B : Hawaii state law mandates disclosures for all properties over 40 years old
+  C : The disclosure is required only if the current owner originally purchased the home before 1980
+  D : The home was built during an era when lead paint prohibitions were enforced by the EPA
+MARKED ANSWER: A
+RATIONALE: Lead-based paint was a standard ingredient in residential paint products until the federal ban in 1978, making pre-1978 homes subject to mandatory disclosure.
+
+[land-use-controls-q07.v9] (National · land-use-controls)
+Q: Under federal law, which properties require a lead-based paint disclosure in Hawaii?
+  A : All residential structures constructed in 1980 or earlier
+  B : Commercial buildings constructed prior to 1972
+  C*: Residential properties built before 1978
+  D : Single-family homes built before 1985
+MARKED ANSWER: C
+RATIONALE: Federal lead-based paint disclosure requirements apply to residential housing constructed before 1978, when lead paint was commonly used in residential construction.
+
+[land-use-controls-q08] (National · land-use-controls)
+Q: A "brownfield" is:
+  A : A subdivision in foreclosure
+  B : A nature preserve
+  C : Agricultural land
+  D*: Property complicated by contamination concerns
+MARKED ANSWER: D
+RATIONALE: Brownfield = potentially contaminated property, often redevelopable.
+
+[land-use-controls-q08.v1] (National · land-use-controls)
+Q: Under Hawaii real estate law and environmental standards, what does the term 'brownfield' describe?
+  A : Undeveloped land held in conservation easement
+  B : Farm or ranch property zoned for agricultural preservation
+  C : Residential property in a declining market area
+  D*: Industrial or commercial site with potential environmental liabilities from prior use
+MARKED ANSWER: D
+RATIONALE: Brownfield specifically refers to properties with actual or suspected environmental contamination from industrial or commercial activities, often eligible for redevelopment incentives.
+
+[land-use-controls-q08.v2] (National · land-use-controls)
+Q: A property that may contain residual pollution or hazardous substances from previous industrial operations is best classified as a:
+  A : Heritage preservation site
+  B*: Brownfield
+  C : Greenfield
+  D : Blackfield
+MARKED ANSWER: B
+RATIONALE: Brownfield is the standard term for land with environmental contamination concerns, typically from former manufacturing or commercial use that may require remediation before redevelopment.
+
+[land-use-controls-q08.v3] (National · land-use-controls)
+Q: Which of the following best characterizes a 'brownfield' property?
+  A : Land with infrastructure challenges but no environmental history
+  B : Pristine natural land designated for wildlife habitat
+  C*: Former industrial site with suspected or confirmed soil and groundwater contamination
+  D : Vacant residential lot in an economically distressed neighborhood
+MARKED ANSWER: C
+RATIONALE: Brownfield properties are defined by actual or suspected environmental contamination, typically from past industrial or commercial use, requiring assessment and possible remediation.
+
+[land-use-controls-q08.v4] (National · land-use-controls)
+Q: In real estate development terminology, a 'brownfield' is best understood as:
+  A*: Property with environmental quality concerns stemming from prior uses
+  B : An undeveloped parcel in an established residential community
+  C : Land subject to wetland or coastal protection regulations
+  D : A rural property tract designated for future commercial zoning
+MARKED ANSWER: A
+RATIONALE: Brownfield describes properties hampered by environmental contamination or pollution concerns from previous industrial, commercial, or hazardous operations.
+
+[land-use-controls-q08.v5] (National · land-use-controls)
+Q: In Hawaii real estate development, a property with prior industrial use and potential soil or groundwater contamination would be classified as a:
+  A : Greenfield site suitable for immediate residential construction
+  B : Conservation easement subject to preservation restrictions
+  C*: Brownfield requiring environmental assessment before redevelopment
+  D : Wetland protected under the Clean Water Act
+MARKED ANSWER: C
+RATIONALE: Brownfields are properties with actual or perceived contamination from prior industrial or commercial use, requiring environmental due diligence before redevelopment.
+
+[land-use-controls-q08.v6] (National · land-use-controls)
+Q: Which term describes real property that may have environmental liabilities from former manufacturing operations or commercial activities?
+  A*: A brownfield
+  B : An undeveloped greenfield
+  C : A property in a tax increment district
+  D : A timberland parcel
+MARKED ANSWER: A
+RATIONALE: Brownfield specifically refers to property with suspected or actual environmental contamination, typically from industrial or commercial historical use.
+
+[land-use-controls-q08.v7] (National · land-use-controls)
+Q: A developer is evaluating a property that previously housed a dry-cleaning facility. The property likely falls into which category?
+  A : A historic preservation district
+  B*: A brownfield site with potential contamination concerns
+  C : An exempt agricultural property
+  D : A designated wildlife refuge
+MARKED ANSWER: B
+RATIONALE: Former dry-cleaning facilities commonly leave environmental contamination, making such properties typical brownfields requiring remediation assessment.
+
+[land-use-controls-q08.v8] (National · land-use-controls)
+Q: Which of the following BEST describes a brownfield in the context of real estate transactions?
+  A*: Industrial or commercial property with suspected or actual contamination requiring environmental review
+  B : A residential property in a declining neighborhood market
+  C : Farmland enrolled in a conservation easement program
+  D : Land in its natural state with no prior commercial development
+MARKED ANSWER: A
+RATIONALE: Brownfields are characterized by potential environmental contamination from prior use, necessitating Phase I or Phase II environmental site assessments before acquisition or redevelopment.
+
+[land-use-controls-q08.v9] (National · land-use-controls)
+Q: In Hawaii real estate development, a site with historical industrial use and potential environmental liabilities is most accurately described as:
+  A*: A brownfield property requiring Phase I environmental assessment
+  B : An area zoned for conservation purposes
+  C : A greenfield development opportunity
+  D : A wetland-restricted parcel
+MARKED ANSWER: A
+RATIONALE: Brownfield refers to previously developed or industrial property with actual or suspected environmental contamination; Phase I assessment is a common first step in evaluating such sites for redevelopment potential.
+
+[land-use-controls-q09] (National · land-use-controls)
+Q: Government action that severely restricts use without formal condemnation may be:
+  A : Police power
+  B : Variance
+  C : Escheat
+  D*: Inverse condemnation
+MARKED ANSWER: D
+RATIONALE: Inverse condemnation = de facto taking; owner sues for compensation.
+
+[land-use-controls-q09.v1] (National · land-use-controls)
+Q: When a property owner loses reasonable use of land due to governmental action that falls short of formal taking proceedings, the owner may pursue a claim for:
+  A : Eminent domain waiver
+  B : Regulatory escheat
+  C : Variance relief
+  D*: Inverse condemnation
+MARKED ANSWER: D
+RATIONALE: Inverse condemnation allows a property owner to sue the government for compensation when regulatory or administrative action effectively takes property without formal condemnation proceedings.
+
+[land-use-controls-q09.v2] (National · land-use-controls)
+Q: A municipality's strict zoning enforcement prevents all development on a property, effectively rendering it valueless. The owner's legal remedy for this de facto taking is called:
+  A*: Inverse condemnation
+  B : Police power adjustment
+  C : Statutory escheat petition
+  D : Conditional use permit denial
+MARKED ANSWER: A
+RATIONALE: Inverse condemnation is the legal claim property owners file when government action substantially diminishes property value without formal condemnation, seeking just compensation.
+
+[land-use-controls-q09.v3] (National · land-use-controls)
+Q: Which legal doctrine allows a property owner to sue for damages when governmental restrictions effectively take their property without following formal condemnation procedures?
+  A : Prescriptive easement
+  B*: Inverse condemnation
+  C : Adverse possession claim
+  D : Police power exercise
+MARKED ANSWER: B
+RATIONALE: Inverse condemnation is the doctrine by which an owner sues the government seeking compensation for a regulatory taking that occurs without formal eminent domain proceedings.
+
+[land-use-controls-q09.v4] (National · land-use-controls)
+Q: A property owner alleges the city's environmental regulations have completely eliminated all economic use of her land. She wishes to claim the government has effectively taken her property. Which legal action describes her remedy?
+  A*: Request inverse condemnation compensation
+  B : File for escheat reversion
+  C : Challenge police power authority
+  D : Appeal for zoning variance
+MARKED ANSWER: A
+RATIONALE: Inverse condemnation is the appropriate claim when regulatory action results in a de facto taking; the owner sues to recover just compensation rather than seeking permission to develop.
+
+[land-use-controls-q09.v5] (National · land-use-controls)
+Q: When a government agency's actions effectively deprive an owner of property use and value without filing a formal condemnation suit, the owner may pursue a claim for:
+  A*: Inverse condemnation
+  B : Police power regulation
+  C : Escheat proceedings
+  D : Variance relief
+MARKED ANSWER: A
+RATIONALE: Inverse condemnation allows a property owner to sue for compensation when government action substantially diminishes property value or use without initiating formal condemnation proceedings.
+
+[land-use-controls-q09.v6] (National · land-use-controls)
+Q: A regulatory restriction that amounts to a practical taking of property rights, despite the absence of formal condemnation, is best described as:
+  A : Exercise of police power
+  B : Conditional use permit denial
+  C*: De facto taking or inverse condemnation
+  D : Eminent domain proceedings
+MARKED ANSWER: C
+RATIONALE: Inverse condemnation (de facto taking) occurs when government action effectively seizes property use or value without the formal legal process of condemnation, allowing the owner to recover damages.
+
+[land-use-controls-q09.v7] (National · land-use-controls)
+Q: If a government action strips an owner of substantially all economically viable use of land without going through formal condemnation procedures, the owner may file suit for:
+  A : Police power exemption
+  B : Title escheat
+  C*: Inverse condemnation damages
+  D : Zoning variance
+MARKED ANSWER: C
+RATIONALE: Inverse condemnation is the legal remedy when a government action operates as a taking without formal condemnation, entitling the owner to compensation for the diminished property rights.
+
+[land-use-controls-q09.v8] (National · land-use-controls)
+Q: An owner claims that strict environmental regulations have rendered the property worthless and unusable, yet no condemnation notice was issued. This situation may constitute:
+  A*: Inverse condemnation
+  B : Adverse possession
+  C : Misuse of police power
+  D : Regulatory non-compliance
+MARKED ANSWER: A
+RATIONALE: Inverse condemnation allows an owner to recover compensation when regulatory restrictions or government actions effectively appropriate property value or use without formal condemnation proceedings.
+
+[land-use-controls-q09.v9] (National · land-use-controls)
+Q: When a property owner claims the government has effectively taken their land through regulatory restrictions without initiating formal eminent domain proceedings, the owner's legal remedy is known as:
+  A : Regulatory taking defense
+  B : Escheat to the state
+  C*: Inverse condemnation
+  D : Police power enforcement
+MARKED ANSWER: C
+RATIONALE: Inverse condemnation is the owner's lawsuit against government for compensation when regulatory or physical action amounts to a de facto taking without formal condemnation.
+
+[land-use-controls-q10] (National · land-use-controls)
+Q: Floor Area Ratio (FAR) limits:
+  A : How tall a building can be
+  B : The setback requirement
+  C*: The ratio of building floor area to lot area
+  D : How many stories are allowed
+MARKED ANSWER: C
+RATIONALE: FAR caps overall building size relative to lot.
+
+[land-use-controls-q10.v1] (National · land-use-controls)
+Q: Under Hawaii zoning regulations, a developer needs to understand what Floor Area Ratio (FAR) controls. Which statement accurately describes FAR?
+  A*: The relationship between total usable building square footage and the land parcel size
+  B : The vertical height limitation measured in feet above grade level
+  C : The maximum number of residential units permitted per acre
+  D : The minimum distance a structure must be positioned from property lines
+MARKED ANSWER: A
+RATIONALE: FAR is a density control that directly compares the total floor area of a building to its lot area, expressed as a ratio or decimal.
+
+[land-use-controls-q10.v2] (National · land-use-controls)
+Q: A property owner in Honolulu reviews zoning code restrictions. The code specifies an FAR of 2.0 for commercial projects. What does this Floor Area Ratio constraint specifically limit?
+  A : Only two facade designs are permitted for the project
+  B*: The total building area may not exceed twice the area of the underlying lot
+  C : The structure cannot exceed two stories in height
+  D : Buildings must maintain a two-foot separation from neighboring properties
+MARKED ANSWER: B
+RATIONALE: An FAR of 2.0 means the total floor area of all stories combined cannot exceed twice the lot size; this is a building mass/density control.
+
+[land-use-controls-q10.v3] (National · land-use-controls)
+Q: Which zoning parameter is Floor Area Ratio most directly used to regulate?
+  A*: The overall bulk and density of development on a parcel
+  B : Required parking spaces and loading zones
+  C : Exterior facade materials and architectural style
+  D : Building height and story count
+MARKED ANSWER: A
+RATIONALE: FAR regulates how much total building floor area can be constructed relative to the lot size, controlling overall development density.
+
+[land-use-controls-q10.v4] (National · land-use-controls)
+Q: A real estate licensee explains zoning terms to a client considering a commercial purchase. The client asks what Floor Area Ratio means. The licensee should explain that FAR primarily defines:
+  A : The number of access points and driveway widths allowed
+  B : The percentage of the lot that must remain open (green space)
+  C*: The proportion of usable indoor square footage compared to the total land area
+  D : How many feet tall the building envelope can rise
+MARKED ANSWER: C
+RATIONALE: FAR is the numerical ratio of total building floor area to lot area; it directly measures development intensity on the land.
+
+[land-use-controls-q10.v5] (National · land-use-controls)
+Q: When a zoning code specifies a Floor Area Ratio of 2.0, what does this constraint primarily control?
+  A : The maximum height of the building measured in feet
+  B*: The total usable floor space relative to the size of the underlying land parcel
+  C : The number of residential units permitted on the lot
+  D : The maximum distance a structure must be positioned from the property line
+MARKED ANSWER: B
+RATIONALE: FAR directly limits the ratio of total building floor area to lot area, controlling overall development density on a property.
+
+[land-use-controls-q10.v6] (National · land-use-controls)
+Q: A developer is reviewing zoning restrictions for a commercial lot. Which regulation specifically addresses the relationship between the building's total floor area and the lot size?
+  A*: Floor Area Ratio (FAR) requirement
+  B : Parking ratio statute
+  C : Frontage setback provision
+  D : Height limitation ordinance
+MARKED ANSWER: A
+RATIONALE: FAR is the zoning tool that directly measures and limits the proportion of building floor area compared to total lot area.
+
+[land-use-controls-q10.v7] (National · land-use-controls)
+Q: In Hawaii zoning code, Floor Area Ratio functions to:
+  A*: Regulate the intensity of development by capping building area relative to land area
+  B : Determine minimum side-yard distances between adjacent properties
+  C : Establish the number of floors a building may contain
+  D : Define the width of public right-of-way frontage
+MARKED ANSWER: A
+RATIONALE: FAR controls development intensity by limiting how much total floor area can be built on a given parcel of land.
+
+[land-use-controls-q10.v8] (National · land-use-controls)
+Q: A property with 10,000 square feet is zoned with a 1.5 FAR limit. What does this primarily restrict?
+  A*: The total floor area cannot exceed 15,000 square feet
+  B : No more than three stories are permitted
+  C : The building must be set back 15 feet from the street
+  D : The building cannot exceed 50 feet in height
+MARKED ANSWER: A
+RATIONALE: FAR of 1.5 on a 10,000 sq ft lot means maximum total floor area is 15,000 sq ft (1.5 × 10,000), controlling overall building size.
+
+[land-use-controls-q10.v9] (National · land-use-controls)
+Q: A property developer is reviewing zoning restrictions for a commercial lot in Honolulu. The zoning code specifies an FAR of 2.5. What does this Floor Area Ratio restriction control?
+  A : The number of residential units allowed per floor level
+  B : The maximum height the building structure can reach above grade
+  C : The minimum distance a building must be set back from property lines
+  D*: The total usable floor space permitted relative to the land area beneath it
+MARKED ANSWER: D
+RATIONALE: FAR measures the relationship between total building floor area and the size of the lot; a 2.5 FAR means the building's total floors can be 2.5 times the lot area, controlling overall building mass.
+
+[land-use-controls-q11] (National · land-use-controls)
+Q: A daycare operating in a residential zone with a special permit is operating under a:
+  A : Nonconforming use
+  B : Variance
+  C*: Conditional use permit
+  D : Spot zone
+MARKED ANSWER: C
+RATIONALE: Conditional uses are zone-permitted with specific conditions.
+
+[land-use-controls-q11.v1] (National · land-use-controls)
+Q: A property owner in a residential district receives approval to operate a tutoring center after meeting specific zoning requirements and obtaining official authorization. What zoning mechanism allowed this use?
+  A : A variance from the zoning ordinance
+  B : Spot zoning of the individual lot
+  C : Recognition as a legal nonconforming use
+  D*: A conditional use permit
+MARKED ANSWER: D
+RATIONALE: A conditional use permit allows a specific use within a zone when the applicant meets predetermined conditions set by the zoning ordinance, as opposed to a variance which requires hardship or a nonconforming use which predates the zoning.
+
+[land-use-controls-q11.v2] (National · land-use-controls)
+Q: A residential neighborhood's zoning code permits certain commercial uses if the owner submits documentation and satisfies operational standards. A fitness studio successfully qualifies under this process. What zoning tool was applied?
+  A : Zoning overlay district
+  B : Nonconforming use status
+  C*: Conditional use permit
+  D : Variance relief
+MARKED ANSWER: C
+RATIONALE: Conditional use permits are expressly allowed by the zoning code itself when specified conditions are met, distinguishing them from variances (which require hardship) and nonconforming uses (which existed before zoning changes).
+
+[land-use-controls-q11.v3] (National · land-use-controls)
+Q: A home-based consulting business in a residential zone operated for years before current zoning restrictions took effect. The business continues under what zoning classification?
+  A : Variance authority
+  B : Conditional use permit status
+  C : Planned development district
+  D*: Nonconforming use
+MARKED ANSWER: D
+RATIONALE: A nonconforming use is an existing use that does not comply with current zoning but is grandfathered in because it operated before the restrictive zoning ordinance was adopted, unlike a conditional use permit which requires advance approval.
+
+[land-use-controls-q11.v4] (National · land-use-controls)
+Q: A church seeking to establish a soup kitchen in a single-family residential zone applied for and received official permission after demonstrating compliance with neighborhood impact standards. This approval is granted under a:
+  A : Spot zone amendment
+  B*: Conditional use permit
+  C : General variance from the city council
+  D : Grandfather clause for nonconforming uses
+MARKED ANSWER: B
+RATIONALE: Conditional use permits are specifically prescribed in zoning ordinances and granted when an applicant meets established conditions, as opposed to variances (which require undue hardship) or spot zoning (which changes zone boundaries for a single parcel).
+
+[land-use-controls-q11.v5] (National · land-use-controls)
+Q: A property owner received approval to operate a residential care facility in a single-family residential district after submitting specific operational conditions to the zoning board. This approval is known as a:
+  A*: Conditional use permit
+  B : Variance from setback requirements
+  C : Nonconforming use exception
+  D : Floating zone classification
+MARKED ANSWER: A
+RATIONALE: A conditional use permit allows a use that is compatible with the zone if specific conditions are met and approved by the zoning authority.
+
+[land-use-controls-q11.v6] (National · land-use-controls)
+Q: When a commercial office is permitted in a residential neighborhood provided the owner agrees to limit hours and install soundproofing, the office operates under a:
+  A : Variance
+  B : Spot zone
+  C : Grandfathered nonconforming use
+  D*: Conditional use permit
+MARKED ANSWER: D
+RATIONALE: Conditional use permits allow otherwise prohibited uses within a zone when specific conditions and restrictions are satisfied and approved.
+
+[land-use-controls-q11.v7] (National · land-use-controls)
+Q: A bed-and-breakfast home business was approved in an area zoned exclusively for residential dwellings because the owner agreed to comply with traffic, parking, and occupancy restrictions. This approval mechanism is called a:
+  A : De minimis variance
+  B : Illegal nonconforming use
+  C : Zoning amendment
+  D*: Conditional use permit
+MARKED ANSWER: D
+RATIONALE: Conditional use permits grant permission for specific uses that are compatible with a zone when the applicant accepts and adheres to established conditions.
+
+[land-use-controls-q11.v8] (National · land-use-controls)
+Q: A small medical clinic operates in a residential zone after the zoning board approved its application with mandatory restrictions on signage and patient parking. The clinic's legal operating status is based on a:
+  A : Nonconforming use establishment
+  B*: Conditional use permit
+  C : Variance waiver
+  D : Comprehensive plan amendment
+MARKED ANSWER: B
+RATIONALE: Conditional use permits are granted by zoning authority when an otherwise incompatible use can operate safely within a zone if specific conditions are met.
+
+[land-use-controls-q11.v9] (National · land-use-controls)
+Q: A residential neighborhood allows a home-based counseling practice after the owner obtains approval from the zoning board and agrees to specific operational restrictions. This use is classified as a:
+  A*: Conditional use permit
+  B : Variance from the residential zoning code
+  C : Spot zone exemption
+  D : Nonconforming use that existed before zoning
+MARKED ANSWER: A
+RATIONALE: A conditional use permit allows a use that would normally be prohibited in a zone, but only when specific conditions and restrictions are met and approved by the zoning authority.
+
+[valuation-market-analysis-q00] (National · valuation-market-analysis)
+Q: A four-plex generates $48,000 NOI. A market cap rate of 8% suggests a value of:
+  A : $750,000
+  B : $384,000
+  C*: $600,000
+  D : $480,000
+MARKED ANSWER: C
+RATIONALE: Value = NOI ÷ Cap Rate = 48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v1] (National · valuation-market-analysis)
+Q: An apartment building produces $48,000 in net operating income annually. Using a capitalization rate of 8%, what is the property's estimated market value?
+  A : $720,000
+  B*: $600,000
+  C : $525,000
+  D : $384,000
+MARKED ANSWER: B
+RATIONALE: Property value is calculated using the cap rate formula: Value = NOI ÷ Cap Rate = $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v2] (National · valuation-market-analysis)
+Q: A rental property with $48,000 NOI is being appraised using the income capitalization approach. If comparable properties in the market trade at an 8% cap rate, what value should the appraiser conclude?
+  A*: $600,000
+  B : $750,000
+  C : $480,000
+  D : $640,000
+MARKED ANSWER: A
+RATIONALE: Under the income approach, dividing NOI by the market cap rate yields value: $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v3] (National · valuation-market-analysis)
+Q: An investor analyzes a multi-unit residential property generating $48,000 in NOI. The prevailing capitalization rate for similar properties is 8%. What is the indicated property value?
+  A : $456,000
+  B : $744,000
+  C*: $600,000
+  D : $384,000
+MARKED ANSWER: C
+RATIONALE: The income capitalization approach determines value by dividing NOI by the cap rate: $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v4] (National · valuation-market-analysis)
+Q: A four-plex owner reports $48,000 annual NOI. Using the direct capitalization method with an 8% market cap rate, the property's value would be approximately:
+  A : $528,000
+  B*: $600,000
+  C : $720,000
+  D : $384,000
+MARKED ANSWER: B
+RATIONALE: Direct capitalization solves for value using the formula: Value = NOI ÷ Cap Rate, which equals $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v5] (National · valuation-market-analysis)
+Q: An income-producing property in Honolulu has a net operating income of $48,000 annually. Using the income approach with a capitalization rate of 8%, what is the estimated property value?
+  A*: $600,000
+  B : $960,000
+  C : $384,000
+  D : $720,000
+MARKED ANSWER: A
+RATIONALE: The income approach formula is Value = NOI ÷ Cap Rate. Therefore, $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v6] (National · valuation-market-analysis)
+Q: A residential investment property generates $48,000 in NOI. If comparable properties in the market are trading at an 8% cap rate, what value should an appraiser assign using the direct capitalization method?
+  A*: $600,000
+  B : $800,000
+  C : $540,000
+  D : $672,000
+MARKED ANSWER: A
+RATIONALE: Direct capitalization divides NOI by the cap rate: $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v7] (National · valuation-market-analysis)
+Q: A multi-unit rental building produces $48,000 NOI annually. The prevailing market cap rate for similar properties is 8%. Using income capitalization, what is the property's indicated value?
+  A : $384,000
+  B : $750,000
+  C*: $600,000
+  D : $480,000
+MARKED ANSWER: C
+RATIONALE: Income capitalization value is calculated as NOI ÷ Cap Rate = $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v8] (National · valuation-market-analysis)
+Q: An investor is analyzing a property with $48,000 annual NOI. Market data shows an 8% cap rate for comparable properties. What value does the income capitalization approach support?
+  A*: $600,000
+  B : $432,000
+  C : $528,000
+  D : $624,000
+MARKED ANSWER: A
+RATIONALE: The income capitalization formula is Value = NOI ÷ Cap Rate, which equals $48,000 ÷ 0.08 = $600,000.
+
+[valuation-market-analysis-q00.v9] (National · valuation-market-analysis)
+Q: An investment property produces $48,000 in annual net operating income. Using a capitalization rate of 8%, what is the estimated property value?
+  A*: $600,000
+  B : $720,000
+  C : $384,000
+  D : $528,000
+MARKED ANSWER: A
+RATIONALE: Property value is calculated by dividing NOI by the cap rate: $48,000 ÷ 0.08 = $600,000. This fundamental appraisal approach determines value based on income-producing potential.
+
+[valuation-market-analysis-q01] (National · valuation-market-analysis)
+Q: A house with one bathroom on a street where every other home has two suffers from:
+  A*: Functional obsolescence
+  B : Physical depreciation
+  C : External obsolescence
+  D : Economic obsolescence
+MARKED ANSWER: A
+RATIONALE: Functional = outdated design within the property itself.
+
+[valuation-market-analysis-q01.v1] (National · valuation-market-analysis)
+Q: A residential property with only one shower/bath is valued lower than comparable homes in the neighborhood that have three bathrooms. This deficiency is best characterized as:
+  A*: Functional obsolescence
+  B : Incurable external depreciation
+  C : Locational obsolescence
+  D : Curable physical deterioration
+MARKED ANSWER: A
+RATIONALE: Functional obsolescence refers to an outdated or inadequate feature within the property itself (insufficient bathrooms for market expectations) that reduces utility and value relative to current standards.
+
+[valuation-market-analysis-q01.v2] (National · valuation-market-analysis)
+Q: A home's floor plan includes only one bathroom while the neighborhood standard is three or four bathrooms. The loss in value attributable to this condition is due to:
+  A : Deferred maintenance on plumbing fixtures
+  B : Environmental contamination affecting the water systems
+  C*: Functional obsolescence
+  D : Adverse economic conditions in the market
+MARKED ANSWER: C
+RATIONALE: Functional obsolescence occurs when a property's design, layout, or built-in features (like inadequate bathroom count) are inherently outdated or do not meet current market expectations, causing value loss independent of physical condition.
+
+[valuation-market-analysis-q01.v3] (National · valuation-market-analysis)
+Q: An appraiser notes that a property has structural integrity and no signs of wear, yet it appraises below similar homes because it has only one bathroom instead of the two bathrooms typical of the area. This type of depreciation is called:
+  A : Material defect
+  B : Deferred maintenance
+  C*: Functional obsolescence
+  D : Neighborhood decline
+MARKED ANSWER: C
+RATIONALE: Functional obsolescence is the loss in value caused by design deficiencies or lack of modern amenities (insufficient bathrooms) within the property itself, regardless of its physical condition.
+
+[valuation-market-analysis-q01.v4] (National · valuation-market-analysis)
+Q: A single-bathroom home loses market value when comparable homes in the same subdivision all feature at least two bathrooms. The appraiser attributes this loss to:
+  A : Supply shortage of similar properties
+  B : Deterioration from age and wear
+  C*: Functional obsolescence
+  D : Zoning restriction limitations
+MARKED ANSWER: C
+RATIONALE: Functional obsolescence stems from an inadequacy in the property's design or features (too few bathrooms) that makes it less desirable relative to modern market standards for the location.
+
+[valuation-market-analysis-q01.v5] (National · valuation-market-analysis)
+Q: A residential property has an outdated floor plan and single-bath configuration while comparable homes in the neighborhood feature modern open layouts with multiple bathrooms. What type of depreciation affects this property's value?
+  A*: Functional obsolescence
+  B : Curable physical deterioration
+  C : Locational obsolescence
+  D : Incurable external obsolescence
+MARKED ANSWER: A
+RATIONALE: Functional obsolescence refers to deficiencies in the property's design and usefulness relative to current standards—the single bathroom reflects poor internal design compared to market expectations for the area.
+
+[valuation-market-analysis-q01.v6] (National · valuation-market-analysis)
+Q: An appraiser notes that a home lacks adequate plumbing fixtures compared to all neighboring properties on the block. The deficiency originates from the home's interior layout and design rather than neighborhood factors. This is an example of:
+  A : External obsolescence
+  B : Structural depreciation
+  C : Deferred maintenance
+  D*: Functional obsolescence
+MARKED ANSWER: D
+RATIONALE: Functional obsolescence describes inherent design flaws or inadequate features within the structure itself—a single bathroom when homes around it have multiple is a design inadequacy of the subject property.
+
+[valuation-market-analysis-q01.v7] (National · valuation-market-analysis)
+Q: A property suffers a loss in value because its bathroom count and floor plan do not match what buyers expect given the current market in that neighborhood. What does this represent?
+  A : Technological depreciation from outdated systems
+  B*: Functional obsolescence from inadequate design
+  C : Economic obsolescence from market decline
+  D : Physical depreciation from wear and tear
+MARKED ANSWER: B
+RATIONALE: Functional obsolescence captures the loss in value due to outdated or inadequate design features within the property itself—here, insufficient bathrooms relative to modern home expectations and neighborhood standards.
+
+[valuation-market-analysis-q01.v8] (National · valuation-market-analysis)
+Q: In a neighborhood where homes typically include two or more bathrooms, a house with only one bathroom experiences reduced market appeal. The reduction in value is attributable to:
+  A : Incurable external depreciation
+  B : Obsolete building code violations
+  C : Deferred maintenance and repairs
+  D*: Functional obsolescence
+MARKED ANSWER: D
+RATIONALE: Functional obsolescence occurs when a property's internal design or features fall short of current market standards and expectations—a single bathroom in a two-bath neighborhood reflects insufficient design capacity.
+
+[valuation-market-analysis-q01.v9] (National · valuation-market-analysis)
+Q: A residential property features an open-concept kitchen-living area layout that is considered dated compared to the closed, compartmentalized floor plans typical of similar homes in the neighborhood. This property most likely suffers from:
+  A : External obsolescence due to neighborhood decline
+  B : Physical deterioration requiring structural repairs
+  C*: Functional obsolescence from outdated design features
+  D : Locational obsolescence from zoning changes
+MARKED ANSWER: C
+RATIONALE: Functional obsolescence refers to outdated or inadequate design and features within the property itself that reduce its utility compared to current market standards, regardless of external market conditions.
+

@@ -1,0 +1,10 @@
+BATCH 09 — reviewed 130 questions, found 0 critical, 7 major, 1 minor
+
+practice-of-real-estate-q08.v1 | major | Rationale claims "Hawaii regulations... require brokers to reconcile trust accounts monthly" — HAR 16-99-4/149 contains NO monthly reconciliation mandate; monthly is national best practice, not codified HI law | Marked answer (monthly) OK as standard practice; fix rationale to "industry standard practice" not "Hawaii regulations require"
+practice-of-real-estate-q08.v2 | major | Frames notice "from the Hawaii Real Estate Commission" mandating monthly reconciliation; HI rules do not codify a monthly frequency | Answer OK; reword to general standard, drop the implied HI statutory mandate
+practice-of-real-estate-q08.v5 | major | Rationale: "Hawaii REC rules require brokers to reconcile trust accounts on a monthly basis" — not in HAR 16-99 | Answer OK; reword rationale to industry standard
+practice-of-real-estate-q08.v6 | major | Rationale: "standard requirement in Hawaii" attributes monthly to HI specifically; not codified | Answer OK; soften to general standard
+practice-of-real-estate-q08.v7 | major | Rationale: "Hawaii's trust account rules mandate monthly reconciliation" — false; HAR 16-99 sets no frequency | Answer OK; reword
+practice-of-real-estate-q08.v8 | major | Rationale: "Hawaii regulation requires brokers to reconcile trust accounts typically on a monthly basis" — not in HI rules | Answer OK; reword to industry standard
+practice-of-real-estate-q08.v9 | major | Rationale: "Hawaii REC rules require brokers to reconcile trust accounts monthly" — not codified in HAR 16-99 | Answer OK; reword
+real-estate-calculations-q08.v1 | minor | Rationale says GRM applied to "annual gross rental income: $1,800 × 130" — $1,800 is MONTHLY rent (130 is a monthly GRM); math/answer correct but word "annual" is wrong | Change "annual" to "monthly"

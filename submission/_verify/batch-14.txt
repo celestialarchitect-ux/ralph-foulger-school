@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 14/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[hi-title-conveyances-q04] (State · hi-title-conveyances)
+Q: In Hawaii, the default form of co-ownership when intent isn't specified is:
+  A : Joint tenancy
+  B*: Tenancy in common
+  C : Severalty
+  D : Tenancy by the entirety
+MARKED ANSWER: B
+RATIONALE: Tenancy in common is default; joint tenancy requires express language.
+
+[hi-title-conveyances-q04.v1] (State · hi-title-conveyances)
+Q: When a Hawaii deed conveys real property to two individuals without specifying the type of ownership relationship, what presumption applies?
+  A : Each grantee receives a separate and distinct parcel in severalty
+  B*: The grantees are presumed to own as tenants in common
+  C : The grantees hold title as joint tenants with right of survivorship
+  D : The property automatically converts to tenancy by the entirety if the grantees are married
+MARKED ANSWER: B
+RATIONALE: Hawaii law presumes tenancy in common when co-ownership intent is not expressly stated in the deed; joint tenancy and other forms require explicit language to create.
+
+[hi-title-conveyances-q04.v2] (State · hi-title-conveyances)
+Q: A Hawaii realtor assists in a sale to multiple buyers whose deed contains no language clarifying their ownership structure. What form of ownership will Hawaii courts presume?
+  A*: Tenancy in common
+  B : Joint tenancy with automatic right of survivorship
+  C : Tenancy by the entirety
+  D : Sole ownership divided by percentage
+MARKED ANSWER: A
+RATIONALE: Absent express language establishing joint tenancy or tenancy by the entirety, Hawaii defaults to tenancy in common, giving each owner an undivided interest.
+
+[hi-title-conveyances-q04.v3] (State · hi-title-conveyances)
+Q: Two friends purchase a vacation property in Hawaii together. The deed makes no mention of how they hold title. Under Hawaii property law, they most likely hold the property as:
+  A*: Tenants in common
+  B : Joint tenants with automatic survivorship rights
+  C : Fractional owners in severalty
+  D : Tenants by the entirety with marital protections
+MARKED ANSWER: A
+RATIONALE: Hawaii presumes tenancy in common for multiple grantees unless the deed explicitly creates joint tenancy or another specified form of concurrent ownership.
+
+[hi-title-conveyances-q04.v4] (State · hi-title-conveyances)
+Q: A Hawaii property is conveyed to 'A and B' with no further details about their relationship. Which ownership arrangement is presumed by state law?
+  A*: Each owner holds an equal, undivided interest as tenants in common
+  B : Each owner receives a separate, distinct legal parcel
+  C : Right of survivorship passes to the surviving co-owner
+  D : The parties own together as husband and wife by the entirety
+MARKED ANSWER: A
+RATIONALE: Hawaii law presumes tenancy in common as the default concurrent ownership form; joint tenancy rights of survivorship and tenancy by the entirety require express deed language.
+
+[hi-title-conveyances-q04.v5] (State · hi-title-conveyances)
+Q: When a Hawaii deed conveys property to two individuals without specifying the type of co-ownership, which form applies by statute?
+  A*: Tenancy in common
+  B : Tenancy by the entirety
+  C : Joint tenancy with right of survivorship
+  D : Severalty with undivided interest
+MARKED ANSWER: A
+RATIONALE: Hawaii law presumes tenancy in common when co-owners are not married and no express survivorship language is used; it is the default presumption.
+
+[hi-title-conveyances-q04.v6] (State · hi-title-conveyances)
+Q: A property is deeded to Sarah and Michael with no explicit language regarding survivorship or unity of title. Absent any other agreement, what is the resulting ownership arrangement in Hawaii?
+  A*: Tenancy in common
+  B : Joint tenancy automatically
+  C : Tenancy by the entirety
+  D : Sole ownership split equally
+MARKED ANSWER: A
+RATIONALE: Tenancy in common is the default form of co-ownership in Hawaii when no express intent for joint tenancy or tenancy by the entirety is stated in the conveyance.
+
+[hi-title-conveyances-q04.v7] (State · hi-title-conveyances)
+Q: Which co-ownership form in Hawaii requires explicit language in the deed to be created, as it is not the presumed default?
+  A : Undivided interest ownership
+  B : Tenancy in common
+  C : Tenancy by the entirety for married couples
+  D*: Joint tenancy with right of survivorship
+MARKED ANSWER: D
+RATIONALE: Joint tenancy must be expressly created with clear language stating the intent for survivorship rights; without such language, the law defaults to tenancy in common.
+
+[hi-title-conveyances-q04.v8] (State · hi-title-conveyances)
+Q: A Hawaii property is conveyed to two unrelated individuals. The deed is silent on the nature of their ownership rights. Which presumption does Hawaii property law apply?
+  A : Concurrent ownership by statute only
+  B*: Tenancy in common with equal shares
+  C : Tenancy by the entirety
+  D : Joint tenancy with automatic survivorship
+MARKED ANSWER: B
+RATIONALE: Hawaii statute presumes tenancy in common when co-ownership intent is not explicitly expressed in the deed; this is the default form unless joint tenancy is specifically created.
+
+[hi-title-conveyances-q04.v9] (State · hi-title-conveyances)
+Q: When two individuals purchase real property in Hawaii without explicitly stating how title should be held, what form of ownership is presumed?
+  A : Tenancy by the entirety with survivorship rights
+  B : Joint tenancy with right of survivorship
+  C : Sole and separate property ownership
+  D*: Tenancy in common with equal undivided interests
+MARKED ANSWER: D
+RATIONALE: Hawaii law presumes tenancy in common as the default co-ownership form when the deed or purchase agreement does not specify joint tenancy or another arrangement. Tenancy in common allows each owner an undivided interest without survivorship rights.
+
+[hi-title-conveyances-q05] (State · hi-title-conveyances)
+Q: A married couple takes title with both survivorship and creditor protection. They likely hold:
+  A : Joint tenancy
+  B*: Tenancy by the entirety
+  C : Severalty
+  D : Tenancy in common
+MARKED ANSWER: B
+RATIONALE: Tenancy by the entirety = spousal-only with both features.
+
+[hi-title-conveyances-q05.v1] (State · hi-title-conveyances)
+Q: A husband and wife purchase residential property in Hawaii and want both the right of survivorship and immunity from individual creditor claims. Which form of ownership best meets these requirements?
+  A : Joint tenancy with creditor exemption
+  B : Tenancy in common with spousal rights
+  C*: Tenancy by the entirety
+  D : Severalty with a survivorship clause
+MARKED ANSWER: C
+RATIONALE: Only tenancy by the entirety provides both automatic survivorship rights and creditor protection for spouses holding title together.
+
+[hi-title-conveyances-q05.v2] (State · hi-title-conveyances)
+Q: Two spouses acquire land together in Hawaii. One spouse later faces a judgment lien from a personal creditor. If they hold title as tenancy by the entirety, what happens to the property?
+  A : The creditor can force a partition sale immediately
+  B : The creditor can attach a lien to the spouse's survivorship interest only
+  C : The property automatically converts to joint tenancy
+  D*: The property is protected from that spouse's individual creditors
+MARKED ANSWER: D
+RATIONALE: Tenancy by the entirety shields the entire property from claims by one spouse's individual creditors, treating the spouses as a single entity.
+
+[hi-title-conveyances-q05.v3] (State · hi-title-conveyances)
+Q: A married couple in Hawaii selects a title-holding method that ensures the surviving spouse automatically inherits the entire property and prevents either spouse's personal creditors from claiming an interest. This describes:
+  A : Tenancy in common with right of survivorship
+  B : Community property arrangement
+  C : Joint tenancy with veto rights
+  D*: Tenancy by the entirety
+MARKED ANSWER: D
+RATIONALE: Tenancy by the entirety is the spousal ownership form combining automatic survivorship and creditor protection in a single unified title.
+
+[hi-title-conveyances-q05.v4] (State · hi-title-conveyances)
+Q: Which form of co-ownership is available only to married couples in Hawaii and provides both the right of survivorship and protection against one spouse's individual creditors?
+  A : Partnership ownership
+  B*: Tenancy by the entirety
+  C : Joint tenancy
+  D : Tenancy in common
+MARKED ANSWER: B
+RATIONALE: Tenancy by the entirety uniquely combines spousal-only availability with both survivorship and individual creditor immunity.
+
+[hi-title-conveyances-q05.v5] (State · hi-title-conveyances)
+Q: A husband and wife purchase residential property in Hawaii and want automatic transfer rights upon death while maintaining protection from individual creditors. Which ownership form best meets both objectives?
+  A : Joint tenancy with right of survivorship
+  B : Severalty with a will provision
+  C*: Tenancy by the entirety
+  D : Tenancy in common with survivorship clause
+MARKED ANSWER: C
+RATIONALE: Tenancy by the entirety is the only title form that combines both right of survivorship AND creditor protection for married couples in Hawaii.
+
+[hi-title-conveyances-q05.v6] (State · hi-title-conveyances)
+Q: Two spouses hold title to Oahu beachfront property. Upon one spouse's death, title automatically passes to the surviving spouse, and neither spouse's separate creditors can attach a lien against the property. This ownership arrangement is most likely a:
+  A*: Tenancy by the entirety
+  B : Joint tenancy between unrelated parties
+  C : Tenancy in common
+  D : Community property with survivorship
+MARKED ANSWER: A
+RATIONALE: Only tenancy by the entirety provides both automatic survivorship to the remaining spouse and creditor protection inherent to the tenancy form.
+
+[hi-title-conveyances-q05.v7] (State · hi-title-conveyances)
+Q: A married couple in Hawaii wants title to their vacation home structured so that the property automatically vests in the surviving spouse at death, and their individual creditors cannot pursue claims against the property. What form of co-ownership achieves both goals?
+  A : Tenancy in common
+  B : Joint tenancy
+  C : Partnership ownership
+  D*: Tenancy by the entirety
+MARKED ANSWER: D
+RATIONALE: Tenancy by the entirety is specifically designed for married couples and uniquely provides both right of survivorship and spousal creditor protection.
+
+[hi-title-conveyances-q05.v8] (State · hi-title-conveyances)
+Q: At closing, a married couple elects a title form that provides survivorship rights and shields the property from claims by one spouse's individual creditors. Which ownership structure did they most likely choose?
+  A : Joint tenancy with liability waivers
+  B : Tenancy in common with cross-default provisions
+  C : Severalty with spousal consent requirement
+  D*: Tenancy by the entirety
+MARKED ANSWER: D
+RATIONALE: Tenancy by the entirety is the sole ownership form that statutorily combines survivorship with inherent creditor protection for married spouses.
+
+[hi-title-conveyances-q05.v9] (State · hi-title-conveyances)
+Q: A husband and wife purchase residential property in Hawaii and want automatic transfer of ownership upon one spouse's death while also protecting their interest from individual creditors. Which ownership form achieves both objectives?
+  A : Tenancy in common with a survivorship agreement
+  B : Community property arrangement
+  C : Joint tenancy with right of survivorship
+  D*: Tenancy by the entirety
+MARKED ANSWER: D
+RATIONALE: Tenancy by the entirety is the only form that provides both survivorship rights AND creditor protection, as creditors of one spouse cannot attach the property without both spouses' consent.
+
+[hi-title-conveyances-q06] (State · hi-title-conveyances)
+Q: Quiet title is:
+  A : A mortgage clause
+  B*: A court action to resolve title clouds
+  C : A type of deed
+  D : An encumbrance
+MARKED ANSWER: B
+RATIONALE: Court action to confirm ownership and resolve clouds.
+
+[hi-title-conveyances-q06.v1] (State · hi-title-conveyances)
+Q: Which of the following best describes the purpose of a quiet title action?
+  A : To transfer ownership from one party to another without conveyance
+  B : To record a second mortgage on the property
+  C*: To remove or eliminate defects and claims against the property's ownership
+  D : To establish a lien against the property for unpaid taxes
+MARKED ANSWER: C
+RATIONALE: A quiet title action is a judicial proceeding brought to settle ownership disputes and clear clouds on the title; it does not transfer ownership but rather confirms it.
+
+[hi-title-conveyances-q06.v2] (State · hi-title-conveyances)
+Q: A property owner discovers a cloud on title from an old, potentially invalid lien. What legal remedy would resolve this issue?
+  A : Recording a warranty deed
+  B : Obtaining title insurance endorsement
+  C*: Filing a quiet title lawsuit
+  D : Executing a quit claim deed to the lienholder
+MARKED ANSWER: C
+RATIONALE: A quiet title action is a court proceeding that eliminates clouded title by judicial determination, allowing the owner to confirm clear ownership and remove questionable claims.
+
+[hi-title-conveyances-q06.v3] (State · hi-title-conveyances)
+Q: In Hawaii real estate law, what type of legal proceeding is used when a property owner needs to clear uncertain or disputed claims of ownership?
+  A : A conveyance through a special warranty deed
+  B*: A quiet title action in district or circuit court
+  C : A foreclosure proceeding by the mortgage lender
+  D : An action for specific performance on a purchase contract
+MARKED ANSWER: B
+RATIONALE: Quiet title actions are judicial proceedings specifically designed to resolve title defects and confirm an owner's rights by clearing clouds from the record.
+
+[hi-title-conveyances-q06.v4] (State · hi-title-conveyances)
+Q: A seller cannot deliver clear title due to a disputed easement from decades past. Which remedy would a buyer most likely pursue?
+  A : Cancel the sale and file a breach of contract claim only
+  B : Petition the county to revise the recorded plat map
+  C : Request the seller execute a quitclaim deed and assume the risk
+  D*: Bring a quiet title action to judicially settle the ownership dispute
+MARKED ANSWER: D
+RATIONALE: A quiet title action provides judicial resolution to title clouds like disputed easements, confirming ownership rights and clearing the defect from the record.
+
+[hi-title-conveyances-q06.v5] (State · hi-title-conveyances)
+Q: A seller discovers a lien from a previous owner on the property title. To clear this cloud on the title, the seller would most likely file:
+  A : A title insurance claim with the insurer
+  B : A quitclaim deed with the county recorder
+  C*: A quiet title action in court
+  D : A notice of default against the lienholder
+MARKED ANSWER: C
+RATIONALE: A quiet title action is a legal proceeding used to remove clouds on title and confirm clear ownership by court decree.
+
+[hi-title-conveyances-q06.v6] (State · hi-title-conveyances)
+Q: Which of the following BEST describes the purpose of a quiet title lawsuit?
+  A*: To establish marketable title and eliminate competing claims or defects
+  B : To reduce the assessed value of real property for tax purposes
+  C : To prevent a mortgagee from foreclosing on residential property
+  D : To create a valid mechanic's lien against the property
+MARKED ANSWER: A
+RATIONALE: Quiet title actions are judicial proceedings that establish clear ownership by removing title defects, liens, and other competing claims.
+
+[hi-title-conveyances-q06.v7] (State · hi-title-conveyances)
+Q: An owner wants to clear a disputed easement and an old tax deed claim from the property records. The most appropriate legal remedy is:
+  A : Recording a disclaimer of interest with the county
+  B*: Requesting a quiet title action through the courts
+  C : Executing a warranty deed to a new owner
+  D : Filing a statutory declaration of homestead
+MARKED ANSWER: B
+RATIONALE: A quiet title action is a court proceeding specifically designed to remove title defects and resolve ownership disputes.
+
+[hi-title-conveyances-q06.v8] (State · hi-title-conveyances)
+Q: When a property has multiple parties claiming ownership rights or unresolved liens, a real estate attorney typically recommends filing:
+  A : A release of security agreement
+  B : An affidavit of adverse possession
+  C*: A quiet title suit in district court
+  D : An amendment to the deed of trust
+MARKED ANSWER: C
+RATIONALE: A quiet title suit is the legal action used to resolve competing claims and clear title defects through court judgment.
+
+[hi-title-conveyances-q06.v9] (State · hi-title-conveyances)
+Q: A property owner files a lawsuit to remove defects from the chain of title and establish clear ownership. This legal proceeding is known as:
+  A : A notice of default
+  B : A reconveyance deed
+  C : A mechanic's lien action
+  D*: An action for quiet title
+MARKED ANSWER: D
+RATIONALE: Quiet title is a judicial proceeding that resolves clouds on title and confirms the owner's right to clear ownership of the property.
+
+[hi-contracts-addenda-q00] (State · hi-contracts-addenda)
+Q: Hawaii's standard residential purchase contract is:
+  A : TCT
+  B : CC&R
+  C : CPR
+  D*: DROA
+MARKED ANSWER: D
+RATIONALE: Deposit Receipt Offer and Acceptance.
+
+[hi-contracts-addenda-q00.v1] (State · hi-contracts-addenda)
+Q: When a buyer submits an offer to purchase residential property in Hawaii, the document used is most commonly known as:
+  A*: Deposit Receipt Offer and Acceptance
+  B : Certificate of Property Rights
+  C : Title Commitment and Transfer
+  D : Covenants, Conditions & Restrictions form
+MARKED ANSWER: A
+RATIONALE: The DROA is Hawaii's standard form for residential purchase offers and earnest money deposits. It memorializes the buyer's offer and acceptance terms.
+
+[hi-contracts-addenda-q00.v2] (State · hi-contracts-addenda)
+Q: Which of the following documents serves as Hawaii's primary residential sales contract and earnest money receipt?
+  A*: DROA
+  B : TCT
+  C : CC&R
+  D : CPR
+MARKED ANSWER: A
+RATIONALE: The Deposit Receipt Offer and Acceptance (DROA) is Hawaii's standard form that combines the purchase offer, earnest money receipt, and acceptance in a single document for residential transactions.
+
+[hi-contracts-addenda-q00.v3] (State · hi-contracts-addenda)
+Q: A listing agent in Hawaii receives an offer from a buyer's agent for a single-family home. The offer should be submitted using:
+  A : Covenants and Conditions Record
+  B : Title Commitment Template
+  C*: Deposit Receipt Offer and Acceptance
+  D : Certificate Property Record
+MARKED ANSWER: C
+RATIONALE: The DROA is Hawaii's required standard form for residential purchase contracts, providing a uniform format for offers, earnest money deposits, and acceptance in the island marketplace.
+
+[hi-contracts-addenda-q00.v4] (State · hi-contracts-addenda)
+Q: In Hawaii residential transactions, the binding contract that includes the buyer's earnest money deposit is formally called:
+  A : TCT agreement
+  B : CC&R documentation
+  C*: DROA document
+  D : CPR document
+MARKED ANSWER: C
+RATIONALE: The Deposit Receipt Offer and Acceptance (DROA) legally documents the offer to purchase, holds the earnest money deposit, and becomes the binding contract upon acceptance in Hawaii residential sales.
+
+[hi-contracts-addenda-q00.v5] (State · hi-contracts-addenda)
+Q: When a real estate licensee in Hawaii presents a buyer's offer to purchase residential property, which document form is typically used?
+  A : Comprehensive Property Report
+  B : Title Commitment and Transfer
+  C : Condominium Declaration and Rules
+  D*: Deposit Receipt Offer and Acceptance
+MARKED ANSWER: D
+RATIONALE: The DROA is the standard form used in Hawaii for residential purchase transactions to document the buyer's offer and the seller's acceptance.
+
+[hi-contracts-addenda-q00.v6] (State · hi-contracts-addenda)
+Q: Which of the following is the recognized standard contract document for residential real estate transactions in the State of Hawaii?
+  A*: Deposit Receipt Offer and Acceptance
+  B : Title Commitment and Transfer
+  C : Covenants, Conditions & Restrictions Statement
+  D : Property Condition Report
+MARKED ANSWER: A
+RATIONALE: The DROA (Deposit Receipt Offer and Acceptance) is Hawaii's standard residential purchase contract form recognized by the real estate commission.
+
+[hi-contracts-addenda-q00.v7] (State · hi-contracts-addenda)
+Q: A seller in Hawaii receives a written offer to purchase their residential home. The document containing this offer and acceptance is most likely to be:
+  A : A Title Commitment Letter
+  B : A Property Condition Disclosure
+  C*: A Deposit Receipt Offer and Acceptance
+  D : A Covenant and Restriction Document
+MARKED ANSWER: C
+RATIONALE: The DROA is the standard Hawaii residential purchase contract form where buyer offers and seller acceptance are documented and executed.
+
+[hi-contracts-addenda-q00.v8] (State · hi-contracts-addenda)
+Q: In Hawaii real estate practice, what is the proper name of the standard form contract used to bind a buyer and seller to a residential property purchase?
+  A : Countersigned Property Agreement
+  B : Residential Purchase and Finance Agreement
+  C*: Deposit Receipt Offer and Acceptance
+  D : Real Estate Sales Contract Addendum
+MARKED ANSWER: C
+RATIONALE: The DROA is Hawaii's standard residential purchase contract that formalizes the offer from the buyer and acceptance by the seller.
+
+[hi-contracts-addenda-q00.v9] (State · hi-contracts-addenda)
+Q: When a buyer in Hawaii makes an offer to purchase residential real estate, the document used to record the offer, earnest money deposit, and seller's acceptance is called:
+  A*: DROA
+  B : TCT
+  C : CPR
+  D : CC&R
+MARKED ANSWER: A
+RATIONALE: The Deposit Receipt Offer and Acceptance (DROA) is Hawaii's standard form for residential purchase contracts, combining the earnest money receipt, buyer's offer, and space for seller acceptance in one document.
+
+[hi-contracts-addenda-q01] (State · hi-contracts-addenda)
+Q: For a 1965-built house, a buyer must receive:
+  A*: Lead-paint addendum + EPA pamphlet
+  B : Conservation easement disclosure
+  C : CPR declaration
+  D : Time share rescission notice
+MARKED ANSWER: A
+RATIONALE: Pre-1978 housing requires lead-paint disclosure.
+
+[hi-contracts-addenda-q01.v1] (State · hi-contracts-addenda)
+Q: A seller of a home constructed in 1972 is legally required to provide the buyer with:
+  A : Homeowners association transfer fee notice
+  B : Mold inspection certification
+  C*: Lead-based paint disclosure and federal EPA information pamphlet
+  D : Radon mitigation system documentation
+MARKED ANSWER: C
+RATIONALE: All pre-1978 residential properties must include lead-paint disclosure and the EPA pamphlet 'Protect Your Family from Lead in Your Home' before transfer of title.
+
+[hi-contracts-addenda-q01.v2] (State · hi-contracts-addenda)
+Q: When purchasing a single-family residence built in 1973, what federally-mandated disclosure must accompany the sales contract?
+  A : Flood zone certification letter
+  B : Historic property registry documentation
+  C*: Lead-paint addendum with EPA consumer guidance pamphlet
+  D : Property condition warranty agreement
+MARKED ANSWER: C
+RATIONALE: Federal law requires disclosure of lead-based paint hazards for any residential property built before 1978, including the required EPA informational pamphlet.
+
+[hi-contracts-addenda-q01.v3] (State · hi-contracts-addenda)
+Q: A real estate licensee representing a buyer in the purchase of a 1968-built condominium must ensure the buyer receives:
+  A : HOA reserve study and financial statements
+  B : Energy efficiency audit report
+  C : Title insurance commitment and preliminary report
+  D*: Lead-based paint hazard disclosure and EPA pamphlet
+MARKED ANSWER: D
+RATIONALE: Properties constructed prior to 1978 require mandatory lead-paint disclosure documentation and the EPA's federally-approved educational pamphlet under the Residential Lead-Based Paint Hazard Disclosure Rule.
+
+[hi-contracts-addenda-q01.v4] (State · hi-contracts-addenda)
+Q: Before closing on a home originally built in 1966, federal regulations mandate that the buyer be provided with:
+  A : Asbestos survey and remediation plan
+  B*: Lead-paint disclosure form and EPA educational brochure
+  C : Pest control treatment guarantee
+  D : Underground storage tank removal certification
+MARKED ANSWER: B
+RATIONALE: Pre-1978 residential properties fall under federal lead-paint disclosure requirements, which mandate both a disclosure addendum and the official EPA pamphlet be given to the buyer.
+
+[hi-contracts-addenda-q01.v5] (State · hi-contracts-addenda)
+Q: A property built in 1972 is being sold to a family with young children. Which disclosure document is legally required before closing?
+  A : Homeowners association architectural guidelines
+  B : CPR certification declaration
+  C*: Lead-based paint disclosure and federal EPA information pamphlet
+  D : Mold remediation certificate
+MARKED ANSWER: C
+RATIONALE: Federal law requires lead-paint disclosure and EPA pamphlet for all homes built before 1978, regardless of buyer age or family composition.
+
+[hi-contracts-addenda-q01.v6] (State · hi-contracts-addenda)
+Q: An agent lists a home constructed in 1963. Prior to marketing, the seller must acknowledge receipt of:
+  A : Solar easement waiver
+  B*: Lead-paint disclosure form and EPA-approved educational materials
+  C : Flood zone notification letter
+  D : Timeshare exit counseling notice
+MARKED ANSWER: B
+RATIONALE: All pre-1978 residential properties require federal lead-paint disclosure and EPA consumer information pamphlet before sale or listing.
+
+[hi-contracts-addenda-q01.v7] (State · hi-contracts-addenda)
+Q: When representing a buyer on a 1975 home purchase, which federally mandated document must be provided during the transaction?
+  A*: EPA lead-based paint pamphlet with disclosure addendum
+  B : Private mortgage insurance disclosure
+  C : Radon testing report
+  D : Homeowners insurance binder
+MARKED ANSWER: A
+RATIONALE: Pre-1978 housing sales federally require lead-paint disclosure and EPA pamphlet; this applies to all transactions regardless of condition.
+
+[hi-contracts-addenda-q01.v8] (State · hi-contracts-addenda)
+Q: A seller has owned a 1969-built single-family home for 15 years and is now selling. Which disclosure is non-waivable?
+  A : Neighborhood crime statistics form
+  B : Homeowner association master deed
+  C : Energy efficiency audit report
+  D*: Lead-paint addendum and EPA informational pamphlet
+MARKED ANSWER: D
+RATIONALE: Lead-paint disclosure and EPA pamphlet are federal requirements for pre-1978 homes and cannot be waived by buyer or seller agreement.
+
+[hi-contracts-addenda-q01.v9] (State · hi-contracts-addenda)
+Q: A property constructed in 1972 is being sold to a new owner. Which disclosure document is federally mandated before the buyer commits to the purchase?
+  A : Homeowners association financial statement
+  B : Mold inspection certification
+  C*: Lead-based paint disclosure and EPA educational pamphlet
+  D : Asbestos remediation report
+MARKED ANSWER: C
+RATIONALE: All pre-1978 residential properties must provide lead-based paint disclosure and the EPA pamphlet 'Protect Your Family from Lead in Your Home' before the buyer is obligated to purchase.
+
+[hi-contracts-addenda-q02] (State · hi-contracts-addenda)
+Q: Dual agency in Hawaii requires:
+  A : Broker's sole consent
+  B*: Written consent from both parties
+  C : Verbal consent only
+  D : No consent if commission is disclosed
+MARKED ANSWER: B
+RATIONALE: HRS 467 + best practice: written informed consent from both.
+
+[hi-contracts-addenda-q02.v1] (State · hi-contracts-addenda)
+Q: When a Hawaii real estate licensee represents both the buyer and seller in the same transaction, what documentation is legally required?
+  A : An oral agreement witnessed by the broker's manager
+  B : A letter from the Hawaii Real Estate Commission approving the arrangement
+  C : Only the standard purchase agreement without additional disclosures
+  D*: A signed disclosure and consent form from each party
+MARKED ANSWER: D
+RATIONALE: Hawaii real estate law mandates written informed consent from both parties when dual agency exists; oral consent alone is insufficient and creates legal liability.
+
+[hi-contracts-addenda-q02.v2] (State · hi-contracts-addenda)
+Q: A broker in Hawaii wants to represent both parties in a residential sale. Which of the following correctly describes the legal requirement?
+  A : Dual agency is permitted without consent if the transaction involves a standard commission split
+  B*: Both the buyer and seller must provide written informed consent before proceeding
+  C : The broker may proceed if the seller's listing agreement includes a dual agency clause
+  D : The broker needs only the listing broker's approval to represent both sides
+MARKED ANSWER: B
+RATIONALE: HRS 467-14 requires affirmative written informed consent from both parties; broker approval alone or contractual clauses do not satisfy this statutory mandate.
+
+[hi-contracts-addenda-q02.v3] (State · hi-contracts-addenda)
+Q: Under Hawaii real estate law, if a licensee intends to represent both the buyer and seller, what must occur before entering into dual agency?
+  A : Only the party paying the commission needs to consent in writing
+  B : The licensee must obtain the broker's written permission and file with the REC
+  C*: Each party must independently acknowledge the conflict and sign a dual-agency consent document
+  D : The licensee must disclose the situation verbally and receive confirmation via email
+MARKED ANSWER: C
+RATIONALE: Both parties must provide written, informed consent acknowledging the dual agency conflict; email confirmations and broker-only approval do not fulfill the statutory requirement.
+
+[hi-contracts-addenda-q02.v4] (State · hi-contracts-addenda)
+Q: A Hawaii real estate agent discovers mid-transaction that she can represent the buyer, even though she listed the property. What step must the agent take to legally proceed as a dual agent?
+  A : Disclose the dual agency only if asked directly by either party
+  B*: Secure written consent from both the buyer and seller disclosing the dual agency relationship
+  C : Request a waiver from the Hawaii Real Estate Commission before taking on the buyer's representation
+  D : Immediately notify the broker and proceed while documentation is being prepared
+MARKED ANSWER: B
+RATIONALE: Written informed consent from both parties is a prerequisite to dual agency; proceeding without documented consent violates Hawaii's fiduciary standards.
+
+[hi-contracts-addenda-q02.v5] (State · hi-contracts-addenda)
+Q: Under Hawaii real estate law, when a broker intends to represent both the buyer and seller in the same transaction, what documentation is legally required?
+  A : Oral acknowledgment recorded at the closing table
+  B : Commission disclosure to the MLS satisfies the requirement
+  C*: Written consent executed by both the buyer and the seller
+  D : A signed dual agency acknowledgment form from the broker alone
+MARKED ANSWER: C
+RATIONALE: HRS 467-14 mandates written informed consent from all parties to a dual agency arrangement; oral consent or broker-only acknowledgment is insufficient.
+
+[hi-contracts-addenda-q02.v6] (State · hi-contracts-addenda)
+Q: A Hawaii real estate licensee discovers mid-transaction that she will be representing both parties. To comply with state law, she must immediately obtain:
+  A : A waiver of liability from the MLS
+  B : Management approval from the broker's compliance department
+  C : The seller's verbal approval only
+  D*: A written disclosure of dual agency signed by both the buyer and seller
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires written informed consent from both parties before a licensee can lawfully act as a dual agent; verbal approval does not satisfy legal requirements.
+
+[hi-contracts-addenda-q02.v7] (State · hi-contracts-addenda)
+Q: Which of the following best describes the consent requirement for dual agency representation in Hawaii?
+  A : The listing agent's verbal agreement is sufficient if the transaction is expedited
+  B : The broker may proceed with dual agency if the sales commission is fully transparent
+  C : Dual agency requires only a broker's internal memorandum filed with the Hawaii REC
+  D*: Both the buyer and seller must provide written, informed consent before the dual agency relationship begins
+MARKED ANSWER: D
+RATIONALE: Hawaii statute requires written consent from all parties involved in a dual agency; transparency of commission alone or broker documentation does not fulfill this mandate.
+
+[hi-contracts-addenda-q02.v8] (State · hi-contracts-addenda)
+Q: A broker in Hawaii proposes to represent both sides of a residential sale. To ensure legal compliance, the broker must secure:
+  A : A notarized statement that the broker is acting impartially
+  B*: Separate written consent from each party disclosing the dual agency arrangement
+  C : Oral assent from both parties, followed by email confirmation
+  D : A single written consent document signed by the seller and initialed by the buyer
+MARKED ANSWER: B
+RATIONALE: HRS 467 requires written informed consent from each party acknowledging the dual agency before representation begins; email confirmation or notarized impartiality statements do not satisfy this requirement.
+
+[hi-contracts-addenda-q02.v9] (State · hi-contracts-addenda)
+Q: When a Hawaii real estate licensee represents both the buyer and seller in the same transaction, what documentation must be obtained?
+  A : Oral acknowledgment from the broker that the transaction is authorized
+  B : Email confirmation from either party indicating awareness of the dual representation
+  C : A single signed disclosure form submitted only to the Hawaii Real Estate Commission
+  D*: Documented written consent signed by both the buyer and the seller
+MARKED ANSWER: D
+RATIONALE: Hawaii law (HRS 467) and Hawaii REC rules mandate written informed consent from both parties before a licensee may act as a dual agent; oral or email-only agreements do not satisfy this requirement.
+
+[hi-contracts-addenda-q03] (State · hi-contracts-addenda)
+Q: The Mandatory Agency Disclosure form must be delivered:
+  A*: Before substantive interaction with consumer
+  B : After offer signed
+  C : Only if asked
+  D : At closing
+MARKED ANSWER: A
+RATIONALE: Before any substantive interaction — showings or negotiation.
+
+[hi-contracts-addenda-q03.v1] (State · hi-contracts-addenda)
+Q: When must a licensee first provide the Mandatory Agency Disclosure form to a prospective buyer or seller?
+  A : Upon request by the consumer
+  B : During the escrow closing process
+  C : Once a written offer has been prepared
+  D*: Prior to any meaningful discussions about properties or terms
+MARKED ANSWER: D
+RATIONALE: The form must be delivered before substantive interaction begins, including property discussions and negotiations, not after offers or upon request.
+
+[hi-contracts-addenda-q03.v2] (State · hi-contracts-addenda)
+Q: A licensee shows a property to a potential buyer and discusses financing options. At what point should the Mandatory Agency Disclosure have been delivered?
+  A : Within 24 hours after the showing
+  B : When the purchase agreement is executed
+  C : Only if the buyer requests agency clarification
+  D*: Before the showing and discussion occurred
+MARKED ANSWER: D
+RATIONALE: The disclosure must be provided before any substantive interaction, which includes property showings and discussions about terms or financing.
+
+[hi-contracts-addenda-q03.v3] (State · hi-contracts-addenda)
+Q: Which timing requirement applies to delivery of the Mandatory Agency Disclosure form in Hawaii real estate transactions?
+  A : It may be given at any point before closing
+  B : It satisfies compliance if provided verbally before contract signing
+  C : It is required only after a seller accepts an offer
+  D*: It must precede all substantive negotiations and property showings
+MARKED ANSWER: D
+RATIONALE: The form must be delivered before substantive interaction—including showings, negotiations, and any meaningful consumer engagement—to comply with disclosure requirements.
+
+[hi-contracts-addenda-q03.v4] (State · hi-contracts-addenda)
+Q: A licensee begins discussing comparable market values and property features with a consumer. What should have already occurred?
+  A*: The Mandatory Agency Disclosure form should have been delivered
+  B : The title commitment should have been reviewed
+  C : The appraisal contingency should have been waived
+  D : The consumer should have signed the purchase agreement
+MARKED ANSWER: A
+RATIONALE: Before any substantive interaction such as discussing market values, property features, or negotiation terms, the Mandatory Agency Disclosure must be provided to the consumer.
+
+[hi-contracts-addenda-q03.v5] (State · hi-contracts-addenda)
+Q: When must a real estate licensee present the Mandatory Agency Disclosure form to a prospective buyer or seller?
+  A : During the final walk-through inspection
+  B : Upon receipt of a fully executed purchase contract
+  C*: Prior to any meaningful business discussion or property showing
+  D : Only when the consumer requests clarification about agency
+MARKED ANSWER: C
+RATIONALE: The disclosure must be provided before substantive interaction begins, including before showing properties or discussing representation.
+
+[hi-contracts-addenda-q03.v6] (State · hi-contracts-addenda)
+Q: A licensee is meeting with a potential client for the first time. At what point is the Mandatory Agency Disclosure form legally required to be given?
+  A*: Before any substantive discussion or property tour takes place
+  B : Only if the consumer indicates interest in making an offer
+  C : At the time of contract execution
+  D : Within 24 hours after the initial meeting
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires delivery before substantive interaction, which means before showings, negotiations, or detailed business discussions commence.
+
+[hi-contracts-addenda-q03.v7] (State · hi-contracts-addenda)
+Q: Which statement best describes when the Mandatory Agency Disclosure must be delivered under Hawaii real estate law?
+  A : When requested by the consumer during the transaction process
+  B : At the time of closing, along with other final documents
+  C*: Before any substantive interaction, including property showings or representation discussions
+  D : After a written offer has been accepted by the seller
+MARKED ANSWER: C
+RATIONALE: The disclosure requirement is triggered before substantive interaction—showings and negotiations qualify as substantive interaction requiring prior disclosure.
+
+[hi-contracts-addenda-q03.v8] (State · hi-contracts-addenda)
+Q: A consumer calls a licensee to schedule a showing of a residential property. The licensee must deliver the Mandatory Agency Disclosure form:
+  A : After the consumer decides to make an offer on a property
+  B*: Before beginning to discuss representation or show properties
+  C : Only if the consumer asks what agency relationship will be provided
+  D : At the property before entering to view the inside
+MARKED ANSWER: B
+RATIONALE: The timing requirement is before any substantive interaction occurs, which includes scheduling and conducting property showings or discussing agency matters.
+
+[hi-contracts-addenda-q03.v9] (State · hi-contracts-addenda)
+Q: When must a licensee provide the Mandatory Agency Disclosure to a prospective buyer or seller?
+  A : During the closing meeting
+  B*: Prior to any meaningful discussion about property or representation
+  C : At the consumer's request only
+  D : Once a purchase agreement has been executed
+MARKED ANSWER: B
+RATIONALE: Hawaii real estate law requires the Mandatory Agency Disclosure be given before substantive interaction, which includes property showings, price discussions, or representation negotiations.
+
+[hi-contracts-addenda-q04] (State · hi-contracts-addenda)
+Q: A counter-offer at the negotiating table:
+  A : Voids the listing
+  B : Locks in original price
+  C : Must be rejected
+  D*: Cancels the original offer and replaces it
+MARKED ANSWER: D
+RATIONALE: Counter cancels prior; new live offer.
+
+[hi-contracts-addenda-q04.v1] (State · hi-contracts-addenda)
+Q: When a seller presents a counter-offer to a buyer's original offer, what is the legal effect on the initial offer?
+  A : Both offers exist simultaneously and the buyer may accept either one
+  B : The original offer is suspended but can be revived if the counter is rejected
+  C : The original offer remains active until the counter-offer is signed
+  D*: The original offer is terminated and superseded by the counter-offer
+MARKED ANSWER: D
+RATIONALE: A counter-offer extinguishes the original offer by operation of law; only the counter now exists as the live offer for acceptance.
+
+[hi-contracts-addenda-q04.v2] (State · hi-contracts-addenda)
+Q: Under Hawaii real estate law, if a seller responds to a purchase offer with modified terms, which statement best describes the status of the original offer?
+  A : It becomes a binding preliminary agreement
+  B : It is held in escrow pending final acceptance
+  C : It remains binding on both parties unless explicitly waived
+  D*: It is withdrawn and replaced by the new counter-proposal
+MARKED ANSWER: D
+RATIONALE: The counter-offer legally cancels and replaces the original offer; the buyer and seller are no longer bound by the initial terms.
+
+[hi-contracts-addenda-q04.v3] (State · hi-contracts-addenda)
+Q: A buyer submits an offer to purchase a property at $500,000. The seller responds with a counter-offer at $525,000 with different financing terms. What happens to the buyer's original $500,000 offer?
+  A*: It is eliminated by the counter-offer and no longer exists as a live offer
+  B : It is preserved as an alternative the buyer may later elect
+  C : It requires mutual written consent to be withdrawn
+  D : It continues in force until the counter-offer is fully negotiated
+MARKED ANSWER: A
+RATIONALE: Once the seller counters with different terms, the original offer is dead; only the counter-offer remains for the buyer to accept or reject.
+
+[hi-contracts-addenda-q04.v4] (State · hi-contracts-addenda)
+Q: During offer negotiations, a seller presents a counter-offer with adjusted price and closing date. From a contract law perspective, this counter-offer:
+  A*: Constitutes a rejection of the buyer's offer and creates a new offer from the seller
+  B : Requires the buyer's broker to approve before it becomes effective
+  C : Accepts the buyer's offer in substance but modifies non-material terms
+  D : Suspends the buyer's offer while the parties continue informal negotiations
+MARKED ANSWER: A
+RATIONALE: A counter-offer is both a rejection of the original offer and a new offer made by the counter-offering party; the original offer is no longer available for acceptance.
+
+[hi-contracts-addenda-q04.v5] (State · hi-contracts-addenda)
+Q: When a seller presents a counter-offer to a buyer's initial proposal, what is the legal effect on the original offer?
+  A : The original offer is suspended but can be revived if the counter is rejected
+  B*: The original offer is terminated and superseded by the counter-offer
+  C : Both offers exist simultaneously and the buyer must choose one
+  D : The original offer remains active until the counter-offer is signed
+MARKED ANSWER: B
+RATIONALE: A counter-offer extinguishes the original offer by operation of law; only the counter becomes the active, live offer on the table.
+
+[hi-contracts-addenda-q04.v6] (State · hi-contracts-addenda)
+Q: During contract negotiations, the buyer's agent submits a revised offer with different terms than the seller's initial proposal. This revised offer:
+  A*: Constitutes a rejection of the original offer and creates a new offer
+  B : Maintains both the original and new terms in a combined contract
+  C : Modifies the original terms while keeping the offer alive
+  D : Requires written approval from the listing agent before it terminates the original
+MARKED ANSWER: A
+RATIONALE: A counteroffer is a rejection of the original offer and the presentation of new terms; the original offer ceases to exist once the counter is communicated.
+
+[hi-contracts-addenda-q04.v7] (State · hi-contracts-addenda)
+Q: In Hawaii real estate negotiations, when a seller responds to a purchase offer with modified terms, the original offer's status becomes:
+  A*: Dead—it no longer exists and is replaced by the counter-offer
+  B : Held in escrow until both parties agree on final terms
+  C : Binding on the buyer unless they formally withdraw within 24 hours
+  D : Accepted conditionally pending the buyer's review
+MARKED ANSWER: A
+RATIONALE: Counter-offers automatically terminate the prior offer; the prior offer cannot be accepted once a counter has been made because it no longer exists as a live option.
+
+[hi-contracts-addenda-q04.v8] (State · hi-contracts-addenda)
+Q: A seller receives an offer from a buyer and provides a written response with revised price and closing terms. Regarding the buyer's initial offer, it is now:
+  A : Valid and may be accepted by the seller at any time during the transaction
+  B : Enforceable as a backup in case the counter-offer fails
+  C*: Extinguished and replaced by the seller's counter-proposal
+  D : Temporarily suspended while the counter-offer is negotiated
+MARKED ANSWER: C
+RATIONALE: The counter-offer legally destroys the original offer; once made, the original cannot be revived or accepted because it no longer exists as a valid offer.
+
+[hi-contracts-addenda-q04.v9] (State · hi-contracts-addenda)
+Q: When a seller presents a counter-offer to a buyer's original proposal, what is the legal effect on the buyer's initial offer?
+  A*: It is terminated and superseded by the counter-offer as the new negotiating position
+  B : It remains active and binding until the seller formally withdraws it in writing
+  C : It becomes part of a binding contract once acknowledged by either party
+  D : It is suspended but can be revived if the counter-offer is rejected within 24 hours
+MARKED ANSWER: A
+RATIONALE: A counter-offer operates as a rejection of the original offer and creates a new offer from the seller; the original buyer offer no longer exists as a live proposition.
+
+[hi-contracts-addenda-q05] (State · hi-contracts-addenda)
+Q: New condominium sales typically require which special disclosure to the buyer?
+  A : HARPTA waiver
+  B : CC&R abstract
+  C*: Condominium Public Report
+  D : TCT abstract
+MARKED ANSWER: C
+RATIONALE: Developer must provide Public Report on new condo sales.
+
+[hi-contracts-addenda-q05.v1] (State · hi-contracts-addenda)
+Q: When a developer offers a newly constructed condominium for sale in Hawaii, what document must be provided to prospective purchasers before they commit to buy?
+  A : Homeowners association bylaws
+  B : Subdivision approval certificate
+  C*: Condominium Public Report
+  D : Property condition disclosure form
+MARKED ANSWER: C
+RATIONALE: The Condominium Public Report is a mandatory disclosure document required by Hawaii law for all new condominium sales by the developer.
+
+[hi-contracts-addenda-q05.v2] (State · hi-contracts-addenda)
+Q: A buyer is considering purchasing a brand-new condo unit directly from the developer. Which of the following is the primary state-required disclosure document she should expect to receive?
+  A*: Condominium Public Report
+  B : Estoppel certificate
+  C : HARPTA Declaration form
+  D : Mechanics' lien waiver
+MARKED ANSWER: A
+RATIONALE: Hawaii law mandates that developers provide a Condominium Public Report to all buyers of new condominium units to inform them of project details and financial information.
+
+[hi-contracts-addenda-q05.v3] (State · hi-contracts-addenda)
+Q: Which disclosure document is specifically required in Hawaii when a developer sells a newly developed condominium property?
+  A*: Condominium Public Report
+  B : Planned community disclosure statement
+  C : Title insurance commitment
+  D : Flood zone determination letter
+MARKED ANSWER: A
+RATIONALE: The Condominium Public Report is the specific Hawaii disclosure required for new condo sales and must be provided by the developer to comply with state regulations.
+
+[hi-contracts-addenda-q05.v4] (State · hi-contracts-addenda)
+Q: In Hawaii, if you are purchasing a new condominium unit from a developer, what is the standard disclosure document you are entitled to receive that addresses the condominium project details?
+  A : Private lender approval letter
+  B*: Condominium Public Report
+  C : Environmental impact assessment
+  D : CC&R enforcement agreement
+MARKED ANSWER: B
+RATIONALE: The Condominium Public Report is the required disclosure document for new condo sales in Hawaii that details the condominium project and its legal/financial structure.
+
+[hi-contracts-addenda-q05.v5] (State · hi-contracts-addenda)
+Q: When a developer offers a newly constructed condominium unit for sale in Hawaii, what document must be delivered to prospective purchasers?
+  A : Property condition disclosure form
+  B : Builder's warranty certificate
+  C*: Condominium Public Report
+  D : Subdivision Map approval
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires developers to furnish the Condominium Public Report to all buyers of new condo units before purchase.
+
+[hi-contracts-addenda-q05.v6] (State · hi-contracts-addenda)
+Q: A buyer is interested in purchasing a brand-new condominium unit from the developer. Which of the following disclosures is specifically mandated by the Hawaii Real Estate Commission for this transaction?
+  A : Historic property certification
+  B : Homeowners' association fee estimate
+  C : Seller's statutory disclosure notice
+  D*: Condominium Public Report
+MARKED ANSWER: D
+RATIONALE: The Condominium Public Report is a required disclosure document issued by the developer for new condominium sales in Hawaii.
+
+[hi-contracts-addenda-q05.v7] (State · hi-contracts-addenda)
+Q: Prior to closing on a newly developed condominium project, the developer must provide the buyer with which mandatory disclosure?
+  A : Environmental site assessment
+  B : Mortgage pre-approval letter
+  C*: Condominium Public Report
+  D : Title insurance commitment
+MARKED ANSWER: C
+RATIONALE: New condo sales in Hawaii require the developer to deliver the Condominium Public Report to inform buyers of the project's status and terms.
+
+[hi-contracts-addenda-q05.v8] (State · hi-contracts-addenda)
+Q: Which document is legally required to accompany the sale of a newly constructed condominium unit in Hawaii?
+  A*: Condominium Public Report
+  B : Flood zone determination letter
+  C : Community association bylaws only
+  D : Homeowners' insurance policy
+MARKED ANSWER: A
+RATIONALE: Developers must provide buyers with the Condominium Public Report for all new condo unit sales as a mandatory disclosure requirement.
+
+[hi-contracts-addenda-q05.v9] (State · hi-contracts-addenda)
+Q: When a developer sells a newly constructed condominium unit in Hawaii, which document must be provided to inform the buyer about the project's registration status and key details?
+  A : Property Tax Assessment Notice
+  B : Title Insurance Commitment
+  C : Estoppel Certificate from the HOA
+  D*: Condominium Public Report
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires developers to furnish the Condominium Public Report to prospective purchasers of new condominiums to disclose essential project information and regulatory status.
+
+[hi-contracts-addenda-q06] (State · hi-contracts-addenda)
+Q: Hawaii's Distressed Property Conveyance protections are at:
+  A : HRS 521
+  B*: HRS 480E
+  C : HRS 508D
+  D : HRS 467
+MARKED ANSWER: B
+RATIONALE: HRS 480E covers distressed property conveyance.
+
+[hi-contracts-addenda-q06.v1] (State · hi-contracts-addenda)
+Q: Under Hawaii real estate law, which statute specifically addresses the protection of homeowners in distressed property transactions?
+  A : HRS 521 (Residential Tenancies)
+  B : HRS 467 (Hawaii Real Estate Commission)
+  C*: HRS 480E (Distressed Property Conveyance)
+  D : HRS 508D (Condominium Property Regimes)
+MARKED ANSWER: C
+RATIONALE: HRS 480E is the Hawaii statute that governs distressed property conveyance protections and sets standards for transactions involving financially distressed properties.
+
+[hi-contracts-addenda-q06.v2] (State · hi-contracts-addenda)
+Q: A Hawaii broker needs to identify which statute governs anti-fraud protections for distressed property conveyances. Where should they look?
+  A : HRS 508D
+  B : HRS 521
+  C : HRS 467
+  D*: HRS 480E
+MARKED ANSWER: D
+RATIONALE: HRS 480E contains Hawaii's distressed property conveyance protections, including requirements for notice, waiting periods, and anti-predatory lending safeguards.
+
+[hi-contracts-addenda-q06.v3] (State · hi-contracts-addenda)
+Q: Which of the following Hawaii Revised Statutes provides the legal framework for regulating transactions involving properties where owners face financial hardship?
+  A : HRS 521 (landlord-tenant relations)
+  B*: HRS 480E (distressed property conveyance)
+  C : HRS 508D (condominium governance)
+  D : HRS 467 (licensing and conduct)
+MARKED ANSWER: B
+RATIONALE: HRS 480E specifically addresses distressed property conveyance and protects property owners experiencing financial distress from predatory transactions.
+
+[hi-contracts-addenda-q06.v4] (State · hi-contracts-addenda)
+Q: A homeowner facing foreclosure in Hawaii wants to know which statute protects them during a distressed property sale. The correct statutory reference is:
+  A*: HRS 480E
+  B : HRS 521
+  C : HRS 467
+  D : HRS 508D
+MARKED ANSWER: A
+RATIONALE: HRS 480E is the statute that provides distressed property conveyance protections, establishing buyer obligations and seller safeguards in financially distressed transactions.
+
+[hi-contracts-addenda-q06.v5] (State · hi-contracts-addenda)
+Q: Under Hawaii law, regulations governing the sale of distressed properties are primarily found in which statute?
+  A : HRS 521 (Condominium Property Regimes)
+  B : HRS 467 (Real Estate Commission)
+  C*: HRS 480E (Unfair or Deceptive Acts in Trade or Commerce)
+  D : HRS 508D (Mortgage Servicer Conduct)
+MARKED ANSWER: C
+RATIONALE: HRS 480E contains Hawaii's distressed property conveyance protections and unfair/deceptive trade practice provisions.
+
+[hi-contracts-addenda-q06.v6] (State · hi-contracts-addenda)
+Q: A real estate licensee in Hawaii must be familiar with distressed property conveyance rules. These statutory protections are codified in:
+  A*: Chapter 480E of the Hawaii Revised Statutes
+  B : Chapter 521 of the Hawaii Revised Statutes
+  C : Chapter 508D of the Hawaii Revised Statutes
+  D : Chapter 467 of the Hawaii Revised Statutes
+MARKED ANSWER: A
+RATIONALE: HRS 480E establishes the legal framework for distressed property conveyance protections in Hawaii.
+
+[hi-contracts-addenda-q06.v7] (State · hi-contracts-addenda)
+Q: Which of the following Hawaii Revised Statutes sections addresses protections for homeowners in distressed property situations?
+  A : HRS 521
+  B*: HRS 480E
+  C : HRS 467
+  D : HRS 508D
+MARKED ANSWER: B
+RATIONALE: HRS 480E is the Hawaii statute that specifically covers distressed property conveyance protections and related consumer safeguards.
+
+[hi-contracts-addenda-q06.v8] (State · hi-contracts-addenda)
+Q: When counseling a client about distressed property transactions in Hawaii, you should reference the statutory requirements found in:
+  A : HRS 508D (Mortgage Servicer Regulations)
+  B : HRS 521 (Condominium Regimes)
+  C : HRS 467 (Hawaii Real Estate Commission Authority)
+  D*: HRS 480E (Consumer Protection Laws)
+MARKED ANSWER: D
+RATIONALE: HRS 480E contains the distressed property conveyance protections that licensees must follow in Hawaii.
+
+[hi-contracts-addenda-q06.v9] (State · hi-contracts-addenda)
+Q: Under Hawaii law, which statute specifically governs the sale of distressed properties and establishes protections for vulnerable sellers?
+  A : HRS 521 (Residential Tenancies)
+  B : HRS 467 (Real Estate Commission)
+  C*: HRS 480E (Unfair and Deceptive Practices)
+  D : HRS 508D (Mortgage Foreclosure)
+MARKED ANSWER: C
+RATIONALE: HRS 480E contains Hawaii's distressed property conveyance protections, which regulate transactions involving properties in financial distress and establish buyer disclosure requirements.
+
+[hi-financing-q00] (State · hi-financing)
+Q: In an Agreement of Sale, legal title:
+  A : Passes to escrow
+  B : Passes to buyer immediately
+  C : Passes to lender
+  D*: Stays with seller until paid in full
+MARKED ANSWER: D
+RATIONALE: AOS = installment land contract; title held by seller pending full payment.
+
+[hi-financing-q00.v1] (State · hi-financing)
+Q: Under a land contract (Agreement of Sale), when does the seller relinquish legal title to the buyer?
+  A : Upon recording the contract with the Bureau of Conveyances
+  B : Upon execution of the contract
+  C : When the buyer makes the first down payment
+  D*: Only after the buyer has paid the full purchase price
+MARKED ANSWER: D
+RATIONALE: In a land contract, the seller retains legal title as security until the buyer completes all payments; title transfers only upon full satisfaction of the agreement.
+
+[hi-financing-q00.v2] (State · hi-financing)
+Q: Which statement correctly describes title ownership during an installment land contract transaction?
+  A : The buyer receives equitable title and the lender holds legal title
+  B : Title is split equally between buyer and seller until closing
+  C*: The seller maintains legal title until the entire purchase price is paid
+  D : Escrow holds legal title on behalf of both parties
+MARKED ANSWER: C
+RATIONALE: In an installment land contract, the seller holds legal title as collateral; the buyer obtains equitable title and legal title transfers only upon final payment.
+
+[hi-financing-q00.v3] (State · hi-financing)
+Q: In Hawaii, when a buyer and seller enter into an Agreement of Sale (land contract), what is the status of legal title?
+  A*: Seller retains legal title until the purchase obligation is fully satisfied
+  B : Title is transferred to a trustee to hold in escrow
+  C : Buyer obtains legal title subject to a mortgage lien
+  D : Legal title vests jointly with the buyer and seller as tenants in common
+MARKED ANSWER: A
+RATIONALE: The Agreement of Sale is an installment contract where the seller retains legal title as security interest until the buyer completes all required payments.
+
+[hi-financing-q00.v4] (State · hi-financing)
+Q: A buyer enters into an Agreement of Sale with a seller to purchase land on installment. At the time of signing the contract, legal title belongs to:
+  A : The buyer, subject to a seller's lien
+  B*: The seller, contingent on receipt of full payment
+  C : Both parties equally as co-owners
+  D : The title company holding it in trust
+MARKED ANSWER: B
+RATIONALE: Under an Agreement of Sale, the seller retains legal title throughout the installment payment period as security; title transfers to the buyer only after full payment is made.
+
+[hi-financing-q00.v5] (State · hi-financing)
+Q: Under a Hawaii Agreement of Sale (land contract), who retains ownership of the property during the payment period?
+  A*: The seller maintains legal title until final payment is made
+  B : The buyer receives equitable title only, not legal title
+  C : The title company holds the deed in trust
+  D : The buyer holds legal title subject to a mortgage
+MARKED ANSWER: A
+RATIONALE: In an Agreement of Sale, the seller retains legal title as security until the buyer completes all payments; the buyer has equitable title and possession rights.
+
+[hi-financing-q00.v6] (State · hi-financing)
+Q: Which statement correctly describes title ownership in an installment land contract?
+  A : Both buyer and seller hold joint legal title during the contract period
+  B*: Legal title remains with the seller until all payments are received
+  C : Title transfers to the buyer upon signing the contract
+  D : The buyer receives full legal title when the first payment is made
+MARKED ANSWER: B
+RATIONALE: An installment land contract (Agreement of Sale) is structured so the seller keeps legal title as security and only transfers it upon final payment by the buyer.
+
+[hi-financing-q00.v7] (State · hi-financing)
+Q: A buyer enters into an Agreement of Sale to purchase raw land in Hawaii. Before the buyer makes the final payment, legal title is held by:
+  A : A neutral third-party escrow agent on behalf of the buyer
+  B : The buyer, who has both legal and equitable title
+  C : The primary lender as security for the purchase loan
+  D*: The seller, pending full satisfaction of the contract terms
+MARKED ANSWER: D
+RATIONALE: In an Agreement of Sale, the seller retains legal title until the buyer completes all contractual obligations and full payment is made.
+
+[hi-financing-q00.v8] (State · hi-financing)
+Q: Under a typical Agreement of Sale in Hawaii, what is the status of legal title while the buyer is making installment payments?
+  A : Title is held by the Hawaii Department of Land and Natural Resources
+  B*: Title remains vested in the seller as security for payment
+  C : Title transfers gradually to the buyer with each payment made
+  D : Title is held by the buyer with a lien in favor of the seller
+MARKED ANSWER: B
+RATIONALE: The seller retains legal title throughout the payment period as a security mechanism; title passes to the buyer only upon satisfaction of all contract obligations.
+
+[hi-financing-q00.v9] (State · hi-financing)
+Q: Under a Hawaii installment land contract, when does the seller's equitable interest in the property terminate?
+  A : When the buyer obtains financing from a lender
+  B : Upon execution of the contract by both parties
+  C : Immediately when the buyer takes possession of the property
+  D*: Only after the buyer completes all payments and the deed is delivered
+MARKED ANSWER: D
+RATIONALE: In an installment land contract (Agreement of Sale), the seller retains legal title as security until the buyer fulfills all payment obligations; title passes only upon final payment and delivery of the deed.
+
+[hi-financing-q01] (State · hi-financing)
+Q: A PMM is typically:
+  A : Identical to a HELOC
+  B : Required by FHA
+  C : Senior to institutional financing
+  D*: Junior to senior institutional liens
+MARKED ANSWER: D
+RATIONALE: PMMs typically sit junior to existing senior loans.
+
+[hi-financing-q01.v1] (State · hi-financing)
+Q: When a buyer obtains a PMM to bridge a down payment gap, what is its typical lien position relative to the primary mortgage?
+  A*: It ranks subordinate to the primary institutional mortgage
+  B : It functions as an unsecured personal loan with no lien
+  C : It must be paid off before the first mortgage can be recorded
+  D : It holds first lien position ahead of the institutional loan
+MARKED ANSWER: A
+RATIONALE: PMMs are structured as junior liens, sitting behind (subordinate to) the senior institutional first mortgage in lien priority.
+
+[hi-financing-q01.v2] (State · hi-financing)
+Q: A piggyback mortgage arrangement is BEST characterized as:
+  A : A form of equity line of credit required by Fannie Mae
+  B*: A subordinate lien that exists in second or lower lien position
+  C : An alternative to title insurance on investment properties
+  D : A bridge loan that eliminates the need for homeowner's insurance
+MARKED ANSWER: B
+RATIONALE: PMMs (piggyback mortgages) are characteristically junior liens positioned below senior institutional mortgages in the lien hierarchy.
+
+[hi-financing-q01.v3] (State · hi-financing)
+Q: From a lender's risk perspective, a PMM differs from a first mortgage primarily because the PMM holder:
+  A*: Assumes a riskier position due to subordination to the senior loan
+  B : Is not required to file a promissory note
+  C : Is guaranteed repayment by the state of Hawaii
+  D : Receives payment before the institutional lender in case of default
+MARKED ANSWER: A
+RATIONALE: Because PMMs are junior to institutional liens, the PMM lender bears greater default risk and recovery risk should the property be foreclosed.
+
+[hi-financing-q01.v4] (State · hi-financing)
+Q: If a property has an existing first mortgage and the buyer needs additional financing via a PMM, the PMM will likely be:
+  A : Exempt from recording requirements under Hawaii real property law
+  B : Recorded in first lien position with the original mortgage subordinated
+  C : Combined with the first mortgage into a single unified loan document
+  D*: Recorded as a second or lower lien subject to the existing senior mortgage
+MARKED ANSWER: D
+RATIONALE: PMMs are recorded as subordinate liens, meaning they are junior to and recorded after the senior institutional mortgage in the chain of title.
+
+[hi-financing-q01.v5] (State · hi-financing)
+Q: In a transaction with an existing first mortgage, where would a PMM typically be positioned in the lien hierarchy?
+  A : In place of the original mortgage as a replacement loan
+  B*: Behind the senior institutional mortgage
+  C : With equal priority to any VA or FHA loan
+  D : Ahead of all other encumbrances on the property
+MARKED ANSWER: B
+RATIONALE: PMMs are subordinate instruments that sit junior to existing first mortgages and other senior liens on the property.
+
+[hi-financing-q01.v6] (State · hi-financing)
+Q: When comparing a piggyback mortgage to a first mortgage, the piggyback loan is best characterized as:
+  A*: Subordinate to the primary institutional lender's security interest
+  B : A refinancing tool that replaces the original obligation
+  C : Exempt from the Hawaii Real Estate Commission's oversight
+  D : Holding primary lien position on the real property
+MARKED ANSWER: A
+RATIONALE: A piggyback mortgage (PMM) is subordinate by nature—it is inferior to the senior lien held by the institutional lender.
+
+[hi-financing-q01.v7] (State · hi-financing)
+Q: A buyer uses a piggyback mortgage strategy alongside a traditional bank loan. The PMM holder's claim on the property is:
+  A*: Secondary to the primary institutional lender
+  B : Mandated by state law for all residential purchases
+  C : Superior to all other secured lenders
+  D : Interchangeable with a home equity line of credit in function
+MARKED ANSWER: A
+RATIONALE: PMMs occupy a junior position relative to the primary mortgage lender, meaning the primary lender has first claim in case of default.
+
+[hi-financing-q01.v8] (State · hi-financing)
+Q: Which statement accurately describes the lien position of a piggyback mortgage in relation to a conventional first mortgage?
+  A : The PMM takes priority and must be satisfied before the first mortgage
+  B : The PMM is prohibited under Hawaii Real Estate Commission rules
+  C*: The PMM is subordinated to the first mortgage holder's security interest
+  D : The PMM functions identically to a cash-out refinance on the same property
+MARKED ANSWER: C
+RATIONALE: PMMs are junior liens by definition—they are subordinate to the senior institutional lender's first mortgage position.
+
+[hi-financing-q01.v9] (State · hi-financing)
+Q: In the lien priority structure of a Hawaii property, where does a piggyback mortgage (PMM) typically rank?
+  A : Above all other mortgages and trust deeds on the property
+  B : In parity with the primary institutional mortgage
+  C : As the sole security instrument, replacing conventional financing
+  D*: Behind the first mortgage but ahead of any home equity lines of credit
+MARKED ANSWER: D
+RATIONALE: A PMM is subordinate to the senior first mortgage but typically takes priority over subsequent liens like HELOCs; it holds a junior position in the lien hierarchy.
+
+[hi-financing-q02] (State · hi-financing)
+Q: A non-warrantable condo means:
+  A : It's tax-exempt
+  B*: Conventional financing through Fannie/Freddie is unavailable
+  C : It cannot be sold
+  D : It's illegal
+MARKED ANSWER: B
+RATIONALE: Non-warrantable = doesn't meet GSE standards; portfolio loan needed.
+
+[hi-financing-q02.v1] (State · hi-financing)
+Q: What is the primary financing challenge a buyer faces when purchasing a non-warrantable condominium?
+  A : The property cannot be transferred to a new owner
+  B : The buyer must pay a higher property tax rate
+  C*: Government-sponsored enterprises will not purchase the mortgage in the secondary market
+  D : The homeowners association must approve all financing arrangements
+MARKED ANSWER: C
+RATIONALE: Non-warrantable condos fail GSE (Fannie Mae/Freddie Mac) underwriting standards, making conventional loans unavailable; buyers typically need portfolio loans from private lenders.
+
+[hi-financing-q02.v2] (State · hi-financing)
+Q: A condo building is deemed non-warrantable primarily because:
+  A : It has outstanding code violations that prevent occupancy
+  B : It is located in an area designated for commercial development
+  C : It does not comply with state building codes
+  D*: It does not meet the lending standards established by secondary mortgage market investors
+MARKED ANSWER: D
+RATIONALE: Non-warrantable status refers specifically to failing GSE (Fannie Mae/Freddie Mac) approval criteria, which restricts conventional financing options available to buyers.
+
+[hi-financing-q02.v3] (State · hi-financing)
+Q: Which statement best describes the financing implication of a property being classified as non-warrantable?
+  A*: Mortgages cannot be sold to Fannie Mae or Freddie Mac in the secondary market
+  B : The property owner forfeits all mortgage tax deductions
+  C : VA and USDA loans become the only financing options
+  D : Federal Housing Administration loans are prohibited
+MARKED ANSWER: A
+RATIONALE: Non-warrantable means the property fails GSE guidelines, so conventional mortgages cannot be sold to Fannie Mae/Freddie Mac; lenders must hold the loan in portfolio.
+
+[hi-financing-q02.v4] (State · hi-financing)
+Q: When a condominium is identified as non-warrantable, a real estate licensee should inform buyers that:
+  A*: Traditional mortgage programs offered through major lenders may not be available
+  B : The Hawaii Department of Commerce will need to issue a special waiver
+  C : The condominium can only be purchased through cash transactions
+  D : The condominium must undergo remediation before any sale can close
+MARKED ANSWER: A
+RATIONALE: Non-warrantable condos fall outside GSE standards, eliminating access to conventional financing through traditional lenders, though portfolio and niche loan products may still exist.
+
+[hi-financing-q02.v5] (State · hi-financing)
+Q: Why would a condominium project receive a non-warrantable classification from lenders?
+  A*: The project does not satisfy Fannie Mae or Freddie Mac underwriting requirements
+  B : The developer never recorded the master deed
+  C : The building fails to meet structural safety codes
+  D : The homeowners association has unpaid property taxes
+MARKED ANSWER: A
+RATIONALE: Non-warrantable condos fail GSE (Fannie Mae/Freddie Mac) standards, requiring portfolio or alternative financing rather than conventional loans.
+
+[hi-financing-q02.v6] (State · hi-financing)
+Q: A buyer interested in purchasing a unit in a non-warrantable condominium should understand that:
+  A : The property cannot legally be mortgaged under any circumstances
+  B*: Financing options will be restricted to portfolio lenders or non-GSE sources
+  C : VA and FHA financing are the only options available
+  D : Standard conventional mortgages from major lenders will likely be available
+MARKED ANSWER: B
+RATIONALE: Non-warrantable condos cannot use GSE-backed conventional financing, forcing buyers toward portfolio lenders or alternative financing sources.
+
+[hi-financing-q02.v7] (State · hi-financing)
+Q: When a condominium is labeled non-warrantable, what is the primary lending consequence?
+  A : The unit cannot be used as a primary residence
+  B : Property taxes increase by 15% annually
+  C*: Fannie Mae and Freddie Mac will not purchase or guarantee the mortgage
+  D : All construction defects become the buyer's liability
+MARKED ANSWER: C
+RATIONALE: Non-warrantable status means the property does not comply with GSE standards, so Fannie Mae and Freddie Mac will not guarantee conventional loans on the unit.
+
+[hi-financing-q02.v8] (State · hi-financing)
+Q: A broker explains to a client that their desired condo unit is non-warrantable. This designation primarily affects:
+  A*: Whether conventional financing from GSE-backed lenders is obtainable
+  B : The unit's eligibility for property tax exemptions
+  C : The requirement to maintain flood insurance coverage
+  D : The ability to claim depreciation on rental income
+MARKED ANSWER: A
+RATIONALE: Non-warrantable means the condo does not meet GSE (Fannie Mae/Freddie Mac) standards, eliminating access to conventional mortgage products backed by these entities.
+
+[hi-financing-q02.v9] (State · hi-financing)
+Q: When a condominium project fails to meet Government-Sponsored Enterprise underwriting criteria, what financing restriction typically results?
+  A : Property tax assessments are increased by the county
+  B*: Borrowers must seek portfolio loans or non-conforming lenders instead of traditional mortgage companies
+  C : The homeowners association is dissolved by the state
+  D : The property cannot legally be listed for sale
+MARKED ANSWER: B
+RATIONALE: Non-warrantable condos don't qualify for Fannie Mae/Freddie Mac loans, forcing buyers to use portfolio lenders, FHA, or other alternative financing rather than conventional mortgages.
+

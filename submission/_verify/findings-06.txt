@@ -1,0 +1,3 @@
+BATCH 06 — reviewed 130 questions, found 0 critical, 0 major, 1 minor
+
+contracts-q00.v7 | minor | Rationale says a purchase agreement "signed by both parties is required"; the Statute of Frauds technically requires only the signature of the party to be charged, not both parties. Marked answer C is correct. | Reword rationale: "must be signed by the party to be charged" (or accept as defensible since real estate purchase agreements are customarily bilaterally signed).

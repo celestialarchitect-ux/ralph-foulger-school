@@ -1,0 +1,724 @@
+QUESTION VERIFICATION BATCH 18/18 — 80 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[tough-jvd73k.v2] (Tough variant)
+Q: Which statement most accurately describes the timing requirement for Public Report delivery under Hawaii's Condominium Property Regime law (HRS 514B)?
+  A : The developer may provide the Public Report up to 30 days after the purchaser executes the purchase agreement
+  B : The Public Report is required only when specifically demanded by the purchaser's attorney
+  C*: The developer must furnish the Public Report before the purchaser is obligated by a binding contract
+  D : The developer shall deliver the Public Report concurrent with the deed at closing
+MARKED ANSWER: C
+RATIONALE: HRS 514B's disclosure requirement is front-loaded: the Public Report must reach the buyer before they sign any binding agreement. This ensures informed consent prior to contractual obligation, not after.
+
+[tough-jvd73k.v3] (Tough variant)
+Q: A developer in Hawaii is negotiating with a potential condo buyer who has viewed the model units and is ready to move forward. When must the developer satisfy the Public Report delivery obligation under HRS 514B?
+  A*: Before the prospect becomes party to a binding purchase contract
+  B : No later than the date of closing, as part of the title company's document package
+  C : Within ten business days of the buyer submitting a purchase offer
+  D : Upon the buyer's request, but only if the request is in writing and notarized
+MARKED ANSWER: A
+RATIONALE: HRS 514B requires pre-contractual delivery to protect the buyer's right to make an informed decision without being legally bound. Any post-contract delivery or conditional delivery undermines the statute's disclosure mandate.
+
+[tough-jvd73k.v4] (Tough variant)
+Q: A condominium developer in Hawaii is showing a unit to a buyer who expresses serious interest. When must the developer provide the Public Report as required by HRS 514B?
+  A : At the time of closing, along with the deed
+  B : Only if the buyer explicitly asks for it in writing
+  C : Within 14 days after the buyer's offer is accepted
+  D*: Prior to the buyer becoming legally obligated by a purchase agreement
+MARKED ANSWER: D
+RATIONALE: HRS 514B mandates delivery of the Public Report before the purchaser enters into a binding contract to allow informed decision-making. Timing after contractual obligation eliminates the protective purpose of the disclosure.
+
+[tough-jvd73k.v5] (Tough variant)
+Q: Which statement correctly describes the timing requirement for Public Report delivery under Hawaii's condominium law (HRS 514B)?
+  A : The developer may provide the Public Report up to 10 days before settlement
+  B : Delivery is required within 30 days of the initial showing
+  C : The report satisfies disclosure only if given during escrow
+  D*: The purchaser must receive the Public Report before being bound to purchase
+MARKED ANSWER: D
+RATIONALE: HRS 514B requires pre-contractual delivery to protect the purchaser's right to make an informed decision before taking on legal obligations. Post-contractual or conditional delivery does not satisfy the statute's disclosure mandate.
+
+[tough-jvd73k.v6] (Tough variant)
+Q: A prospective condo buyer in Hawaii signs a purchase offer on Tuesday. The developer provides the Public Report on Thursday before closing. Under HRS 514B, has the developer complied with disclosure requirements?
+  A : No, unless the buyer waived the requirement in writing at the time of offer
+  B : Yes, because the report was delivered before the scheduled closing date
+  C*: No, because the Public Report must be furnished before the buyer becomes contractually bound
+  D : Yes, as long as the report is provided within 30 days of contract execution
+MARKED ANSWER: C
+RATIONALE: HRS 514B requires the Public Report to be delivered before the purchaser signs a binding contract; delivery after contract formation violates the statute regardless of how soon before closing it occurs. The disclosure is meaningless once the buyer is already legally committed.
+
+[tough-jvd73k.v7] (Tough variant)
+Q: A condominium developer in Hawaii is showing a unit to a buyer who expresses serious interest. At what point must the developer ensure the prospect receives the Public Report under HRS 514B?
+  A : Simultaneously with delivery of the deed at closing
+  B : Within 10 business days following the buyer's initial site visit
+  C*: Before the buyer is legally obligated by signing a purchase contract
+  D : Only if the buyer explicitly demands it in writing
+MARKED ANSWER: C
+RATIONALE: HRS 514B mandates pre-contractual delivery of the Public Report so the buyer has full disclosure before becoming bound. Delivery after signature, upon demand, or at closing all violate the statute's protective timing requirement.
+
+[tough-jvd73k.v8] (Tough variant)
+Q: Which statement correctly describes the timing requirement for Public Report delivery under HRS 514B in Hawaii condominium transactions?
+  A : The developer is required to deliver it no later than the date of the homeowners association transition
+  B : The developer may deliver it during the rescission period if the buyer waives the requirement in writing
+  C : The developer may withhold it until the buyer submits a formal written application for financing
+  D*: The developer must provide it before the purchaser executes a binding sales contract
+MARKED ANSWER: D
+RATIONALE: HRS 514B requires pre-contractual disclosure specifically to allow the purchaser to make an informed decision before incurring contractual liability. Any delay—whether post-signing, conditional on written request, or tied to association turnover—violates this protective standard.
+
+[tough-jvd73k.v9] (Tough variant)
+Q: A prospective condo buyer in Hawaii tells the developer's agent, 'Just send me the Public Report after I sign the contract so I can review it during my rescission period.' Under HRS 514B, what should the agent do?
+  A*: Provide the Public Report before the buyer signs any binding contract, regardless of the buyer's preference
+  B : Deliver the report only if the buyer submits a formal written demand within 5 days of signing
+  C : Wait until the developer receives loan approval documentation before distributing the Public Report
+  D : Accommodate the buyer's request and deliver the report within the rescission window
+MARKED ANSWER: A
+RATIONALE: HRS 514B mandates pre-contractual delivery as a matter of law, not negotiable preference. The timing exists specifically to prevent buyers from being bound before accessing critical disclosure information, even if the buyer requests otherwise.
+
+[tough-lks7oo.v1] (Tough variant)
+Q: During a listing presentation, a seller's agent overhears the seller state that they intend to misrepresent the property's flood history to potential buyers to expedite the sale. The agent's most appropriate response is to:
+  A : Advise the seller to disclose only to the buyer's agent, not to all parties
+  B : Proceed with marketing but insert a disclaimer in all advertising to protect the brokerage
+  C : Immediately notify the Hawaii Real Estate Commission and local building department
+  D*: Withdraw representation and document the conversation; continuing would make the agent complicit in fraud
+MARKED ANSWER: D
+RATIONALE: An agent cannot knowingly facilitate fraud. Confidentiality does not shield illegal conduct. The agent must withdraw from representation and create documentation of the basis for withdrawal—neither unilaterally disclosing the seller's private statements nor remaining in a transaction that would involve fraud.
+
+[tough-lks7oo.v2] (Tough variant)
+Q: A real estate licensee representing a buyer discovers that the buyer intends to use forged financial documents to qualify for the mortgage loan. Which action best reflects the agent's ethical and legal obligation?
+  A : Disclose the forgery to the seller and listing agent to protect all parties in the transaction
+  B : Report the buyer's documents directly to the loan underwriter to prevent loan fraud
+  C*: Terminate the representation and document the reason; assisting would constitute aiding fraud
+  D : Keep the matter confidential because the agent-client relationship is privileged communication
+MARKED ANSWER: C
+RATIONALE: Confidentiality protects lawful matters only; fraud is not a lawful confidence. The agent must withdraw and document the withdrawal—not report directly to third parties (unilateral disclosure), not remain complicit, and not hide behind privilege.
+
+[tough-lks7oo.v3] (Tough variant)
+Q: A property manager working under an agent's license learns that their principal (the property owner) plans to submit false occupancy records to an insurance carrier to obtain a lower premium on a commercial rental property. What is the licensee's primary obligation?
+  A*: Cease facilitation of the scheme and withdraw from the engagement; continuing would implicate the agent in insurance fraud
+  B : Advise the owner to amend the records voluntarily and continue the relationship without further involvement in the false filing
+  C : File a suspicious activity report with the Hawaii Department of Insurance on behalf of the owner
+  D : Maintain all confidences per the fiduciary relationship and say nothing until the insurance company discovers the discrepancy
+MARKED ANSWER: A
+RATIONALE: An agent cannot knowingly participate in or facilitate fraud, regardless of the client relationship. The agent must withdraw and create a record of the withdrawal—not unilaterally report to regulators, not remain silent and hope the fraud is discovered, and not conditionally continue if the client "amends."
+
+[tough-lks7oo.v4] (Tough variant)
+Q: A real estate licensee representing a seller receives a written admission from the buyer's lender contact that the buyer has confessed to planning a strategic default and equity strip scheme. The licensee's ethical and legal obligation is to:
+  A : Maintain strict confidentiality because third-party statements are privileged
+  B : Document the communication and immediately notify the Hawaii Real Estate Commission
+  C*: Withdraw from representation and decline to participate in or facilitate the transaction
+  D : Continue the transaction but disclose the risk only in writing to the title company
+MARKED ANSWER: C
+RATIONALE: A licensee cannot knowingly facilitate or continue representation in a transaction involving fraud or illegal conduct. Withdrawal and documentation protect the agent's license; reporting to HEC or unilateral disclosure to non-clients exceeds duty and may violate confidentiality rules. Proceeding with knowledge of planned fraud violates the duty of legality.
+
+[tough-lks7oo.v5] (Tough variant)
+Q: During closing preparation, a buyer's representative discovers evidence that the buyer intends to misrepresent occupancy intent and artificially inflate the purchase price to trigger a predetermined short-sale collapse within months. The agent's PRIMARY responsibility is to:
+  A : Request written acknowledgment from the buyer that the agent warned against fraud
+  B*: Immediately terminate the agency relationship and refrain from further participation
+  C : Notify the lender's fraud department before the loan is funded
+  D : Alert the escrow officer and title company so they can refuse to close
+MARKED ANSWER: B
+RATIONALE: The licensee cannot remain involved in a transaction they know involves fraud. Withdrawal is the correct action. Unilaterally reporting to third parties (escrow, lender) violates confidentiality of client information; seeking written acknowledgment does not cure the licensee's own liability for continued participation.
+
+[tough-lks7oo.v6] (Tough variant)
+Q: A listing agent overhears a conversation in which the buyer's representative and buyer discuss orchestrating a loan default and fraudulent short-sale payoff scheme. The listing agent's primary ethical and legal duty is to:
+  A : Disclose the overheard conversation to the seller and cooperating broker
+  B*: Withdraw from the listing and document the reason; do not actively participate in facilitating the illegal conduct
+  C : File a suspicious activity report with the state licensing authority before closing
+  D : Remain silent but cease all cooperation with the buyer's agent
+MARKED ANSWER: B
+RATIONALE: Knowledge of planned fraud prohibits the agent from continuing to facilitate the transaction. Withdrawal and documentation are the correct steps. Unilateral disclosure to the seller or filing a SAR without legal counsel goes beyond the agent's duty; the agent's duty is to cease participation in illegality, not to police it by reporting to authorities.
+
+[tough-lks7oo.v7] (Tough variant)
+Q: During listing negotiations, a seller's agent overhears the buyer's agent tell the buyer that the buyer intends to obtain a stated-income loan by misrepresenting employment history to the lender. The seller's agent's appropriate response is to:
+  A*: Withdraw from representing the seller and document the reason; continuing would facilitate known illegal activity
+  B : Remain silent because the statement was made in a private conversation not involving the agent directly
+  C : Alert the lender immediately to prevent the loan fraud
+  D : Inform the seller so the seller can decide whether to proceed with the sale
+MARKED ANSWER: A
+RATIONALE: An agent cannot knowingly facilitate or participate in fraud, even indirectly. The agent must withdraw to avoid complicity. Unilateral disclosure to third parties (lender, seller) exceeds the agent's authority and violates duty to the client's confidences; withdrawal and documentation is the legally sound path.
+
+[tough-lks7oo.v8] (Tough variant)
+Q: A real estate licensee representing a buyer discovers that the buyer plans to obtain financing by concealing a significant debt obligation from the lender. The licensee cannot ethically continue in the transaction. The licensee's best course of action is to:
+  A : Notify the lender directly to prevent the fraudulent loan application
+  B : Continue the transaction but insist the buyer disclose the debt; if the buyer refuses, then withdraw
+  C*: Terminate representation and document the withdrawal without disclosing details to any third party
+  D : Inform the seller's agent so the transaction can be halted before closing
+MARKED ANSWER: C
+RATIONALE: The licensee's duty of legality requires withdrawal from a transaction the agent knows involves fraud. Withdrawing and documenting protects the licensee's license and integrity without violating confidentiality by disclosing client information to uninvolved parties.
+
+[tough-lks7oo.v9] (Tough variant)
+Q: A listing agent becomes aware that the buyer's agent is coaching the buyer to provide false financial statements to qualify for a larger loan amount than the buyer can legitimately afford. What should the listing agent do?
+  A*: Withdraw from the listing; knowingly proceeding with a transaction involving fraud violates the agent's duty of legality
+  B : Report the buyer's agent to the Hawaii Real Estate Commission for unethical conduct
+  C : Continue the transaction but exclude any written statements about the buyer's finances from the listing file
+  D : Disclose the fraud to the lender to protect the lender's financial interests
+MARKED ANSWER: A
+RATIONALE: An agent cannot knowingly participate in fraud regardless of which party commits it. Withdrawal is the appropriate response to protect the agent's license and integrity. Reporting to the commission or disclosing to third parties (lender) exceeds the agent's scope and breaches confidentiality owed to other parties.
+
+[tough-p5ocoq.v1] (Tough variant)
+Q: A real estate licensee is explaining the difference between Hawaii's two title systems to a prospective buyer. The buyer asks why some properties operate under the Land Court system. Which statement best describes the key distinction that makes Land Court attractive to buyers?
+  A : Title insurance is not required or available for Land Court properties, reducing closing costs significantly
+  B : Land Court properties qualify for reduced conveyance tax rates unavailable in the Regular System
+  C*: The Certificate of Title issued by the Land Court serves as conclusive proof of ownership without requiring a separate historical title search
+  D : Properties in Land Court are automatically free from all prior encumbrances and judgment liens
+MARKED ANSWER: C
+RATIONALE: Land Court operates as a Torrens system where the Certificate of Title itself is conclusive evidence of ownership, eliminating the need for traditional chain-of-title research. Liens still attach, conveyance tax still applies, and title insurance is available but not required.
+
+[tough-p5ocoq.v2] (Tough variant)
+Q: During a closing, a seller's attorney mentions the property is registered in the Land Court system. A buyer's representative asks what this means for title security. Which of the following MOST accurately reflects the core advantage of Land Court registration compared to Regular System recording?
+  A : Encumbrances and mortgages cannot be recorded against Land Court properties
+  B : The closing timeline is shortened because no title insurance commitment is required
+  C : The state guarantees indemnification for any defects discovered after closing
+  D*: Title certainty is derived from the Certificate of Title itself rather than from a complete chain-of-title investigation
+MARKED ANSWER: D
+RATIONALE: The fundamental advantage of Land Court (Torrens) is that the Certificate of Title provides conclusive evidence of ownership, shifting the basis of title certainty from historical document research to government registration. Liens can still attach, and title insurance is often still obtained.
+
+[tough-p5ocoq.v3] (Tough variant)
+Q: A buyer's agent is counseling a client who is considering two properties: one in Hawaii's Regular System and one in the Land Court system. The client wants to understand what tangible benefit the Land Court system offers. Which of the following CORRECTLY distinguishes Land Court's primary value proposition?
+  A : All past liens and claims are automatically discharged upon registration in Land Court
+  B*: The Certificate of Title provides definitive evidence of ownership status, eliminating the necessity for extensive title research
+  C : Mortgage lenders offer lower interest rates on Land Court properties due to reduced title risk exposure
+  D : Properties in Land Court are exempt from Hawaii's conveyance tax, resulting in lower total acquisition costs
+MARKED ANSWER: B
+RATIONALE: Land Court's primary advantage is that the Certificate of Title is conclusive evidence of ownership, which eliminates the need for chain-of-title research required in the Regular System. Conveyance tax applies to both systems, and liens are not automatically cleared upon transfer.
+
+[tough-p5ocoq.v4] (Tough variant)
+Q: An agent is explaining Hawaii's dual recording systems to a client who owns property registered under the Land Court system. Which statement most accurately describes the KEY distinction between Land Court and Regular System properties?
+  A : Properties in the Land Court system incur lower conveyance tax obligations than those in the Regular System
+  B : Land Court registration guarantees that no federal tax liens can ever be recorded against the property
+  C : Land Court properties are automatically free of all encumbrances at the time of sale
+  D*: The Certificate of Title issued in Land Court serves as conclusive evidence of ownership, obviating the traditional chain-of-title search
+MARKED ANSWER: D
+RATIONALE: The Land Court (Torrens) system's defining feature is that the Certificate of Title is conclusive proof of ownership, eliminating the need for separate chain-of-title research required in the Regular System. Liens and tax obligations apply equally regardless of system.
+
+[tough-p5ocoq.v5] (Tough variant)
+Q: A title company is explaining the difference between Hawaii's two recording systems to a real estate team. When property is registered in the Land Court system, what is the PRIMARY benefit compared to the Regular System?
+  A : Title insurance is automatically included at no additional cost
+  B : All prior liens are automatically discharged upon the issuance of the new Certificate of Title
+  C*: The state guarantees that the Certificate of Title is the definitive record of legal ownership, eliminating the need for independent chain-of-title investigation
+  D : The property becomes exempt from future property tax assessments
+MARKED ANSWER: C
+RATIONALE: In Hawaii's Land Court (Torrens) system, the Certificate of Title itself is conclusive evidence of ownership, eliminating the title research burden that applies in the Regular System. Liens, taxes, and title insurance costs function the same in both systems.
+
+[tough-p5ocoq.v6] (Tough variant)
+Q: During a closing, an attorney clarifies that a seller's property has been recorded in Hawaii's Land Court system for decades. What distinguishes this registration from properties in the Regular System in terms of title verification?
+  A : Land Court properties require only a preliminary title report rather than a full title commitment
+  B : Conveyance tax is calculated differently for Land Court properties to reflect their superior title clarity
+  C*: The Certificate of Title in Land Court is conclusive evidence of ownership, whereas Regular System properties require tracing the chain of title through historical documents
+  D : Land Court properties are immune from future adverse possession claims
+MARKED ANSWER: C
+RATIONALE: The fundamental distinction is that Land Court's Certificate of Title is conclusive and eliminates the need for chain-of-title research required in the Regular System. Adverse possession, conveyance tax, and other obligations apply equally to both systems.
+
+[tough-p5ocoq.v7] (Tough variant)
+Q: An agent representing a buyer in a Torrens (Land Court) property transaction explains a key distinction to her client. How does the Land Court system in Hawaii fundamentally differ from the Regular System in terms of title verification?
+  A : Land Court eliminates the requirement for title insurance altogether
+  B : The Regular System allows faster conveyancing because it bypasses the Torrens registration process
+  C*: The Regular System requires a full title search, whereas Land Court eliminates the need for chain-of-title investigation because the Certificate of Title is conclusive evidence of ownership
+  D : Land Court properties are exempt from federal tax liens and judgment creditor claims
+MARKED ANSWER: C
+RATIONALE: The core distinction is that Land Court (Torrens) provides a conclusive Certificate of Title that serves as definitive ownership evidence, eliminating the need for historical chain-of-title research required in the Regular System. Liens and taxes still apply in Land Court; title insurance is still commonly obtained.
+
+[tough-p5ocoq.v8] (Tough variant)
+Q: A broker advises a client considering two properties—one registered under Hawaii's Torrens system and one under the Regular recording system. What is the most significant procedural advantage the Torrens-registered property offers regarding title assurance?
+  A : Torrens registration automatically discharges all prior mortgages upon new purchase
+  B : Torrens properties qualify for reduced conveyance tax rates on transfer
+  C*: The Certificate of Title issued in the Land Court system constitutes conclusive, indefeasible proof of ownership, removing the burden of conducting title-chain research
+  D : Regular System properties require judicial confirmation before closing, while Torrens properties do not
+MARKED ANSWER: C
+RATIONALE: Land Court (Torrens) provides a conclusive Certificate of Title that eliminates the need for historical chain-of-title verification, as opposed to the Regular System where title must be traced and insured. Other options misstate Torrens benefits; conveyance tax applies regardless of system, and liens remain attached.
+
+[tough-p5ocoq.v9] (Tough variant)
+Q: During a closing, an attorney explains to a purchaser why her property—registered in Hawaii's Land Court system—represents a stronger title position than a Regular System alternative. Which statement most accurately captures this advantage?
+  A : Land Court titles are insurable at no cost, whereas Regular System titles require full premium payment
+  B : Regular System properties must be re-registered every seven years; Land Court properties are perpetually valid without renewal
+  C*: Because the Torrens Certificate of Title is itself conclusive evidence of ownership, the need for independent title research and chain-of-title verification is eliminated
+  D : Land Court registration automatically voids all easements and encroachments recorded prior to Torrens conversion
+MARKED ANSWER: C
+RATIONALE: The defining advantage of Land Court (Torrens) is that the Certificate of Title serves as conclusive, indefeasible evidence of ownership, negating the need for historical chain-of-title investigation required in the Regular System. Liens, easements, and encroachments do attach in Land Court; conveyance tax applies to both systems.
+
+[tough-pqpvaj.v1] (Tough variant)
+Q: A condominium association in Honolulu seeks to implement a blanket prohibition on all transient occupancies shorter than 30 days across its property. Which statement best reflects the current legal framework under HRS 514B and Hawaii appellate precedent?
+  A : Federal housing law renders the restriction unenforceable regardless of declaration language
+  B*: The restriction requires either explicit authorization in the original declaration or a supermajority amendment to the declaration
+  C : The restriction is valid immediately upon board resolution without further member action
+  D : State law automatically invalidates such restrictions unless the city zoning code explicitly permits them
+MARKED ANSWER: B
+RATIONALE: HRS 514B restricts the board's unilateral power to impose use limitations of this magnitude. A declaration amendment (typically 2/3 or 3/4 supermajority) or pre-existing developer language in the original declaration is required. Board-only policies attempting this broad restriction have been struck down by Hawaii courts.
+
+[tough-pqpvaj.v2] (Tough variant)
+Q: An Oahu residential condominium project's board of directors proposes to adopt a standing rule eliminating all guest occupancies under 30 days. When challenged by a unit owner, the most defensible legal position is that:
+  A : The Fair Housing Act exempts all short-term-rental prohibitions from legal challenge
+  B : HRS 514B grants all boards automatic use-restriction authority without member approval
+  C : Local zoning ordinances preempt condominium associations from imposing any occupancy rules
+  D*: The board lacks inherent authority to unilaterally restrict occupancy duration of this scope without declaration amendment or developer reservation
+MARKED ANSWER: D
+RATIONALE: Under HRS 514B, boards cannot impose fundamental use restrictions—especially those affecting alienation or occupancy rights—through policy alone. Such restrictions typically demand either that the original declaration explicitly authorize them or that owners amend the declaration by supermajority vote.
+
+[tough-pqpvaj.v3] (Tough variant)
+Q: A condominium on Maui wishes to prevent short-term vacation rentals in its buildings. The board passes a rule banning all stays under 30 days. Under current Hawaii statutory and case law, this action is MOST LIKELY to be:
+  A : Fully enforceable as a standard exercise of the board's housekeeping and operational rule-making power
+  B : Unenforceable because the Federal Housing Act protects transient occupancy as a form of use
+  C*: Enforceable only if the condominium declaration was originally drafted to include such language or the membership votes to amend the declaration by supermajority
+  D : Preempted by state statute and therefore void without any additional owner or declaration action
+MARKED ANSWER: C
+RATIONALE: HRS 514B limits board authority to impose restrictions that materially alter occupancy rights or unit use. Hawaii courts have consistently held that short-term-rental bans require either pre-existing declaration language or a supermajority amendment—not a unilateral board rule.
+
+[tough-pqpvaj.v4] (Tough variant)
+Q: A condominium association in Honolulu proposes to prohibit all rental activity lasting fewer than 30 days in order to preserve residential character. Under HRS 514B, what is the PRIMARY legal impediment to the board unilaterally implementing this ban?
+  A : The board's police power is preempted by county zoning ordinances that regulate transient accommodation
+  B : State law explicitly permits short-term rentals as a property right that cannot be restricted by local entities
+  C : The restriction would violate the Americans with Disabilities Act by limiting occupancy flexibility
+  D*: The board lacks statutory authority to restrict use rights without amending the declaration through supermajority owner vote or confirming existing developer language
+MARKED ANSWER: D
+RATIONALE: HRS 514B requires that use restrictions of this magnitude be embedded in the declaration itself or formally amended by supermajority vote—not imposed as a standalone board rule. A board policy alone, absent declaration language, is legally insufficient under Hawaii condo law.
+
+[tough-pqpvaj.v5] (Tough variant)
+Q: During a meeting, a condo board member argues the association can immediately enforce a blanket prohibition on rentals under 30 days by adopting it as an operating rule. Based on HRS 514B and Hawaii case law, the board's legal position is MOST LIKELY:
+  A : Enforceable under the Hawaii Residential Landlord-Tenant Code as a property-maintenance measure
+  B*: Defective because substantive use restrictions must either exist in the original declaration or be adopted through a formal declaration amendment requiring supermajority approval
+  C : Permissible under the board's inherent fiduciary duty to manage the common interest community
+  D : Valid if the restriction applies equally to all unit owners without exception
+MARKED ANSWER: B
+RATIONALE: Use restrictions that prohibit or significantly limit rental activity cannot be created by board resolution alone—they require either pre-existing declaration language (from the developer) or a supermajority owner vote to amend the declaration. Hawaii courts have consistently invalidated board-only rental bans.
+
+[tough-pqpvaj.v6] (Tough variant)
+Q: A windward Oahu condo complex seeks to eliminate short-term rentals (under 30 days) to reduce turnover and noise complaints. The board votes unanimously to adopt the restriction as an architectural and use guideline. Under HRS 514B, this action is MOST LIKELY to be challenged because:
+  A : The board lacks fiduciary standing to limit owner economic rights without owner consent
+  B : County short-term rental licensing regulations preempt all association rules on the subject
+  C*: The restriction cannot be enforced as a mere guideline—it requires either existing declaration authority or a supermajority amendment, not a unilateral board policy
+  D : Federal housing law prohibits discrimination against short-term occupants
+MARKED ANSWER: C
+RATIONALE: Board guidelines and policies carry limited weight when they impose substantive use restrictions; HRS 514B requires such restrictions to be in the declaration (originally or amended by supermajority vote). A unanimous board vote does not bypass the declaration amendment requirement.
+
+[tough-pqpvaj.v7] (Tough variant)
+Q: A condominium association in Kailua seeks to implement a blanket prohibition on rentals shorter than 30 days to all unit owners. Under HRS 514B framework and Hawaii appellate precedent, this restriction would MOST LIKELY be:
+  A*: Required to be memorialized in an amended declaration, either already permitted by the original declaration or adopted by supermajority vote of the unit owners
+  B : Preempted by state consumer protection statutes that guarantee owner use and occupancy rights
+  C : Enforceable immediately upon board vote, provided notice is given to all owners
+  D : Valid as an emergency rule under the board's police powers to maintain community standards
+MARKED ANSWER: A
+RATIONALE: HRS 514B requires material restrictions on unit use—including rental prohibitions—to be part of the declaration or properly amended by supermajority owner vote. A board cannot unilaterally impose such restrictions by policy alone, even with unanimous board agreement.
+
+[tough-pqpvaj.v8] (Tough variant)
+Q: During a special board meeting, a Honolulu high-rise condo's directors vote unanimously to restrict all residential leasing to terms of 30 days or longer, citing noise and security concerns. A unit owner challenging this restriction would MOST likely prevail because:
+  A : The restriction violates the property rights protections in the Hawaii Constitution, which override condo governing documents
+  B : The restriction is an occupancy standard, not a use restriction, and occupancy standards require federal HUD approval
+  C : The federal Uniform Commercial Code governs lease restrictions in Hawaii condominiums
+  D*: A use restriction of this magnitude cannot be enforced through board action alone and must be embedded in the declaration via proper amendment procedure under HRS 514B
+MARKED ANSWER: D
+RATIONALE: Substantive use restrictions—especially those affecting owner rights to lease property—must be established or amended in the declaration itself, not adopted as board rules. HRS 514B § 514B-106 and case law establish that board policies cannot override declaration rights without proper amendment by supermajority vote.
+
+[tough-pqpvaj.v9] (Tough variant)
+Q: A Maui condo board discovers that 40% of units are being rented to tourists on platforms like Airbnb for periods under 30 days. To address this, the board adopts a formal administrative rule banning such short-term rentals. Under HRS 514B, this rule is MOST likely to be:
+  A*: Invalid unless the declaration already grants the board this authority or the unit owners formally amend the declaration by supermajority to permit it
+  B : Automatically enforceable because short-term rentals constitute a nuisance per se under Hawaii common law
+  C : Valid as a temporary measure for up to one year pending a formal declaration amendment vote
+  D : Valid if at least three-quarters of board members signed the rule and provided 30 days' written notice
+MARKED ANSWER: A
+RATIONALE: Even a carefully drafted board rule cannot override declared use rights or create new use restrictions without amendment to the declaration. HRS 514B requires that material use restrictions derive from the declaration, either originally or through supermajority amendment—board rulemaking alone is insufficient.
+
+[tough-q2fk60.v1] (Tough variant)
+Q: An agent discloses to a prospective buyer that the seller's former principal (now in a different transaction) revealed their bottom-line price three years ago. Which fiduciary duty has been violated, and does this duty extend beyond agency termination?
+  A : Accountability, which is contingent on escrow status
+  B : Obedience, which survives indefinitely
+  C*: Confidentiality, which survives indefinitely
+  D : Loyalty, which terminates at relationship end
+MARKED ANSWER: C
+RATIONALE: Confidentiality is the sole fiduciary duty that survives termination and remains binding indefinitely. An agent cannot later disclose a former principal's sensitive information, regardless of time elapsed. Obedience, loyalty, and accountability all end when the agency relationship concludes.
+
+[tough-q2fk60.v2] (Tough variant)
+Q: Following the conclusion of a listing agreement, a broker receives an inquiry from a new buyer client about the seller's motivations and financial constraints learned during the expired listing. Which fiduciary duty prevents disclosure, and what is its post-termination status?
+  A*: Confidentiality, which extends beyond agency termination
+  B : Cooperation with other agents, which extends one year post-termination
+  C : Honesty in advertising, which survives in writing only
+  D : Care, which persists as a legal duty forever
+MARKED ANSWER: A
+RATIONALE: Confidentiality is the fiduciary duty that survives agency termination and prohibits an agent from revealing private information about a former principal in perpetuity. Obedience, care, and cooperation obligations cease when the relationship ends.
+
+[tough-q2fk60.v3] (Tough variant)
+Q: Which of the following fiduciary duties remains enforceable against a real estate agent even after the agency relationship has formally ended?
+  A*: Protection of the former principal's confidential information
+  B : Accounting for all funds within 30 days of termination
+  C : Loyalty demonstrated through favorable terms in competing transactions
+  D : Obedience to all instructions from the former principal's new agent
+MARKED ANSWER: A
+RATIONALE: Confidentiality of a former principal's protected information is the only fiduciary duty that survives agency termination indefinitely. An agent cannot divulge a former client's negotiation strategy, financial details, or property-specific information years later. Obedience, accounting, and loyalty all terminate with the relationship.
+
+[tough-q2fk60.v4] (Tough variant)
+Q: An agent who represented a seller three years ago is now approached by a competing buyer's agent seeking information about that former client's motivation and reserve price. Which fiduciary duty—if any—does the agent still owe the seller?
+  A : Duty to disclose the seller's confidential negotiation strategy upon request
+  B*: Confidentiality regarding the seller's sensitive transaction details
+  C : Accountability for listing records that are now considered public record
+  D : Obedience to the buyer's agent's request for market intelligence
+MARKED ANSWER: B
+RATIONALE: The duty of confidentiality survives termination and binds the agent perpetually—former client secrets, strategies, and financial information remain protected. Obedience and accountability end with the agency; disclosure of confidential data violates post-termination law.
+
+[tough-q2fk60.v5] (Tough variant)
+Q: When does an agent's obligation to withhold a principal's confidential information cease?
+  A : Once the transaction closes and all funds are disbursed
+  B : When the property is sold to a third party unrelated to the original principal
+  C*: Never—the duty of confidentiality is perpetual
+  D : Immediately upon listing expiration or agency termination
+MARKED ANSWER: C
+RATIONALE: Confidentiality is the sole fiduciary duty that survives indefinitely after the agency relationship ends. An agent cannot ethically reveal a former principal's bottom-line price, personal financial situation, or negotiation tactics at any future point.
+
+[tough-q2fk60.v6] (Tough variant)
+Q: A real estate agent's agency with a buyer terminated six months ago when the buyer purchased a property through another agent. The original agent has just received a subpoena requesting testimony about the buyer's financial capacity and motivation during the earlier representation. Which fiduciary principle applies?
+  A : The duty of accountability ends at termination, so the agent may speak freely about the buyer's circumstances
+  B*: The duty of confidentiality survives and restricts disclosure of privileged client information despite the subpoena
+  C : The duty of obedience requires the agent to comply fully with the subpoena and divulge all details
+  D : The duty of loyalty requires the agent to defend the buyer in court proceedings
+MARKED ANSWER: B
+RATIONALE: Confidentiality extends beyond agency termination and legally restricts an agent from disclosing a former principal's private information, even under legal process (though a valid court order may override). The other fiduciary duties terminate with the relationship.
+
+[tough-q2fk60.v7] (Tough variant)
+Q: An agent's agency relationship with a principal is formally dissolved. Which fiduciary duty continues to bind the agent even after termination?
+  A : Care and skill in transaction execution
+  B : Duty to follow the principal's lawful instructions
+  C : Duty to disclose all material facts known to the agent
+  D*: Duty not to reveal the principal's confidential information
+MARKED ANSWER: D
+RATIONALE: The duty of confidentiality survives agency termination indefinitely; an agent cannot later disclose a former client's financial information, negotiating position, or other secrets. Care, instruction compliance, and active disclosure duties end when the relationship terminates.
+
+[tough-q2fk60.v8] (Tough variant)
+Q: After an exclusive listing agreement expires and is not renewed, the broker discovers that the seller's confidential bottom-line price was actually much higher than initially stated. Which fiduciary obligation, if any, still applies to the broker regarding this information?
+  A*: The broker must maintain confidentiality and cannot disclose the price to other agents or parties
+  B : The broker's only remaining duty is to account for any funds still held in trust
+  C : The broker is released from all fiduciary duties and may use the information freely
+  D : The broker must immediately update all MLS records with the corrected price
+MARKED ANSWER: A
+RATIONALE: Confidentiality is the sole fiduciary duty that survives termination of the agency relationship; the broker remains bound not to disclose the former principal's confidential information indefinitely. All other duties—obedience, care, loyalty, and accounting—terminate with the relationship.
+
+[tough-q2fk60.v9] (Tough variant)
+Q: A property manager's contract with an owner ends on June 30. On July 15, the property manager receives an unsolicited inquiry from a competing investor asking about the owner's willingness to sell at a below-market price. What is the property manager's legal obligation regarding this inquiry?
+  A : Provide the investor with all relevant details since the agency relationship is no longer active
+  B : Respond to the investor with general market data but decline to share owner-specific information
+  C*: Refuse to disclose any confidential details the owner shared during the management relationship
+  D : Forward the inquiry directly to the owner without offering any opinion or commentary
+MARKED ANSWER: C
+RATIONALE: Even though the agency has terminated, the property manager's duty of confidentiality persists and prohibits disclosure of the owner's confidential information, including sensitivity to price, negotiating positions, or financial circumstances. The post-termination confidentiality obligation survives perpetually.
+
+[tough-qg008s.v1] (Tough variant)
+Q: A mainland real estate professional is coaching a client who is selling raw land in Wailea, Maui. The client is a U.S. citizen living in Nevada, though he was born in Hawaii. He asks whether HARPTA withholding applies to his $1.2 million sale. The agent should advise that:
+  A : Only federal FIRPTA withholding applies; state-level HARPTA was eliminated in 2019
+  B : HARPTA does not apply because the seller is a natural-born U.S. citizen with Hawaii ancestry
+  C : A Nevada resident is automatically exempt from both HARPTA and FIRPTA on all Hawaii real property transactions
+  D*: HARPTA withholding at 7.25% likely applies because the seller's current domicile and residency status, not birthplace or citizenship, determine liability under HRS 235-68
+MARKED ANSWER: D
+RATIONALE: HARPTA is triggered by Hawaii tax residency status, not citizenship, birthplace, or domicile elsewhere. A Nevada resident selling Hawaii property is a non-resident under HRS 235-68 and subject to the 7.25% withholding obligation regardless of citizenship or Hawaii heritage.
+
+[tough-qg008s.v2] (Tough variant)
+Q: During a closing for a $650,000 Honolulu townhouse, the title company asks the selling agent to confirm the seller's HARPTA status. The seller is a U.S. passport holder who lives in Oregon and owns the property as a vacation rental. The agent's correct response is:
+  A : Federal FIRPTA preempts HARPTA, so no state withholding is due on out-of-state owner sales
+  B*: The seller is likely subject to 7.25% withholding because residency for Hawaii income tax purposes, not passport status or citizenship, determines HARPTA applicability
+  C : HARPTA applies only if the seller acquired the property within the past three years
+  D : The seller qualifies for automatic HARPTA exemption as a U.S. national
+MARKED ANSWER: B
+RATIONALE: HARPTA (HRS 235-68) is based on Hawaii tax residency, not citizenship or national status. An Oregon-domiciled owner is a non-resident and must withhold 7.25% at closing regardless of when the property was purchased. FIRPTA and HARPTA operate independently.
+
+[tough-qg008s.v3] (Tough variant)
+Q: A brokerage in Hilo receives notice that one of its listed properties (sold for $520,000) has a seller who holds a U.S. passport and is otherwise a documented citizen, but maintains primary residence in Arizona. The closing attorney asks whether HARPTA withholding can be waived. The broker should explain that:
+  A*: HARPTA withholding eligibility depends on whether the seller qualifies as a Hawaii resident for state income tax purposes; an Arizona resident would not qualify for exemption and likely owes 7.25% withholding
+  B : Passports and citizenship documentation alone satisfy HARPTA exemption requirements statewide
+  C : Citizenship automatically waives all HARPTA obligations, so no withholding is required
+  D : HARPTA was replaced by federal FIRPTA, which does not permit state withholding on citizen sales
+MARKED ANSWER: A
+RATIONALE: HRS 235-68 (HARPTA) requires withholding based on the seller's Hawaii residency status for income tax purposes, not citizenship documentation. An Arizona resident is non-resident in Hawaii and is not exempt; the 7.25% withholding applies at closing.
+
+[tough-qg008s.v4] (Tough variant)
+Q: A mainland real estate investor holds title to a Wailea property valued at $1.2 million and is subject to a purchase agreement to sell. The investor, a U.S. passport holder with no Hawaii state income tax filing history, closes the transaction. A title company employee suggests the withholding requirement is waived because the seller holds U.S. citizenship. Which statement is MOST accurate?
+  A : Citizenship determines HARPTA liability, but residency determines the withholding percentage—in this case, approximately 5%
+  B : The employee is correct; HARPTA exemptions apply to all U.S. citizens selling Hawaii real property
+  C*: The employee is incorrect; HARPTA withholding hinges on residency classification under Hawaii tax law, and a non-resident investor is subject to the statutory withholding rate regardless of citizenship status
+  D : HARPTA withholding applies only if the property is classified as investment property under FIRPTA guidelines
+MARKED ANSWER: C
+RATIONALE: HARPTA (HRS 235-68) is triggered by non-resident status for Hawaii income tax purposes, not by citizenship or passport status. A mainland investor with no Hawaii domicile is a non-resident and must satisfy withholding obligations regardless of being a U.S. citizen. The threshold concept is Hawaii residency, not nationality.
+
+[tough-qg008s.v5] (Tough variant)
+Q: During a closing on a Honolulu residential sale, the escrow holder raises the question of HARPTA withholding. The selling party is a trust domiciled in Oregon that purchased the property for rental income five years ago. The seller's attorney claims the trust is exempt from HARPTA because it is a domestic U.S. trust. What is the correct analysis?
+  A*: The attorney is incorrect; HARPTA's residency test applies to the trust's situs and income tax obligations, not its domestic or foreign designation; an Oregon-based trust selling Hawaii realty is a non-resident and subject to withholding
+  B : HARPTA applies only to foreign persons, so any U.S.-based trust is automatically exempt
+  C : The attorney is correct; domestic U.S. trusts are categorically exempt from Hawaii withholding statutes
+  D : The withholding requirement depends on whether the trust is taxed as a grantor trust under IRC Section 671, not on Hawaii residency
+MARKED ANSWER: A
+RATIONALE: HARPTA (HRS 235-68) focuses on whether the seller is a Hawaii resident for state income tax purposes, not on the seller's citizenship, trust status, or domestic-versus-foreign designation. An Oregon-domiciled trust has no Hawaii income tax residency and is classified as a non-resident, triggering the statutory 7.25% withholding obligation.
+
+[tough-qg008s.v6] (Tough variant)
+Q: A licensee is facilitating a transaction in which the seller is a permanent resident alien (green card holder) who works and pays taxes in Hawaii and owns a home in Kahalu'u. The buyer's agent asserts that HARPTA withholding should not apply because the seller is not a U.S. citizen. The listing licensee's most accurate response is:
+  A : Disagree; HARPTA requires withholding from all non-U.S. citizens regardless of residency or tax status
+  B*: Disagree; HARPTA withholding is based on Hawaii tax residency, and this seller appears to be a Hawaii resident and thus may be HARPTA-exempt; citizenship status is irrelevant
+  C : Agree with the buyer's agent; HARPTA exempts all non-citizens holding green cards from withholding requirements
+  D : Defer the question to the IRS since FIRPTA, not HARPTA, governs withholding for green card holders
+MARKED ANSWER: B
+RATIONALE: HARPTA's exemption or withholding obligation turns entirely on whether the seller is a Hawaii resident for state income tax purposes, not on citizenship or immigration status. A green card holder who is domiciled in Hawaii and meets residency criteria may qualify for an exemption, while a non-resident—regardless of citizenship—is subject to withholding. The agent must focus on residency classification.
+
+[tough-qg008s.v7] (Tough variant)
+Q: A listing agent represents a seller who maintains her primary residence and business in Oregon. She owns a rental townhouse in Maui that generated rental income for five years. During the sale closing for $625,000, the seller's accountant states, "No withholding is required—she has a valid U.S. passport and tax ID number." What should the agent understand about HARPTA obligations?
+  A : HARPTA only applies to foreign nationals; domestic sellers are automatically exempt regardless of state residency
+  B*: HARPTA withholding is triggered by the seller's non-resident status under Hawaii tax law, not by citizenship or passport status; 7.25% withholding likely applies
+  C : The agent should instruct closing to withhold only FIRPTA amounts and skip HARPTA, as they are mutually exclusive
+  D : The accountant is correct; HARPTA exemptions apply to all U.S. citizens with valid identification
+MARKED ANSWER: B
+RATIONALE: HARPTA (HRS 235-68) is keyed to Hawaii tax residency, not citizenship or national origin. An Oregon-domiciled seller is a non-resident for Hawaii purposes and subject to HARPTA withholding. Citizenship status is irrelevant to the calculation.
+
+[tough-qg008s.v8] (Tough variant)
+Q: During a closing on a $550,000 Honolulu condo sale, the buyer's attorney argues that the seller (a full-time Massachusetts resident who owns the property as an investment) should not have HARPTA withheld because 'she owns U.S. real estate and files U.S. tax returns.' The listing agent's best response is:
+  A : Recommend FIRPTA withholding only and disregard HARPTA as it is a federal override
+  B : Agree and instruct closing to skip HARPTA withholding since the seller files U.S. returns
+  C*: Explain that HARPTA withholding is based on the seller's Hawaii residency status for state income tax purposes, not on federal filing requirements; non-residents are subject to 7.25% withholding
+  D : Defer the decision to the title company, as it is their responsibility to determine citizenship status
+MARKED ANSWER: C
+RATIONALE: HARPTA's applicability turns solely on whether the seller is a Hawaii resident for state tax purposes. Filing U.S. federal returns or owning U.S. property does not determine HARPTA residency status. A Massachusetts resident is a non-resident under Hawaii law and HARPTA applies independently of FIRPTA.
+
+[tough-qg008s.v9] (Tough variant)
+Q: A transaction closing involves a seller who is a naturalized U.S. citizen, holds dual citizenship with a Hawaii-neighboring state, and maintains her permanent address in that neighboring state while owning a vacation property in Wailea. The sale price is $675,000. The seller claims she 'should be HARPTA-exempt because I became a U.S. citizen five years ago.' The agent should recognize:
+  A : The agent should apply FIRPTA only and ignore HARPTA, as it was superseded by federal law in 2019
+  B : Naturalized citizens are entitled to HARPTA exemption; the five-year citizenship holding period is a qualifying factor
+  C*: HARPTA exemption or withholding depends on Hawaii residency status, not citizenship status or how long someone has been a U.S. citizen; dual citizenship does not confer exemption
+  D : Neighboring-state residents are automatically exempt from HARPTA under reciprocal agreement rules
+MARKED ANSWER: C
+RATIONALE: HARPTA (HRS 235-68) is purely a residency-based test under Hawaii tax law. Citizenship—whether natural-born, naturalized, or dual—is irrelevant. The tenure of citizenship is also irrelevant. A non-resident seller (regardless of citizenship status) is subject to HARPTA withholding at 7.25%.
+
+[tough-s30b05.v1] (Tough variant)
+Q: On Tuesday morning, a property owner receives a written offer from a prospective buyer with an expiration time of "Friday at noon." The owner signs the offer at 1:30 PM on Friday and immediately sends it back via email. What is the legal status?
+  A : A voidable contract exists pending the buyer's confirmation within 48 hours
+  B*: No contract exists; the owner's late acceptance constitutes a new offer that the buyer may accept or reject
+  C : A binding contract exists because the owner's signature creates mutual assent
+  D : A contract is formed, but the seller forfeits any earnest money deposit due to late acceptance
+MARKED ANSWER: B
+RATIONALE: When an acceptance arrives after the stated expiration, it is no longer an acceptance of the original offer—it becomes a counteroffer from the original offeror back to the buyer. The buyer now controls whether to accept, reject, or counter this new proposal.
+
+[tough-s30b05.v2] (Tough variant)
+Q: A real estate licensee prepares an offer to purchase that states "This offer expires Saturday at 6 PM." The buyer signs Friday evening. The seller receives the signed offer Sunday morning and executes it that same day. Which statement is correct?
+  A : A binding contract is formed subject to the buyer's right to withdraw within three business days
+  B : The seller's Sunday signature operates as acceptance and creates a binding agreement effective immediately
+  C*: The seller's execution after the Saturday expiration deadline has converted the buyer's original offer into a new counteroffer
+  D : The parties have a valid contract because both parties ultimately signed the document
+MARKED ANSWER: C
+RATIONALE: An offer that expires at a specific time ceases to exist at that moment. Any attempted acceptance after expiration is legally a counteroffer—a new offer by the seller to the buyer. The buyer may then choose to accept, reject, or respond with another counteroffer.
+
+[tough-s30b05.v3] (Tough variant)
+Q: A buyer submits a written offer on a residential property with a stated expiration of "Thursday at 4 PM." The seller's agent phones the buyer on Thursday at 2 PM to confirm the offer is still open, and the buyer verbally agrees. The seller then signs and returns the offer at 5:30 PM Thursday. What is the result?
+  A : A valid contract exists because the buyer verbally reaffirmed the offer before expiration
+  B : A voidable contract pending written confirmation from the buyer within five business days
+  C*: No contract—the seller's signed acceptance arriving after 4 PM Thursday is a counteroffer the buyer may or may not accept
+  D : A valid contract exists because the seller's acceptance was communicated before the buyer revoked
+MARKED ANSWER: C
+RATIONALE: The verbal reaffirmation does not extend the original deadline. Once the 4 PM Thursday deadline passes, the original offer expires automatically. The seller's signature after that time constitutes a late acceptance, which is legally a new counteroffer requiring the buyer's affirmative response.
+
+[tough-s30b05.v4] (Tough variant)
+Q: A property offer states "acceptance must be received by Friday at noon." The seller's signed acceptance arrives Friday at 12:47 PM via email. Which statement is most accurate?
+  A : The parties have a voidable contract that either party may disaffirm within 10 days
+  B*: No contract exists; the late acceptance operates as a new offer to the original buyer
+  C : A contract is formed, but the seller is liable for damages due to the tardy delivery
+  D : A binding contract exists because the seller demonstrated clear intent to be bound
+MARKED ANSWER: B
+RATIONALE: When an offer expires, any acceptance received after the deadline is deemed a counteroffer—a new offer from the original acceptor back to the original offeror. The buyer is free to accept, reject, or counter this new proposal.
+
+[tough-s30b05.v5] (Tough variant)
+Q: An offeror specifies that the offer will lapse at "5 PM on Tuesday." The offeree signs the agreement and personally delivers it to the offeror's agent at 5:45 PM Tuesday. The legal status is:
+  A*: The signed document is a counteroffer that the original offeror may accept or refuse
+  B : Void ab initio because the offer was conditional on strict time compliance
+  C : Valid contract; acceptance by conduct occurs when the offeree signs, not when delivered
+  D : Valid contract formed; delivery to the agent is timely constructive acceptance
+MARKED ANSWER: A
+RATIONALE: Acceptance must be received before the expiration deadline. A response received after expiration is not a valid acceptance but instead constitutes a counteroffer, giving the original offeror the power to accept, reject, or make another counteroffer.
+
+[tough-s30b05.v6] (Tough variant)
+Q: Under Hawaii real estate law, an offeror states, "This offer expires Thursday at 6 PM sharp." The seller signs and faxes the acceptance at 6:03 PM Thursday. What is the result?
+  A : A valid contract forms by estoppel to prevent unjust enrichment to the buyer
+  B : A contract exists pending the buyer's opportunity to waive the time requirement
+  C : Automatic contract formation; time-of-receipt rules do not apply to fax transmissions
+  D*: The seller's response is legally a new offer, and the buyer may accept it, reject it, or counter it
+MARKED ANSWER: D
+RATIONALE: An offer that specifies an expiration time creates a firm deadline. Any response received after that deadline is not acceptance but rather a counteroffer from the offeree, which resets negotiation and allows the original offeror to decide how to proceed.
+
+[tough-s30b05.v7] (Tough variant)
+Q: On Tuesday morning, a property owner receives a written purchase offer that states acceptance must occur by Thursday at noon. The owner signs the acceptance documents Friday at 10 AM and immediately sends them to the buyer's agent. What is the legal status of the transaction?
+  A : An invalid acceptance requiring reformation by the Hawaii Real Estate Commission
+  B*: A counteroffer by the owner, which the original offeror may accept, reject, or counter
+  C : A valid contract under the doctrine of substantial performance since only one business day was exceeded
+  D : A binding contract formed because the owner's intent to be bound is clear and documented
+MARKED ANSWER: B
+RATIONALE: When an offeree accepts after the offer's expiration date, that acceptance is legally treated as a new offer (counteroffer) directed back to the original offeror. The original offeror then controls whether to accept, reject, or counter this new offer.
+
+[tough-s30b05.v8] (Tough variant)
+Q: A residential purchase offer contains explicit language that states 'This offer expires on Saturday, September 15 at 4:00 PM, Hawaii Standard Time.' The seller receives the offer on Friday and signs it on Monday morning, September 18. Which statement correctly describes the legal consequence?
+  A : The signed documents constitute a valid contract because they were signed in the presence of a licensed broker
+  B*: The seller's signing after expiration creates a counteroffer that returns to the buyer for acceptance or rejection
+  C : The offer is automatically reinstated if the seller signs within one business day of receiving it
+  D : A contract is formed only if both parties later ratify the agreement in writing within 30 days
+MARKED ANSWER: B
+RATIONALE: An offer terminates at its stated expiration time. A purported acceptance received or signed after that deadline is not an acceptance; it is a counteroffer from the seller back to the original buyer, who must then decide whether to accept it.
+
+[tough-s30b05.v9] (Tough variant)
+Q: A buyer submits a written offer on a commercial property on Friday with a deadline of Monday at 5 PM. Due to a postal delay, the seller does not receive the offer until Tuesday morning and signs it Tuesday afternoon. The seller immediately delivers the signed acceptance via courier. Has a contract been formed?
+  A : Yes, because the offer deadline applies only to when the buyer may revoke, not to when the seller may accept
+  B : No, unless the buyer agrees in writing to extend the original offer's expiration date prior to Tuesday
+  C*: No, because the seller's late signature constitutes a counteroffer rather than an acceptance of the original offer
+  D : Yes, because delivery of acceptance by a third party satisfies the Statute of Frauds regardless of timing
+MARKED ANSWER: C
+RATIONALE: Once an offer expires, any subsequent purported acceptance—even if signed and delivered promptly—is legally a counteroffer, not an acceptance. The original offeror (buyer) then has the power to accept, reject, or counter this new offer from the seller.
+
+[tough-sy45lv.v1] (Tough variant)
+Q: A Big Island real estate licensee represents a buyer interested in a residential property where a suicide occurred in the guest cottage two years prior. The buyer has not asked about this event. What is the licensee's obligation?
+  A*: The licensee is not required to disclose the suicide unless directly questioned by the buyer, but must answer honestly if asked
+  B : Hawaii Revised Statutes mandate that all deaths, regardless of cause, be listed on the MLS and Disclosure Statement
+  C : The licensee must volunteer this information in writing as part of the transaction documents to avoid potential liability
+  D : The licensee should advise the seller to disclose proactively to prevent the transaction from collapsing later
+MARKED ANSWER: A
+RATIONALE: Hawaii does not require disclosure of stigmatizing events (deaths from natural or other causes unrelated to physical defect) on the Seller Disclosure Statement. However, the licensee cannot lie if the buyer directly inquires—honesty is required when asked, but volunteering is not.
+
+[tough-sy45lv.v2] (Tough variant)
+Q: A Maui seller's agent is preparing a Seller Real Property Disclosure Statement for a condo where a robbery occurred in the unit five years ago. The seller wants to know if omitting this from the disclosure form violates state law.
+  A : Yes, because failing to disclose could constitute fraud under the Hawaii Fair Housing Act
+  B : Yes, Hawaii requires all criminal incidents within the last ten years to be reported on the Disclosure Statement regardless of buyer inquiries
+  C : No, but the agent must file a separate Crime History Report with the Hawaii Real Estate Commission within 30 days
+  D*: No, Hawaii does not mandate disclosure of stigmatizing events unrelated to the property's physical condition; however, the agent must respond truthfully to any direct buyer question about the incident
+MARKED ANSWER: D
+RATIONALE: Stigmatizing events like past crimes that do not affect the property's physical condition are not required to be disclosed on Hawaii's Seller Disclosure Statement. Nonetheless, if a buyer asks directly about the robbery, the seller's agent cannot provide a false answer—misrepresenting facts when questioned crosses the line into actionable misrepresentation.
+
+[tough-sy45lv.v3] (Tough variant)
+Q: During a showing of a Honolulu property, a prospective buyer casually asks the listing agent if there have been any 'bad incidents' at the home. The property had a non-fatal shooting in the living room four years ago. The agent should:
+  A*: Provide a truthful answer about the incident because the buyer has asked a direct question, even though the crime itself was not a mandated disclosure item
+  B : State that stigmatizing events are not legally required to be disclosed and therefore decline to comment
+  C : Defer all questions to the seller's disclosure attorney and refuse to answer until written permission is obtained
+  D : Suggest the buyer hire an investigator to conduct their own background check to avoid agent liability
+MARKED ANSWER: A
+RATIONALE: While Hawaii law does not require proactive disclosure of stigmatizing events (past crimes, deaths from illness, etc.), once a buyer directly asks about incidents at the property, the agent cannot respond untruthfully. The agent must answer honestly to avoid misrepresentation, even though the event would not appear on the Seller Disclosure Statement.
+
+[tough-sy45lv.v4] (Tough variant)
+Q: A listing agent in Honolulu is representing a seller whose property experienced a homicide in the living room five years prior. The seller wants to know if this fact must appear on required state disclosure documents. What is the agent's most accurate guidance?
+  A : The agent may voluntarily disclose it to protect against liability, but federal law preempts any state requirement to disclose crimes that could affect fair housing
+  B*: Hawaii law does not mandate disclosure of stigmatizing facts like past crimes that have no bearing on the structure or systems; however, if a buyer directly asks, the agent must answer honestly
+  C : The agent must file a supplemental disclosure with the Hawaii Real Estate Commission if any buyer inquires about the property's history
+  D : State law classifies all crimes as material defects requiring disclosure on the Seller Real Property Disclosure Statement to comply with the Residential Property Disclosure Law
+MARKED ANSWER: B
+RATIONALE: Hawaii law exempts stigmatizing events (including past crimes that did not damage the physical property) from mandatory disclosure on the Seller Disclosure Statement. The critical exception is that a direct buyer question cannot be answered untruthfully—the agent must respond truthfully if asked, but is not required to volunteer the information.
+
+[tough-sy45lv.v5] (Tough variant)
+Q: During a listing appointment on the Big Island, a seller mentions that a violent assault occurred in the home's guest house two years ago. The seller asks whether this must be disclosed to prospective buyers in writing. The agent should advise:
+  A : The property cannot be marketed until a police clearance letter is obtained from the local police department
+  B : All crime-related incidents in Hawaii must be reported to the state licensing authority before the property can be listed
+  C*: Stigmatizing events such as past crimes are not required disclosures unless they materially affect the property's physical condition; but any direct buyer question must receive an honest answer
+  D : Federal law mandates that all criminal history on residential property be disclosed in a separate addendum signed by all parties
+MARKED ANSWER: C
+RATIONALE: Hawaii does not require disclosure of stigmatizing events (non-physical-damage crimes, deaths from natural causes, etc.) on the mandatory disclosure forms. However, agents must never lie in response to a direct buyer question—truthfulness is required in direct communication, even if proactive disclosure is not mandatory.
+
+[tough-sy45lv.v6] (Tough variant)
+Q: A Maui seller's agent discovers that the property was the scene of a fatal shooting in the kitchen four years ago. The seller believes this should remain private. Under Hawaii real estate law, the agent should tell the seller:
+  A : Past violent crimes must be disclosed only if the buyer's inspector discovers bullet holes or structural damage during inspection
+  B : The disclosure is mandatory on the Seller Real Property Disclosure Statement, and failure to include it violates the Residential Property Disclosure Law
+  C*: Disclosure of the crime is not required on state disclosure documents because it is a stigmatizing fact unrelated to the physical structure; however, truthfulness is required if a buyer asks directly
+  D : The agent must disclose the crime to all prospective buyers verbally, even without a buyer inquiry, or face potential disciplinary action
+MARKED ANSWER: C
+RATIONALE: Hawaii's disclosure rules treat stigmatizing events (past crimes without physical impact) differently from material property defects—they are not required on the Seller Disclosure Statement. Yet agents cannot misrepresent the property in response to a direct buyer question; honesty in direct communication is non-negotiable, even though volunteering the information is not mandated.
+
+[tough-sy45lv.v7] (Tough variant)
+Q: A listing agent in Hawaii represents a seller whose Big Island property experienced a fatal car accident in the driveway two years prior. No structural damage occurred. When preparing marketing materials, the agent questions whether this incident must be disclosed. What is the agent's most accurate understanding of Hawaii disclosure law?
+  A : The agent may omit the event from written disclosures but must volunteer it verbally to all prospective buyers
+  B : State law requires disclosure only if the event involved criminal activity; accidents and natural deaths are exempt
+  C : All deaths and accidents must be reported on the Seller Real Property Disclosure Statement regardless of physical impact
+  D*: Stigmatizing events unrelated to physical property condition are not mandatory disclosures; however, affirmative misrepresentation if directly asked is prohibited
+MARKED ANSWER: D
+RATIONALE: Hawaii does not require disclosure of stigmatizing events (deaths, crimes not affecting the property) on the Seller Disclosure Statement. However, if a buyer directly questions the history, the agent cannot lie—that constitutes misrepresentation. Silence on non-required items is permissible; false answers are not.
+
+[tough-sy45lv.v8] (Tough variant)
+Q: During a transaction for a Maui condo, a buyer's agent learns that the unit's owner suffered a serious assault in the living room eighteen months ago. The property's structure and systems are undamaged. The agent wants to know what Hawaii real estate law says about this information. Which statement most accurately reflects the licensing requirements?
+  A*: Stigmatizing events not involving property defects need not be affirmatively disclosed; but if the buyer poses a direct question, candor is mandatory
+  B : The agent must file a separate Stigmatizing Event Disclosure Form with the Hawaii Real Estate Commission within five business days
+  C : Hawaii Revised Statutes require agents to disclose any violent incidents occurring within the past five years on all MLS listings
+  D : The agent has a fiduciary duty to disclose all prior criminal incidents to protect against future liability
+MARKED ANSWER: A
+RATIONALE: Hawaii law distinguishes between defects affecting property value/condition and stigmatizing events. Past crimes that did not cause property damage are not mandatory disclosures. Nevertheless, a direct buyer inquiry cannot be answered falsely—agents must respond truthfully if asked.
+
+[tough-sy45lv.v9] (Tough variant)
+Q: A real estate licensee represents a seller of a Honolulu townhouse where a homicide occurred in a bedroom five years ago. The property has been fully renovated with new flooring, walls, and systems. The seller asks the agent: "Do I legally have to tell buyers about this?" The agent's MOST defensible response is:
+  A*: No, stigmatizing events divorced from physical condition are not required disclosures, although you cannot falsely deny knowledge if a buyer directly asks
+  B : Yes, because any felony occurring on the property must appear on the Seller Disclosure Statement regardless of time elapsed or repairs made
+  C : You should disclose to protect yourself from future complaints, even though state law does not mandate it for crimes
+  D : Only if the buyer makes an offer; then you must disclose in writing before closing
+MARKED ANSWER: A
+RATIONALE: Hawaii does not mandate disclosure of past stigmatizing events (including violent crimes) when they have not affected the physical condition of the property. However, agents may never affirmatively misrepresent or lie if questioned directly—that would violate fiduciary duty and licensing law.
+
+[tough-v6rnz2.v1] (Tough variant)
+Q: A licensee representing a buyer in a leasehold residential transaction in Hawaii must provide written disclosure of all of the following EXCEPT:
+  A : The remaining number of years on the ground lease
+  B*: The fee simple conversion price that the current fee owner is willing to accept
+  C : The current annual lease rent and any scheduled adjustments
+  D : Dates when lease rent is subject to renegotiation or reopening
+MARKED ANSWER: B
+RATIONALE: Hawaii leasehold disclosure law requires current rent, rent schedules, reopening dates, and lease term remaining because these affect property value and affordability. The fee owner's conversion asking price is neither standardized nor required to be disclosed, as it is a future negotiation item, not a material fact about the existing lease.
+
+[tough-v6rnz2.v2] (Tough variant)
+Q: When closing a leasehold residential purchase in Hawaii, which of the following items does NOT need to be disclosed to the buyer in writing before or at closing?
+  A*: The hypothetical amount the lessor might demand if the buyer later requests fee simple conversion
+  B : The specific lease anniversary dates when rent may be renegotiated
+  C : How much time remains on the ground lease
+  D : The monthly or annual lease rent obligation and any future adjustment provisions
+MARKED ANSWER: A
+RATIONALE: Material lease facts—term, rent amount, adjustments, and reopening schedules—must be disclosed because they directly impact the buyer's financial obligation and property value. A potential future conversion price does not yet exist and is not a required disclosure; it is speculative and outside the scope of leasehold disclosures.
+
+[tough-v6rnz2.v3] (Tough variant)
+Q: In a leasehold residential sale in Hawaii, a buyer's agent is preparing the required disclosures. Which one of the following would be OUTSIDE the scope of mandatory leasehold disclosures?
+  A*: The fee owner's estimated minimum asking price for future fee simple conversion negotiations
+  B : Lease rent reopening or renegotiation clause dates and conditions
+  C : The total years or months remaining on the ground lease at time of purchase
+  D : Annual lease rent and the mechanism by which it may increase or be renegotiated
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires disclosure of lease duration, current rent, rent escalation formulas, and reopening dates because these are concrete lease terms affecting value. The fee owner's asking price for potential future fee-to-simple conversion is not a material fact about the existing lease and is not a mandated disclosure item.
+
+[tough-v6rnz2.v4] (Tough variant)
+Q: A seller of leasehold residential property in Hawaii must provide a buyer with written disclosure of all the following EXCEPT:
+  A : Dates when lease rent may be reopened or renegotiated under the lease agreement
+  B : Remaining term of the ground lease
+  C : Current annual lease rent and any scheduled increases over the next five years
+  D*: The current market value at which the fee simple owner would be willing to sell the underlying fee interest
+MARKED ANSWER: D
+RATIONALE: Hawaii leasehold disclosure law requires rent, term, and reopening schedules because they directly impact affordability and long-term ownership costs. A fee owner's potential asking price to sell the fee is not a standard disclosure requirement and may not be determinable or offered.
+
+[tough-v6rnz2.v5] (Tough variant)
+Q: When representing a buyer in a leasehold residential purchase in Hawaii, which item would NOT appear in the mandatory lessor disclosure documents?
+  A : The number of years remaining on the ground lease
+  B : Specific lease anniversary dates when rent renegotiation may occur
+  C : The amount of current monthly lease rent and frequency of adjustments
+  D*: An estimate of what the fee owner might accept to sell the fee simple estate to the lessee
+MARKED ANSWER: D
+RATIONALE: Lessor disclosures cover lease economics (rent, term, reopening dates) because they materially affect buyer decision-making. A hypothetical fee-simple buyout price is neither required nor typically disclosed, as it is speculative and not a material lease term.
+
+[tough-v6rnz2.v6] (Tough variant)
+Q: A Hawaii leasehold buyer's material disclosure package must include all of the following EXCEPT the:
+  A*: Fee owner's private negotiation range or asking price for a fee-simple conversion
+  B : Lease rent amount and any scheduled modification schedule for the next lease period
+  C : Years of ground lease remaining at time of transfer
+  D : Dates on which lease rent reopenings or renegotiations are scheduled to occur
+MARKED ANSWER: A
+RATIONALE: Hawaii law mandates disclosure of rent, term, and reopening dates because they are integral to the leasehold's value and ongoing affordability. The fee owner's potential conversion asking price is not a statutory disclosure item and may not even be established or public knowledge.
+
+[tough-v6rnz2.v7] (Tough variant)
+Q: A seller of leasehold residential property in Hawaii must provide the buyer with written disclosure of all of the following EXCEPT:
+  A*: The current market value estimate for converting the property to fee simple ownership
+  B : Remaining term of the ground lease
+  C : The current monthly or annual lease rental obligation
+  D : Dates and terms of any lease rent adjustment or reopening clauses
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires disclosure of lease term, rent amount, and adjustment schedules because they directly impact affordability and ownership rights. The market value or asking price for fee conversion is not a mandated disclosure—it may be unknown or not for sale.
+
+[tough-v6rnz2.v8] (Tough variant)
+Q: Under Hawaii's leasehold property disclosure requirements, which item is a seller NOT obligated to disclose to a prospective buyer?
+  A*: The fee owner's listed price to purchase the underlying fee interest
+  B : The number of years remaining on the ground lease
+  C : Scheduled rent increases or renegotiation triggers
+  D : Annual or monthly rent payments due under the lease
+MARKED ANSWER: A
+RATIONALE: Material lease terms—remaining term, rent amount, and rent adjustment dates—must be disclosed because they affect long-term value and cost. The fee owner's conversion price is not a required disclosure; it is not germane to the buyer's ability to assess the property's affordability or legal encumbrances.
+
+[tough-v6rnz2.v9] (Tough variant)
+Q: When a buyer inquires about purchasing a leasehold dwelling unit in Hawaii, the seller's agent must disclose which of the following to the buyer?
+  A*: The expiration date and any renewal or renegotiation provisions of the ground lease
+  B : The total amount owed by the leaseholders to the fee owner for past rent arrears
+  C : The historical appreciation rate of the fee simple interest underlying the lease
+  D : How much the fee owner would charge to convert the leaseholders to fee simple ownership
+MARKED ANSWER: A
+RATIONALE: Hawaii law mandates disclosure of lease term expiration, renewal options, and rent reopening terms because they directly affect the buyer's use rights and future costs. The fee owner's conversion asking price is proprietary and not a required disclosure—it is not a standard lease term nor material to the buyer's statutory protections.
+

@@ -1,0 +1,3 @@
+BATCH 08 — reviewed 130 questions, found 0 critical, 1 major, 0 minor
+
+practice-of-real-estate-q03.v4 | major | The marked-correct option C reads "race, color, and religion, plus five additional protected classes" = 8 classes, but the federal FHA has only 7 (race, color, religion + 4 more: sex, national origin, familial status, disability). C is still the best/least-wrong choice among the options (D lists 8 incl. political affiliation; A/B too narrow), but the "correct" answer text contains an inaccurate count. Fix: change to "plus four additional protected classes" so it totals 7.

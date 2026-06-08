@@ -1,0 +1,279 @@
+GLOSSARY VERIFICATION — flag any inaccurate definition.
+
+[Acceleration clause] (finance) Mortgage provision allowing lender to demand full balance on default.
+[Accretion] (national) Gradual addition of soil to land by natural causes; the new soil belongs to the owner.
+[Acknowledgment] (title) Notarized statement that signature was made voluntarily. Required for recording.
+[Acre] (math) 43,560 square feet.
+[Adjustable Rate Mortgage (ARM)] (finance) Loan with rate that adjusts on a schedule based on an index plus margin.
+[Ad valorem tax] (national) Tax based on assessed value (e.g., property tax).
+[Adverse possession] (title) Acquiring title by open, notorious, hostile, continuous occupation for the statutory period.
+[Agency] (agency) Legal relationship where one person acts on behalf of another.
+[Agreement of Sale (AOS)] (hawaii) Hawaii installment land contract; buyer occupies, seller holds title until paid. | HI: Common alternative to bank financing.
+[Alienation clause] (finance) Loan provision triggering due-on-sale on transfer.
+[Amortization] (finance) Gradual loan repayment via periodic principal-and-interest payments.
+[AOAO] (hawaii) Association of Apartment Owners — Hawaii term for condo HOA.
+[APR] (finance) Annual Percentage Rate. Loan cost including interest + points + fees.
+[Appraisal] (national) Licensed appraiser's opinion of value. Required for federally related transactions.
+[Appurtenant] (national) Attached to or running with the land (e.g., easement appurtenant).
+[Assessed value] (national) Tax value placed on property by county assessor. Often less than market value.
+[Assignment] (contracts) Transfer of contract rights to another party.
+[Attornment] (national) Tenant's acknowledgment of new owner as landlord.
+[Bilateral contract] (contracts) Both parties make promises to each other.
+[Blanket mortgage] (finance) One mortgage covering multiple parcels with partial release clause.
+[Blockbusting] (national) Inducing sales by representing protected-class entry. Fair housing violation.
+[BOC] (hawaii) Bureau of Conveyances — Hawaii's Regular System title office.
+[Bundle of rights] (national) Set of legal rights of ownership: possess, use, enjoy, exclude, dispose.
+[Capacity] (contracts) Legal ability to contract.
+[Capitalization rate] (math) NOI ÷ Value. Higher rate = higher risk or lower price.
+[Caveat emptor] (national) "Let the buyer beware" — largely supplanted by mandatory disclosure laws.
+[CC&Rs] (national) Covenants, Conditions, and Restrictions. Private deed-based rules running with land.
+[CERCLA] (national) Superfund. Federal hazardous-waste cleanup law with strict liability.
+[Chain of title] (title) Recorded history of ownership. Gaps = clouds.
+[Closing Disclosure] (finance) Federal form summarizing loan terms + closing costs. Delivered 3 days before closing.
+[Cloud on title] (title) Defect or unresolved claim affecting marketability.
+[CMA] (national) Comparative Market Analysis. Agent-prepared pricing recommendation.
+[COALD] (agency) Care, Obedience, Accounting, Loyalty, Disclosure. Five fiduciary duties.
+[Commingling] (agency) Mixing trust funds with personal funds. License-law violation.
+[Common elements] (hawaii) Condo property shared by all unit owners (lobby, pool, roof).
+[Comparables (comps)] (national) Recent sales used to estimate subject's value.
+[Condemnation] (national) Government's exercise of eminent domain.
+[Conditional use] (national) Use allowed in zone subject to specific conditions/permit.
+[Condominium] (national) Fee ownership of unit + undivided interest in common elements.
+[Consideration] (contracts) Something of value exchanged in a contract.
+[Contingency] (contracts) Condition that must be met for contract to proceed.
+[Conversion] (agency) Using trust funds for own benefit. Felony in most states.
+[Conveyance] (title) Transfer of real property interest.
+[Conveyance tax] (hawaii) Hawaii state tax on real property transfers. Tiered rate.
+[Cooperative] (national) Own shares in corporation that owns building + proprietary lease.
+[Counteroffer] (contracts) Rejection + new offer. Cancels original.
+[Covenant] (national) Promise running with land. Binds future owners.
+[CPR] (hawaii) Condominium Property Regime. Multiple units on one lot, each with TMK. Hawaii-specific.
+[Curtesy] (national) Common-law husband's interest in deceased wife's real property. Largely abolished.
+[Datum] (national) Reference point for elevation measurements.
+[DCCA] (hawaii) Hawaii Department of Commerce and Consumer Affairs. Oversees REC.
+[Dedication] (national) Voluntary transfer of private land to public use.
+[Deed] (title) Document transferring title from grantor to grantee.
+[Deed restriction] (title) Private use restriction in deed. Runs with land.
+[Default] (contracts) Failure to perform contract obligation.
+[Delivery] (title) Transfer of deed with intent to convey. Required for valid transfer.
+[Depreciation (appraisal)] (national) Loss in value from physical, functional, or external causes.
+[Discount points] (finance) Prepaid interest. 1 point = 1% of loan. Lowers rate.
+[DROA] (hawaii) Deposit Receipt Offer and Acceptance — Hawaii standard residential purchase form.
+[Dual agency] (agency) One agent represents both buyer and seller. Requires written informed consent.
+[DUST] (national) Demand, Utility, Scarcity, Transferability. Four characteristics required for value.
+[Earnest money] (contracts) Buyer's good-faith deposit, typically held by escrow.
+[Easement] (national) Right to use another's land. Appurtenant runs with land; in gross is personal.
+[ECOA] (finance) Equal Credit Opportunity Act. Bans lending discrimination.
+[Emblements] (national) Tenant's annual crops; treated as personal property.
+[Eminent domain] (national) Government power to take private property for public use with just compensation.
+[Encroachment] (national) Unauthorized physical intrusion onto another's property.
+[Encumbrance] (national) Non-possessory claim affecting property (lien, easement, restriction).
+[Equity] (finance) Property value minus liens.
+[Escheat] (national) Property reverts to state when owner dies intestate with no heirs.
+[Escrow] (national) Neutral third party holding funds + documents until conditions met.
+[Estate] (national) Interest in land. Includes fee simple, life estate, leasehold.
+[Estoppel] (contracts) Bar against asserting a position contrary to one's prior conduct.
+[Exclusive Agency Listing] (agency) Broker earns commission unless seller produces buyer.
+[Exclusive Right to Sell] (agency) Broker earns regardless of who finds buyer.
+[Fair Housing Act] (national) Federal law banning housing discrimination on 7 protected classes.
+[Fee simple absolute] (national) Greatest possible ownership interest. Perpetual, inheritable, unconditional.
+[FHA] (finance) Federal Housing Administration. Insures low-down-payment loans.
+[Fiduciary] (agency) Person owing duties of trust (care, loyalty, etc.).
+[FIRPTA] (finance) Federal Foreign Investment in Real Property Tax Act. 15% withholding on foreign sellers.
+[Fixture] (national) Item that has become real property by attachment, adaptation, or intent.
+[Foreclosure] (finance) Lender's remedy on default. Judicial or non-judicial.
+[Fraud] (contracts) Intentional misrepresentation of material fact causing harm.
+[Freehold estate] (national) Indeterminate-duration estate (fee, life estate). Contrast leasehold.
+[GET] (hawaii) Hawaii General Excise Tax. Applies to real estate commissions and rents.
+[GIM] (math) Gross Income Multiplier. Sale Price ÷ Annual Gross Income.
+[Grantor / Grantee] (title) Grantor = transferor. Grantee = recipient.
+[GRM] (math) Gross Rent Multiplier. Sale Price ÷ Monthly Gross Rent.
+[HARPTA] (hawaii) Hawaii Real Property Tax Act. 7.25% withholding on non-resident seller.
+[Highest and best use] (national) Legally permissible, physically possible, financially feasible, maximally productive use.
+[HOA] (national) Homeowners Association. Manages common-interest community.
+[HRS 467] (hawaii) Hawaii Real Estate Brokers and Salespersons statute.
+[HRS 514B] (hawaii) Hawaii modern Condominium Property Act.
+[HRS 521] (hawaii) Hawaii Residential Landlord-Tenant Code.
+[HRS 508D] (hawaii) Hawaii Mandatory Seller Disclosures statute.
+[HRS 515] (hawaii) Hawaii state fair housing statute. Adds classes beyond federal.
+[Hui] (hawaii) Traditional Hawaiian co-ownership of land, often family-held.
+[Hypothecation] (finance) Pledging property as security without giving up possession.
+[Implied agency] (agency) Agency created by parties' conduct without express agreement.
+[In-gross easement] (national) Easement held by a person, not attached to a specific parcel.
+[Joint tenancy] (national) Co-ownership with right of survivorship. Requires four unities.
+[Land Court] (hawaii) Hawaii's Torrens-style registered title system. TCT is conclusive.
+[Latent defect] (national) Hidden defect not discoverable on reasonable inspection.
+[Lease] (contracts) Contract transferring possession + use for term in exchange for rent.
+[Leasehold estate] (national) Tenant's right to possess and use property for term.
+[Lessor / Lessee] (national) Landlord / Tenant.
+[Lien] (national) Monetary encumbrance attaching to property as security for debt.
+[Life estate] (national) Ownership for duration of measuring life. Reverts to remainderman.
+[Liquidated damages] (contracts) Pre-agreed damages amount. Often the earnest money in real estate.
+[Listing agreement] (agency) Contract creating broker-seller relationship.
+[LTV] (finance) Loan-to-Value. Loan ÷ Value. PMI required above 80% conventional.
+[Marketable title] (title) Title free of significant clouds, acceptable to a reasonable buyer.
+[Material fact] (national) Fact a reasonable buyer/seller would consider important.
+[Mechanic's lien] (hawaii) Contractor/supplier lien for unpaid work or materials. HRS 507 in Hawaii.
+[Megan's Law] (national) Sex offender registration disclosure. State-specific agent duty rules.
+[Mill rate] (math) Property tax rate. Tax = Assessed Value × (mills ÷ 1,000).
+[Misrepresentation] (agency) False statement of material fact. Innocent, negligent, or fraudulent.
+[Mortgage] (finance) Security instrument creating lender's lien on property.
+[Net listing] (agency) Broker keeps amount above seller's minimum. Disfavored or banned.
+[NOI] (math) Net Operating Income. Gross Income − Vacancy − Operating Expenses.
+[Novation] (contracts) Substitution of new party or new contract by mutual agreement.
+[Offer] (contracts) Definite proposal communicated with intent to be bound on acceptance.
+[Option contract] (contracts) Right (not obligation) to buy at stated price within stated time.
+[Patent defect] (national) Obvious defect visible on reasonable inspection.
+[Periodic tenancy] (national) Lease that renews automatically (month-to-month).
+[PITI] (finance) Principal, Interest, Taxes, Insurance. Total monthly housing payment.
+[PMI] (finance) Private Mortgage Insurance. Required above 80% LTV conventional.
+[PMM] (finance) Purchase Money Mortgage. Seller-financed mortgage at sale.
+[Police power] (national) Government authority to regulate for health, safety, welfare. Source of zoning.
+[Power of attorney] (agency) Written authority for another to act for you.
+[Prepayment penalty] (finance) Fee for paying off loan early. Restricted on most owner-occupied mortgages.
+[Principal] (finance) (1) Loan amount. (2) Person agent represents.
+[Probate] (title) Court process administering deceased's estate.
+[Procuring cause] (agency) Origin of unbroken chain producing sale. Determines commission entitlement.
+[Property management] (agency) General agency: collect rents, maintain property, handle tenants.
+[Proration] (math) Splitting shared expenses at closing.
+[PUD] (national) Planned Unit Development. Own lot + share in common areas.
+[Puffing] (agency) Subjective sales talk. Not actionable as misrepresentation.
+[Quitclaim deed] (title) Conveys whatever interest grantor has. No warranties.
+[Real Estate Commission (REC)] (hawaii) Hawaii regulator. Sets rules, investigates, disciplines licensees.
+[Real property] (national) Land + permanent attachments + ownership rights.
+[Recording] (title) Filing document with county recorder. Provides constructive notice.
+[Redlining] (national) Refusing to lend/insure in protected-class areas. Illegal.
+[Rescission] (contracts) Termination of contract returning parties to pre-contract position.
+[RESPA] (finance) Real Estate Settlement Procedures Act. Loan Estimate + Closing Disclosure rules.
+[Reverse mortgage] (finance) Loan against home equity for seniors. Repaid when borrower dies/moves/sells.
+[Riparian rights] (national) Rights of owner of land bordering a watercourse.
+[Salesperson license] (hawaii) Hawaii entry-level license. 18+, 60-hr course, PSI exam, sponsoring broker.
+[Sellers market] (national) Demand exceeds supply; prices rise.
+[Setback] (national) Required distance between structure and property line.
+[Severalty] (national) Sole ownership by one person or entity.
+[SMA] (hawaii) Special Management Area. Hawaii coastal-zone regulation.
+[Specific performance] (contracts) Court orders actual conveyance. Buyer's remedy for seller breach.
+[Spot zoning] (national) Singling out one parcel for different treatment. Generally unconstitutional.
+[Statute of Frauds] (contracts) Real estate contracts must be in writing.
+[Steering] (national) Channeling buyers based on protected class. Fair housing violation.
+[Stigmatized property] (national) Property with non-physical issue (death, crime). Disclosure rules vary by state.
+[Subagency] (agency) Agent's authority delegated to another agent.
+[Subdivision] (national) Division of land into lots for sale or development.
+[Subordination] (finance) Voluntarily lowering lien priority to allow new senior lien.
+[Survey] (national) Professional measurement and mapping of parcel boundaries.
+[TCT] (hawaii) Transfer Certificate of Title. Hawaii Land Court conclusive title document.
+[Tenancy at will] (national) Lease terminable by either party at any time.
+[Tenancy by the entirety] (national) Spousal co-ownership with survivorship + creditor protection.
+[Tenancy in common] (national) Co-ownership with separate inheritable shares. No survivorship.
+[Time is of the essence] (contracts) Deadlines strictly enforced. Late performance = breach.
+[Time share] (national) Right to occupy unit for set period each year. | HI: HRS 514E governs disclosures and 7-day rescission.
+[Title insurance] (title) Protects against title defects existing at closing.
+[TMK] (hawaii) Tax Map Key. Hawaii's parcel ID: Zone-Section-Plat-Parcel(-CPR).
+[Trust account] (agency) Separate account for client/customer funds. No commingling.
+[Truth in Lending Act / Reg Z] (finance) Federal law requiring APR disclosure and standardized loan cost format.
+[Unilateral contract] (contracts) One party makes a promise; other accepts by performance (e.g., reward).
+[Universal agent] (agency) Authority to act in all matters. Power of attorney.
+[Usury] (hawaii) Charging interest above legal cap. HRS 478 in Hawaii.
+[VA loan] (finance) Veterans Affairs guaranteed loan. No PMI; often no down payment.
+[Variance] (national) Narrow exception to zoning for unique hardship.
+[Voidable contract] (contracts) Contract one party can elect to void (e.g., minor's contract).
+[Warrantable condo] (finance) Project meeting Fannie/Freddie standards. Easier to finance.
+[Warranty deed] (title) Deed with grantor warranties of title quality.
+[Zoning] (national) Public regulation dividing land into use districts.
+[Estate in fee simple] (property) Highest form of ownership — indefinite duration, freely transferable, inheritable.
+[Fee simple defeasible] (property) Fee ownership that can be lost if a condition occurs or is violated.
+[Remainderman] (property) Party who receives a life estate property after the life tenant dies.
+[Reversionary interest] (property) Grantor's right to get the property back after a life estate ends.
+[Estate for years] (property) Lease with definite start and end date. Auto-terminates; no notice required.
+[Tenancy at sufferance] (property) Tenant holds over after lease ends without landlord consent.
+[Community property] (property) Spousal co-ownership of property acquired during marriage. NOT a Hawaii concept. | HI: Hawaii is a common-law state, not community property.
+[Time-share] (property) Ownership of intervals of use, typically in resort property. Heavily regulated in Hawaii. | HI: HRS 514E requires 7-day rescission period for buyers.
+[Cooperative (co-op)] (property) Ownership of stock in a corporation that owns the building; resident gets proprietary lease.
+[Planned Unit Development (PUD)] (property) Combination of individual unit ownership + shared common areas governed by HOA.
+[Protected classes (federal)] (fair-housing) Race, color, religion, national origin, sex, familial status, disability. Seven federal classes.
+[Hawaii protected classes] (fair-housing) Federal 7 + ancestry, marital status, age, sexual orientation, gender identity, HIV status, source of income. | HI: HRS 515 — Hawaii's additions are some of the broadest in the country.
+[Reasonable accommodation] (fair-housing) Required adjustment to rules/policies so a disabled person can equally use housing (e.g., service animal in no-pet building).
+[Reasonable modification] (fair-housing) Required structural change a disabled tenant may make (at their cost) to use housing.
+[Mrs. Murphy exemption] (fair-housing) Owner-occupied 1-4 unit dwelling — limited federal Fair Housing exemption. Hawaii doesn't honor it. | HI: HRS 515 has no Mrs. Murphy carve-out; small landlords here must still comply.
+[Familial status] (fair-housing) Households with children under 18, pregnant women, or those securing custody. Protected federally + in Hawaii.
+[Disparate impact] (fair-housing) Neutral policy that disproportionately harms a protected class. Can be discrimination even without intent.
+[HUD] (fair-housing) Department of Housing and Urban Development — federal agency enforcing Fair Housing Act.
+[HCRC] (fair-housing) Hawaii Civil Rights Commission — state agency enforcing HRS 515 fair housing. | HI: Files most state-level housing-discrimination complaints.
+[Easement appurtenant] (land-use) Easement that benefits a neighboring (dominant) parcel; runs with the land.
+[Easement in gross] (land-use) Easement benefiting a person or entity, not adjacent land (e.g., utility easement).
+[Prescriptive easement] (land-use) Easement acquired by open, notorious, continuous use for the statutory period (similar to adverse possession but use, not ownership).
+[License (land use)] (land-use) Permission to use land for a specific purpose; revocable at will.
+[Nonconforming use] (land-use) Existing use that no longer matches current zoning but is allowed to continue (grandfathered).
+[Conditional use permit] (land-use) Permission for a use not permitted by right in the zone, subject to conditions.
+[Lateral support] (land-use) Right to have land supported by neighboring land in its natural state.
+[Littoral rights] (land-use) Rights of land abutting a non-flowing body of water (lake, ocean). Relevant in Hawaii. | HI: Hawaii's public-trust doctrine retains state title to land below the high-water mark.
+[Special Management Area (SMA)] (land-use) Hawaii coastal zone with extra permitting requirements. Restricts shoreline development. | HI: HRS 205A — protects shoreline; permits required for most coastal projects.
+[Land Use Commission (LUC)] (land-use) Hawaii body that classifies all state land into Urban, Rural, Agricultural, Conservation districts. | HI: HRS 205 — district boundary changes require LUC approval.
+[TILA] (closing) Truth in Lending Act — requires lender disclosure of APR, finance charge, total loan cost.
+[TRID] (closing) TILA-RESPA Integrated Disclosure rule — combined Loan Estimate + Closing Disclosure forms.
+[Loan Estimate] (closing) TRID form lender must provide within 3 business days of application. Lists costs + terms.
+[Settlement statement] (closing) Itemized list of all debits and credits for buyer and seller at closing.
+[Credit (closing)] (closing) Amount that reduces what a party owes — buyer credit from seller for repairs, etc.
+[Debit (closing)] (closing) Amount a party owes at closing — buyer's purchase price + buyer's closing costs, etc.
+[Conveyance tax (Hawaii)] (closing) Hawaii state tax on real estate transfers. Rate varies by sale price + buyer's primary residence status. | HI: HRS 247 — paid by seller unless contract says otherwise. Rates from $0.10 to $1.25 per $100.
+[ALTA policy] (closing) American Land Title Association standardized title insurance form. Extended coverage.
+[Quiet title action] (closing) Lawsuit to remove clouds on title and establish clear ownership.
+[Property management agreement] (management) Written contract authorizing a manager to operate property for owner. Creates general agency.
+[Trust account (PM)] (management) Separate account where property managers hold rents + deposits. Commingling is illegal. | HI: HRS 467 requires separate broker trust accounts; misuse = license revocation.
+[Security deposit (Hawaii)] (management) Hawaii caps residential at 1 month's rent. Must be returned within 14 days with itemized deductions. | HI: HRS 521-44 — 14 days, not 30.
+[Eviction (Hawaii)] (management) Hawaii residential evictions follow HRS 666 — proper notice, then court summary possession. | HI: 5 days for non-payment, 10 days for other breaches.
+[Constructive eviction] (management) Landlord conduct so severe tenant must leave; treated legally as eviction.
+[Habitability (warranty of)] (management) Landlord must keep residence fit for living. Implied in every Hawaii lease. | HI: HRS 521-42 codifies implied warranty of habitability.
+[Sublease] (management) Tenant rents some or all of leasehold to a third party while remaining liable to landlord.
+[Assignment of lease] (management) Tenant transfers entire remaining lease term to a new tenant. New tenant becomes liable to landlord.
+[CAM charges] (management) Common Area Maintenance — tenant pays share of shared-area costs in commercial leases.
+[Gross lease] (management) Tenant pays one flat rent; landlord pays taxes, insurance, maintenance.
+[Net lease] (management) Tenant pays rent + some property expenses. Triple-net (NNN) = tenant pays taxes, insurance, AND maintenance.
+[Percentage lease] (management) Rent = base + % of tenant's gross sales. Common in retail.
+[Capitalization rate (cap rate)] (investment) Net operating income ÷ purchase price. Quick measure of investment return.
+[Net Operating Income (NOI)] (investment) Gross income − vacancy − operating expenses. Excludes debt service + taxes.
+[Gross rent multiplier (GRM)] (investment) Price ÷ annual gross rent. Crude valuation shortcut.
+[Cash-on-cash return] (investment) Annual pre-tax cash flow ÷ cash invested. Measures leveraged return.
+[Leverage] (investment) Using borrowed funds to amplify returns on invested capital.
+[Depreciation (tax)] (investment) IRS deduction for wear on improvements. Residential = 27.5 yrs straight-line; commercial = 39 yrs.
+[1031 exchange] (investment) IRC § 1031 — defer capital gains by exchanging like-kind investment properties within 180 days.
+[Boot] (investment) Non-like-kind consideration received in a 1031 exchange. Taxable.
+[Adjusted basis] (investment) Purchase price + capital improvements − depreciation. Used to compute capital gain.
+[Capital gain] (investment) Profit on sale of investment property. Long-term = held > 1 year, lower tax rate.
+[Operating expense ratio] (investment) Operating expenses ÷ effective gross income. Lower = more efficient property.
+[Vacancy and credit loss] (investment) Estimated lost income from empty units + tenants who don't pay. Deducted to find effective gross income.
+[Commission split] (math) Total commission divided among listing broker, listing agent, selling broker, selling agent per agreements.
+[Loan-to-value (LTV)] (math) Loan amount ÷ appraised value. Lenders use this for risk + PMI thresholds.
+[Debt-to-income (DTI)] (math) Monthly debt payments ÷ gross monthly income. Lender qualification ratio.
+[Front-end ratio] (math) Housing payment (PITI) ÷ gross income. Typically capped near 28-31% for conventional.
+[Back-end ratio] (math) Total debt payments ÷ gross income. Typically capped near 36-43% depending on loan program.
+[Point (discount)] (math) 1% of loan amount, paid at closing to buy down interest rate.
+[Mill / millage rate] (math) 1/1000 of $1. Property tax expressed as mills per $1 of assessed value.
+[Square foot pricing] (math) Sale price ÷ living-area square feet. Used in comparative market analysis.
+[Hectare] (math) 10,000 square meters ≈ 2.471 acres. Occasionally appears in Hawaii survey work.
+[Section (survey)] (math) 1 square mile = 640 acres in the federal rectangular survey system.
+[Township (survey)] (math) 36 sections = 36 square miles in the rectangular survey system.
+[1031 timeline] (math) 45 days to identify replacement, 180 days total to close. Strict — no extensions.
+[PB (Principal Broker)] (hawaii) Hawaii broker designated to supervise a firm. Required by HRS 467. | HI: Every Hawaii brokerage must have one designated PB.
+[BIC (Broker In Charge)] (hawaii) Broker designated to manage a specific branch office.
+[RB / RS license] (hawaii) Hawaii license abbreviations: RB = Real Estate Broker; RS = Real Estate Salesperson.
+[Continuing education (Hawaii)] (hawaii) Hawaii licensees need 20 hours CE per 2-year renewal cycle. Includes Core class. | HI: Specific Core topics vary by cycle — published by REC.
+[Recovery Fund] (hawaii) Hawaii fund paying judgments against licensees who can't pay. Funded by license fees. | HI: HRS 467-16 — max $25K per transaction, $50K per licensee.
+[Earnest Money Deposit (EMD) handling] (hawaii) Hawaii brokers must deposit EMD into trust within 5 business days of acceptance. | HI: Late deposit = license discipline.
+[Mandatory Seller's Disclosure] (hawaii) Hawaii sellers must provide Sellers Real Property Disclosure Statement (SRPDS) within timeframes. | HI: HRS 508D — disclosure must be material, accurate, signed.
+[Land Court system] (hawaii) Hawaii's Torrens-style registration system. Title certificates conclusive. Use BoC for Regular System. | HI: Land Court parcels have a TCT number — title is guaranteed by the state.
+[Lava zone] (hawaii) USGS classification 1-9 of volcanic hazard risk. Lower number = higher risk. Affects insurance. | HI: Hawaii sellers must disclose lava zone on Big Island parcels.
+[Sea level rise zone] (hawaii) Hawaii planning overlay flagging properties at risk from coastal flooding by 2050+. Disclosure may apply.
+[Agricultural disclosure (Hawaii)] (hawaii) Required notice for properties in or near agricultural-use districts. Pesticide / odor / equipment noise.
+[Solar water heater requirement] (hawaii) Hawaii law requires solar water heaters on most new single-family construction since 2010. | HI: HRS 196-6.5 — variance available but rarely granted.
+[Bargain and sale deed] (title) Conveys title without warranties; implies grantor owns but no guarantees.
+[Grant deed] (title) Implies two warranties: grantor hasn't conveyed to anyone else, and property is unencumbered.
+[Sheriff's deed] (title) Deed issued by court after judicial foreclosure or execution sale.
+[Tax deed] (title) Deed issued after sale of property for unpaid taxes.
+[Trustee's deed] (title) Deed issued by trustee after non-judicial foreclosure under power of sale.
+[Habendum clause] (title) Deed clause defining the estate granted ("to have and to hold").
+[Granting clause] (title) Deed clause naming grantor + grantee and stating intent to convey.
+[Lis pendens] (title) Notice of pending lawsuit that may affect title. Recorded with the land record.
+[Mechanics lien] (title) Lien on property for unpaid labor/materials. Must be filed within statutory window.
+[Judgment lien] (title) Court judgment recorded against debtor's real property. General lien on all property in county.
+[Estoppel certificate] (title) Written statement by party (often tenant or lender) that prevents later contradictory claims.

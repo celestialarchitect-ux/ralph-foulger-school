@@ -1,0 +1,11 @@
+NO ERRORS FOUND (reviewed 130)
+
+Notes (no flag required):
+- land-use-controls-q04 family: "property tax liens rank senior to federal tax liens" VERIFIED correct under 26 USC §6323(b)(6) — local ad valorem property tax liens are protected/superior to a filed federal tax lien. Marked answers correct.
+- All eminent domain items (q01.*): public use/purpose + just compensation, owner consent not required — correct.
+- CERCLA (q03.*): strict, joint and several, retroactive liability across broad PRP class (current/former owners, operators, transporters, generators) — correct.
+- PETE (q05.*): Police power, Eminent domain, Taxation, Escheat — correct in all orderings.
+- Lead-based paint disclosure (q07.*): pre-1978 / "in or before 1977" / "on or before Dec 31, 1977" all equivalent and correct.
+- Cap-rate math (valuation q00.*): $48,000 ÷ 0.08 = $600,000 — recomputed, correct in every variant.
+- FAR (q10.*): floor area ÷ lot area; 1.5 FAR × 10,000 sf = 15,000 sf — correct.
+- Functional obsolescence (q01.*): internal design deficiency vs market standard — correct. q01.v9 uses an oddly-constructed premise (open-concept framed as "dated") but the concept/answer is correct; defensible, not flagged.

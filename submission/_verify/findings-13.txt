@@ -1,0 +1,13 @@
+BATCH 13 — reviewed 130 questions, found 11 critical, 0 major, 1 minor
+
+hi-property-management-q07 | critical | False statutory claim: states a "5-day notice" is THE notice for non-payment of rent. Under HRS 521-68 the nonpayment notice is 10 calendar days (effective Feb 5, 2026 per Act 278); the prior post-2022 version was 5 BUSINESS days, never a flat "5-day" notice. The "5-day" premise is wrong under current Hawaii law. | Revise to "10 calendar days (HRS 521-68)"; correct option-concept (non-payment of rent) is fine but the day count must be fixed.
+hi-property-management-q07.v1 | critical | Rationale asserts "5-day notice in Hawaii is specifically for non-payment of rent" — false; current HRS 521-68 requires 10 calendar days. | Fix day count to 10 calendar days.
+hi-property-management-q07.v2 | critical | "5-day cure-or-quit" stated as statutory nonpayment notice — incorrect; HRS 521-68 = 10 calendar days. | Fix to 10 calendar days.
+hi-property-management-q07.v3 | critical | "Hawaii law mandates a 5-day notice for non-payment of rent" — false under current HRS 521-68 (10 calendar days). | Fix to 10 calendar days.
+hi-property-management-q07.v4 | critical | "5-day notice period... statutory for non-payment of rent" — incorrect; 10 calendar days now required. | Fix to 10 calendar days.
+hi-property-management-q07.v5 | critical | "5-day cure or quit notice... for non-payment of rent" — false statutory claim; HRS 521-68 = 10 calendar days. | Fix to 10 calendar days.
+hi-property-management-q07.v6 | critical | "5-day notice period in Hawaii residential tenancy... for rent default" — wrong; current statute = 10 calendar days. | Fix to 10 calendar days.
+hi-property-management-q07.v7 | critical | "5-day notice is the statutory period... rent arrearages" — false; HRS 521-68 requires 10 calendar days. | Fix to 10 calendar days.
+hi-property-management-q07.v8 | critical | "5-day notice is the required cure-or-quit period for non-payment of rent" — incorrect; 10 calendar days under current law. | Fix to 10 calendar days.
+hi-property-management-q07.v9 | critical | "5-day notice... statutory notice period for non-payment of rent" — false; HRS 521-68 = 10 calendar days. | Fix to 10 calendar days.
+hi-land-utilization-q05 | minor | Answer "4 counties" is correct for independent zoning, but Hawaii technically has 5 counties (incl. Kalawao, which has no independent zoning). Defensible as written; consider a clarifying note. | Keep answer 4; optionally note Kalawao exception.

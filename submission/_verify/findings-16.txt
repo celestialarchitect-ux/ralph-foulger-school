@@ -1,0 +1,20 @@
+BATCH 16 — reviewed 130 questions, found 6 critical, 4 major, 1 minor
+
+CRITICAL (answer-key letter does not match computed value):
+tough-1rk32k.v1 | critical | $9,600, June 20 close. Seller days Jan1–Jun19 = 169; 169/360×9600 = $4,506.67. Marked answer C says "debit $4,900" — figure wrong (and rationale itself computes $4,506.67 yet states $4,900). | Debit ≈ $4,507 (use option closest to true math; current option set has no exact value).
+tough-1rk32k.v2 | critical | $12,000, Sept 5 close. Seller days Jan1–Sept4 = 244 (rationale wrongly says 248); 244/360×12000 = $8,133. Marked answer A states "~$3,650" — off by >$4,400 from the seller's actual tax share. | Debit seller ≈ $8,133, credit buyer same. Option figure is wrong.
+tough-1rk32k.v3 | critical | $18,000, Mar 10 close. Seller days Jan1–Mar9 = 69; 69/360×18000 = $3,450 (rationale agrees). Marked answer A says "Debit ~$1,500" — contradicts its own $3,450 computation. | Debit ≈ $3,450.
+tough-1rk32k.v4 | critical | $7,200, June 21 close. Seller days Jan1–Jun20 = 170 (rationale says 171); 170/360×7200 = $3,400. Marked answer A says "Debit $3,780" — does not match. | Debit ≈ $3,400–$3,420.
+tough-1rk32k.v5 | critical | $8,400, Mar 3 close. Seller days Jan1–Mar2 = 62; 62/360×8400 = $1,446.67 (rationale computes this) yet marked answer B says "Debit $1,260." $1,446.67 does not round to $1,260. | Debit ≈ $1,447.
+tough-1rk32k.v6 | critical | $14,400, Aug 5 close. Seller days Jan1–Aug4 = 214; 214/360×14400 = $8,560. Marked answer C says "Debit $3,480"; rationale is incoherent (cites $8,533 then $3,480/$3,600). | Debit ≈ $8,560; option set has no correct value.
+
+MAJOR:
+tough-19 | major | $9,600, Apr 14 close. Jan1–Apr13 = 103 days; 103/360×9600 = $2,746.67. Marked D = "$2,773.33." Rationale computes $2,746.67 but then says "closest answer: B at $2,773.33" — references letter B while answer key is D. Internally contradictory and figure off. | Debit ≈ $2,746.67; fix the stray "B" reference and align option value.
+hi-professional-conduct-q14 (and v1–v9) | major | Rationale cites "HRS 467-2" as the referral-fee prohibition. HRS 467-2 is the definitions section; the actual prohibition on compensating/splitting fees with unlicensed persons is HRS 467-14(14). Answer ("both RESPA and HRS 467") is correct; the section cite is wrong. | Cite HRS 467-14(14) (or HRS 467 generally), not 467-2.
+tough-1rk32k.v2 (rationale) | major | Day count error: states Jan1–Sept4 = 248; correct is 244 (8×30+4). | Use 244 days.
+tough-1rk32k.v6 (rationale) | major | Rationale is self-contradictory and the day-count math is garbled; needs full rewrite even after fixing the option. | Recompute: 214 days, $8,560 seller debit.
+
+MINOR:
+tough-1rk32k.v4 (rationale) | minor | States 171 seller days ("30+30+30+30+30+21"); through Jun20 is 170 days. | Use 170 days.
+
+NOTE: All substantive Hawaii law verified correct — salesperson min age 18 (HRS 467); broker 80-hr pre-licensing (HRS 467-9.5); trust records 3 yrs (HAR 16-99-4); HARPTA 7.25% (HRS 235-68, tough-6 $68,875 ✓, tough-14 ✓); condo Public Report before binding contract (HRS 514B-86, tough-5 ✓); licensee-as-principal written disclosure (HAR 16-99-3, tough-20 ✓). Clean math correct: tough-2 ($14,400), tough-11 ($13,320).

@@ -1,0 +1,6 @@
+RE-VERIFY — checked 163 items, 2 still wrong
+
+tough-1rk32k.v7 | HIGH | Mar 22 close: seller owns Jan 1–Mar 21 = 81 days (30+30+21); 81/360 × $8,400 = $1,890. Marked answer A "$2,100" does not match; rationale is internally garbled ("rounds to approximately $1,900–$2,100"). NO option equals the correct proration. | Set option A to "$1,890" and rewrite rationale: 81/360 × $8,400 = $1,890 seller debit.
+tough-1rk32k.v8 | MEDIUM | July 9 close: Jan 1–Jul 8 = 188 days; 188/360 × $7,200 = $3,746.67. Marked D "$3,900" (Δ153.33) is FARTHER than option A "$3,600" (Δ146.67), so the closest-match key is wrong. | Replace option D with exact "$3,747" and mark it, OR re-key to A "$3,600" as closest; current $3,900 is not the nearest value.
+
+NOTE (cosmetic, not re-keyed): hi-professional-conduct-q05.v6, .v7, .v8 each repeat "ancestry" twice inside the correct option's class list (typo). Answer remains the only correct choice, but a Commission reviewer will flag the duplicate word — recommend deleting the second "ancestry" in each.

@@ -1,0 +1,3 @@
+BATCH 03 — reviewed 130 questions, found 1 critical, 0 major, 0 minor
+
+financing-q00.v2 | critical | $180,000 ÷ $225,000 = 80%, not 75%. Marked answer B (75%) is wrong; rationale itself states "= 80%" contradicting the marked key. | Correct answer is A (80%)

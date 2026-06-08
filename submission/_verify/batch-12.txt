@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 12/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[hi-types-of-ownership-q03] (State · hi-types-of-ownership)
+Q: A time share buyer in Hawaii has the right to rescind within:
+  A : 30 days
+  B : 14 days
+  C*: 7 days
+  D : 3 days
+MARKED ANSWER: C
+RATIONALE: HRS 514E gives a 7-day rescission window.
+
+[hi-types-of-ownership-q03.v1] (State · hi-types-of-ownership)
+Q: Under Hawaii's timeshare law, what is the maximum period during which a purchaser may cancel a timeshare purchase agreement without penalty?
+  A*: 7 calendar days
+  B : 10 business days
+  C : 14 calendar days
+  D : 5 business days
+MARKED ANSWER: A
+RATIONALE: HRS 514E establishes a 7-day rescission period for timeshare buyers to cancel their purchase agreement.
+
+[hi-types-of-ownership-q03.v2] (State · hi-types-of-ownership)
+Q: A consumer signs a timeshare contract in Honolulu on a Monday. If they wish to exercise their statutory right to cancel, they must do so by what day at the latest?
+  A : Wednesday of the same week
+  B*: The following Monday
+  C : 10 days from the signing date
+  D : The end of the following week
+MARKED ANSWER: B
+RATIONALE: Hawaii's timeshare rescission law (HRS 514E) provides a 7-day window from the date of purchase, meaning a Monday signing allows cancellation through the following Monday.
+
+[hi-types-of-ownership-q03.v3] (State · hi-types-of-ownership)
+Q: Which statement correctly describes the cancellation rights afforded to timeshare purchasers in Hawaii?
+  A : Buyers must notify the seller within 5 business days to rescind
+  B*: Buyers have 7 days to cancel the agreement as provided by Hawaii state law
+  C : Buyers have 30 days to request a refund after purchase
+  D : Buyers may rescind within 3 days of signing without providing a reason
+MARKED ANSWER: B
+RATIONALE: HRS 514E grants timeshare buyers a 7-day rescission right, which is the statutory cancellation period in Hawaii.
+
+[hi-types-of-ownership-q03.v4] (State · hi-types-of-ownership)
+Q: A timeshare developer in Hawaii must honor a buyer's cancellation request if submitted within:
+  A : 10 business days of signing
+  B*: One week from the purchase date
+  C : 72 hours of the executed contract
+  D : Two weeks from closing
+MARKED ANSWER: B
+RATIONALE: Hawaii Revised Statutes 514E mandates that timeshare buyers may rescind their purchase within 7 days of executing the agreement.
+
+[hi-types-of-ownership-q03.v5] (State · hi-types-of-ownership)
+Q: Under Hawaii Revised Statutes Chapter 514E, a purchaser of a timeshare interest may cancel the purchase agreement during what time period?
+  A*: 7 days from the date of signing
+  B : 5 business days from receipt of the disclosure statement
+  C : 14 calendar days from initial payment
+  D : 10 days from the date of signing
+MARKED ANSWER: A
+RATIONALE: HRS 514E establishes a 7-day rescission period for timeshare contracts in Hawaii, allowing buyers to cancel within that timeframe.
+
+[hi-types-of-ownership-q03.v6] (State · hi-types-of-ownership)
+Q: If a timeshare buyer in Hawaii wishes to exercise their statutory right of cancellation, they must do so within:
+  A : 72 hours of contract execution
+  B : 2 weeks from the date of the purchase agreement
+  C*: One week of receiving the purchase agreement
+  D : 10 business days of the sale
+MARKED ANSWER: C
+RATIONALE: Hawaii's timeshare law (HRS 514E) provides a 7-day rescission right, which is commonly referred to as one week from the purchase agreement date.
+
+[hi-types-of-ownership-q03.v7] (State · hi-types-of-ownership)
+Q: A consumer in Hawaii who has just purchased a timeshare unit discovers undisclosed liens on the property. When must the buyer file for rescission to comply with state law?
+  A*: Within 7 days of the purchase agreement
+  B : Before 3 business days elapse
+  C : Within one calendar month of signing
+  D : No later than 21 days after closing
+MARKED ANSWER: A
+RATIONALE: HRS 514E mandates a 7-day rescission window for timeshare purchases in Hawaii, providing consumer protection during that period.
+
+[hi-types-of-ownership-q03.v8] (State · hi-types-of-ownership)
+Q: A timeshare sales contract in Hawaii was executed on a Monday. The buyer now wishes to rescind. According to HRS 514E, the latest day the buyer can legally cancel is:
+  A : The end of the same month
+  B : Wednesday of the same week
+  C : 10 days from execution
+  D*: The following Monday
+MARKED ANSWER: D
+RATIONALE: Hawaii law grants timeshare buyers a 7-day rescission period, meaning a Monday execution allows cancellation through the following Sunday or Monday depending on interpretation of the statute.
+
+[hi-types-of-ownership-q03.v9] (State · hi-types-of-ownership)
+Q: Under Hawaii Revised Statutes Chapter 514E, a purchaser of a timeshare interest may cancel their purchase agreement by submitting written notice of rescission within what timeframe?
+  A : 10 business days from contract signing
+  B : 5 business days from the date of purchase
+  C : 14 calendar days from receipt of the public offering statement
+  D*: 7 calendar days from the date of purchase
+MARKED ANSWER: D
+RATIONALE: HRS 514E mandates a 7-calendar-day rescission period for timeshare buyers, allowing them to cancel without penalty or obligation during this window.
+
+[hi-types-of-ownership-q04] (State · hi-types-of-ownership)
+Q: Lease rent step-up means:
+  A*: Lease rent resets at a scheduled date, often higher
+  B : The lessee gains fee
+  C : The lease terminates
+  D : The lease can be assigned
+MARKED ANSWER: A
+RATIONALE: Step-up = scheduled rent reset, frequently a steep increase.
+
+[hi-types-of-ownership-q04.v1] (State · hi-types-of-ownership)
+Q: Which of the following best describes a step-up provision in a commercial lease?
+  A : The landlord's right to evict if the tenant fails to maintain the premises
+  B*: A predetermined increase in rental payments at specified intervals throughout the lease term
+  C : An escalation clause tied solely to the Consumer Price Index
+  D : The tenant's option to purchase the underlying property at fair market value
+MARKED ANSWER: B
+RATIONALE: A step-up provision is a scheduled, predetermined rent increase at set intervals; it does not involve property purchase options or automatic CPI adjustments.
+
+[hi-types-of-ownership-q04.v2] (State · hi-types-of-ownership)
+Q: When a lease includes a step-up, the tenant should expect:
+  A : Property taxes will be passed entirely to the tenant
+  B : The lessee may sublease without landlord consent
+  C : The lease will automatically convert to a month-to-month tenancy
+  D*: Rent amounts will increase at predetermined times during the lease period
+MARKED ANSWER: D
+RATIONALE: Step-up provisions establish scheduled rent increases at defined intervals; they do not affect subletting rights, tenancy type conversion, or tax responsibility allocation.
+
+[hi-types-of-ownership-q04.v3] (State · hi-types-of-ownership)
+Q: A property manager explains that the five-year lease has a step-up component. This means:
+  A : The tenant receives tax credits for property improvements
+  B*: Rent payments increase at fixed dates as outlined in the lease agreement
+  C : The tenant has the option to extend the lease by one additional year
+  D : The landlord may terminate the lease if market rents decline
+MARKED ANSWER: B
+RATIONALE: Step-up refers to scheduled rent increases at specific times in the lease; it does not grant renewal options, termination rights based on market conditions, or tax benefits.
+
+[hi-types-of-ownership-q04.v4] (State · hi-types-of-ownership)
+Q: In Hawaii real estate, a lease with step-up terms typically involves:
+  A*: Sequentially higher rent payments triggered at predetermined lease milestones
+  B : Rent indexed entirely to the Hawaii median home price index
+  C : The lessee's right to purchase the fee simple interest
+  D : An automatic abatement clause if the property is damaged
+MARKED ANSWER: A
+RATIONALE: Step-up provisions establish planned rent increases at set times; they are distinct from purchase options, abatement clauses, or index-based escalations.
+
+[hi-types-of-ownership-q04.v5] (State · hi-types-of-ownership)
+Q: A commercial lease includes a rent step-up provision. What does this term typically describe?
+  A : The lease automatically converts to a month-to-month tenancy
+  B : The lessor must maintain and repair all structural elements
+  C*: Rent increases at predetermined intervals, commonly escalating over the lease term
+  D : The tenant has the right to purchase the underlying property
+MARKED ANSWER: C
+RATIONALE: Rent step-up refers to scheduled rent increases at fixed dates during the lease term, often growing progressively higher.
+
+[hi-types-of-ownership-q04.v6] (State · hi-types-of-ownership)
+Q: Which of the following best defines a step-up rent clause in a lease agreement?
+  A : A requirement that the tenant improve the leased premises
+  B : An option for the tenant to extend the lease at the current rent rate
+  C : A clause allowing the tenant to terminate early without penalty
+  D*: A provision for periodic rent adjustments on specified dates, typically increasing
+MARKED ANSWER: D
+RATIONALE: Step-up rent is a structured rent adjustment mechanism where rental payments increase on predetermined dates throughout the lease period.
+
+[hi-types-of-ownership-q04.v7] (State · hi-types-of-ownership)
+Q: In lease terminology, a step-up structure primarily refers to:
+  A : The lessee's right to assume the lessor's position in the agreement
+  B : Physical improvements required to the rental property's entrance
+  C : An acceleration clause triggered by late payment
+  D*: Scheduled increases in rental payments at designated renewal points
+MARKED ANSWER: D
+RATIONALE: Step-up is a rental escalation mechanism where rent payments increase according to a predetermined schedule, typically at higher amounts.
+
+[hi-types-of-ownership-q04.v8] (State · hi-types-of-ownership)
+Q: A landlord and tenant negotiate a lease with a step-up provision. This means the lease includes:
+  A*: Predetermined rent increases that take effect on specified dates during the tenancy
+  B : A graduated property tax adjustment passed to the lessee
+  C : An automatic buyout option favoring the tenant after five years
+  D : Mandatory tenant-funded capital improvements
+MARKED ANSWER: A
+RATIONALE: A step-up provision establishes a schedule of increasing rent payments at fixed intervals, a common strategy to phase in market-rate adjustments.
+
+[hi-types-of-ownership-q04.v9] (State · hi-types-of-ownership)
+Q: In a commercial lease, a step-up provision typically refers to:
+  A : The landlord's obligation to maintain and upgrade the property
+  B : A clause permitting early lease termination without penalty
+  C : The tenant's right to purchase the underlying fee simple
+  D*: An automatic increase in rental payments at predetermined intervals
+MARKED ANSWER: D
+RATIONALE: A step-up provision schedules periodic rent increases, often substantial, at specified dates during the lease term. This is a common structure in long-term commercial and residential leases.
+
+[hi-types-of-ownership-q05] (State · hi-types-of-ownership)
+Q: Specific parking stalls assigned to specific units in a condo project are:
+  A : Common elements
+  B : Fee parcels
+  C : Trade fixtures
+  D*: Limited common elements
+MARKED ANSWER: D
+RATIONALE: Limited common elements = common in nature but assigned to specific units.
+
+[hi-types-of-ownership-q05.v1] (State · hi-types-of-ownership)
+Q: In a Hawaii condominium, a parking space that is reserved exclusively for the unit owner in 3B but remains part of the common property is classified as:
+  A*: A limited common element
+  B : Personal property of the unit owner
+  C : A general common element
+  D : An appurtenant easement
+MARKED ANSWER: A
+RATIONALE: Limited common elements are portions of common property designated for exclusive use by specific unit owners, such as assigned parking stalls, lanais, or storage areas.
+
+[hi-types-of-ownership-q05.v2] (State · hi-types-of-ownership)
+Q: Which of the following best describes designated parking spaces in a condominium project that serve specific units?
+  A*: Limited common elements restricted to particular units
+  B : Fixtures that may be removed by the unit owner
+  C : Separate fee simple parcels owned individually
+  D : Common elements available to all residents
+MARKED ANSWER: A
+RATIONALE: Designated parking stalls are limited common elements because they are common property in nature but assigned exclusively to identified units for their use.
+
+[hi-types-of-ownership-q05.v3] (State · hi-types-of-ownership)
+Q: A condominium parking stall numbered P-7 is permanently assigned to Unit 205. This parking stall would be classified as:
+  A : Common element
+  B*: Limited common element
+  C : Fee parcel
+  D : Trade fixture
+MARKED ANSWER: B
+RATIONALE: Limited common elements are common property components that are restricted to exclusive use by specific unit owners, distinguishing them from general common elements used by all residents.
+
+[hi-types-of-ownership-q05.v4] (State · hi-types-of-ownership)
+Q: In a condo project governed by Hawaii law, reserved parking areas assigned to individual units are properly classified as:
+  A : Common elements shared by all unit owners
+  B : Part of the unit's fee simple ownership
+  C : Amenities subject to easement rights
+  D*: Limited common elements for exclusive unit use
+MARKED ANSWER: D
+RATIONALE: Limited common elements are portions of the common property designated for exclusive use by specific unit owners, such as assigned parking stalls, which remain common property but serve identified units.
+
+[hi-types-of-ownership-q05.v5] (State · hi-types-of-ownership)
+Q: In a Hawaii condominium, a parking space that is designated for use by residents of Unit 405 only would be classified as a:
+  A*: Limited common element
+  B : Common element available to all unit owners
+  C : Fee simple parcel
+  D : Trade fixture subject to removal
+MARKED ANSWER: A
+RATIONALE: Limited common elements are portions of common property restricted to use by specific units, which perfectly describes assigned parking stalls serving only designated units.
+
+[hi-types-of-ownership-q05.v6] (State · hi-types-of-ownership)
+Q: A condominium's declaration specifies that Parking Stall #12 serves only Unit 8. This parking stall is best characterized as:
+  A : Personal property of the unit owner
+  B : An appurtenant easement
+  C*: A limited common element
+  D : Common property with no restrictions
+MARKED ANSWER: C
+RATIONALE: Limited common elements are common property limited in use to specific units; assigned parking stalls fit this definition exactly as they serve the common building but benefit only their designated unit.
+
+[hi-types-of-ownership-q05.v7] (State · hi-types-of-ownership)
+Q: When a condo association owns a parking area but reserves certain stalls exclusively for specific units, those reserved stalls represent:
+  A : Separate real property parcels
+  B : Assessable general common elements
+  C : Fixtures that transfer with the lease
+  D*: Limited common elements
+MARKED ANSWER: D
+RATIONALE: Limited common elements are common property with restricted use to one or more specific units; assigned parking stalls exemplify this category since they are controlled by the association but reserved for particular unit owners.
+
+[hi-types-of-ownership-q05.v8] (State · hi-types-of-ownership)
+Q: In a Hawaii condo, if the declaration assigns Parking Stalls 7 and 8 to Unit 201, those stalls would be classified under condo law as:
+  A : Improvements to the general common area
+  B : Fee simple interests owned by the unit owner
+  C : Chattel property
+  D*: Limited common elements
+MARKED ANSWER: D
+RATIONALE: Limited common elements are portions of the common property designated for use by specific units or owners; designated parking stalls are limited common elements because they remain association property but serve only their assigned units.
+
+[hi-types-of-ownership-q05.v9] (State · hi-types-of-ownership)
+Q: In a condominium project, parking spaces that are reserved exclusively for use by the owners of particular units are classified as:
+  A : General common elements shared by all unit owners
+  B*: Limited common elements restricted to designated unit owners
+  C : Improvements that may be removed without damage to the property
+  D : Separate fee simple parcels independent of the condo declaration
+MARKED ANSWER: B
+RATIONALE: Limited common elements are portions of common property designated for exclusive use by specific unit owners—a key Hawaii condo classification distinct from shared common elements.
+
+[hi-types-of-ownership-q06] (State · hi-types-of-ownership)
+Q: A non-warrantable condo:
+  A : Is automatically illegal
+  B : Costs more in property taxes
+  C : Cannot be sold
+  D*: Is harder to finance via conventional loans
+MARKED ANSWER: D
+RATIONALE: Non-warrantable = doesn't meet Fannie/Freddie standards; harder to finance.
+
+[hi-types-of-ownership-q06.v1] (State · hi-types-of-ownership)
+Q: Which of the following best describes a non-warrantable condominium?
+  A*: It fails to meet secondary mortgage market standards and presents financing challenges
+  B : It qualifies for FHA loans but not conventional financing options
+  C : It is subject to immediate condemnation by the Hawaii Department of Land and Natural Resources
+  D : It must be sold as-is and cannot have any improvements made by the buyer
+MARKED ANSWER: A
+RATIONALE: Non-warrantable condos don't meet Fannie Mae/Freddie Mac guidelines, making conventional financing difficult; they are not illegal or condemned, and FHA may also decline them.
+
+[hi-types-of-ownership-q06.v2] (State · hi-types-of-ownership)
+Q: A buyer is attempting to secure a conventional mortgage for a condo unit. The lender informs the buyer that the property is non-warrantable. What does this likely mean?
+  A*: The condominium project does not comply with investor guidelines and will be challenging to finance conventionally
+  B : The unit cannot be transferred to the buyer without an attorney's sign-off
+  C : The homeowners association has failed to maintain adequate reserve funds
+  D : The seller must provide a full structural warranty on the unit
+MARKED ANSWER: A
+RATIONALE: Non-warrantable status indicates the condo doesn't meet secondary market (Fannie/Freddie) standards, creating financing obstacles; it does not concern structural warranties, HOA reserves alone, or transfer requirements.
+
+[hi-types-of-ownership-q06.v3] (State · hi-types-of-ownership)
+Q: Why might a real estate licensee advise a prospective buyer that a condo unit may be difficult to sell in the future?
+  A : Because the property taxes are assessed at a commercial rate instead of residential
+  B : Because the unit is held in a trust and cannot be transferred to a new owner
+  C : Because the property is located in a flood zone designated by FEMA
+  D*: Because the condominium is classified as non-warrantable and will not meet conventional lending criteria
+MARKED ANSWER: D
+RATIONALE: Non-warrantable condos present financing obstacles for future buyers seeking conventional loans, limiting the buyer pool and marketability; flood zones, trust restrictions, and tax classifications are separate issues.
+
+[hi-types-of-ownership-q06.v4] (State · hi-types-of-ownership)
+Q: A condominium development fails to meet Fannie Mae and Freddie Mac approval standards. How would a real estate professional describe this property's financing impact?
+  A : The property automatically becomes exempt from mortgage insurance requirements
+  B : Buyers can finance through any institutional lender without additional scrutiny
+  C*: Buyers will find it significantly more difficult to obtain conventional financing
+  D : Buyers will have no mortgage options and must purchase with cash
+MARKED ANSWER: C
+RATIONALE: Non-warrantable condos (those not meeting Fannie/Freddie standards) create financing difficulties for conventional loans, though cash purchases and alternative financing may still be possible; they do not eliminate all mortgage options or exempt from insurance.
+
+[hi-types-of-ownership-q06.v5] (State · hi-types-of-ownership)
+Q: What is the primary financing challenge associated with a non-warrantable condominium in Hawaii?
+  A : Lenders will refuse to originate any mortgage on the property
+  B : The property cannot legally be transferred to a new owner
+  C*: Conventional mortgage approval becomes more difficult and may require alternative lending sources
+  D : Insurance premiums are automatically doubled by all carriers
+MARKED ANSWER: C
+RATIONALE: Non-warrantable condos don't meet GSE (Fannie Mae/Freddie Mac) standards, making conventional financing problematic; borrowers often must seek FHA, portfolio lenders, or cash alternatives.
+
+[hi-types-of-ownership-q06.v6] (State · hi-types-of-ownership)
+Q: A buyer interested in purchasing a condominium learns the property is classified as non-warrantable. What should the real estate agent explain about the implications?
+  A : The HOA will require special approval before the sale can close
+  B*: Obtaining traditional conventional financing will be significantly more complicated
+  C : The property's market value will automatically decrease by 20% or more
+  D : The condo must be immediately reported to the Hawaii Real Estate Commission
+MARKED ANSWER: B
+RATIONALE: Non-warrantable status means the condo fails to meet Fannie Mae or Freddie Mac underwriting guidelines, creating substantial obstacles for conventional loan approval without alternative lending paths.
+
+[hi-types-of-ownership-q06.v7] (State · hi-types-of-ownership)
+Q: Which statement accurately describes a non-warrantable condo unit?
+  A : It automatically voids any existing property insurance coverage
+  B : It violates Hawaii building codes and cannot receive occupancy permits
+  C*: It presents financing difficulties because it does not conform to government-sponsored enterprise standards
+  D : It is prohibited from being listed on the Multiple Listing Service
+MARKED ANSWER: C
+RATIONALE: Non-warrantable condos fail to meet Fannie Mae/Freddie Mac warrantable standards, restricting access to conventional financing and requiring buyers to explore non-traditional lending options.
+
+[hi-types-of-ownership-q06.v8] (State · hi-types-of-ownership)
+Q: When representing a buyer for a non-warrantable condominium purchase, what financing issue should an agent anticipate?
+  A : Property tax assessments will automatically increase to compensate for the non-warrantable status
+  B*: The buyer may encounter substantial difficulty securing a conventional mortgage and should explore alternative lenders
+  C : Cash-only transactions are the legal requirement for all non-warrantable properties
+  D : All lenders are legally prohibited from offering any financing product for non-warrantable units
+MARKED ANSWER: B
+RATIONALE: Non-warrantable condos do not meet GSE lending criteria, forcing buyers to seek portfolio lenders, FHA financing, or other non-conventional loan products instead of standard conventional mortgages.
+
+[hi-types-of-ownership-q06.v9] (State · hi-types-of-ownership)
+Q: When a condominium project fails to meet Fannie Mae and Freddie Mac underwriting guidelines, what is the primary consequence for prospective buyers?
+  A : The homeowners association must disband and the unit reverts to the developer
+  B*: Obtaining mortgage financing through traditional lenders becomes significantly more challenging
+  C : Local property tax assessments are immediately increased by a fixed percentage
+  D : The property automatically loses all legal standing and cannot transfer ownership
+MARKED ANSWER: B
+RATIONALE: Non-warrantable condos do not meet GSE (Government-Sponsored Enterprise) standards, making conventional financing difficult; buyers typically need cash, portfolio loans, or FHA/VA alternatives.
+
+[hi-types-of-ownership-q07] (State · hi-types-of-ownership)
+Q: A Hawaiian "hui" is:
+  A*: Traditional family co-ownership of land
+  B : A government agency
+  C : A real estate brokerage
+  D : A type of HOA
+MARKED ANSWER: A
+RATIONALE: Hui = traditional family-held co-ownership, often complex across generations.
+
+[hi-types-of-ownership-q07.v1] (State · hi-types-of-ownership)
+Q: Under Hawaiian property law, when land is held in a 'hui,' what does this arrangement typically represent?
+  A*: Ancestral family land held collectively across multiple generations
+  B : A licensed real estate investment trust
+  C : A condominium association governing structure
+  D : A commercial property management company
+MARKED ANSWER: A
+RATIONALE: Hui refers to traditional Hawaiian family co-ownership of land, often passed down through generations with shared rights and responsibilities among relatives.
+
+[hi-types-of-ownership-q07.v2] (State · hi-types-of-ownership)
+Q: Which of the following best describes a Hawaiian 'hui' in the context of real property?
+  A : A private equity firm specializing in Hawaii real estate
+  B*: Traditional communal family ownership of land
+  C : A mandatory homeowners' association for residential properties
+  D : A state regulatory body overseeing real estate transactions
+MARKED ANSWER: B
+RATIONALE: Hui is a traditional Hawaiian practice of family-based land co-ownership, where multiple family members hold concurrent interests in the same property.
+
+[hi-types-of-ownership-q07.v3] (State · hi-types-of-ownership)
+Q: A real estate licensee in Hawaii encounters a property title showing 'hui' ownership. What does this indicate about the property's ownership structure?
+  A : The property is held in trust by a corporate fiduciary
+  B : The property is subject to a ground lease arrangement
+  C*: Shared family ownership passed down through Hawaiian tradition
+  D : The property is managed by a state-licensed HOA manager
+MARKED ANSWER: C
+RATIONALE: Hui ownership indicates traditional Hawaiian family co-ownership, where the land is held collectively by family members, often creating complex title and succession issues.
+
+[hi-types-of-ownership-q07.v4] (State · hi-types-of-ownership)
+Q: When a Hawaii real estate agent reviews a deed containing 'hui' interests, they are looking at:
+  A*: Multiple family members holding concurrent ownership rights to land
+  B : A property controlled by a government conservation agency
+  C : A property subject to agricultural zoning restrictions
+  D : A time-share or interval ownership arrangement
+MARKED ANSWER: A
+RATIONALE: Hui represents traditional Hawaiian family-based co-ownership where several relatives share legal title and rights to the same parcel of land.
+
+[hi-types-of-ownership-q07.v5] (State · hi-types-of-ownership)
+Q: In Hawaiian real estate tradition, what does the term "hui" refer to?
+  A : A licensed property management company
+  B : A state regulatory board overseeing transactions
+  C*: Ancestral shared land ownership within a family lineage
+  D : A condominium owners' association
+MARKED ANSWER: C
+RATIONALE: Hui represents traditional Hawaiian family-based joint ownership of land, often involving multiple generations with inherited interests.
+
+[hi-types-of-ownership-q07.v6] (State · hi-types-of-ownership)
+Q: Which of the following best describes a Hawaiian hui in the context of property ownership?
+  A : An incorporated commercial real estate syndicate
+  B : A title insurance company specializing in Hawaiian properties
+  C : A municipal zoning authority
+  D*: Family members holding collective title to ancestral land
+MARKED ANSWER: D
+RATIONALE: A hui is fundamentally a family-based co-ownership structure where relatives maintain shared interests in land, typically passed down through generations.
+
+[hi-types-of-ownership-q07.v7] (State · hi-types-of-ownership)
+Q: A real estate agent in Hawaii encounters a property with multiple family members claiming ownership rights. This arrangement is most likely an example of:
+  A : A timeshare arrangement
+  B : A trust created by the state land board
+  C : A conservation easement
+  D*: A traditional hui ownership structure
+MARKED ANSWER: D
+RATIONALE: Hui arrangements create exactly this scenario—multiple family members hold co-ownership rights in the same parcel, often without formal legal separation of interests.
+
+[hi-types-of-ownership-q07.v8] (State · hi-types-of-ownership)
+Q: Under Hawaiian property customs, when several family members inherit equal interests in ancestral land, their arrangement is called a:
+  A : Common interest community
+  B : Joint venture partnership
+  C : Cooperative association
+  D*: Hui
+MARKED ANSWER: D
+RATIONALE: A hui is the traditional Hawaiian term for this type of family co-ownership, where inherited land interests pass collectively through family lineage.
+
+[hi-types-of-ownership-q07.v9] (State · hi-types-of-ownership)
+Q: In Hawaiian real estate and property law, a 'hui' is best described as:
+  A : A county zoning classification for agricultural properties
+  B : A formal property management company licensed by the Hawaii REC
+  C : A mandatory condominium association required under Hawaii Revised Statutes Chapter 514A
+  D*: An ancestral form of shared land ownership within families across multiple generations
+MARKED ANSWER: D
+RATIONALE: Hui refers to the traditional Hawaiian practice of family-based communal land ownership and management, often passed down through generations and involving multiple co-owners with complex inheritance rights.
+
+[hi-types-of-ownership-q08] (State · hi-types-of-ownership)
+Q: At end of a Hawaii leasehold, what happens to the building?
+  A : Always belongs to leaseholder forever
+  B : Federal government takes it
+  C*: May revert to lessor without payment, depending on lease terms
+  D : It's automatically demolished
+MARKED ANSWER: C
+RATIONALE: Reversion of improvements is lease-specific; many leases require reversion to lessor.
+
+[hi-types-of-ownership-q08.v1] (State · hi-types-of-ownership)
+Q: When a leasehold estate in Hawaii expires, who typically receives ownership of any structures built on the property?
+  A : The leaseholder retains full ownership regardless of lease language
+  B : The county assessor becomes the legal owner of the building
+  C : The State of Hawaii claims all abandoned improvements
+  D*: Ownership of improvements transfers to the lessor as specified in the lease document
+MARKED ANSWER: D
+RATIONALE: Upon lease expiration, improvements generally revert to the lessor unless the lease explicitly provides otherwise, making the lease terms controlling.
+
+[hi-types-of-ownership-q08.v2] (State · hi-types-of-ownership)
+Q: A Hawaii leaseholder invests heavily in constructing a building during their 30-year lease term. At lease termination, what is the most likely outcome for that building?
+  A*: Its disposition depends entirely on provisions within the original lease agreement
+  B : It must be purchased by the state under the Leasehold Conversion Act
+  C : It reverts to the lessor with no exceptions under Hawaii law
+  D : It becomes the leaseholder's personal property to sell independently
+MARKED ANSWER: A
+RATIONALE: Leasehold agreements vary; some require reversion to lessor, others allow leaseholder retention or compensation—the lease language determines the outcome.
+
+[hi-types-of-ownership-q08.v3] (State · hi-types-of-ownership)
+Q: In Hawaii real estate, what is the standard treatment of improvements and buildings at the conclusion of a leasehold term?
+  A : Federal maritime law mandates transfer of all structures to the U.S. government
+  B : Buildings are automatically seized by the Hawaii Department of Land and Natural Resources
+  C : Buildings always remain the leaseholder's property as a reward for improvements
+  D*: The lease document controls whether improvements revert to the lessor or remain with the leaseholder
+MARKED ANSWER: D
+RATIONALE: The lease agreement's specific terms govern what happens to improvements; reversion to lessor is common but not automatic without lease language requiring it.
+
+[hi-types-of-ownership-q08.v4] (State · hi-types-of-ownership)
+Q: A developer leases land in Hawaii and constructs commercial buildings on it. Upon expiration of the 50-year lease, the developer wants to know the fate of those buildings. What should the developer's attorney review?
+  A : The developer's tax records to claim depreciation recovery
+  B : Only the current market value, since buildings always stay with the developer
+  C : Only Hawaii Revised Statutes, which mandate automatic developer ownership
+  D*: The lease covenants and reversion clauses to determine if improvements pass to the lessor
+MARKED ANSWER: D
+RATIONALE: The specific lease document—particularly reversion and improvement clauses—determines the building's fate; this is not governed by statute alone but by contract.
+
+[hi-types-of-ownership-q08.v5] (State · hi-types-of-ownership)
+Q: When a Hawaii leasehold property reaches the end of its term, what is the most likely outcome regarding the structures on the land?
+  A*: Control of the building reverts to the lessor as specified in the lease agreement
+  B : The State of Hawaii assumes ownership and manages the property
+  C : Local county government mandates immediate removal of all structures
+  D : The leaseholder retains full ownership of all improvements indefinitely
+MARKED ANSWER: A
+RATIONALE: Leasehold terms typically include reversion clauses; improvements and buildings transfer back to the lessor upon lease expiration unless the lease explicitly states otherwise.
+
+[hi-types-of-ownership-q08.v6] (State · hi-types-of-ownership)
+Q: A leaseholder's Hawaii property is nearing the end of its lease term. Upon termination, what generally controls the fate of the building constructed on the leased land?
+  A : County zoning ordinances determine whether the building must be removed
+  B : A mandatory public auction held by the City and County government
+  C*: The specific provisions contained within the lease document
+  D : Federal real property law automatically grants the leaseholder perpetual ownership
+MARKED ANSWER: C
+RATIONALE: The lease contract itself governs what happens to improvements at lease end; reversion to the lessor is common but depends entirely on the lease terms negotiated between parties.
+
+[hi-types-of-ownership-q08.v7] (State · hi-types-of-ownership)
+Q: After a Hawaii leasehold expires, who typically gains control of the buildings and improvements on the property?
+  A*: The lessor, if the lease contains a reversion clause
+  B : The federal government, which claims all expired leasehold properties
+  C : A state-appointed property manager designated by the Hawaii REC
+  D : The original leaseholder, who receives a deed for the improvements
+MARKED ANSWER: A
+RATIONALE: Many Hawaii leases include reversion clauses requiring improvements to return to the lessor at lease termination, though some leases may provide compensation or alternative arrangements.
+
+[hi-types-of-ownership-q08.v8] (State · hi-types-of-ownership)
+Q: What is the primary factor determining what happens to structures on a Hawaii leasehold when the lease term concludes?
+  A : Whether the leaseholder paid property taxes during the lease period
+  B : The appraised value of the improvements at the time of termination
+  C : The length of time the leaseholder occupied the property
+  D*: Lease agreement language and any reversion provisions it contains
+MARKED ANSWER: D
+RATIONALE: Lease contracts contain specific terms governing the disposition of improvements; reversion to the lessor is a common provision but must be explicitly stated in the lease document.
+
+[hi-types-of-ownership-q08.v9] (State · hi-types-of-ownership)
+Q: When a Hawaii leasehold agreement expires, what typically determines the disposition of structures and improvements on the leased land?
+  A : State law automatically grants ownership to the county assessor
+  B : The leaseholder retains full ownership regardless of original lease conditions
+  C*: The specific provisions contained in the lease document itself
+  D : All buildings must be removed by the leaseholder at their expense
+MARKED ANSWER: C
+RATIONALE: Leasehold termination outcomes depend entirely on the lease agreement's terms; reversion to the lessor is common but not automatic without explicit lease language.
+
+[hi-types-of-ownership-q09] (State · hi-types-of-ownership)
+Q: AOAO stands for:
+  A : Association of All Owners
+  B : Apartment Operations Authority Office
+  C : Active Ownership Authority Organization
+  D*: Association of Apartment Owners
+MARKED ANSWER: D
+RATIONALE: AOAO = Association of Apartment Owners = Hawaii's condo HOA.
+
+[hi-types-of-ownership-q09.v1] (State · hi-types-of-ownership)
+Q: In Hawaii real estate, what does the acronym AOAO refer to?
+  A : Authorized Occupancy and Asset Organization
+  B : Association of Authorized Occupants
+  C : Apartment Owner Allocation Office
+  D*: Association of Apartment Owners
+MARKED ANSWER: D
+RATIONALE: AOAO is the Hawaii-specific term for the governing body of a condominium project, equivalent to a homeowners association on the mainland.
+
+[hi-types-of-ownership-q09.v2] (State · hi-types-of-ownership)
+Q: A property manager in Hawaii is hired to oversee a condominium complex. Which organization will they primarily work with to manage common area assessments and maintenance?
+  A : The State Real Estate Commission
+  B : The local county planning office
+  C*: The Association of Apartment Owners
+  D : The Apartment Owners Management Board
+MARKED ANSWER: C
+RATIONALE: The AOAO (Association of Apartment Owners) is the governing entity responsible for condo operations, assessments, and common area management in Hawaii condominiums.
+
+[hi-types-of-ownership-q09.v3] (State · hi-types-of-ownership)
+Q: When a buyer purchases a unit in a Hawaii condominium, they automatically become a member of which organization?
+  A*: The Association of Apartment Owners
+  B : The Apartment Operators Alliance
+  C : The Hawaii Residential Owners Council
+  D : The Active Ownership Authority
+MARKED ANSWER: A
+RATIONALE: Condo unit ownership in Hawaii includes mandatory membership in the AOAO, which governs shared property, collects assessments, and maintains common areas.
+
+[hi-types-of-ownership-q09.v4] (State · hi-types-of-ownership)
+Q: Which of the following best describes the role of an AOAO in Hawaii's real estate market?
+  A : An advisory board for apartment construction projects
+  B : A state agency that licenses all property managers
+  C*: A non-profit entity that governs condominium communities and collects owner assessments
+  D : A private company that enforces zoning regulations
+MARKED ANSWER: C
+RATIONALE: The AOAO (Association of Apartment Owners) functions as the self-governing body of a condominium, responsible for assessments, maintenance, and enforcement of bylaws.
+
+[hi-types-of-ownership-q09.v5] (State · hi-types-of-ownership)
+Q: In Hawaii real estate, when a condominium project is governed by an AOAO, what does that acronym represent?
+  A : Administrative Operations and Audit Office
+  B : Authorized Oversight and Assessment Organization
+  C : Association of Assessed Occupants
+  D*: Association of Apartment Owners
+MARKED ANSWER: D
+RATIONALE: AOAO is the Hawaii-specific term for a condominium owners' association, equivalent to an HOA on the mainland. It stands for Association of Apartment Owners.
+
+[hi-types-of-ownership-q09.v6] (State · hi-types-of-ownership)
+Q: A real estate agent explains to a buyer that the condominium complex is managed by an AOAO. The buyer asks what this acronym means. The agent should respond:
+  A*: It means the property is governed by an Association of Apartment Owners
+  B : It stands for an Active Operations Authority for Apartments
+  C : It refers to an Apartment Ownership and Authority Organization
+  D : It indicates an Automated Occupancy Assessment Office
+MARKED ANSWER: A
+RATIONALE: AOAO is Hawaii's statutory term for a condominium association, standing for Association of Apartment Owners, which manages common areas and enforces bylaws.
+
+[hi-types-of-ownership-q09.v7] (State · hi-types-of-ownership)
+Q: Which of the following best describes what an AOAO is in Hawaii real estate practice?
+  A*: The legal entity that represents all unit owners in a condominium project
+  B : A state board that regulates apartment building construction standards
+  C : A voluntary association for owners seeking additional property insurance
+  D : An authorization office that processes ownership transfers and assessments
+MARKED ANSWER: A
+RATIONALE: AOAO (Association of Apartment Owners) is the governing body for Hawaii condominiums, created under HRS Chapter 514A or 514B, with authority over common areas and member assessments.
+
+[hi-types-of-ownership-q09.v8] (State · hi-types-of-ownership)
+Q: A property manager in Hawaii is hired to oversee a multi-unit residential building where decisions are made by the AOAO. What is the full meaning of AOAO?
+  A : Assessment and Occupancy Authority Organization
+  B*: Association of Apartment Owners
+  C : Administrative Operations and Assessment Authority
+  D : Apartment Ownership and Authorization Office
+MARKED ANSWER: B
+RATIONALE: AOAO stands for Association of Apartment Owners and is the exclusive Hawaii term for a condominium owners' association that manages and controls common property.
+
+[hi-types-of-ownership-q09.v9] (State · hi-types-of-ownership)
+Q: In Hawaii, a condominium property owner belongs to an AOAO. What does this acronym represent?
+  A : Apartment Oversight Authority Organization
+  B*: Association of Apartment Owners
+  C : Authorized Owners and Agents Organization
+  D : Association of All Occupants
+MARKED ANSWER: B
+RATIONALE: AOAO is the Hawaii-specific term for a condominium homeowners association, formally known as Association of Apartment Owners, governing shared building operations and common areas.
+
+[hi-property-management-q00] (State · hi-property-management)
+Q: A landlord must return the security deposit within how many days of move-out?
+  A*: 14
+  B : 7
+  C : 30
+  D : 60
+MARKED ANSWER: A
+RATIONALE: HRS 521 — 14 days, with itemized deductions if any.
+
+[hi-property-management-q00.v1] (State · hi-property-management)
+Q: Under Hawaii Revised Statutes, if a tenant vacates a rental unit, the property owner is required to refund any security deposit by what deadline?
+  A : Within 10 days if the tenant provides a forwarding address
+  B : Within 21 days, unless written notice is provided
+  C*: Within 14 days, with an itemized accounting of any deductions
+  D : Within 30 days, regardless of any damages claimed
+MARKED ANSWER: C
+RATIONALE: HRS 521-44 requires landlords to return security deposits within 14 days of move-out, and if deductions are made, an itemized statement must accompany the return.
+
+[hi-property-management-q00.v2] (State · hi-property-management)
+Q: A tenant has just moved out of a residential lease in Hawaii. The landlord is holding the security deposit and plans to make deductions for cleaning and minor repairs. What is the maximum timeframe for the landlord to return the remaining balance?
+  A : 30 days from the date the unit is inspected
+  B : 60 days if repairs exceed $500
+  C : 45 days from the date the unit is re-rented
+  D*: 14 days from move-out, along with a detailed list of deductions
+MARKED ANSWER: D
+RATIONALE: Hawaii law mandates a 14-day return period for security deposits measured from the tenant's move-out date, and any deductions must be itemized and documented.
+
+[hi-property-management-q00.v3] (State · hi-property-management)
+Q: When must a Hawaii landlord deliver the security deposit refund to a former tenant after the tenant has vacated the premises?
+  A : Within 21 days if the tenant has not provided a forwarding address
+  B : Immediately upon move-out if no damages are claimed
+  C*: Within 14 days, with written justification for any amounts withheld
+  D : Within 60 days or within 30 days of lease termination, whichever is longer
+MARKED ANSWER: C
+RATIONALE: HRS 521 establishes a 14-day deadline for security deposit return from move-out, and landlords must provide written itemization if any deductions are made.
+
+[hi-property-management-q00.v4] (State · hi-property-management)
+Q: A property manager in Hawaii is processing security deposit returns for three units that were vacated this month. What is the statutory timeframe for returning these deposits to comply with state law?
+  A : Within one month if the property manager is coordinating repairs
+  B*: 14 calendar days from the tenant's move-out date, with itemized deductions if applicable
+  C : 7 business days from when the landlord approves the move-out inspection
+  D : 30 days from the date the lease officially terminates
+MARKED ANSWER: B
+RATIONALE: HRS 521-44 specifies that security deposits must be returned within 14 calendar days of move-out, and any deductions must be itemized and provided to the tenant.
+
+[hi-property-management-q00.v5] (State · hi-property-management)
+Q: Under Hawaii Revised Statutes Chapter 521, what is the maximum timeframe a property owner has to refund a tenant's security deposit following the tenant's vacating the rental unit?
+  A : Within 21 days, with written notice of any deductions
+  B : Within 45 days, provided the landlord submits a formal inspection report
+  C*: Within 14 days, with an itemized accounting of deductions if applicable
+  D : Within 30 days, regardless of whether deductions are claimed
+MARKED ANSWER: C
+RATIONALE: HRS 521-42 requires landlords to return security deposits within 14 days of move-out, and if deductions are made, they must provide an itemized statement of those deductions.
+
+[hi-property-management-q00.v6] (State · hi-property-management)
+Q: A tenant in Honolulu moves out of an apartment on the first of the month. By what date must the landlord return the full security deposit or provide a detailed accounting of deductions?
+  A : By the 8th of the same month
+  B*: By the 15th of the same month
+  C : By the end of the following month
+  D : By the 21st of the same month
+MARKED ANSWER: B
+RATIONALE: Hawaii law (HRS 521) establishes a 14-day deadline from move-out for return of security deposits; if the deposit cannot be fully returned, the landlord must provide an itemized breakdown of deductions within this period.
+
+[hi-property-management-q00.v7] (State · hi-property-management)
+Q: If a Hawaii rental property manager receives a move-out notice from a tenant, what is the statutory deadline for either returning the security deposit in full or submitting written documentation of any claimed deductions?
+  A*: Two weeks from the date of move-out
+  B : One full month from the lease termination date
+  C : Within 30 calendar days, with optional supplemental notice
+  D : 10 business days after the tenant vacates
+MARKED ANSWER: A
+RATIONALE: HRS 521-42 mandates that landlords return security deposits within 14 days (two weeks) of move-out; any deductions must be itemized and documented within this same 14-day window.
+
+[hi-property-management-q00.v8] (State · hi-property-management)
+Q: A landlord in Hawaii intends to make deductions from a tenant's security deposit for damages. What is the deadline for returning the remaining balance and providing the tenant with an itemized list of deductions?
+  A : 7 days from move-out
+  B : 45 days from move-out, pending inspection completion
+  C : 60 days from move-out, pending insurance claim resolution
+  D*: 14 days from move-out
+MARKED ANSWER: D
+RATIONALE: Under HRS 521, landlords must return the security deposit (or remaining balance after itemized deductions) and provide written documentation of any deductions within 14 days of the tenant's move-out date.
+
+[hi-property-management-q00.v9] (State · hi-property-management)
+Q: Under Hawaii Revised Statutes Chapter 521, if a tenant vacates a rental unit, by what deadline must the landlord deliver the security deposit refund or provide a written accounting of deductions?
+  A : Within 10 business days of the move-out date
+  B : Within 21 days of the move-out date
+  C*: Within 14 days of the move-out date
+  D : Within 30 days of the move-out date
+MARKED ANSWER: C
+RATIONALE: HRS 521-42 requires landlords to return the security deposit within 14 days, or provide an itemized statement of any lawful deductions within that timeframe.
+
+[hi-property-management-q01] (State · hi-property-management)
+Q: The maximum security deposit allowed in Hawaii is:
+  A : ½ month's rent
+  B : 3 months' rent
+  C : 2 months' rent
+  D*: 1 month's rent
+MARKED ANSWER: D
+RATIONALE: Capped at one month's rent (separate pet deposit allowed).
+
+[hi-property-management-q01.v1] (State · hi-property-management)
+Q: Under Hawaii rental law, what is the legal ceiling for a landlord to collect as a security deposit from a tenant?
+  A : Whatever amount the lease agreement specifies
+  B*: No more than one month's rent
+  C : Up to two months' rent plus a pet fee
+  D : Up to 45 days' rent
+MARKED ANSWER: B
+RATIONALE: Hawaii law caps security deposits at one month's rent, with pet deposits treated separately from this limit.
+
+[hi-property-management-q01.v2] (State · hi-property-management)
+Q: A landlord in Honolulu is preparing a lease and wants to know the maximum security deposit permissible. What amount should the rental agreement reflect?
+  A*: 1 month's rent as the statutory maximum
+  B : 2 months' rent if the unit is furnished
+  C : ½ month's rent plus an additional damage deposit
+  D : 3 months' rent to cover potential damages
+MARKED ANSWER: A
+RATIONALE: Hawaii's statutory limit for security deposits is one month's rent regardless of furnishings or property condition.
+
+[hi-property-management-q01.v3] (State · hi-property-management)
+Q: If a Hawaii rental property has an annual rent of $24,000, what is the maximum security deposit a landlord may lawfully retain at lease signing?
+  A : $6,000
+  B*: $2,000
+  C : $4,000
+  D : $2,500
+MARKED ANSWER: B
+RATIONALE: One month's rent is the legal maximum; $24,000 ÷ 12 months = $2,000 maximum security deposit allowed.
+
+[hi-property-management-q01.v4] (State · hi-property-management)
+Q: Which statement correctly describes Hawaii's security deposit regulations for residential leases?
+  A*: The security deposit limit is one month's rent, though pet deposits can be collected separately
+  B : Security deposits are unlimited if specified in a written lease agreement
+  C : Security deposits may equal up to 3 months' rent in high-value properties
+  D : Landlords may collect 1.5 months' rent as a standard security deposit
+MARKED ANSWER: A
+RATIONALE: Hawaii law strictly limits security deposits to one month's rent, with pet deposits as a separate permissible charge.
+
+[hi-property-management-q01.v5] (State · hi-property-management)
+Q: Under Hawaii rental law, what is the legal limit on the initial security deposit a landlord may collect from a tenant?
+  A*: Not to exceed one month's rent
+  B : Whatever amount the lease agreement specifies
+  C : Two months' rent if the unit is furnished
+  D : Up to 60 days' rent plus a pet fee
+MARKED ANSWER: A
+RATIONALE: Hawaii law caps security deposits at one month's rent; any additional deposits for pets must be handled separately and are not counted toward this limit.
+
+[hi-property-management-q01.v6] (State · hi-property-management)
+Q: A property manager in Hawaii is preparing a lease for a residential rental unit. How much can the landlord legally require as a security deposit at move-in?
+  A : Two months' rent for a multi-year lease
+  B*: One month's rent maximum
+  C : Three months' rent if the property is in a high-demand area
+  D : Half a month's rent plus a damage reserve
+MARKED ANSWER: B
+RATIONALE: Hawaii REC regulations limit security deposits to one month's rent regardless of location, lease term, or market conditions.
+
+[hi-property-management-q01.v7] (State · hi-property-management)
+Q: When a tenant applies for a rental property in Hawaii, the landlord may collect a security deposit not to exceed:
+  A : One month of rent plus an additional pet deposit fee
+  B : Two full months of rent
+  C : 45 days of monthly rent
+  D*: One full month of rent
+MARKED ANSWER: D
+RATIONALE: The statutory cap is one month's rent; pet deposits are separate and allowed in addition, but the base security deposit is limited to one month.
+
+[hi-property-management-q01.v8] (State · hi-property-management)
+Q: Which statement correctly describes Hawaii's security deposit requirements for residential leases?
+  A : Deposits can total up to three months' rent when combined with all optional fees
+  B*: The maximum deposit is limited to one month's rent
+  C : Hawaii allows unlimited deposits if documented in writing by both parties
+  D : Deposits may be increased to two months' rent if the property has a pool or ocean view
+MARKED ANSWER: B
+RATIONALE: Hawaii law strictly caps the security deposit at one month's rent; other terms or conditions cannot override this statutory maximum.
+
+[hi-property-management-q01.v9] (State · hi-property-management)
+Q: Under Hawaii residential tenancy law, what is the statutory limit a landlord may collect as a security deposit from a tenant at lease signing?
+  A : Two months' rent if the property is furnished
+  B : Up to 60 days' rent plus a pet deposit
+  C*: Not to exceed one month's rent, with pet deposits handled separately
+  D : A maximum of 45 days' rent regardless of lease duration
+MARKED ANSWER: C
+RATIONALE: Hawaii law caps residential security deposits at one month's rent; any pet deposit is a separate, additional charge and does not count toward this limit.
+
+[hi-property-management-q02] (State · hi-property-management)
+Q: Self-help eviction (changing locks) is:
+  A : Allowed in Hawaii
+  B : Allowed after 5-day notice
+  C : Allowed only for non-payment
+  D*: Illegal — must use summary possession
+MARKED ANSWER: D
+RATIONALE: Court order required; self-help is illegal.
+
+[hi-property-management-q02.v1] (State · hi-property-management)
+Q: A property manager in Honolulu wants to remove a tenant for lease violation. Which action is prohibited under Hawaii law?
+  A : Obtaining a court order before lock-out
+  B : Providing proper notice before eviction proceedings
+  C : Filing for summary possession in District Court
+  D*: Changing the locks without judicial process
+MARKED ANSWER: D
+RATIONALE: Self-help eviction via lock-out is illegal in Hawaii; landlords must obtain a court order through formal summary possession proceedings.
+
+[hi-property-management-q02.v2] (State · hi-property-management)
+Q: A landlord discovers a tenant has abandoned the property. The landlord considers changing the locks immediately. Is this permitted in Hawaii?
+  A : Yes, if the rent is 30 days past due
+  B*: No, a court order must be obtained first
+  C : Yes, if the property appears vacant
+  D : Yes, after written notice only
+MARKED ANSWER: B
+RATIONALE: Hawaii law prohibits self-help eviction; landlords must pursue judicial eviction through summary possession regardless of circumstances.
+
+[hi-property-management-q02.v3] (State · hi-property-management)
+Q: Which of the following best describes the legal requirement for removing a tenant from a residential property in Hawaii?
+  A : Lock-out is permitted for serious breaches
+  B : Landlord may use self-help remedies after reasonable notice
+  C : Verbal notice followed by immediate removal is acceptable
+  D*: Summary possession action in court is mandatory
+MARKED ANSWER: D
+RATIONALE: Hawaii requires landlords to use the judicial process of summary possession; self-help eviction methods are strictly prohibited.
+
+[hi-property-management-q02.v4] (State · hi-property-management)
+Q: A tenant stops paying rent. The landlord decides to remove the tenant's belongings and change the locks to regain possession. Under Hawaii law, this is:
+  A : Lawful if documented in writing
+  B : Permitted only after 10 days of non-payment
+  C : Acceptable when combined with proper notice
+  D*: Illegal and subjects the landlord to liability
+MARKED ANSWER: D
+RATIONALE: Self-help eviction through lock-out or removal of belongings is illegal in Hawaii; the landlord must obtain a court order through summary possession.
+
+[hi-property-management-q02.v5] (State · hi-property-management)
+Q: A landlord in Hawaii wants to remove a tenant immediately by installing new locks and changing the door codes. What is the legal status of this action?
+  A : Permitted if the landlord provides written notice 24 hours in advance
+  B : Valid as long as the landlord compensates the tenant for inconvenience
+  C : Allowed only when the tenant has violated lease terms
+  D*: Prohibited; the landlord must obtain a court order through summary possession proceedings
+MARKED ANSWER: D
+RATIONALE: Hawaii law prohibits self-help eviction; landlords must follow judicial eviction procedures and obtain a court order for summary possession to legally remove a tenant.
+
+[hi-property-management-q02.v6] (State · hi-property-management)
+Q: Which statement correctly describes Hawaii's position on landlords using self-help remedies such as removing a tenant's belongings or locking them out?
+  A : Self-help remedies are permitted without court involvement in cases of lease violations
+  B*: Self-help eviction methods are illegal; formal summary possession through the courts is required
+  C : Self-help is legal if conducted during business hours
+  D : Self-help is allowed if the tenant is more than 30 days behind on rent
+MARKED ANSWER: B
+RATIONALE: Hawaii law strictly prohibits self-help eviction and requires landlords to pursue the formal summary possession judicial process to legally evict a tenant.
+
+[hi-property-management-q02.v7] (State · hi-property-management)
+Q: A landlord in Honolulu changes the locks on a rental unit to force out a non-paying tenant. Is this action lawful in Hawaii?
+  A : Yes, if the landlord has given the tenant a 3-day notice to vacate
+  B : Yes, provided the landlord files for eviction within 10 days of the lock change
+  C*: No; this is an illegal self-help eviction and violates Hawaii landlord-tenant law
+  D : Yes, because non-payment of rent justifies immediate self-help removal
+MARKED ANSWER: C
+RATIONALE: Changing locks without a court order is illegal self-help eviction in Hawaii; landlords must use the legal summary possession process through the courts regardless of the reason for eviction.
+
+[hi-property-management-q02.v8] (State · hi-property-management)
+Q: Under Hawaii real estate law, can a property manager lawfully exclude a tenant by removing locks and personal property without going to court?
+  A : Yes, after providing a 5-day cure period
+  B : Yes, in cases where the lease contains a self-help eviction clause
+  C*: No; summary possession through judicial proceedings is the only legal eviction method in Hawaii
+  D : Yes, if the property manager acts on behalf of the owner
+MARKED ANSWER: C
+RATIONALE: Hawaii law prohibits all forms of self-help eviction, including by property managers; courts must order the eviction through summary possession proceedings.
+
+[hi-property-management-q02.v9] (State · hi-property-management)
+Q: A Hawaii property manager discovers a tenant has abandoned the rental unit. The manager changes the locks and removes the tenant's belongings to regain possession. This action is:
+  A : Permissible under Hawaii's self-help remedy doctrine
+  B*: A violation of law requiring court-ordered summary possession instead
+  C : Allowed as long as written notice was provided beforehand
+  D : Valid only if the tenant owes rent
+MARKED ANSWER: B
+RATIONALE: Hawaii law prohibits self-help eviction regardless of circumstances; landlords must obtain a court judgment through summary possession proceedings to lawfully regain possession.
+
+[hi-property-management-q03] (State · hi-property-management)
+Q: For a month-to-month rent increase, landlord must give:
+  A : 60 days notice
+  B*: 45 days notice
+  C : 14 days notice
+  D : 28 days notice
+MARKED ANSWER: B
+RATIONALE: 45 days advance written notice required.
+
+[hi-property-management-q03.v1] (State · hi-property-management)
+Q: A landlord in Hawaii intends to increase rent on a month-to-month tenancy. What is the minimum notice period required before the increase takes effect?
+  A : 90 days written notice
+  B : 30 days written notice
+  C : 60 days written notice
+  D*: 45 days written notice
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires 45 days advance written notice for rent increases on month-to-month leases.
+
+[hi-property-management-q03.v2] (State · hi-property-management)
+Q: If a property manager needs to raise rent on a periodic tenancy (month-to-month), how much advance notice must be provided?
+  A*: 45 days in writing
+  B : 14 days in writing
+  C : 21 days in writing
+  D : 60 days orally or in writing
+MARKED ANSWER: A
+RATIONALE: Month-to-month tenancies in Hawaii require 45 days advance written notice before a rent increase becomes effective.
+
+[hi-property-management-q03.v3] (State · hi-property-management)
+Q: A landlord wants to implement a rent increase on a month-to-month lease. What notice requirement applies?
+  A : Written notice 7 days before the next rental period
+  B : Oral notification 30 days prior
+  C : Written notice 28 days before the effective date
+  D*: Written notice 45 days before the increase takes effect
+MARKED ANSWER: D
+RATIONALE: Hawaii requires 45 days advance written notice for any rent increase on month-to-month rental agreements.
+
+[hi-property-management-q03.v4] (State · hi-property-management)
+Q: Under Hawaii real estate law, when a landlord modifies the rental rate for a month-to-month tenancy, the notice requirement is:
+  A : 3 weeks advance written notice
+  B : 1 month oral notice followed by written confirmation
+  C : 2 weeks written notice before the next rent due date
+  D*: 45 days advance written notice
+MARKED ANSWER: D
+RATIONALE: Hawaii law mandates 45 days advance written notice as the minimum period for rent increases on month-to-month leases.
+
+[hi-property-management-q03.v5] (State · hi-property-management)
+Q: Under Hawaii law, how much advance notice must a landlord provide before implementing a rent increase on a month-to-month tenancy?
+  A : 21 days written notice
+  B : 30 days written notice
+  C : 60 days written notice
+  D*: 45 days written notice
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires 45 days advance written notice for any rent increase on a month-to-month lease agreement.
+
+[hi-property-management-q03.v6] (State · hi-property-management)
+Q: A landlord in Hawaii wants to raise rent on a tenant with a month-to-month agreement. What notice period applies?
+  A : 90 calendar days
+  B : 10 business days
+  C*: 45 calendar days
+  D : 30 calendar days
+MARKED ANSWER: C
+RATIONALE: 45 days advance written notice is the statutory requirement for rent increases on month-to-month tenancies in Hawaii.
+
+[hi-property-management-q03.v7] (State · hi-property-management)
+Q: Which notice requirement applies when a landlord seeks to increase monthly rent on a periodic tenancy in Hawaii?
+  A : 14 days verbal notice allowed
+  B : 60 days notice with 30-day cure period
+  C*: 45 days written notice required
+  D : 30 days notice to vacate required
+MARKED ANSWER: C
+RATIONALE: Hawaii landlord-tenant law mandates 45 days advance written notice before any rent increase takes effect on a month-to-month lease.
+
+[hi-property-management-q03.v8] (State · hi-property-management)
+Q: A property manager represents a landlord with a month-to-month tenant. Before notifying the tenant of a rent increase, how far in advance must written notice be delivered?
+  A : At least 28 days before the increase effective date
+  B*: At least 45 days before the increase effective date
+  C : At least 14 days before the increase effective date
+  D : At least 60 days before the increase effective date
+MARKED ANSWER: B
+RATIONALE: 45 days advance written notice is required by Hawaii law before a rent increase on a month-to-month tenancy can become effective.
+
+[hi-property-management-q03.v9] (State · hi-property-management)
+Q: A landlord in Hawaii wishes to modify the rental rate on a month-to-month tenancy. What advance notice period must be provided to the tenant in writing?
+  A*: 45 days prior to the effective date
+  B : 30 days prior to the effective date
+  C : 60 days prior to the effective date
+  D : 21 days prior to the effective date
+MARKED ANSWER: A
+RATIONALE: Hawaii law requires 45 days advance written notice for any rent increase on a month-to-month lease. This longer notice period protects tenants from sudden rent changes.
+
+[hi-property-management-q04] (State · hi-property-management)
+Q: Hawaii's formal eviction process is called:
+  A : Suit for ejectment
+  B*: Summary possession
+  C : Forcible detainer
+  D : Quiet title
+MARKED ANSWER: B
+RATIONALE: Hawaii term is "summary possession."
+
+[hi-property-management-q04.v1] (State · hi-property-management)
+Q: When a Hawaii landlord needs to remove a tenant through the courts, the legal proceeding is formally known as:
+  A : Eviction in ejectment
+  B : Distress for rent
+  C : Forcible detainer action
+  D*: Summary possession
+MARKED ANSWER: D
+RATIONALE: Hawaii's statutory term for the formal court process to remove a tenant is 'summary possession,' not the terms used in other jurisdictions.
+
+[hi-property-management-q04.v2] (State · hi-property-management)
+Q: Which of the following is the correct Hawaii legal terminology for a formal landlord-initiated removal action against a tenant?
+  A : Forcible detainer
+  B*: Summary possession
+  C : Replevin proceeding
+  D : Suit for ejectment
+MARKED ANSWER: B
+RATIONALE: Hawaii law specifically uses the term 'summary possession' to describe the formal eviction process, distinguishing it from mainland jurisdictions that use other terminology.
+
+[hi-property-management-q04.v3] (State · hi-property-management)
+Q: A landlord in Hawaii who seeks court authorization to remove a non-paying tenant would file a:
+  A : Forcible detainer complaint
+  B : Quiet title action
+  C*: Summary possession action
+  D : Partition suit
+MARKED ANSWER: C
+RATIONALE: 'Summary possession' is Hawaii's official court procedure for evicting a tenant, regardless of the cause (non-payment, lease violation, holdover, etc.).
+
+[hi-property-management-q04.v4] (State · hi-property-management)
+Q: Under Hawaii law, the proper judicial remedy available to a property owner to regain possession of property from an occupant is called:
+  A : Suit for ejectment
+  B*: Summary possession
+  C : Action for unlawful detainer
+  D : Forcible detainer
+MARKED ANSWER: B
+RATIONALE: Hawaii uses the specific statutory term 'summary possession' for its formal eviction process, which is the state's designated procedure under Hawaii Revised Statutes.
+
+[hi-property-management-q04.v5] (State · hi-property-management)
+Q: Under Hawaii law, when a landlord seeks to remove a tenant through the court system, the legal action is known as:
+  A*: Summary possession
+  B : Forcible detainer
+  C : Unlawful detainer action
+  D : Suit for ejectment
+MARKED ANSWER: A
+RATIONALE: Hawaii's statutory eviction procedure is termed "summary possession," which is the formal court process for removing a tenant from rental property.
+
+[hi-property-management-q04.v6] (State · hi-property-management)
+Q: A Hawaii property owner who needs judicial relief to recover possession of a rental unit from a non-paying tenant would file an action for:
+  A : Declaratory judgment
+  B : Quiet title action
+  C : Forcible detainer
+  D*: Summary possession
+MARKED ANSWER: D
+RATIONALE: Hawaii uses the term "summary possession" to describe the statutory eviction remedy available to landlords seeking court-ordered removal of tenants.
+
+[hi-property-management-q04.v7] (State · hi-property-management)
+Q: Which of the following correctly identifies Hawaii's primary statutory mechanism for evicting a tenant through the courts?
+  A : Suit for ejectment
+  B : Forcible detainer
+  C : Replevin action
+  D*: Summary possession
+MARKED ANSWER: D
+RATIONALE: Hawaii's formal eviction procedure is called "summary possession," which is the established legal term used in Hawaii eviction statutes and court practice.
+
+[hi-property-management-q04.v8] (State · hi-property-management)
+Q: A landlord in Hawaii who wishes to initiate a court-ordered eviction of a defaulting tenant would pursue what type of legal action?
+  A : Unlawful detainer
+  B*: Summary possession
+  C : Forcible detainer
+  D : Suit for specific performance
+MARKED ANSWER: B
+RATIONALE: "Summary possession" is Hawaii's specific legal term for the formal eviction proceeding that allows a landlord to recover rental property through judicial action.
+
+[hi-property-management-q04.v9] (State · hi-property-management)
+Q: Which of the following legal actions is the proper Hawaii term for initiating a landlord's formal court proceeding to remove a tenant?
+  A : Unlawful detainer action
+  B : Suit for ejectment
+  C*: Summary possession
+  D : Forcible detainer
+MARKED ANSWER: C
+RATIONALE: Hawaii uses the term "summary possession" as the formal eviction procedure under Hawaii law, rather than the terms used in other states.
+
+[hi-property-management-q05] (State · hi-property-management)
+Q: A tenant must give what notice to terminate month-to-month?
+  A : 7 days
+  B : 45 days
+  C*: 28 days
+  D : 14 days
+MARKED ANSWER: C
+RATIONALE: 28-day tenant notice for month-to-month termination.
+
+[hi-property-management-q05.v1] (State · hi-property-management)
+Q: Under Hawaii law, how many days advance notice must a month-to-month tenant provide before ending their tenancy?
+  A : 14 days prior to the end of any rental period
+  B*: 28 days prior to the end of any rental period
+  C : 21 days prior to the end of any rental period
+  D : 30 days prior to the end of any rental period
+MARKED ANSWER: B
+RATIONALE: Hawaii requires a month-to-month tenant to provide 28 days' written notice before the end of any rental period to lawfully terminate the lease.
+
+[hi-property-management-q05.v2] (State · hi-property-management)
+Q: If a residential tenant on a month-to-month lease wishes to vacate the property, what is the minimum notice period required by Hawaii law?
+  A : 60 days from the date of written notice
+  B : Two weeks before lease expiration
+  C*: Four weeks before the end of the current rental month
+  D : 10 days before the first of the month
+MARKED ANSWER: C
+RATIONALE: A month-to-month tenant in Hawaii must give 28 days' notice (four weeks) before the end of the current rental period to properly terminate the tenancy.
+
+[hi-property-management-q05.v3] (State · hi-property-management)
+Q: A property manager receives written notice from a month-to-month tenant on the 5th of the month. If the tenant complies with Hawaii notice requirements, what is the earliest the tenancy can lawfully end?
+  A : The last day of the current month
+  B*: The last day of the following month
+  C : 14 days from the date of notice
+  D : 45 days from the date of notice
+MARKED ANSWER: B
+RATIONALE: Since Hawaii requires 28 days' notice before the end of any rental period, notice given on the 5th of one month allows termination at the end of the following month (more than 28 days later).
+
+[hi-property-management-q05.v4] (State · hi-property-management)
+Q: Which statement correctly describes the notice requirement for a tenant seeking to terminate a month-to-month tenancy in Hawaii?
+  A : The tenant must provide at least two weeks' notice, which may be given at any time during the month
+  B : The tenant must provide notice 45 days before the intended move-out date
+  C : The tenant may terminate immediately upon oral notice to the landlord
+  D*: The tenant must provide at least 28 days' notice before the end of the rental period
+MARKED ANSWER: D
+RATIONALE: Hawaii law mandates that a month-to-month tenant provide written notice of at least 28 days before the end of any rental period to effect a lawful termination.
+
+[hi-property-management-q05.v5] (State · hi-property-management)
+Q: Under Hawaii law, how much advance notice must a month-to-month tenant provide to the landlord when ending the tenancy?
+  A : 14 days prior to the end of the rental period
+  B : 21 days prior to the end of the rental period
+  C*: 28 days prior to the end of the rental period
+  D : 30 days prior to the end of the rental period
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires a month-to-month tenant to provide 28 days' written notice to terminate the lease, which must be given prior to the end of the rental period.
+
+[hi-property-management-q05.v6] (State · hi-property-management)
+Q: A landlord receives notice from a month-to-month tenant on the 1st of the month requesting to vacate. What is the minimum notice period the tenant must provide?
+  A : The tenant must vacate by the 15th of that month
+  B : The tenant must vacate by the 29th of that month
+  C*: The tenant must vacate by the last day of the following month
+  D : The tenant must vacate within 14 days of notice
+MARKED ANSWER: C
+RATIONALE: A month-to-month tenant in Hawaii must provide 28 days' notice to terminate, which typically means the tenant cannot vacate until at least 28 days have passed, often extending into the following month.
+
+[hi-property-management-q05.v7] (State · hi-property-management)
+Q: Which statement accurately describes the notice requirement for terminating a month-to-month residential lease in Hawaii?
+  A*: The tenant must provide at least 28 days' written notice
+  B : A verbal notice of 30 days is sufficient for termination
+  C : The tenant may terminate immediately if 14 days' written notice is given
+  D : Either party may terminate with 7 days' written notice
+MARKED ANSWER: A
+RATIONALE: Hawaii law mandates that a month-to-month tenant provide at least 28 days' written notice before the tenancy will terminate.
+
+[hi-property-management-q05.v8] (State · hi-property-management)
+Q: A property manager in Hawaii is managing a month-to-month rental property. A tenant submits written notice on June 1st to end the tenancy. Assuming no special lease provisions, when is the earliest date the tenant's occupancy will terminate?
+  A : June 29
+  B*: July 1
+  C : June 30
+  D : June 14
+MARKED ANSWER: B
+RATIONALE: With 28 days' notice required and notice given on June 1st, the tenant must remain until approximately July 1st, as the 28-day period extends into the following month.
+
+[hi-property-management-q05.v9] (State · hi-property-management)
+Q: Under Hawaii law, how many days' written notice must a month-to-month tenant provide to their landlord to end the tenancy?
+  A : 14 days before the end of the rental period
+  B : 21 days before the end of the rental period
+  C*: 28 days before the end of the rental period
+  D : 30 days before the end of the rental period
+MARKED ANSWER: C
+RATIONALE: Hawaii law requires a month-to-month tenant to provide 28 days' written notice to terminate the lease; this is the statutory requirement for tenancy termination in month-to-month agreements.
+

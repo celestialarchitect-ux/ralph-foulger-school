@@ -1,0 +1,15 @@
+BATCH 18 — reviewed 80 questions, found 0 critical, 0 major, 1 minor
+
+tough-pqpvaj.v8 | minor | Citation "HRS 514B § 514B-106" is awkwardly redundant and imprecise; 514B-106 ("Board; powers and duties") does establish board authority is limited by the declaration (supporting the answer), but the supermajority declaration-amendment requirement is more precisely found in 514B-32/514B-108. Substantively defensible; the marked answer D is correct. | Optionally cite as "HRS 514B-106 and 514B-32" or just "HRS chapter 514B"; answer unchanged.
+
+Verification notes (all confirmed accurate):
+- HARPTA = 7.25% under HRS 235-68 (effective 9/15/2018), residency-based not citizenship-based — qg008s.v1-v9 all correct.
+- Public Report must be delivered before a binding sales contract — HRS 514B-86 — jvd73k.v2-v9 all correct.
+- Short-term rental ban requires declaration language or supermajority amendment, not unilateral board rule (514B-106 limits board to declaration) — pqpvaj.v1-v9 answers correct.
+- Stigmatized-event (death/crime) disclosure NOT required unless it affects physical structure; honest answer required if asked — HRS 508D-8 — sy45lv.v1-v9 all correct.
+- Leasehold disclosures (HRS 516D-11) require lease term, rent, adjustment/reopening dates; fee-conversion price NOT a required disclosure — v6rnz2.v1-v9 all correct.
+- Land Court/Torrens Certificate of Title conclusive, eliminates chain-of-title search — p5ocoq.v1-v9 correct.
+- Confidentiality survives agency termination indefinitely — q2fk60.v1-v9 correct.
+- Late acceptance after stated expiration = counteroffer — s30b05.v1-v9 correct.
+- Agent must withdraw + document upon learning of client fraud, not unilaterally report — lks7oo.v1-v9 correct (note: v4 rationale typo "HEC" for HREC — cosmetic only).
+- No math/proration items in this batch.

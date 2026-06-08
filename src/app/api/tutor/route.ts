@@ -147,7 +147,7 @@ export async function POST(req: NextRequest) {
   try {
     const anthropic = new Anthropic({ apiKey });
     const stream = await anthropic.messages.stream({
-      model: 'claude-sonnet-4-5',
+      model: 'claude-sonnet-4-6',
       max_tokens: 1024,
       system: systemPrompt,
       messages: validMessages,

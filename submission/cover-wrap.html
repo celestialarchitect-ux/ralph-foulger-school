@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+/* ────────────────────────────────────────────────────────────
+   PRINT COVER WRAP — back | spine | front, one spread
+   Trim 8.5 x 11 in · bleed 0.125 in · spine 1.70 in (753 pp, white POD paper)
+   Total: 18.95 in (W) x 11.25 in (H)
+   ──────────────────────────────────────────────────────────── */
+@page { size: 18.95in 11.25in; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+:root{
+  --serif:'EB Garamond','Adobe Caslon Pro','Hoefler Text',Georgia,'Times New Roman',serif;
+  --sans:'Inter',-apple-system,'Helvetica Neue',Arial,sans-serif;
+  --ink:#0a1320; --ink2:#0d1a2b;
+  --gold:#c9a86a; --gold-bright:#e4c989; --cream:#f3e7c8; --rule:rgba(201,168,106,0.55);
+}
+html,body{ width:18.95in; height:11.25in; background:var(--ink); font-family:var(--serif); color:#fff; }
+.wrap{ position:absolute; top:0; left:0; width:18.95in; height:11.25in; overflow:hidden;
+  background:radial-gradient(ellipse at 80% 35%, #15304a 0%, #0b1622 48%, #060d16 100%); }
+
+/* fold guides (very subtle; printer ignores, helps visual proof) */
+.fold{ position:absolute; top:0; width:0; height:11.25in; border-left:0.25pt dashed rgba(255,255,255,0.10); }
+
+/* ── FRONT PANEL (right): x 10.325in → 18.95in ── */
+.front{ position:absolute; top:0; left:10.325in; width:8.625in; height:11.25in; overflow:hidden; }
+.front-img{ position:absolute; top:0; left:0; width:100%; height:100%;
+  background-image:url(cover-hero.jpg); background-size:cover; background-position:center 40%; }
+.front-scrim{ position:absolute; top:0; left:0; width:100%; height:100%;
+  background:linear-gradient(180deg,
+    rgba(5,10,18,0.90) 0%, rgba(5,10,18,0.66) 24%, rgba(5,10,18,0.58) 46%,
+    rgba(5,10,18,0.76) 70%, rgba(4,8,15,0.96) 100%); }
+.front-frame{ position:absolute; top:0.34in; left:0.30in; right:0.40in; bottom:0.34in;
+  border:0.9pt solid rgba(201,168,106,0.5); }
+.front-c{ position:absolute; top:0.95in; left:0.78in; right:0.85in; bottom:0.95in;
+  display:flex; flex-direction:column; }
+.imprint{ font-family:var(--sans); font-size:11pt; letter-spacing:0.26em; text-transform:uppercase;
+  color:var(--gold-bright); font-weight:600; }
+.imprint .sep{ display:block; width:0.5in; height:1.2pt; background:var(--gold); margin:10pt 0 0; }
+.f-title{ font-family:var(--serif); font-weight:500; color:#fff; font-size:50pt; line-height:1.04;
+  letter-spacing:-0.01em; margin-top:30pt; }
+.f-title .accent{ font-style:italic; color:var(--gold-bright); }
+.f-sub{ font-family:var(--serif); font-style:italic; font-size:16.5pt; line-height:1.42;
+  color:var(--cream); margin-top:18pt; max-width:6in; }
+.f-spacer{ flex:1; }
+.f-author{ border-top:1pt solid var(--rule); padding-top:16pt; }
+.f-author .name{ font-family:var(--serif); font-size:25pt; font-weight:500; color:#fff; letter-spacing:0.01em; }
+.f-author .creds{ font-family:var(--sans); font-size:9.5pt; letter-spacing:0.08em; text-transform:uppercase;
+  color:var(--cream); margin-top:7pt; font-weight:500; }
+.f-edition{ font-family:var(--sans); font-size:9pt; letter-spacing:0.2em; text-transform:uppercase;
+  color:var(--gold-bright); margin-top:12pt; font-weight:600; }
+
+/* ── SPINE (center): x 8.625in → 10.325in (1.70in) ── */
+.spine{ position:absolute; top:0; left:8.625in; width:1.70in; height:11.25in;
+  background:linear-gradient(180deg,#0c1a2b 0%, #0a1525 100%);
+  border-left:0.75pt solid rgba(201,168,106,0.30); border-right:0.75pt solid rgba(201,168,106,0.30);
+  display:flex; align-items:center; justify-content:center; }
+.spine-inner{ transform:rotate(90deg); white-space:nowrap; display:flex; align-items:center; gap:34pt; }
+.spine-title{ font-family:var(--serif); font-size:18pt; color:#fff; font-weight:500; letter-spacing:0.02em; }
+.spine-author{ font-family:var(--sans); font-size:11pt; letter-spacing:0.18em; text-transform:uppercase;
+  color:var(--gold-bright); font-weight:600; }
+.spine-mark{ font-family:var(--serif); font-style:italic; font-size:12pt; color:var(--cream); }
+.spine-dot{ width:5pt; height:5pt; border-radius:50%; background:var(--gold); }
+
+/* ── BACK PANEL (left): x 0 → 8.625in ── */
+.back{ position:absolute; top:0; left:0; width:8.625in; height:11.25in; }
+.back-frame{ position:absolute; top:0.34in; left:0.40in; right:0.30in; bottom:0.34in;
+  border:0.9pt solid rgba(201,168,106,0.4); }
+.back-c{ position:absolute; top:0.92in; left:0.92in; right:0.78in; }
+.b-kicker{ font-family:var(--sans); font-size:9.5pt; letter-spacing:0.24em; text-transform:uppercase;
+  color:var(--gold-bright); font-weight:600; margin-bottom:14pt; }
+.b-head{ font-family:var(--serif); font-size:27pt; line-height:1.16; color:#fff; font-weight:500; }
+.b-head .accent{ font-style:italic; color:var(--gold-bright); }
+.b-lead{ font-family:var(--serif); font-size:12pt; line-height:1.5; color:var(--cream); margin-top:14pt; }
+.b-inside-h{ font-family:var(--sans); font-size:9pt; letter-spacing:0.2em; text-transform:uppercase;
+  color:var(--gold); font-weight:700; margin:18pt 0 8pt; }
+.b-list{ list-style:none; }
+.b-list li{ font-family:var(--serif); font-size:11pt; line-height:1.5; color:#eef2f6; padding-left:18pt; position:relative; margin-bottom:4pt; }
+.b-list li::before{ content:''; position:absolute; left:0; top:7pt; width:7pt; height:7pt;
+  border:1pt solid var(--gold); transform:rotate(45deg); }
+.b-bio{ margin-top:16pt; padding-top:12pt; border-top:1pt solid var(--rule);
+  font-family:var(--serif); font-size:10pt; line-height:1.5; color:var(--cream); }
+.b-bio strong{ color:#fff; }
+.b-foot{ position:absolute; bottom:0.85in; left:0.92in; right:0.78in; }
+.b-pub{ font-family:var(--sans); font-size:8.5pt; letter-spacing:0.1em; color:var(--cream); line-height:1.7; }
+.b-pub .name{ color:var(--gold-bright); font-weight:600; letter-spacing:0.14em; text-transform:uppercase; }
+.barcode{ width:1.9in; height:0.95in; background:#fff; border-radius:2pt; display:flex; flex-direction:column;
+  align-items:center; justify-content:center; }
+.barcode .bars{ width:1.55in; height:0.5in; background:repeating-linear-gradient(90deg,#0a1320,#0a1320 1.4pt,#fff 1.4pt,#fff 3.4pt); }
+.barcode .lbl{ font-family:var(--sans); font-size:6.5pt; letter-spacing:0.18em; color:#0a1320; margin-top:4pt; font-weight:700; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <!-- BACK COVER -->
+  <div class="back">
+    <div class="back-frame"></div>
+    <div class="back-c">
+      <div class="b-kicker">Hawai&#699;i Real Estate Salesperson License</div>
+      <div class="b-head">One book. The <span class="accent">entire</span> path to your license.</div>
+      <p class="b-lead">This is the complete textbook for the Hawai&#699;i Real Estate Salesperson License &mdash; the only volume a candidate needs. The full course of study, the entire question bank with every answer explained, the real-estate mathematics, and a complete glossary are gathered here in a single book, written and taught by an instructor with more than fifty years in Hawai&#699;i real estate.</p>
+      <div class="b-inside-h">Inside this volume</div>
+      <ul class="b-list">
+        <li>Twenty complete chapters &mdash; eleven national, nine Hawai&#699;i &mdash; every lesson and key concept in full</li>
+        <li>2,290 practice questions, each with all options, the correct answer, and a full explanation</li>
+        <li>Every exam math type, worked step by step</li>
+        <li>A complete real-estate glossary, with the Hawai&#699;i terms set apart</li>
+        <li>Aligned to the State of Hawai&#699;i Real Estate Commission exam blueprint</li>
+      </ul>
+      <p class="b-bio"><strong>Ralph S. Foulger</strong> has been licensed in Hawai&#699;i as a salesperson since 1972 and as a broker since 1987, holds the CPM designation, and is a state-certified instructor across all three license tracks. He founded the Academy in 1996 and has taught Hawai&#699;i real estate for three decades.</p>
+    </div>
+    <div class="b-foot">
+      <div class="b-pub">
+        <span class="name">Ralph Foulger&rsquo;s Academy of Real Estate</span><br>
+        Honolulu, Island of O&#699;ahu, Hawai&#699;i<br>
+        ralphfoulger.com &middot; First Edition &middot; 2026
+      </div>
+    </div>
+  </div>
+
+  <!-- SPINE -->
+  <div class="spine">
+    <div class="spine-inner">
+      <span class="spine-title">The Complete Hawai&#699;i Real Estate Salesperson Textbook</span>
+      <span class="spine-dot"></span>
+      <span class="spine-author">Ralph S. Foulger</span>
+      <span class="spine-dot"></span>
+      <span class="spine-mark">2026</span>
+    </div>
+  </div>
+
+  <!-- FRONT COVER -->
+  <div class="front">
+    <div class="front-img"></div>
+    <div class="front-scrim"></div>
+    <div class="front-frame"></div>
+    <div class="front-c">
+      <div class="imprint">Ralph Foulger&rsquo;s Academy of Real Estate<span class="sep"></span></div>
+      <h1 class="f-title">The Complete Hawai&#699;i<br>Real Estate Salesperson<br><span class="accent">Textbook</span></h1>
+      <p class="f-sub">The full curriculum, 2,290 practice questions explained, real-estate mathematics, and a complete glossary &mdash; everything for the license exam, in one volume.</p>
+      <div class="f-spacer"></div>
+      <div class="f-author">
+        <div class="name">Ralph S. Foulger</div>
+        <div class="creds">Licensed since 1972 &middot; Broker &middot; CPM &middot; State-Certified Instructor</div>
+        <div class="f-edition">First Edition &middot; 2026</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- fold guides -->
+  <div class="fold" style="left:8.625in;"></div>
+  <div class="fold" style="left:10.325in;"></div>
+
+</div>
+</body>
+</html>

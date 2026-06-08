@@ -1,0 +1,12 @@
+BATCH 11 — reviewed 130 questions, found 0 critical, 2 major, 6 minor
+
+All marked answers verified CORRECT. Findings below are rationale/wording errors only; no answer keys are wrong. Verified against Hawaii DoT (HARPTA 7.25% of gross sale price), capitol.hawaii.gov/Justia (HRS 508D Mandatory Seller Disclosures; HRS 514B effective July 1, 2006, not Jan 1).
+
+hi-material-facts-q00.v5 | major | Rationale invents a false name: "HARPTA (Hawaii Sanford Act)." No such thing — HARPTA = Hawaii Real Property Tax Act. | Fix expansion to "Hawaii Real Property Tax Act."
+hi-material-facts-q00.v1 | minor | Rationale expands HARPTA as "Hawaii Residential Property Tax" — incorrect. | Correct to "Hawaii Real Property Tax Act."
+hi-types-of-ownership-q02.v1 | minor | Rationale says 514B governs condos "created or converted after January 1, 2006"; effective date is July 1, 2006. | Change to "after July 1, 2006."
+hi-types-of-ownership-q02.v4 | minor | Rationale says "on or after January 1, 2006"; correct effective date is July 1, 2006. | Change to "July 1, 2006."
+hi-types-of-ownership-q02.v8 | minor | Rationale says "after January 1, 2006"; correct date is July 1, 2006. | Change to "July 1, 2006."
+hi-material-facts-q08.v5 | minor | Rationale dates Land Commission Awards to "the 1850s"; the Great Mahele was 1848 (q08.v3/v4 correctly say 1848). | State "1848 Mahele" for consistency.
+hi-material-facts-q08.v8 | minor | Rationale dates LCAs to "the 1850s"; Mahele began 1848. | Reference 1848 for accuracy.
+hi-material-facts-q04 (set) | major | Rationale for q04.v8 expands HARPTA as "Hawaii's Real Property Tax Act (HARPTA), which operate as parallel withholding obligations" — fine; but several q04 rationales loosely imply both ALWAYS apply. Concept (both MAY apply) is correct and answers stand. No fix to answer; ensure "may apply" phrasing, not "must always." | No answer change; tighten wording to "may apply concurrently."

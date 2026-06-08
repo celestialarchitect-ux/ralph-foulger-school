@@ -1,0 +1,9 @@
+BATCH 01 — reviewed 130 questions, found 0 critical, 2 major, 1 minor
+
+property-ownership-q06.v1 | major | Rationale says "Option A lists these same four elements in a different order." Option A is "Ownership, Duration, Control, Legality" — those are NOT the four unities. The marked answer D (Title, Interest, Possession, Time) is correct, but the rationale's claim about Option A is false and confusing. | Fix rationale: drop the false sentence about Option A; the four unities are Time, Title, Interest, Possession (correct distractor analysis should note A/B/C are simply wrong).
+
+property-ownership-q06.v6 | major | Rationale says "Option B describes these concepts using alternative terminology." Option B is "Equal ownership, written agreement, mutual consent, and right of survivorship" — these are NOT the four unities (written agreement, consent, and survivorship are not unities). Marked answer A is correct, but the rationale falsely equates Option B with the four unities. | Fix rationale: remove the claim that Option B is equivalent terminology; Option B is incorrect.
+
+property-ownership-q08.v5 | minor | Marked answer D (Tenancy at sufferance) is correct, but Option A "Tenancy at will" is a near-distractor and the stem's "without the landlord's approval" is what distinguishes sufferance from at-will. Defensible as written; rationale is accurate. Flagged only for borderline distractor proximity. | No change required; answer is correct.
+
+NOTE: All 130 marked answers are substantively correct. No math or Hawaii-specific statutory claims appear in this batch (all items are National property-ownership and land-use-controls principles). The two major flags are rationale/distractor-description errors only — the keyed answers themselves are right.

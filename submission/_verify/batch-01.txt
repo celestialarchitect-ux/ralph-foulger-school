@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 1/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[property-ownership-q00] (National · property-ownership)
+Q: A built-in dishwasher most likely qualifies as:
+  A*: A real-property fixture
+  B : A trade fixture
+  C : Personal property
+  D : An emblement
+MARKED ANSWER: A
+RATIONALE: Built-in appliances are typically fixtures — affixed in a way that signals intent to stay with the property.
+
+[property-ownership-q00.v1] (National · property-ownership)
+Q: When a dishwasher is permanently installed beneath the kitchen counter and connected to the home's plumbing and electrical systems, it is classified as:
+  A : A trade fixture removable by the business owner
+  B : An emblement subject to severance by the tenant
+  C : Personal property retained by the seller unless stated otherwise
+  D*: Real property that transfers with the sale of the home
+MARKED ANSWER: D
+RATIONALE: Permanently affixed appliances like built-in dishwashers become fixtures and are considered part of the real property, transferring with the deed unless explicitly excluded in the contract.
+
+[property-ownership-q00.v2] (National · property-ownership)
+Q: A homeowner installs a dishwasher that is hardwired into the home's electrical system and plumbed directly to the water supply. Under Hawaii real estate law, this appliance would most accurately be described as:
+  A*: A fixture constituting part of the real estate
+  B : A trade fixture if the owner operates a commercial kitchen
+  C : An improvement that reverts to the seller upon sale
+  D : A removable chattel belonging to the original purchaser
+MARKED ANSWER: A
+RATIONALE: Permanent installation with intent to remain part of the property makes the dishwasher a fixture, which is considered real property and part of the sale unless the purchase agreement specifies otherwise.
+
+[property-ownership-q00.v3] (National · property-ownership)
+Q: Which of the following best characterizes a dishwasher that has been built into a home's cabinetry and permanently connected to water and power lines?
+  A*: A fixture attached to real property
+  B : A trade fixture if the homeowner operates a food service business
+  C : Personal property, as it is a moveable appliance
+  D : A leasehold improvement subject to removal at lease end
+MARKED ANSWER: A
+RATIONALE: The permanent nature of the installation and the intent for the appliance to remain with the property classify it as a fixture, making it part of the real estate rather than personal property.
+
+[property-ownership-q00.v4] (National · property-ownership)
+Q: A seller includes a permanently installed, built-in dishwasher as part of the property sale. The legal classification of this appliance is:
+  A : Trade fixtures removable under UCC provisions
+  B*: Real property fixtures included in the conveyance
+  C : Emblements that grow in value over the sale period
+  D : Chattels that remain with the seller unless separately conveyed
+MARKED ANSWER: B
+RATIONALE: Built-in dishwashers affixed to the home with permanent connections are classified as real property fixtures and are part of the real estate sale unless explicitly excluded in the purchase agreement.
+
+[property-ownership-q00.v5] (National · property-ownership)
+Q: When a dishwasher is permanently installed beneath a kitchen counter with plumbing and electrical connections, how should it be classified for purposes of a real estate sale?
+  A*: A real property fixture that conveys with the dwelling
+  B : Personal property that may be removed at closing
+  C : A trade fixture belonging to the appliance manufacturer
+  D : An emblement subject to severance by the seller
+MARKED ANSWER: A
+RATIONALE: Permanently installed dishwashers become real property fixtures because they are affixed to the realty and integrated into the structure's utility systems, conveying automatically unless expressly excluded.
+
+[property-ownership-q00.v6] (National · property-ownership)
+Q: A homeowner installs a new built-in dishwasher by connecting it to the home's water supply and integrating it into the cabinetry. This appliance would most likely be considered:
+  A*: A real property fixture due to its annexation and intent
+  B : Chattels that retain personal property status
+  C : A trade fixture if the homeowner is a contractor
+  D : An agricultural fixture subject to harvest
+MARKED ANSWER: A
+RATIONALE: The permanent physical attachment and integration into the home's utility and structural systems demonstrates an intent for the dishwasher to remain as part of the real property.
+
+[property-ownership-q00.v7] (National · property-ownership)
+Q: During a property inspection, a buyer asks whether a permanently plumbed dishwasher will stay with the house or be removed. The real estate licensee should explain that it is:
+  A*: A fixture that ordinarily conveys as part of the real property
+  B : A trade fixture that the previous owner may reclaim
+  C : An item subject to Hawaii UCC uniform fixture law only
+  D : Personal property unless specifically listed in the bill of sale
+MARKED ANSWER: A
+RATIONALE: Built-in dishwashers installed with permanent connections are classified as real property fixtures and transfer with the property unless the purchase agreement explicitly states otherwise.
+
+[property-ownership-q00.v8] (National · property-ownership)
+Q: In a residential lease negotiation, the landlord wants to clarify the status of a permanently installed dishwasher in the rental unit. From a Hawaii real estate perspective, this appliance should be classified as:
+  A*: A real property fixture integral to the dwelling
+  B : A trade fixture owned by the original installer
+  C : A removable item classified under Hawaii fixture law
+  D : Personal property of the tenant after one year of occupancy
+MARKED ANSWER: A
+RATIONALE: Affixed appliances like built-in dishwashers are real property fixtures because they are annexed to the realty with intent to remain permanently as part of the premises.
+
+[property-ownership-q00.v9] (National · property-ownership)
+Q: When a seller installs a dishwasher permanently into kitchen cabinetry before listing the property for sale, how should the listing agent classify this item for MLS and disclosure purposes?
+  A : A growing crop or agricultural product
+  B*: A fixture that conveys with the real property
+  C : Chattel to be removed at closing
+  D : Trade fixture belonging to a contractor
+MARKED ANSWER: B
+RATIONALE: A permanently installed dishwasher becomes part of the real property as a fixture because it is affixed to the real estate with the intent that it remain as part of the structure, and its removal would cause material damage.
+
+[property-ownership-q01] (National · property-ownership)
+Q: Which co-ownership carries automatic right of survivorship?
+  A : Severalty
+  B : Tenancy in common
+  C : Tenancy at will
+  D*: Joint tenancy
+MARKED ANSWER: D
+RATIONALE: Joint tenancy includes the right of survivorship; tenancy in common does not.
+
+[property-ownership-q01.v1] (National · property-ownership)
+Q: A property owner wants the surviving co-owner to automatically inherit her interest upon death. Which ownership form best accomplishes this?
+  A : Tenancy in common
+  B*: Joint tenancy with right of survivorship
+  C : Tenancy at will
+  D : Severalty ownership
+MARKED ANSWER: B
+RATIONALE: Joint tenancy with right of survivorship is the only co-ownership form that automatically transfers a deceased owner's interest to surviving co-owners by operation of law.
+
+[property-ownership-q01.v2] (National · property-ownership)
+Q: Which of the following co-ownership arrangements does NOT include an automatic right of survivorship?
+  A : Joint tenancy with rights of survivorship
+  B*: Tenancy in common
+  C : Joint tenancy
+  D : Tenancy by the entirety
+MARKED ANSWER: B
+RATIONALE: Tenancy in common allows each owner to devise their interest by will and does not provide survivorship rights; the other options all include survivorship provisions.
+
+[property-ownership-q01.v3] (National · property-ownership)
+Q: Two investors acquire commercial property together. They want to ensure that if one dies, the other automatically receives full ownership without probate. What ownership structure should they choose?
+  A : Severalty with a transfer-on-death deed
+  B*: Joint tenancy
+  C : Tenancy in common with a will provision
+  D : Tenancy at sufferance
+MARKED ANSWER: B
+RATIONALE: Joint tenancy provides automatic right of survivorship, bypassing probate and transferring the deceased's interest to the surviving co-owner by operation of law.
+
+[property-ownership-q01.v4] (National · property-ownership)
+Q: Under which co-ownership form does a deceased owner's share pass directly to the surviving co-owner(s) rather than to the deceased's heirs or estate?
+  A : Severalty
+  B : Leasehold tenancy
+  C*: Joint tenancy
+  D : Tenancy in common
+MARKED ANSWER: C
+RATIONALE: Joint tenancy is characterized by the right of survivorship, which automatically vests the deceased owner's interest in the surviving co-owner(s) outside the probate process.
+
+[property-ownership-q01.v5] (National · property-ownership)
+Q: When property is held by two individuals with the right of survivorship, what form of co-ownership exists?
+  A : Tenancy in common
+  B*: Joint tenancy
+  C : Community property
+  D : Tenancy at will
+MARKED ANSWER: B
+RATIONALE: Joint tenancy is the only co-ownership form that automatically includes the right of survivorship, meaning the surviving co-owner automatically receives the deceased's interest.
+
+[property-ownership-q01.v6] (National · property-ownership)
+Q: A husband and wife take title to real property with the express intention that if one dies, the survivor automatically owns the entire property. Which ownership form accomplishes this?
+  A*: Joint tenancy with right of survivorship
+  B : Tenancy for years with contingent remainder
+  C : Tenancy in common with right of succession
+  D : Severalty with a named beneficiary
+MARKED ANSWER: A
+RATIONALE: Joint tenancy with right of survivorship is specifically designed to pass a deceased co-owner's interest automatically to the surviving co-owners without probate.
+
+[property-ownership-q01.v7] (National · property-ownership)
+Q: Which of the following co-ownership arrangements does NOT require probate proceedings to transfer a deceased owner's interest to the surviving owner?
+  A : Tenancy by the entirety as modified by statute
+  B : Severalty with a will
+  C*: Joint tenancy
+  D : Tenancy in common
+MARKED ANSWER: C
+RATIONALE: Joint tenancy bypasses probate through automatic survivorship; the deceased owner's interest immediately vests in the surviving joint tenant(s).
+
+[property-ownership-q01.v8] (National · property-ownership)
+Q: A real estate licensee explains to a client that one form of co-ownership will pass ownership automatically upon death without estate administration. Which co-ownership form is the licensee describing?
+  A : Tenancy in common
+  B : Leasehold in severalty
+  C*: Joint tenancy
+  D : Life estate with remainder
+MARKED ANSWER: C
+RATIONALE: Joint tenancy includes automatic right of survivorship, which transfers the deceased's interest directly to surviving joint tenant(s) outside the probate process.
+
+[property-ownership-q01.v9] (National · property-ownership)
+Q: A property owner dies and leaves no will. Under which form of co-ownership would the surviving owner automatically acquire the deceased owner's interest without probate?
+  A : Tenancy at sufferance
+  B : Community property arrangement
+  C*: Joint tenancy
+  D : Tenancy in common with right of descent
+MARKED ANSWER: C
+RATIONALE: Joint tenancy is the only co-ownership form that includes the automatic right of survivorship, meaning the surviving joint tenant's interest passes directly to them outside of probate proceedings.
+
+[property-ownership-q02] (National · property-ownership)
+Q: The greatest possible interest in real property is:
+  A : Estate for years
+  B : Life estate
+  C : Determinable fee
+  D*: Fee simple absolute
+MARKED ANSWER: D
+RATIONALE: Fee simple absolute is unlimited in duration with no conditions.
+
+[property-ownership-q02.v1] (National · property-ownership)
+Q: Which of the following property interests grants ownership with no time limit and no conditions attached?
+  A*: Fee simple absolute
+  B : Fee simple determinable
+  C : Estate pur autre vie
+  D : Tenancy at will
+MARKED ANSWER: A
+RATIONALE: Fee simple absolute provides complete, unconditional ownership with indefinite duration and no restrictions or contingencies.
+
+[property-ownership-q02.v2] (National · property-ownership)
+Q: A property owner holds the most complete and perpetual ownership interest when they possess a:
+  A : Qualified fee
+  B*: Fee simple absolute
+  C : Leasehold estate
+  D : Life estate measured by another person
+MARKED ANSWER: B
+RATIONALE: Fee simple absolute is the highest form of real property ownership, lasting forever with no conditions, qualifications, or time limitations.
+
+[property-ownership-q02.v3] (National · property-ownership)
+Q: Which estate in land is characterized by indefinite duration and contains no limiting conditions or reversionary clauses?
+  A : Defeasible fee
+  B*: Fee simple absolute
+  C : Term for years
+  D : Estate for life
+MARKED ANSWER: B
+RATIONALE: Fee simple absolute ownership has no end date and no conditions that could cause forfeiture, making it the most comprehensive property interest.
+
+[property-ownership-q02.v4] (National · property-ownership)
+Q: An owner who possesses unrestricted, perpetual control over real property without any conditions or time constraints holds a:
+  A : Reversionary estate
+  B : Fee simple on condition subsequent
+  C : Periodic tenancy
+  D*: Fee simple absolute
+MARKED ANSWER: D
+RATIONALE: Fee simple absolute is the only estate that provides complete, permanent ownership free from any restrictions, conditions, or temporal limits.
+
+[property-ownership-q02.v5] (National · property-ownership)
+Q: Which of the following represents the most comprehensive ownership interest a person can hold in real property?
+  A : Estate for life
+  B*: Fee simple absolute
+  C : Fee simple determinable
+  D : Leasehold estate
+MARKED ANSWER: B
+RATIONALE: Fee simple absolute grants complete and perpetual ownership with no conditions, restrictions, or time limitations, making it the maximum possible interest in real property.
+
+[property-ownership-q02.v6] (National · property-ownership)
+Q: A property owner holds title with no conditions attached and the right to pass it to heirs indefinitely. This ownership interest is best described as:
+  A : Pur autre vie
+  B*: Fee simple absolute
+  C : Qualified fee
+  D : Fee simple subject to condition subsequent
+MARKED ANSWER: B
+RATIONALE: Fee simple absolute is the only estate that allows unconditional, indefinite ownership with full rights of inheritance and no reversionary interests or conditions subsequent.
+
+[property-ownership-q02.v7] (National · property-ownership)
+Q: Which estate or fee allows an owner to possess, use, and transfer property in perpetuity without any restrictions or contingencies?
+  A : Estate in tail
+  B : Conditional fee
+  C*: Fee simple absolute
+  D : Reversion interest
+MARKED ANSWER: C
+RATIONALE: Fee simple absolute is the highest form of title ownership, characterized by unrestricted duration and the ability to transfer indefinitely without conditions or reversions.
+
+[property-ownership-q02.v8] (National · property-ownership)
+Q: A buyer purchases property with the intention of owning the greatest possible estate. Which type of deed or ownership interest should be sought?
+  A : Fee simple subject to condition precedent
+  B : Tenancy for years
+  C : Life estate with remainder
+  D*: Fee simple absolute
+MARKED ANSWER: D
+RATIONALE: Fee simple absolute provides the maximum ownership rights in real property—perpetual, unconditional, and fully transferable to heirs and assigns.
+
+[property-ownership-q02.v9] (National · property-ownership)
+Q: Which of the following estates in real property grants the owner complete and perpetual ownership with no restrictions or conditions?
+  A*: Fee simple absolute
+  B : Estate subject to a condition subsequent
+  C : Tenancy at will
+  D : Leasehold estate
+MARKED ANSWER: A
+RATIONALE: Fee simple absolute represents the highest and most complete form of property ownership, lasting indefinitely with no limiting conditions or reversionary interests.
+
+[property-ownership-q03] (National · property-ownership)
+Q: A neighbor's fence built one foot over your boundary line is:
+  A : A lien
+  B*: An encroachment
+  C : An easement
+  D : A license
+MARKED ANSWER: B
+RATIONALE: Encroachment = unauthorized physical intrusion onto another's property.
+
+[property-ownership-q03.v1] (National · property-ownership)
+Q: A property owner discovers that a contractor accidentally poured a concrete driveway extension that extends 18 inches onto the adjacent lot. This situation is best described as:
+  A : A covenant running with the land
+  B : An adverse possession claim
+  C*: An encroachment
+  D : A prescriptive easement
+MARKED ANSWER: C
+RATIONALE: An encroachment is an unauthorized physical intrusion onto another's land, regardless of whether it was intentional or accidental; the concrete driveway crosses the property boundary without permission.
+
+[property-ownership-q03.v2] (National · property-ownership)
+Q: When a homeowner's shrubbery grows across the property line and extends onto the neighbor's land without consent, what type of property violation has occurred?
+  A : An appurtenant easement
+  B*: An encroachment
+  C : A right of way
+  D : A mechanic's lien
+MARKED ANSWER: B
+RATIONALE: Encroachment refers to any physical intrusion or occupation of another's property without right or permission, including vegetation, structures, or improvements that cross the boundary line.
+
+[property-ownership-q03.v3] (National · property-ownership)
+Q: A builder constructs a retaining wall that extends two feet beyond the surveyed property line. The neighbor has not granted permission for this structure to occupy their land. This is classified as:
+  A : A revocable license
+  B : A quiet title claim
+  C : An implied easement
+  D*: An illegal encroachment
+MARKED ANSWER: D
+RATIONALE: An encroachment is an unauthorized physical improvement that extends onto adjacent property; the retaining wall's intrusion without the neighbor's consent constitutes an encroachment.
+
+[property-ownership-q03.v4] (National · property-ownership)
+Q: If utility lines from one property illegally cross onto the adjacent property without a recorded agreement, the owner of the encroached-upon property may argue there is:
+  A : A prescriptive easement already perfected
+  B*: An unauthorized encroachment
+  C : A valid express easement
+  D : A statutory right to use the land
+MARKED ANSWER: B
+RATIONALE: The unauthorized crossing of utility lines onto another's property constitutes an encroachment—an unlawful physical occupation—unless formalized by a recorded easement agreement.
+
+[property-ownership-q03.v5] (National · property-ownership)
+Q: A property owner discovers that a contractor's equipment storage shed extends 18 inches onto their land without permission. This physical invasion of the owner's property rights is best described as:
+  A : An easement appurtenant
+  B*: An encroachment
+  C : A prescriptive right
+  D : A covenant running with the land
+MARKED ANSWER: B
+RATIONALE: Encroachment is the unauthorized physical intrusion or occupation of another's real property; it differs from easements (which are authorized rights) and covenants (which are restrictions).
+
+[property-ownership-q03.v6] (National · property-ownership)
+Q: A homeowner's driveway has been paved 2 feet over the property line into the adjacent lot. What legal term best characterizes this situation?
+  A : A license agreement
+  B : A trespass by easement
+  C : A junior lien
+  D*: An encroachment
+MARKED ANSWER: D
+RATIONALE: Encroachment is the physical invasion of real property without authorization; licenses are revocable permission, and easements require a proper legal grant.
+
+[property-ownership-q03.v7] (National · property-ownership)
+Q: When a neighbor's building structure extends beyond the legal property boundary onto your parcel without your consent or formal agreement, this is called:
+  A : A restrictive covenant
+  B : An adverse possession claim
+  C*: An encroachment
+  D : A riparian right
+MARKED ANSWER: C
+RATIONALE: Encroachment describes unauthorized physical invasion of property; riparian rights apply to water boundaries, restrictive covenants limit land use, and adverse possession requires lengthy occupation with specific intent.
+
+[property-ownership-q03.v8] (National · property-ownership)
+Q: A homeowner notices their neighbor's pool deck has been constructed 3 feet into their yard without permission or legal documentation. The unauthorized physical occupation of the property is known as:
+  A : A statutory lien
+  B : A quit claim transfer
+  C*: An encroachment
+  D : A prescriptive easement
+MARKED ANSWER: C
+RATIONALE: Encroachment is the unlawful physical intrusion onto another's property; prescriptive easements require open use over time, liens are financial claims, and quit claims transfer title.
+
+[property-ownership-q03.v9] (National · property-ownership)
+Q: Your property survey reveals that a portion of your neighbor's driveway extends two feet onto your land without permission or agreement. This situation is best described as:
+  A : A voluntary mechanic's lien
+  B : An implied easement for maintenance access
+  C : A restrictive covenant affecting the property
+  D*: An encroachment on your property rights
+MARKED ANSWER: D
+RATIONALE: An encroachment is an unauthorized physical intrusion of a structure or improvement from one property onto an adjoining property, exactly as described with the driveway extension.
+
+[property-ownership-q04] (National · property-ownership)
+Q: Which is NOT a "stick" in the bundle of rights?
+  A : Right to dispose
+  B : Right to exclude
+  C : Right to possess
+  D*: Right to depreciate
+MARKED ANSWER: D
+RATIONALE: Depreciation is a tax/accounting concept, not an ownership right.
+
+[property-ownership-q04.v1] (National · property-ownership)
+Q: A property owner holds several fundamental rights as part of real property ownership. Which of the following is NOT considered one of these core ownership rights?
+  A : Right to prevent others from entering the property
+  B : Right to transfer ownership to another party
+  C*: Right to claim depreciation deductions
+  D : Right to control and manage the property
+MARKED ANSWER: C
+RATIONALE: Depreciation is a tax deduction concept used in accounting, not an inherent ownership right bundled with real property.
+
+[property-ownership-q04.v2] (National · property-ownership)
+Q: When discussing the bundle of rights associated with fee simple ownership, an instructor lists several rights. Which item should NOT be included in that list?
+  A : Right of disposition and conveyance
+  B : Right of possession and occupancy
+  C : Right to exclude others from the premises
+  D*: Right to accelerate depreciation schedules
+MARKED ANSWER: D
+RATIONALE: Accelerating depreciation is a tax strategy based on an accounting method, not a true property ownership right.
+
+[property-ownership-q04.v3] (National · property-ownership)
+Q: A real estate licensee explains to a buyer that ownership includes multiple property rights. Which of the following is NOT one of these actual ownership rights?
+  A : The ability to sell or lease the property
+  B : The ability to keep unwanted persons off the property
+  C : The ability to use and occupy the property
+  D*: The ability to depreciate the property value for tax purposes
+MARKED ANSWER: D
+RATIONALE: Depreciation for tax purposes is a financial/accounting benefit derived from ownership, not a fundamental right in the bundle of property rights.
+
+[property-ownership-q04.v4] (National · property-ownership)
+Q: Which of the following is correctly identified as part of the traditional bundle of property rights owned in fee simple?
+  A : Right to exclude others from the property
+  B : Right to possess and use the property
+  C*: Right to depreciate the property's assessed value
+  D : Right to transfer or convey the property
+MARKED ANSWER: C
+RATIONALE: Depreciation is a tax accounting concept applied to property, not a true ownership right within the bundle of property rights.
+
+[property-ownership-q04.v5] (National · property-ownership)
+Q: A property owner holds several rights as part of real property ownership. Which of the following is NOT considered a traditional property right in the bundle of rights?
+  A : Right to restrict others' access
+  B : Right to transfer or convey
+  C : Right to control and possess
+  D*: Right to depreciate
+MARKED ANSWER: D
+RATIONALE: Depreciation is an accounting and tax deduction method, not a legal property right. The actual bundle of rights includes possession, control, transfer, and exclusion.
+
+[property-ownership-q04.v6] (National · property-ownership)
+Q: When discussing the bundle of rights concept in real estate, an instructor lists several owner privileges. Which one does NOT belong as a true property right?
+  A : Right to occupy and use the property
+  B*: Right to accelerate depreciation
+  C : Right to keep trespassers off the land
+  D : Right to lease or sell the property
+MARKED ANSWER: B
+RATIONALE: Acceleration of depreciation is a tax-planning strategy, not an inherent ownership right. The bundle comprises use, transfer, exclusion, and possession rights.
+
+[property-ownership-q04.v7] (National · property-ownership)
+Q: In a Hawaii real estate licensing exam, a candidate is asked which item is outside the scope of property rights in the bundle of rights doctrine. What is the correct answer?
+  A : The right to physically occupy the land
+  B : The right to prohibit unwanted entry
+  C : The right to convey title to another person
+  D*: The right to claim depreciation deductions
+MARKED ANSWER: D
+RATIONALE: Depreciation deductions are tax benefits tied to ownership but not a legal property right itself. The bundle of rights includes possession, exclusion, transfer, and use.
+
+[property-ownership-q04.v8] (National · property-ownership)
+Q: An investor reviews the core components of real property ownership. Which concept is commonly confused with a property right but is actually a financial/accounting matter?
+  A*: Depreciation for tax purposes
+  B : Possession and occupancy
+  C : Exclusion of the public
+  D : Disposition and transfer of title
+MARKED ANSWER: A
+RATIONALE: Depreciation is a tax accounting mechanism used to reduce taxable income, not a fundamental ownership right. The true bundle of rights includes exclusion, possession, transfer, and control.
+
+[property-ownership-q04.v9] (National · property-ownership)
+Q: A property owner holds several rights collectively known as the bundle of sticks. Which of the following is NOT included in this bundle of ownership rights?
+  A : Right to prevent others from entering
+  B : Right to transfer ownership
+  C : Right to control use and occupancy
+  D*: Right to claim depreciation deductions
+MARKED ANSWER: D
+RATIONALE: Depreciation is a tax accounting mechanism and benefit, not an actual ownership right within the bundle of sticks.
+
+[property-ownership-q05] (National · property-ownership)
+Q: A life estate measured by the life of someone other than the holder is:
+  A : Reversionary
+  B : Defeasible
+  C : Determinable
+  D*: Pur autre vie
+MARKED ANSWER: D
+RATIONALE: Pur autre vie = "for another's life."
+
+[property-ownership-q05.v1] (National · property-ownership)
+Q: When a property owner grants a life estate that is measured by the lifespan of a third party rather than the grantee, this arrangement is called:
+  A : Determinable fee
+  B*: Pur autre vie
+  C : Reversionary interest
+  D : Fee simple defeasible
+MARKED ANSWER: B
+RATIONALE: Pur autre vie means 'for the life of another' and is used when the duration of a life estate depends on someone other than the person holding the estate.
+
+[property-ownership-q05.v2] (National · property-ownership)
+Q: A broker receives a property interest that will last for the lifetime of the property's original owner, not the broker's lifetime. This estate is best described as:
+  A*: A life estate pur autre vie
+  B : An estate for years
+  C : A remainder in fee simple
+  D : A leasehold with reversion
+MARKED ANSWER: A
+RATIONALE: Pur autre vie designates a life estate whose duration is tied to the life of someone other than the holder of the estate.
+
+[property-ownership-q05.v3] (National · property-ownership)
+Q: Which term describes a life estate whose duration is based on the life of a person who is NOT the estate holder?
+  A : Vested remainder
+  B*: Pur autre vie
+  C : Defeasible fee
+  D : Reversionary estate
+MARKED ANSWER: B
+RATIONALE: Pur autre vie ('for another's life') is the specific legal term for a life estate measured by someone else's lifespan, not the holder's.
+
+[property-ownership-q05.v4] (National · property-ownership)
+Q: A widow is granted the right to occupy a house for as long as her brother lives. The type of estate she receives is called:
+  A : A defeasible fee simple
+  B*: A life estate pur autre vie
+  C : Estate in reversion
+  D : Determinable life estate
+MARKED ANSWER: B
+RATIONALE: Pur autre vie applies when a life estate's duration is measured by the life of a third party—in this case, the widow's brother—rather than the holder.
+
+[property-ownership-q05.v5] (National · property-ownership)
+Q: When a property owner grants a life estate that is contingent upon the life span of a third party rather than the grantee, what is this interest called?
+  A*: Pur autre vie
+  B : Determinable life estate
+  C : Defeasible fee
+  D : Reversionary interest
+MARKED ANSWER: A
+RATIONALE: Pur autre vie literally means 'for another's life' and describes a life estate whose duration depends on someone other than the person holding the estate.
+
+[property-ownership-q05.v6] (National · property-ownership)
+Q: A property owner conveys a life estate to a beneficiary, but the estate will terminate upon the death of the owner's spouse. This type of life estate is known as:
+  A*: A pur autre vie
+  B : An estate for years
+  C : A fee determinable
+  D : A contingent reversionary estate
+MARKED ANSWER: A
+RATIONALE: An estate measured by the life of a person other than the estate holder is called pur autre vie, meaning the duration depends on the life of a third party.
+
+[property-ownership-q05.v7] (National · property-ownership)
+Q: Which of the following describes an estate where the holder has the right to occupy property for life, but the duration is measured by the lifetime of someone else?
+  A : Terminable life interest
+  B*: Pur autre vie
+  C : Defeasible estate
+  D : Reversionary estate
+MARKED ANSWER: B
+RATIONALE: Pur autre vie means 'for another's life'—the estate holder's rights continue only as long as the measuring life (a third party) survives.
+
+[property-ownership-q05.v8] (National · property-ownership)
+Q: A grantor transfers property to a grantee for the grantee's life, provided the grantee outlives the grantor's daughter. Upon the daughter's death, the grantee's life estate terminates. This is best described as:
+  A*: A pur autre vie estate
+  B : A determinable fee simple
+  C : A reversionary interest
+  D : A vested remainder
+MARKED ANSWER: A
+RATIONALE: Because the life estate's duration is measured by someone other than the grantee (the grantor's daughter), this is a pur autre vie estate.
+
+[property-ownership-q05.v9] (National · property-ownership)
+Q: When a property owner grants a life estate that terminates upon the death of a third party rather than the grantee, this type of estate is known as a:
+  A : Reversion
+  B : Fee simple determinable
+  C*: Pur autre vie
+  D : Remainder interest
+MARKED ANSWER: C
+RATIONALE: Pur autre vie ("for another's life") is a life estate where the duration is measured by the lifespan of someone other than the person holding the estate, not the holder's own life.
+
+[property-ownership-q06] (National · property-ownership)
+Q: Joint tenancy requires which four unities?
+  A*: Time, title, interest, possession
+  B : Title, interest, intent, agreement
+  C : Money, marriage, motive, manner
+  D : Time, title, intent, possession
+MARKED ANSWER: A
+RATIONALE: Time, Title, Interest, Possession — TTIP.
+
+[property-ownership-q06.v1] (National · property-ownership)
+Q: Which of the following correctly identifies all four unities necessary to establish a valid joint tenancy in Hawaii?
+  A : Ownership, Duration, Control, Legality
+  B : Deed, Mortgage, Occupancy, Survivorship
+  C : Agreement, Consideration, Intent, Documentation
+  D*: Title, Interest, Possession, Time
+MARKED ANSWER: D
+RATIONALE: Joint tenancy requires the four unities of Time, Title, Interest, and Possession (TTIP). Option A lists these same four elements in a different order.
+
+[property-ownership-q06.v2] (National · property-ownership)
+Q: A broker is explaining to clients the requirements for holding property as joint tenants. Which set of elements must be present simultaneously for the co-ownership to qualify as a true joint tenancy?
+  A : Vesting, Contribution, Management, Distribution
+  B : Intent, Title, Money, Survivorship
+  C*: Possession, Time, Title, Interest
+  D : Agreement, Consideration, Representation, Recording
+MARKED ANSWER: C
+RATIONALE: The four unities required for joint tenancy are Possession, Time, Title, and Interest. These must all exist at the same moment to create a valid joint tenancy.
+
+[property-ownership-q06.v3] (National · property-ownership)
+Q: Under Hawaii real estate law, if one co-owner claims that joint tenancy was never properly created, a court would examine whether all four essential unities were satisfied. Which grouping represents those four unities?
+  A : Contribution, Consent, Control, Clarity
+  B : Capacity, Execution, Authority, Acknowledgment
+  C : Duration, Deed, Ownership, Rights
+  D*: Time, Title, Interest, Possession
+MARKED ANSWER: D
+RATIONALE: The four unities of joint tenancy—Time, Title, Interest, and Possession—are the foundational requirements that must all coexist at the inception of the tenancy.
+
+[property-ownership-q06.v4] (National · property-ownership)
+Q: Which four elements must simultaneously exist at the moment of acquisition for a co-ownership arrangement to be recognized as a joint tenancy rather than a tenancy in common?
+  A : Signature, Notarization, Recording, Survey
+  B : Marital Status, Equal Shares, Explicit Agreement, Probate Avoidance
+  C*: Interest, Possession, Time, Title
+  D : Monetary Investment, Property Use, Estate Planning, Survivorship Clause
+MARKED ANSWER: C
+RATIONALE: Interest, Possession, Time, and Title are the four unities of joint tenancy; all must be acquired simultaneously by all co-owners to create a valid joint tenancy.
+
+[property-ownership-q06.v5] (National · property-ownership)
+Q: To create a valid joint tenancy in Hawaii, all four of the following unities must be present EXCEPT:
+  A : Possession by each tenant of the whole property
+  B : Title acquired at the same time by all parties
+  C : Interest held in equal shares by all parties
+  D*: Intent to create survivorship rights
+MARKED ANSWER: D
+RATIONALE: Joint tenancy requires Time, Title, Interest, and Possession (TTIP), but NOT a specific intent to create survivorship—that is an automatic result of the unity of interest and title. Intent to create joint tenancy is assumed by law when the other three unities exist.
+
+[property-ownership-q06.v6] (National · property-ownership)
+Q: Which set of elements must be present simultaneously for joint tenancy to be established in Hawaii real property?
+  A*: Contemporaneous acquisition, identical title documents, equal fractional shares, and undivided possession
+  B : Equal ownership, written agreement, mutual consent, and right of survivorship
+  C : Unity of person, unity of duration, unity of claim, and unity of enjoyment
+  D : Registered ownership, notarized deed, spousal approval, and financial contribution
+MARKED ANSWER: A
+RATIONALE: The four unities of joint tenancy are Time (contemporaneous acquisition), Title (identical documents), Interest (equal shares), and Possession (undivided). Option B describes these concepts using alternative terminology.
+
+[property-ownership-q06.v7] (National · property-ownership)
+Q: A Hawaii real estate broker explains to clients that joint tenancy requires all of the following EXCEPT:
+  A : Each owner holds an undivided right to occupy the entire property
+  B : All co-owners must hold identical percentage interests
+  C*: The deed must be recorded with survivorship language only
+  D : All co-owners must receive their interest at the same moment
+MARKED ANSWER: C
+RATIONALE: Joint tenancy requires Time, Title, Interest, and Possession. While the deed must clearly express joint tenancy intent, it does not require special 'survivorship language only'—the unities themselves create the right of survivorship by operation of law.
+
+[property-ownership-q06.v8] (National · property-ownership)
+Q: When reviewing a joint tenancy arrangement, which requirement is NOT one of the four essential unities?
+  A : Unity of Time—all parties obtain their interest on the same date
+  B*: Unity of Profits—all parties receive equal rental or investment income
+  C : Unity of Title—all parties take title from the same legal instrument
+  D : Unity of Possession—all parties have equal right to occupy the entire property
+MARKED ANSWER: B
+RATIONALE: The four required unities are Time, Title, Interest (equal ownership percentage), and Possession—not Profits. While income may be divided equally by agreement, the unity requirement focuses on ownership interest and occupancy rights, not income distribution.
+
+[property-ownership-q06.v9] (National · property-ownership)
+Q: A broker is explaining the essential requirements for establishing a valid joint tenancy in Hawaii. Which set of four unities must be present simultaneously?
+  A*: Time, title, interest, and possession
+  B : Agreement, authority, title, and occupancy
+  C : Possession, intent, title, and consideration
+  D : Intent, marriage, title, and possession
+MARKED ANSWER: A
+RATIONALE: Joint tenancy requires the four unities of Time (acquired at same time), Title (from same document), Interest (equal shares), and Possession (equal right to occupy). These are collectively remembered as TTIP.
+
+[property-ownership-q07] (National · property-ownership)
+Q: A tenant operates a restaurant and installs a walk-in cooler. The cooler is:
+  A*: A trade fixture
+  B : An emblement
+  C : An encroachment
+  D : A real-property fixture
+MARKED ANSWER: A
+RATIONALE: Tenant business equipment = trade fixture; remains personal property.
+
+[property-ownership-q07.v1] (National · property-ownership)
+Q: A commercial tenant specializing in catering installs custom stainless-steel food preparation tables and a commercial freezer unit in the leased space. How are these items classified in Hawaii real estate law?
+  A*: Trade fixtures that remain the tenant's personal property
+  B : Improvements subject to the landlord's ownership claim
+  C : Real property appurtenances that transfer with the building
+  D : Emblements entitled to agricultural protection
+MARKED ANSWER: A
+RATIONALE: Equipment installed by a tenant for conducting their business remains a trade fixture and personal property, not real property, even when attached to the leased premises.
+
+[property-ownership-q07.v2] (National · property-ownership)
+Q: During lease termination, a tenant who operates a bakery must decide what to do with an industrial oven and custom shelving bolted to the walls. Under Hawaii real estate principles, these items are classified as:
+  A : Fixtures that now belong to the property owner
+  B : Leasehold improvements forming part of the real estate
+  C : Accessions that have merged with the freehold estate
+  D*: Trade fixtures the tenant may remove before lease end
+MARKED ANSWER: D
+RATIONALE: A tenant's business equipment qualifies as a trade fixture and retains its personal property status, permitting removal by the tenant within reasonable timeframes.
+
+[property-ownership-q07.v3] (National · property-ownership)
+Q: A salon operator leases a storefront and permanently installs a shampoo station, styling chairs, and plumbing modifications for her business operations. Which classification applies to these installations?
+  A : Chattel fixtures subject to the mechanic's lien laws
+  B : Part of the real property and owned by the landlord upon installation
+  C : Structural improvements requiring landlord consent to remove
+  D*: Trade fixtures that constitute personal property of the tenant
+MARKED ANSWER: D
+RATIONALE: Business equipment and operational fixtures installed by a tenant for commercial purposes retain trade fixture status and remain the tenant's removable personal property.
+
+[property-ownership-q07.v4] (National · property-ownership)
+Q: A business tenant installs a custom HVAC system and point-of-sale equipment throughout a leased commercial space. At the end of the lease term, the tenant wishes to remove these items. What is their legal status?
+  A*: They qualify as trade fixtures and may be removed as personal property
+  B : They constitute deemed easements binding future tenants
+  C : They have become part of the real property and cannot be removed
+  D : They are affixed improvements owned jointly by tenant and landlord
+MARKED ANSWER: A
+RATIONALE: Equipment and systems installed by a tenant to conduct their business retain trade fixture classification, allowing removal and remaining the tenant's personal property despite physical attachment.
+
+[property-ownership-q07.v5] (National · property-ownership)
+Q: A commercial tenant installs specialized kitchen equipment—including a commercial-grade oven and refrigeration unit—as part of their bakery business. How is this equipment classified in Hawaii real estate law?
+  A : A fixture subject to the landlord's ownership claims
+  B : A permanent improvement that becomes part of the real property
+  C*: Personal property that the tenant may remove at lease end
+  D : An improvement requiring landlord consent to become real property
+MARKED ANSWER: C
+RATIONALE: Business equipment installed by a tenant for commercial operations qualifies as a trade fixture, remaining personal property that the tenant retains ownership of and may remove upon lease termination.
+
+[property-ownership-q07.v6] (National · property-ownership)
+Q: During a commercial lease dispute, a hair salon owner installed custom mirrors, styling stations, and specialized plumbing for shampoo stations. Upon lease termination, who typically retains ownership of these items?
+  A*: The tenant, as they are trade fixtures related to the business operation
+  B : The property appraiser, as they affect market value
+  C : The landlord, as they are attached to the building structure
+  D : Both parties, divided proportionally by cost
+MARKED ANSWER: A
+RATIONALE: Equipment and fixtures installed by a tenant for the operation of their business constitute trade fixtures, which remain the tenant's personal property and may be removed before lease expiration.
+
+[property-ownership-q07.v7] (National · property-ownership)
+Q: A retail clothing store owner attaches shelving units, dressing room partitions, and lighting fixtures to the leased commercial space. These items are best classified as:
+  A : Emblements entitled to seasonal harvest
+  B : Structural alterations requiring permit modification
+  C*: Trade fixtures that retain personal property status
+  D : Real property improvements owned by the landlord
+MARKED ANSWER: C
+RATIONALE: Items installed by a business tenant specifically to facilitate their commercial operations are classified as trade fixtures, which maintain their status as personal property despite attachment to the real estate.
+
+[property-ownership-q07.v8] (National · property-ownership)
+Q: A manufacturing tenant leases factory space and installs machinery, assembly equipment, and electrical systems customized for production. At lease end, the tenant wishes to remove these items. Under Hawaii real estate principles, this removal is:
+  A : Possible only if the items are removed before occupancy begins
+  B*: Allowed, because business equipment qualifies as a trade fixture
+  C : Prohibited, as all attached items become the landlord's property
+  D : Subject to severance taxes and landlord approval fees
+MARKED ANSWER: B
+RATIONALE: Trade fixtures—equipment installed by a tenant for business operations—remain the tenant's personal property and may generally be removed during or at the end of the lease term.
+
+[property-ownership-q07.v9] (National · property-ownership)
+Q: A commercial tenant in a retail space installs specialized shelving and HVAC equipment for her jewelry business. Upon lease termination, she removes both items. These removals are lawful because the equipment constitutes:
+  A : Agricultural emblements subject to tenant harvest rights
+  B : Fixtures that have become part of the real estate through annexation
+  C : Real property that the tenant has the right to sever
+  D*: Trade fixtures that remain the tenant's personal property
+MARKED ANSWER: D
+RATIONALE: Equipment installed by a tenant for business operations remains trade fixtures—personal property owned by the tenant that can be removed before lease end, even though physically attached to the premises.
+
+[property-ownership-q08] (National · property-ownership)
+Q: A holdover tenant who stays after the lease ends without landlord consent has:
+  A : Estate at will
+  B*: Estate at sufferance
+  C : Estate for years
+  D : Periodic estate
+MARKED ANSWER: B
+RATIONALE: Sufferance = lowest estate, holdover without consent.
+
+[property-ownership-q08.v1] (National · property-ownership)
+Q: When a tenant fails to vacate at lease expiration and the owner has not authorized continued occupancy, what type of estate does the tenant hold?
+  A : Freehold estate
+  B : Estate for years with automatic renewal
+  C*: Estate at sufferance
+  D : Tenancy at will
+MARKED ANSWER: C
+RATIONALE: An estate at sufferance arises when a tenant wrongfully remains in possession after the lease term expires without landlord permission, making it the lowest and most precarious estate.
+
+[property-ownership-q08.v2] (National · property-ownership)
+Q: A tenant continues occupying rental property beyond the lease termination date despite the landlord's refusal to extend the agreement. The tenant's legal status is best described as holding an:
+  A*: Estate at sufferance
+  B : Estate at will
+  C : Determinable life estate
+  D : Tenancy from year to year
+MARKED ANSWER: A
+RATIONALE: Sufferance is the estate created when a tenant unlawfully holds over after lease expiration without landlord consent, representing the weakest form of tenancy.
+
+[property-ownership-q08.v3] (National · property-ownership)
+Q: Which estate type is created when a lessee remains in possession of the property after the lease term has ended and the landlord has not agreed to the continued occupancy?
+  A*: Estate at sufferance
+  B : Estate pur autre vie
+  C : Periodic tenancy
+  D : Estate for years
+MARKED ANSWER: A
+RATIONALE: An estate at sufferance is the tenant's status when holding over without consent after lease expiration; it is tolerated but not authorized by the owner.
+
+[property-ownership-q08.v4] (National · property-ownership)
+Q: A landlord discovers that a former tenant has remained on the premises without permission after the written lease expired. What estate does this unauthorized occupant currently possess?
+  A : Estate pur autre vie
+  B : Estate in common
+  C*: Estate at sufferance
+  D : Leasehold estate for a fixed term
+MARKED ANSWER: C
+RATIONALE: Sufferance describes the lowest estate created when a tenant wrongfully occupies property beyond lease expiration without landlord authorization or agreement.
+
+[property-ownership-q08.v5] (National · property-ownership)
+Q: When a tenant remains in possession of a rental property after expiration of the lease term without the landlord's approval, what type of tenancy is created?
+  A : Tenancy at will
+  B : Tenancy for a fixed term
+  C : Tenancy from year to year
+  D*: Tenancy at sufferance
+MARKED ANSWER: D
+RATIONALE: A tenancy at sufferance occurs when a tenant wrongfully continues occupying the property after the lease expires without landlord permission; it is the lowest form of tenancy.
+
+[property-ownership-q08.v6] (National · property-ownership)
+Q: A former tenant continues occupying commercial real estate for two weeks after the lease has terminated and the landlord has not consented to this occupancy. What estate does this tenant hold?
+  A : Estate for a term of years
+  B : Estate at will created by operation of law
+  C : Periodic tenancy
+  D*: Estate at sufferance
+MARKED ANSWER: D
+RATIONALE: An estate at sufferance is created when a tenant unlawfully holds over after the lease ends without landlord authorization, representing the lowest tenancy estate.
+
+[property-ownership-q08.v7] (National · property-ownership)
+Q: Under Hawaii real estate law, a residential tenant who fails to vacate at lease end and remains on the premises without the owner's permission holds what type of interest?
+  A : Tenancy by the entirety
+  B : Determinable fee
+  C*: Tenancy at sufferance
+  D : Life estate
+MARKED ANSWER: C
+RATIONALE: Tenancy at sufferance is the only valid tenancy interest when a tenant wrongfully remains in possession without consent; all other options represent different types of property interests.
+
+[property-ownership-q08.v8] (National · property-ownership)
+Q: A commercial lease expires on March 31st. The tenant remains in possession through April without obtaining the landlord's consent to continue occupancy. This tenant now has:
+  A*: An estate at sufferance
+  B : A renewable lease option
+  C : A statutory right of first refusal
+  D : An implied periodic tenancy
+MARKED ANSWER: A
+RATIONALE: When a tenant holds over after lease expiration without permission, an estate at sufferance is created—the lowest estate type with minimal tenant rights.
+
+[property-ownership-q08.v9] (National · property-ownership)
+Q: When a tenant remains in possession of rental property beyond the lease expiration date without the landlord's approval, what type of tenancy is created?
+  A : Tenancy for a term of years
+  B : Periodic tenancy
+  C*: Tenancy at sufferance
+  D : Tenancy at will
+MARKED ANSWER: C
+RATIONALE: An estate at sufferance is the lowest form of tenancy, created when a tenant wrongfully holds over after lease termination without landlord consent or permission to remain.
+
+[property-ownership-q09] (National · property-ownership)
+Q: The right of an owner whose land borders a lake is called:
+  A : Riparian
+  B : Reversionary
+  C*: Littoral
+  D : Prescriptive
+MARKED ANSWER: C
+RATIONALE: Littoral = static water (lake, ocean). Riparian = flowing (river, stream).
+
+[property-ownership-q09.v1] (National · property-ownership)
+Q: A property owner adjacent to a calm, enclosed body of water such as a lake enjoys what type of water rights?
+  A : Appurtenant rights
+  B : Riparian rights
+  C*: Littoral rights
+  D : Prescriptive rights
+MARKED ANSWER: C
+RATIONALE: Littoral rights apply to owners of land bordering static water bodies like lakes and oceans, while riparian rights apply to flowing water such as rivers and streams.
+
+[property-ownership-q09.v2] (National · property-ownership)
+Q: Which term correctly describes the legal interest of a landowner whose property line touches a non-moving water boundary?
+  A : Riparian interest
+  B : Easement interest
+  C : Leasehold interest
+  D*: Littoral interest
+MARKED ANSWER: D
+RATIONALE: Littoral rights are the legal interests granted to owners of land adjacent to still water bodies; riparian rights apply to flowing water boundaries instead.
+
+[property-ownership-q09.v3] (National · property-ownership)
+Q: When a homeowner's lot is situated along the shoreline of a lake, the water rights associated with that property are known as:
+  A*: Littoral rights
+  B : Riparian rights
+  C : Allodial rights
+  D : Usufruct rights
+MARKED ANSWER: A
+RATIONALE: Littoral rights attach to property bordering lakes and oceans (static water), whereas riparian rights apply to streams and rivers (flowing water).
+
+[property-ownership-q09.v4] (National · property-ownership)
+Q: An owner of beachfront property on a lake possesses what category of water-related property rights?
+  A*: Littoral rights as the owner borders a static body of water
+  B : Riparian rights because the owner abuts water
+  C : Prescriptive rights through continuous occupation
+  D : Covenant rights established by the developer
+MARKED ANSWER: A
+RATIONALE: Littoral rights are specifically for static water boundaries such as lakes and oceans; riparian rights apply only to flowing water like rivers and streams.
+
+[property-ownership-q09.v5] (National · property-ownership)
+Q: A property owner whose parcel abuts a large pond has certain water-related rights. What is the legal term for these rights?
+  A : Prescriptive easement rights
+  B : Riparian rights
+  C*: Littoral rights
+  D : Reversionary interest rights
+MARKED ANSWER: C
+RATIONALE: Littoral rights attach to land bordering still or non-flowing water bodies like ponds, lakes, and oceans. Riparian rights apply to flowing water such as rivers and streams.
+
+[property-ownership-q09.v6] (National · property-ownership)
+Q: Which of the following best describes the water-access privileges an owner enjoys when their land is adjacent to a calm, enclosed body of water?
+  A : Adverse possession rights
+  B : Riparian interest
+  C*: Littoral interest
+  D : Equitable servitude
+MARKED ANSWER: C
+RATIONALE: Littoral interest applies to static water bodies (lakes, oceans, ponds); riparian interest applies to flowing water features like rivers and streams.
+
+[property-ownership-q09.v7] (National · property-ownership)
+Q: An owner of beachfront property in Hawaii has certain water-related ownership rights. These rights are classified as:
+  A*: Littoral rights
+  B : Riparian rights
+  C : Alluvial rights
+  D : Tidewater rights
+MARKED ANSWER: A
+RATIONALE: Littoral rights are those held by owners whose land borders non-flowing water (ocean, lake); riparian rights belong to owners whose land borders flowing water (rivers, streams).
+
+[property-ownership-q09.v8] (National · property-ownership)
+Q: A developer is planning a subdivision on land that backs up to a large reservoir. What legal term describes the water-related ownership rights that each lot owner will possess?
+  A*: Littoral rights to the static water body
+  B : Navigational servitude rights
+  C : Appurtenant water easements
+  D : Riparian rights to use flowing water
+MARKED ANSWER: A
+RATIONALE: Littoral rights are associated with ownership of land bordering still water bodies like reservoirs, lakes, and oceans, while riparian rights pertain to flowing water sources.
+
+[property-ownership-q09.v9] (National · property-ownership)
+Q: A property owner whose residence sits adjacent to a large pond has which type of water rights?
+  A : Prescriptive rights to divert water for irrigation
+  B*: Littoral rights over the stationary body of water
+  C : Reversionary rights to claim the water upon abandonment
+  D : Riparian rights to construct dams and channels
+MARKED ANSWER: B
+RATIONALE: Littoral rights apply to owners whose land borders non-flowing bodies of water like lakes, ponds, and oceans. Riparian rights apply specifically to flowing water such as rivers and streams.
+
+[property-ownership-q10] (National · property-ownership)
+Q: When a deed conveys property "to A for life, then to B," B holds:
+  A : A leasehold
+  B : A reversion
+  C : A life estate
+  D*: A remainder
+MARKED ANSWER: D
+RATIONALE: B is the remainderman; the future interest passes to a named third party at A's death.
+
+[property-ownership-q10.v1] (National · property-ownership)
+Q: A property owner executes a deed transferring title "to C for the duration of C's life, then to D." What type of future interest does D possess?
+  A*: A vested remainder
+  B : An executory interest
+  C : A life estate pur autre vie
+  D : A reversionary interest
+MARKED ANSWER: A
+RATIONALE: D is a named third party who receives the property upon the termination of C's life estate; this is a vested remainder because D is ascertainable and the interest is not subject to a condition precedent.
+
+[property-ownership-q10.v2] (National · property-ownership)
+Q: In a conveyance reading "to X for life, remainder to Y," which statement accurately describes Y's interest?
+  A*: Y holds a future interest that becomes possessory when X's life estate ends
+  B : Y holds a contingent interest that may never vest
+  C : Y holds a reversionary right that returns to the grantor
+  D : Y holds a present possessory estate equal to X's interest
+MARKED ANSWER: A
+RATIONALE: Y is the remainderman with a remainder interest; the property will pass to Y upon X's death, making Y's interest a future possessory interest in a named third party.
+
+[property-ownership-q10.v3] (National · property-ownership)
+Q: A grantor conveys land "to M for life, then to N." At the time of conveyance, N's status is best described as holding:
+  A : A defeasible fee simple
+  B : A reversion in the original grantor
+  C*: An indefeasibly vested remainder
+  D : A life estate
+MARKED ANSWER: C
+RATIONALE: N, as the named successor upon M's death, holds an indefeasibly vested remainder because N is identifiable and the interest will vest without any conditions or contingencies.
+
+[property-ownership-q10.v4] (National · property-ownership)
+Q: When property is conveyed "to P for life, then to Q," what does Q's interest represent in the chain of title?
+  A : Q holds a possessory life estate concurrent with P
+  B*: Q receives the property when P's life estate terminates
+  C : Q has a reversionary claim senior to all other claims
+  D : Q's ownership reverts to the grantor or grantor's heirs
+MARKED ANSWER: B
+RATIONALE: Q, as the expressly designated successor, receives a remainder interest that becomes possessory and transfers ownership to Q upon P's death.
+
+[property-ownership-q10.v5] (National · property-ownership)
+Q: A property owner executes a deed stating "to C for the duration of C's life, then to D." What type of future interest does D possess?
+  A : A reversionary interest
+  B : An executory interest
+  C : A life tenancy
+  D*: A vested remainder
+MARKED ANSWER: D
+RATIONALE: D holds a vested remainder because the property will definitely pass to the named third party (D) upon the expiration of C's life estate.
+
+[property-ownership-q10.v6] (National · property-ownership)
+Q: In a conveyance reading "to X for life, remainder to Y," which statement correctly describes Y's interest?
+  A : Y holds a reversion that will return to the grantor
+  B : Y holds a defeasible fee simple subject to X's life estate
+  C*: Y holds a future interest that will vest upon X's death
+  D : Y holds an equitable interest only, not a legal one
+MARKED ANSWER: C
+RATIONALE: Y is the named remainderman whose future interest becomes possessory upon the natural termination of X's life estate, making it a remainder.
+
+[property-ownership-q10.v7] (National · property-ownership)
+Q: A grantor transfers real property "to M for M's lifetime, and upon M's death to N." Which of the following best characterizes N's position?
+  A*: N has a future interest that will become present at M's death
+  B : N has a contingent interest that depends on M surviving the grantor
+  C : N has only a reversionary right, not a remainderman's right
+  D : N has a present possessory estate subject to M's life use
+MARKED ANSWER: A
+RATIONALE: N's interest is a remainder—a future interest in a named third party that will inevitably become possessory when M's life estate terminates.
+
+[property-ownership-q10.v8] (National · property-ownership)
+Q: When a deed conveys property "to J for life, then to K," what is K's legal status regarding the property?
+  A : K is a reversioner with rights that revert to the original grantor
+  B*: K is a remainderman holding a future interest that will vest in possession
+  C : K is a grantee of a fee simple determinable
+  D : K is a tenant in common with J during J's lifetime
+MARKED ANSWER: B
+RATIONALE: K is a remainderman whose remainder will ripen into possession when J's life estate ends, making K a named third-party holder of a future interest.
+
+[property-ownership-q10.v9] (National · property-ownership)
+Q: In a deed that states "to C for life, then to D and D's heirs," what type of future interest does D possess?
+  A*: A remainder interest following a life estate
+  B : An executory interest subject to a condition subsequent
+  C : A vested leasehold estate
+  D : A reversionary interest returning to the grantor
+MARKED ANSWER: A
+RATIONALE: D is named to take possession after C's life estate ends, making D a remainderman with a remainder interest—a future interest that passes to a specified third party rather than reverting to the original grantor.
+
+[property-ownership-q11] (National · property-ownership)
+Q: In a tenancy in common, when one owner dies their share:
+  A : Reverts to the seller
+  B*: Passes by will or intestate succession
+  C : Goes to the state
+  D : Passes by survivorship to other owners
+MARKED ANSWER: B
+RATIONALE: Tenancy in common = no survivorship; share is inheritable.
+
+[property-ownership-q11.v1] (National · property-ownership)
+Q: A property owner holds title as a tenant in common with two other individuals. Upon the owner's death, what happens to their interest in the property?
+  A : The interest reverts to the original developer
+  B : The interest automatically transfers to the surviving co-owners
+  C*: The interest becomes part of the deceased owner's estate and passes through probate
+  D : The interest is held in trust by the Hawaii Department of Land and Natural Resources
+MARKED ANSWER: C
+RATIONALE: Tenancy in common has no right of survivorship; each owner's share is a separate, inheritable asset that passes through their will or intestate succession laws.
+
+[property-ownership-q11.v2] (National · property-ownership)
+Q: Three investors purchase a commercial building as tenants in common. If one investor dies intestate, how is their ownership stake handled?
+  A : It escheats to the County in which the property is located
+  B : It automatically vests in the remaining two investors
+  C : It becomes a lien against the property until resolved by the seller
+  D*: It passes to the investor's heirs according to Hawaii intestacy laws
+MARKED ANSWER: D
+RATIONALE: Tenancy in common ownership interests do not include survivorship rights; therefore, a deceased tenant's share passes through intestate succession to their legal heirs.
+
+[property-ownership-q11.v3] (National · property-ownership)
+Q: Which statement correctly describes the disposition of a tenant in common's ownership share after death?
+  A*: It is distributed according to the deceased's will, or by intestate succession if no will exists
+  B : It converts to joint tenancy for the surviving owners
+  C : It becomes the property of the state under adverse possession rules
+  D : It automatically merges with the remaining owners' interests
+MARKED ANSWER: A
+RATIONALE: Tenancy in common lacks survivorship; each share is an independent, devisable asset that passes through probate or intestate distribution.
+
+[property-ownership-q11.v4] (National · property-ownership)
+Q: A Hawaii property is held in the names of four co-owners as tenants in common. One co-owner passes away with a valid will naming a specific beneficiary. What is the correct outcome?
+  A : The property automatically converts to a tenancy by the entireties
+  B*: The deceased co-owner's share goes to the named beneficiary in the will
+  C : The entire property reverts to the original grantor's estate
+  D : All four shares merge equally among the three surviving co-owners
+MARKED ANSWER: B
+RATIONALE: Tenancy in common provides no survivorship rights; the deceased tenant's fractional interest becomes part of their probate estate and passes to whoever is named in their will.
+
+[property-ownership-q11.v5] (National · property-ownership)
+Q: A property owner holds title as a tenant in common and passes away without a will. What happens to their ownership interest in the property?
+  A : The interest automatically vests in the surviving co-owners
+  B : The interest reverts to the original grantor or their heirs
+  C*: The interest becomes part of the deceased owner's estate and is distributed according to intestate succession laws
+  D : The interest is forfeited to the state as unclaimed property
+MARKED ANSWER: C
+RATIONALE: Tenancy in common lacks survivorship rights; each owner's share is a separate, inheritable property interest that passes through their estate.
+
+[property-ownership-q11.v6] (National · property-ownership)
+Q: Three investors own commercial real estate as tenants in common. If one investor dies, which statement correctly describes the disposition of that investor's ownership percentage?
+  A : It automatically transfers to the two surviving investors in equal shares
+  B : It converts to a joint tenancy with the remaining owners
+  C*: It is subject to probate and distributed according to the deceased's will or state intestacy laws
+  D : It lapses and becomes unencumbered property held by the property manager
+MARKED ANSWER: C
+RATIONALE: In tenancy in common, there is no right of survivorship; the deceased's interest is a separate, devisable asset that passes through probate.
+
+[property-ownership-q11.v7] (National · property-ownership)
+Q: Which of the following correctly identifies what occurs with a tenant in common's ownership share upon their death?
+  A : The share transfers automatically to the state's escheat account
+  B*: The share becomes part of the owner's probate estate and passes by devise or descent
+  C : The share immediately vests in the other co-tenants by operation of law
+  D : The share terminates and the property becomes solely owned by remaining tenants
+MARKED ANSWER: B
+RATIONALE: Tenancy in common creates separate, devisable interests; there is no survivorship feature, so shares pass through the owner's estate.
+
+[property-ownership-q11.v8] (National · property-ownership)
+Q: A Hawaii property title shows four equal owners in a tenancy in common arrangement. One owner dies intestate. How is that owner's property interest handled?
+  A*: The deceased's share passes to their heirs or next of kin as determined by intestate succession
+  B : The share is held in trust by the county until claimed by a designated beneficiary
+  C : The other three owners each receive one-third of the deceased's share automatically
+  D : The entire property reverts to fee simple ownership of the surviving tenants
+MARKED ANSWER: A
+RATIONALE: Tenancy in common has no survivorship rights; the deceased owner's share is an inheritable asset that passes through their estate per intestacy statutes.
+
+[property-ownership-q11.v9] (National · property-ownership)
+Q: A property held as tenancy in common between two co-owners is transferred to the heirs of a deceased owner through which legal mechanism?
+  A : Escheat to the State of Hawaii as unclaimed property
+  B*: The decedent's will or the state's intestacy laws
+  C : Automatic transfer to the surviving co-owner by right of survivorship
+  D : Return to the original grantor or their estate
+MARKED ANSWER: B
+RATIONALE: Tenancy in common has no survivorship rights; each owner's interest is treated as separate property that passes through their estate via will or intestate succession.
+
+[land-use-controls-q00] (National · land-use-controls)
+Q: A homeowner builds a deck violating setback rules. The proper remedy to allow it is to apply for a:
+  A*: Variance
+  B : Rezoning
+  C : Conditional use
+  D : Special exception
+MARKED ANSWER: A
+RATIONALE: A variance addresses unique hardship under existing zoning; a rezoning would change the zone itself.
+
+[land-use-controls-q00.v1] (National · land-use-controls)
+Q: A property owner constructed a fence that extends 2 feet into the required rear setback area. To legally retain this non-conforming structure, the owner should petition the zoning board for a:
+  A : Rezoning petition
+  B : Nonconforming use extension
+  C*: Variance
+  D : Conditional use permit
+MARKED ANSWER: C
+RATIONALE: A variance is the proper remedy when a structure violates setback requirements due to unique hardship; rezoning would change the entire zone classification.
+
+[land-use-controls-q00.v2] (National · land-use-controls)
+Q: An addition to an existing home was built 3 feet closer to the side property line than zoning ordinances permit. Which zoning relief mechanism would allow the homeowner to keep the addition as-is?
+  A : Conditional use permit
+  B : Special exception
+  C : Comprehensive plan amendment
+  D*: Variance
+MARKED ANSWER: D
+RATIONALE: A variance addresses specific hardship-based violations of existing zoning regulations without changing the zoning classification itself.
+
+[land-use-controls-q00.v3] (National · land-use-controls)
+Q: A builder inadvertently constructed a pool structure 4 feet into the minimum front setback. To legalize this existing non-conformity, the appropriate request to the planning board would be for a:
+  A : Administrative adjustment
+  B : Reclassification
+  C*: Variance
+  D : Conditional use
+MARKED ANSWER: C
+RATIONALE: A variance is designed to grant relief from specific setback violations when the property presents unique hardship; rezoning or reclassification would alter the zone designation entirely.
+
+[land-use-controls-q00.v4] (National · land-use-controls)
+Q: A homeowner's storage building was erected in violation of the required side-yard setback. To remedy this setback non-compliance without rezoning the property, the owner must apply for a:
+  A : Zone boundary adjustment
+  B : Special permit exception
+  C*: Variance
+  D : Conditional use authorization
+MARKED ANSWER: C
+RATIONALE: A variance provides relief from specific zoning restrictions like setbacks when unique site conditions create hardship; it does not require or result in rezoning.
+
+[land-use-controls-q00.v5] (National · land-use-controls)
+Q: A property owner constructed a structure that encroaches on the required front setback. To legally keep the structure in place without changing the zone classification, which application should be filed?
+  A*: Variance request
+  B : Rezoning petition
+  C : Nonconforming use declaration
+  D : Conditional use permit
+MARKED ANSWER: A
+RATIONALE: A variance permits relief from specific zoning requirements due to hardship or unique circumstances, while rezoning would alter the entire zone's regulations.
+
+[land-use-controls-q00.v6] (National · land-use-controls)
+Q: After construction, a developer discovers that a building setback violates local zoning ordinances. The most appropriate remedy that does not require changing the zoning classification is a:
+  A : Special exception
+  B : Comprehensive plan amendment
+  C : Conditional use permit
+  D*: Variance
+MARKED ANSWER: D
+RATIONALE: A variance grants relief from specific zoning restrictions for properties with unique hardships; it leaves the underlying zoning intact unlike rezoning.
+
+[land-use-controls-q00.v7] (National · land-use-controls)
+Q: A homeowner's fence placement violates the side yard setback requirement in the residential zone. To remedy this non-conformance while maintaining the property's current zoning, the owner should apply for a:
+  A*: Variance
+  B : Zone change
+  C : Planned Unit Development
+  D : Conditional use permit
+MARKED ANSWER: A
+RATIONALE: A variance addresses relief from specific zoning requirements for individual hardship cases without changing the zone itself.
+
+[land-use-controls-q00.v8] (National · land-use-controls)
+Q: During a property inspection, a real estate professional discovers that an existing carport was built in violation of the rear setback ordinance. To allow this nonconforming structure to remain without rezoning the parcel, the property owner needs to obtain a:
+  A : Exception to code
+  B*: Variance approval
+  C : Rezoning certificate
+  D : Use permit amendment
+MARKED ANSWER: B
+RATIONALE: A variance provides relief from specific dimensional or setback requirements based on hardship or unique site conditions, preserving the underlying zoning designation.
+
+[land-use-controls-q00.v9] (National · land-use-controls)
+Q: A property owner constructed a fence that encroaches 2 feet into the required side yard setback. To legalize the existing structure without changing the zoning district, the owner should petition for a:
+  A : Rezoning application to expand permitted uses
+  B*: Variance from the setback requirement
+  C : Special exception under current code
+  D : Conditional use permit
+MARKED ANSWER: B
+RATIONALE: A variance is the appropriate remedy when an existing structure violates a dimensional requirement (setback) due to unique site conditions, without altering the underlying zoning classification.
+

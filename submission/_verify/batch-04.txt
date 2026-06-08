@@ -1,0 +1,1174 @@
+QUESTION VERIFICATION BATCH 4/18 — 130 items
+Verify each: is the marked answer correct? Is the math right? Is the Hawaii/national law accurate?
+Flag ONLY problems. Format each flag: ID | SEVERITY(critical/major/minor) | what's wrong | correct answer/fix
+
+[financing-q03] (National · financing)
+Q: The Closing Disclosure must be delivered:
+  A : At closing
+  B : On loan application
+  C*: 3 business days before closing
+  D : 7 days before closing
+MARKED ANSWER: C
+RATIONALE: TRID requires CD 3 business days before consummation.
+
+[financing-q03.v1] (National · financing)
+Q: Under TRID regulations, when must a borrower receive the Closing Disclosure document?
+  A : On the day of loan application
+  B : At the time of property inspection
+  C*: A minimum of 3 business days prior to loan consummation
+  D : The day before closing
+MARKED ANSWER: C
+RATIONALE: TRID mandates that the Closing Disclosure must be delivered at least 3 business days before consummation to allow borrowers time to review final loan terms.
+
+[financing-q03.v2] (National · financing)
+Q: A lender provides a borrower with the Closing Disclosure on Tuesday for a Friday closing. Which statement is accurate?
+  A : This complies with the regulation if the borrower waives the waiting period
+  B : This satisfies TRID requirements because it is within one week
+  C*: This violates TRID because 3 business days have not elapsed before consummation
+  D : This is acceptable under Hawaii REC rules regardless of federal requirements
+MARKED ANSWER: C
+RATIONALE: Tuesday to Friday is only 3 calendar days but only 2 business days (Wednesday and Thursday), which fails to meet the mandatory 3-business-day TRID requirement before closing.
+
+[financing-q03.v3] (National · financing)
+Q: Which of the following timing scenarios for Closing Disclosure delivery complies with current federal lending law?
+  A : Delivered at the closing table before signing loan documents
+  B : Delivered simultaneously with the initial loan estimate
+  C*: Delivered to the borrower 3 business days before the scheduled closing date
+  D : Delivered 5 calendar days after the loan application is submitted
+MARKED ANSWER: C
+RATIONALE: TRID regulations require the Closing Disclosure to reach the borrower no later than 3 business days before consummation, allowing adequate time for final review.
+
+[financing-q03.v4] (National · financing)
+Q: A real estate transaction is scheduled to close on Wednesday. The Closing Disclosure is delivered to the borrower on the previous Monday. Does this comply with TRID requirements?
+  A : Yes, because it was delivered within the same week
+  B : Yes, because it was delivered before the closing date
+  C*: No, because only 1 business day (Tuesday) has elapsed before consummation
+  D : No, because it should be delivered at closing instead
+MARKED ANSWER: C
+RATIONALE: Monday to Wednesday provides only 1 business day (Tuesday) of waiting time; TRID requires a minimum of 3 business days between delivery and consummation.
+
+[financing-q03.v5] (National · financing)
+Q: Under TRID regulations, when must a lender provide the Closing Disclosure to a borrower?
+  A : Within 24 hours after loan approval
+  B*: At least 3 business days prior to closing
+  C : At the closing table immediately before signing
+  D : On the day of loan application submission
+MARKED ANSWER: B
+RATIONALE: TRID mandates that the Closing Disclosure be delivered no later than 3 business days before consummation of the loan.
+
+[financing-q03.v6] (National · financing)
+Q: A borrower in Hawaii receives their final loan estimate and asks when they will get the Closing Disclosure. The loan officer should advise:
+  A : It must be provided within 7 calendar days of approval
+  B*: It will be mailed 3 business days before closing
+  C : It will be ready at closing
+  D : It will be emailed immediately after underwriting clears the file
+MARKED ANSWER: B
+RATIONALE: Federal TRID rules require the Closing Disclosure be given to the borrower no less than 3 business days before the closing date.
+
+[financing-q03.v7] (National · financing)
+Q: Which timeline requirement applies to delivery of the Closing Disclosure under current federal lending regulations?
+  A : 10 calendar days before consummation
+  B : On the date of closing or within 1 day after
+  C*: 3 business days before consummation
+  D : 5 business days before consummation
+MARKED ANSWER: C
+RATIONALE: TRID requires lenders to deliver the Closing Disclosure at least 3 business days before the loan is consummated.
+
+[financing-q03.v8] (National · financing)
+Q: A real estate transaction is scheduled to close on Friday. The lender must provide the Closing Disclosure no later than:
+  A : Within 24 hours of closing
+  B : Friday morning before closing
+  C*: The previous Monday
+  D : Tuesday of that week
+MARKED ANSWER: C
+RATIONALE: Since TRID requires 3 business days before consummation, a Friday closing requires delivery by the prior Monday at the latest.
+
+[financing-q03.v9] (National · financing)
+Q: Under TRID regulations, when must a lender provide the Closing Disclosure to a borrower?
+  A : On the day the borrower signs the promissory note
+  B*: No later than 3 business days prior to consummation
+  C : 5 calendar days before the scheduled closing date
+  D : At the time of loan approval
+MARKED ANSWER: B
+RATIONALE: TRID (Regulation Z) mandates that the Closing Disclosure be delivered at least 3 business days before the loan is consummated to allow the borrower time to review final terms.
+
+[financing-q04] (National · financing)
+Q: Fannie Mae operates in the:
+  A*: Secondary mortgage market
+  B : FHA market
+  C : VA market
+  D : Primary mortgage market
+MARKED ANSWER: A
+RATIONALE: Fannie Mae and Freddie Mac purchase loans from primary lenders.
+
+[financing-q04.v1] (National · financing)
+Q: Which market does Fannie Mae primarily serve by purchasing mortgage loans from originating lenders?
+  A : The FHA-insured loan market only
+  B*: The secondary mortgage market
+  C : The portfolio lending market
+  D : The primary mortgage market exclusively
+MARKED ANSWER: B
+RATIONALE: Fannie Mae functions as a secondary market entity by acquiring loans that primary lenders (banks, mortgage companies) originated, providing liquidity to the primary market.
+
+[financing-q04.v2] (National · financing)
+Q: Fannie Mae's primary business function involves:
+  A*: Purchasing previously originated mortgage loans from lenders
+  B : Insuring loans for government agencies
+  C : Originating loans directly to borrowers
+  D : Regulating interest rates in the primary market
+MARKED ANSWER: A
+RATIONALE: Fannie Mae operates as a secondary market purchaser, buying loans that primary lenders have already originated, thus providing capital flow back to primary lenders.
+
+[financing-q04.v3] (National · financing)
+Q: In the mortgage lending process, Fannie Mae would be classified as a participant in which market segment?
+  A*: Secondary market
+  B : Hard money lending market
+  C : Construction financing market
+  D : Origination market
+MARKED ANSWER: A
+RATIONALE: Fannie Mae operates in the secondary market, where it acquires already-originated mortgages from primary lenders, creating liquidity in the overall lending system.
+
+[financing-q04.v4] (National · financing)
+Q: A mortgage broker originates a loan that is later sold to Fannie Mae. At what point does Fannie Mae enter this transaction?
+  A*: After the loan has been originated and the broker seeks to sell it
+  B : During the property appraisal phase
+  C : When the borrower applies for FHA insurance
+  D : During the initial loan application process
+MARKED ANSWER: A
+RATIONALE: Fannie Mae enters secondary market transactions by purchasing loans after they have been originated by primary lenders, not during the origination process itself.
+
+[financing-q04.v5] (National · financing)
+Q: Which of the following government-sponsored enterprises primarily acquires mortgage loans from retail lenders and banks?
+  A : The Veterans Administration
+  B*: Freddie Mac and Fannie Mae
+  C : The Department of Housing and Urban Development
+  D : The Federal Reserve System
+MARKED ANSWER: B
+RATIONALE: Fannie Mae and Freddie Mac operate as secondary market entities that purchase loans originated by primary lenders, providing liquidity to the mortgage market.
+
+[financing-q04.v6] (National · financing)
+Q: A loan originator sells a conforming mortgage to Fannie Mae six months after closing. This transaction occurs in the:
+  A : Primary mortgage market
+  B : Warehouse lending market
+  C*: Secondary mortgage market
+  D : Portfolio lending market
+MARKED ANSWER: C
+RATIONALE: The secondary mortgage market is where existing loans are bought and sold; Fannie Mae purchases loans from originators in this market segment.
+
+[financing-q04.v7] (National · financing)
+Q: Fannie Mae's primary function in the mortgage industry is to:
+  A*: Purchase and hold mortgage loans from primary lenders
+  B : Provide title insurance and escrow services
+  C : Regulate interest rates set by commercial banks
+  D : Originate new mortgage loans directly to borrowers
+MARKED ANSWER: A
+RATIONALE: Fannie Mae operates in the secondary market by purchasing loans that were originated by primary lenders, thereby providing liquidity and standardization to the mortgage market.
+
+[financing-q04.v8] (National · financing)
+Q: Which market does Fannie Mae serve by acquiring loans that were originally issued by mortgage banks and savings institutions?
+  A : The construction lending market
+  B : The hard money lending market
+  C*: The secondary mortgage market
+  D : The wholesale mortgage market
+MARKED ANSWER: C
+RATIONALE: Fannie Mae functions as a secondary market purchaser, buying loans that primary lenders have already originated, thereby creating liquidity in the market.
+
+[financing-q04.v9] (National · financing)
+Q: Which of the following government-sponsored enterprises (GSEs) functions by purchasing mortgage loans from originators in order to provide liquidity to the lending market?
+  A : The Government Accountability Office
+  B : The Federal Reserve System
+  C*: Fannie Mae
+  D : The Department of Housing and Urban Development
+MARKED ANSWER: C
+RATIONALE: Fannie Mae operates in the secondary mortgage market by purchasing loans from primary lenders (banks, credit unions, mortgage companies), thereby providing liquidity and capital for continued lending.
+
+[financing-q05] (National · financing)
+Q: A loan with level monthly payments that pays off the balance entirely is:
+  A : Term loan
+  B*: Amortized
+  C : Interest only
+  D : Balloon
+MARKED ANSWER: B
+RATIONALE: Fully amortized = level payments retiring principal and interest by maturity.
+
+[financing-q05.v1] (National · financing)
+Q: Which loan structure requires equal monthly payments that fully retire both principal and interest over the loan term?
+  A : Straight note
+  B : Adjustable-rate mortgage
+  C : Interest-only loan
+  D*: Amortized loan
+MARKED ANSWER: D
+RATIONALE: An amortized loan features fixed equal payments that systematically reduce the principal balance to zero by the maturity date.
+
+[financing-q05.v2] (National · financing)
+Q: A borrower receives a 30-year mortgage with consistent monthly payments that eliminate the entire debt by the end of the term. This is an example of:
+  A : Partially amortized loan
+  B*: Amortized loan
+  C : Wraparound mortgage
+  D : Convertible loan
+MARKED ANSWER: B
+RATIONALE: A fully amortized loan has uniform payments throughout the term that completely pay off principal and accrued interest by maturity.
+
+[financing-q05.v3] (National · financing)
+Q: Which loan type is characterized by consistent periodic payments designed to fully satisfy the debt obligation through a combination of principal reduction and interest charges?
+  A : Blanket loan
+  B : Standing loan
+  C : Acceleration loan
+  D*: Amortized loan
+MARKED ANSWER: D
+RATIONALE: Amortization means the loan is paid down through equal installments that cover both principal and interest until the balance reaches zero.
+
+[financing-q05.v4] (National · financing)
+Q: A property buyer finances with level monthly payments that progressively reduce the loan principal until it is completely paid off at the end of the loan term. The loan is:
+  A*: Amortized
+  B : Graduated-payment
+  C : Subordinated
+  D : Pledged
+MARKED ANSWER: A
+RATIONALE: An amortized loan requires fixed payments that systematically pay down principal and interest, leaving no balance at loan maturity.
+
+[financing-q05.v5] (National · financing)
+Q: Which loan structure features consistent periodic payments that completely eliminate the debt by the end of the loan term?
+  A : Interest-only loan
+  B*: Amortized loan
+  C : Straight note
+  D : Adjustable-rate mortgage
+MARKED ANSWER: B
+RATIONALE: An amortized loan is designed with equal payments over the loan term that pay down both principal and interest until the debt is fully satisfied at maturity.
+
+[financing-q05.v6] (National · financing)
+Q: A borrower receives a mortgage with fixed monthly payments that gradually reduce the principal balance until the loan reaches zero at the end of the amortization period. This is a:
+  A : Balloon note
+  B : Deed of trust
+  C*: Fully amortized mortgage
+  D : Graduated payment mortgage
+MARKED ANSWER: C
+RATIONALE: A fully amortized mortgage uses consistent monthly payments combining principal and interest that completely pay off the loan by the final maturity date.
+
+[financing-q05.v7] (National · financing)
+Q: Which loan type requires the borrower to make uniform monthly installments that cover both principal reduction and interest over the full loan duration?
+  A : Negative amortization
+  B : Swing loan
+  C : Blanket mortgage
+  D*: Amortized
+MARKED ANSWER: D
+RATIONALE: An amortized loan structure uses equal monthly payments throughout the loan term to progressively retire the principal while paying interest until the obligation is completely satisfied.
+
+[financing-q05.v8] (National · financing)
+Q: A real estate loan in which the borrower makes constant monthly payments that pay off both interest and principal, resulting in zero balance at loan maturity, is called:
+  A : Construction loan
+  B : Wraparound mortgage
+  C : Term note
+  D*: Amortized loan
+MARKED ANSWER: D
+RATIONALE: An amortized loan is characterized by level payments that systematically eliminate the entire debt obligation through the combination of principal paydown and interest charges over the loan's term.
+
+[financing-q05.v9] (National · financing)
+Q: Which loan structure requires equal periodic payments that systematically reduce the principal balance to zero over the loan term?
+  A : Balloon note
+  B : Straight loan
+  C : Interest-only loan
+  D*: Amortizing loan
+MARKED ANSWER: D
+RATIONALE: An amortizing loan features consistent monthly payments that cover both principal and interest, fully retiring the debt by the maturity date with no lump-sum payment due.
+
+[financing-q06] (National · financing)
+Q: A "due-on-sale" clause:
+  A : Triggers automatic acceleration
+  B : Is illegal
+  C : Applies only to FHA loans
+  D*: Allows lender to call loan if property sold without consent
+MARKED ANSWER: D
+RATIONALE: Alienation clause = prevents assumption without lender consent.
+
+[financing-q06.v1] (National · financing)
+Q: When a real estate contract contains a due-on-sale clause, what right does it grant to the lender?
+  A : The right to charge a transfer fee equal to 3% of the sale price
+  B : The right to require the buyer to refinance at a higher interest rate
+  C : The right to automatically foreclose within 30 days of any property sale
+  D*: The right to demand immediate payment of the full loan balance if the property is transferred without lender approval
+MARKED ANSWER: D
+RATIONALE: A due-on-sale clause (alienation clause) allows the lender to accelerate the loan and demand full repayment if the property is sold or transferred without the lender's consent.
+
+[financing-q06.v2] (National · financing)
+Q: Under Hawaii real estate law, a due-on-sale clause in a mortgage primarily serves to:
+  A : Establish a second lien against the property automatically upon sale
+  B : Prevent the buyer from obtaining title insurance
+  C : Require the seller to carry back financing to the buyer
+  D*: Restrict the property owner's right to transfer the property without the lender's approval
+MARKED ANSWER: D
+RATIONALE: The due-on-sale clause restricts alienation by requiring lender consent before the borrower can sell or transfer the property; violation allows the lender to accelerate the debt.
+
+[financing-q06.v3] (National · financing)
+Q: If a borrower sells their home without notifying the lender and the mortgage contains a due-on-sale clause, the lender may:
+  A*: Exercise the right to accelerate the loan and demand full repayment
+  B : Void the title and require the buyer to start the purchase process over
+  C : Assess a penalty equal to one year's worth of mortgage payments
+  D : Automatically transfer the loan to the buyer at the same interest rate
+MARKED ANSWER: A
+RATIONALE: A due-on-sale clause gives the lender the power to declare the entire debt due immediately upon an unauthorized transfer or sale of the property.
+
+[financing-q06.v4] (National · financing)
+Q: Which statement accurately describes the function of a due-on-sale (alienation) clause in a Hawaii mortgage?
+  A*: It empowers the lender to call in the entire loan balance if the property is sold without consent
+  B : It requires the buyer to obtain homeowner's insurance before closing
+  C : It guarantees the buyer the right to assume the existing loan at the same terms
+  D : It prohibits the lender from ever raising the interest rate on the loan
+MARKED ANSWER: A
+RATIONALE: The due-on-sale clause is an alienation restriction that allows the lender to demand full repayment if the borrower transfers the property without the lender's permission.
+
+[financing-q06.v5] (National · financing)
+Q: Under a due-on-sale clause, what right does a lender have if a borrower transfers the property without the lender's approval?
+  A*: Demand immediate full repayment of the loan balance
+  B : File a mechanic's lien against the new owner
+  C : Impose a penalty equal to 6 months' interest
+  D : Require the buyer to obtain a new appraisal within 30 days
+MARKED ANSWER: A
+RATIONALE: A due-on-sale clause (alienation clause) gives the lender the right to accelerate the loan and demand full repayment if the property is sold or transferred without lender consent.
+
+[financing-q06.v6] (National · financing)
+Q: Which statement best describes how a due-on-sale provision protects a lender's interests?
+  A : It limits the buyer's ability to obtain title insurance on the property
+  B*: It prevents the property from being transferred without the lender's consent and allows acceleration if violated
+  C : It automatically transfers the property title to the lender upon sale
+  D : It prevents the borrower from refinancing at a lower interest rate
+MARKED ANSWER: B
+RATIONALE: The due-on-sale clause protects the lender by giving consent rights over property transfer and acceleration rights if the borrower violates the clause.
+
+[financing-q06.v7] (National · financing)
+Q: A borrower conveys property to a family member without notifying the lender. If the loan contains a due-on-sale clause, what is the lender's primary remedy?
+  A : Sue the family member for fraud and unjust enrichment
+  B : Automatically record a lien on the new owner's other property
+  C : Reduce the interest rate on the existing loan as compensation
+  D*: Call the loan due in full or approve the transfer with amended terms
+MARKED ANSWER: D
+RATIONALE: A due-on-sale clause gives the lender the right to demand acceleration (call the loan) or approve the transfer; it does not automatically create liens or change loan terms.
+
+[financing-q06.v8] (National · financing)
+Q: In Hawaii real estate transactions, a due-on-sale clause is commonly included in mortgages to:
+  A : Ensure the seller receives proceeds from the sale
+  B : Prevent property taxes from being assessed against the lender
+  C*: Give the lender control over property transfers and the right to accelerate if the borrower transfers without consent
+  D : Allow the lender to assume ownership if property values decline
+MARKED ANSWER: C
+RATIONALE: The due-on-sale clause protects lender interests by requiring lender approval for transfers and allowing acceleration if the borrower violates this restriction.
+
+[financing-q06.v9] (National · financing)
+Q: When a real estate loan contains an alienation clause, what right does it grant to the lender?
+  A : The right to adjust the interest rate annually based on market conditions
+  B : The right to foreclose immediately upon any property improvement
+  C : The right to prevent the borrower from obtaining homeowner insurance
+  D*: The right to demand full payment if the borrower transfers title without lender approval
+MARKED ANSWER: D
+RATIONALE: An alienation (due-on-sale) clause gives the lender the power to accelerate the loan and demand full repayment if the property is sold or ownership is transferred without the lender's consent.
+
+[financing-q07] (National · financing)
+Q: PMI is generally required on conventional loans when:
+  A : Borrower has FICO below 600
+  B*: LTV exceeds 80%
+  C : Loan exceeds $1M
+  D : LTV is below 50%
+MARKED ANSWER: B
+RATIONALE: PMI protects lender on high-LTV conventional loans.
+
+[financing-q07.v1] (National · financing)
+Q: Under what loan-to-value threshold does a conventional borrower typically avoid paying private mortgage insurance?
+  A : When the borrower has a credit score above 700
+  B : When LTV exceeds 85%
+  C*: When LTV remains at or below 80%
+  D : When the purchase price is under $500,000
+MARKED ANSWER: C
+RATIONALE: PMI is not required when LTV is 80% or less on conventional loans; it becomes mandatory when LTV exceeds 80% because the lender's equity cushion drops below 20%.
+
+[financing-q07.v2] (National · financing)
+Q: A lender will typically require PMI on a conventional mortgage because:
+  A*: The loan-to-value ratio puts the lender at greater risk of loss
+  B : The property is in a declining market area
+  C : The loan amount exceeds the county lending limit
+  D : The borrower is a first-time homebuyer
+MARKED ANSWER: A
+RATIONALE: PMI is risk protection for the lender when the borrower's equity stake is low (high LTV); it compensates the lender if the borrower defaults on a high-LTV conventional loan.
+
+[financing-q07.v3] (National · financing)
+Q: When does private mortgage insurance become a required cost for a borrower on a conventional loan?
+  A : Whenever the property appraised value increases year-over-year
+  B : Whenever the borrower puts down less than 25%
+  C : Whenever the borrower's debt-to-income ratio exceeds 43%
+  D*: Whenever the borrower finances more than 80% of the property value
+MARKED ANSWER: D
+RATIONALE: PMI is required when LTV exceeds 80%, meaning the borrower is financing more than 80% of the purchase price or appraised value on a conventional loan.
+
+[financing-q07.v4] (National · financing)
+Q: A conventional loan with an 85% LTV will most likely require the borrower to:
+  A : Accept a higher interest rate in lieu of down payment
+  B : Complete a homebuyer education course
+  C*: Pay private mortgage insurance premiums
+  D : Hold the property in an LLC
+MARKED ANSWER: C
+RATIONALE: At 85% LTV, the borrower exceeds the 80% threshold and therefore must pay PMI to protect the lender's interest in the event of default.
+
+[financing-q07.v5] (National · financing)
+Q: A lender will typically mandate private mortgage insurance on a conventional loan if the borrower's:
+  A : Credit score falls within the prime range of 740–760
+  B : Debt-to-income ratio is below 28%
+  C*: Loan-to-value ratio surpasses 80%
+  D : Down payment represents 25% or more of the purchase price
+MARKED ANSWER: C
+RATIONALE: PMI is required on conventional loans when LTV exceeds 80%, meaning the borrower's equity is less than 20% and lender risk increases.
+
+[financing-q07.v6] (National · financing)
+Q: Under what loan condition would a conventional mortgage borrower most likely be required to pay PMI?
+  A : When the loan principal is under $500,000
+  B*: When the loan amount exceeds 80% of the property's appraised value
+  C : When the borrower has made timely payments for 24 consecutive months
+  D : When the borrower puts down 22% of the home's purchase price
+MARKED ANSWER: B
+RATIONALE: Private mortgage insurance protects the lender when LTV exceeds 80%, indicating the borrower has less than 20% equity in the property.
+
+[financing-q07.v7] (National · financing)
+Q: Which scenario would trigger the requirement for PMI on a conventional residential loan?
+  A : Borrower makes an initial earnest money deposit of 3%
+  B : Borrower obtains a fixed-rate 30-year mortgage
+  C*: Borrower finances more than 80% of the property's value
+  D : Borrower's employment is in a commission-based field
+MARKED ANSWER: C
+RATIONALE: PMI becomes mandatory when LTV exceeds 80% because the lender's risk exposure increases with a lower equity cushion for the borrower.
+
+[financing-q07.v8] (National · financing)
+Q: On a conventional loan, private mortgage insurance is generally imposed when the:
+  A : Title search reveals no prior liens or encumbrances
+  B : Property appraises for less than the purchase price agreed in the contract
+  C*: Borrower's initial equity position falls below 20% of the property value
+  D : Interest rate is locked in at a rate below the market average
+MARKED ANSWER: C
+RATIONALE: PMI is required when the loan-to-value ratio exceeds 80% (meaning the borrower has less than 20% equity), protecting the lender's interest in a higher-risk loan scenario.
+
+[financing-q07.v9] (National · financing)
+Q: A lender will typically require private mortgage insurance on a conventional loan if the borrower's loan-to-value ratio reaches what threshold?
+  A : Exactly 100%
+  B : 75% or higher
+  C : 60% or lower
+  D*: Greater than 80%
+MARKED ANSWER: D
+RATIONALE: PMI is mandated by lenders on conventional loans when LTV exceeds 80%, protecting the lender against default risk on high-leverage loans.
+
+[financing-q08] (National · financing)
+Q: APR is generally:
+  A : Lower than interest rate
+  B : Equal to interest rate
+  C*: Higher than interest rate when points charged
+  D : Always 0%
+MARKED ANSWER: C
+RATIONALE: APR includes points + most fees → higher than nominal interest rate.
+
+[financing-q08.v1] (National · financing)
+Q: When a lender charges discount points on a loan, how does the APR typically compare to the stated interest rate?
+  A*: The APR exceeds the interest rate due to the inclusion of points and fees
+  B : The APR is only calculated if no points are charged
+  C : The APR becomes lower because points reduce the borrower's cost
+  D : The APR remains identical to the interest rate regardless of points
+MARKED ANSWER: A
+RATIONALE: APR incorporates discount points, origination fees, and closing costs into the calculation, resulting in a rate higher than the nominal interest rate quoted by the lender.
+
+[financing-q08.v2] (National · financing)
+Q: A borrower sees a loan advertised at 6% interest. After factoring in origination fees and points, the actual APR is most likely to be:
+  A : Fluctuating between 5% and 6%
+  B : 6% or lower
+  C : Exactly 6%
+  D*: Higher than 6%
+MARKED ANSWER: D
+RATIONALE: The APR includes all loan costs (points, fees, closing costs) in its calculation, making it a more comprehensive measure that exceeds the nominal interest rate.
+
+[financing-q08.v3] (National · financing)
+Q: Under federal truth-in-lending rules, how should an agent explain the relationship between APR and the advertised interest rate to a client?
+  A*: The APR is typically higher because it reflects the total cost of borrowing including points and fees
+  B : The APR is irrelevant once the interest rate is locked in
+  C : The APR is always lower when the borrower pays discount points upfront
+  D : They are the same calculation with different names
+MARKED ANSWER: A
+RATIONALE: APR is mandated by TILA to show the true annual percentage cost of the loan; it includes all finance charges, making it higher than the base interest rate alone.
+
+[financing-q08.v4] (National · financing)
+Q: If a lender charges 2 discount points on a mortgage loan, which statement best describes the APR?
+  A : It will be substantially lower than the stated interest rate
+  B*: It will be higher than the interest rate because points are incorporated into the cost
+  C : It will equal the interest rate since points are a separate line item
+  D : It cannot be determined without knowing the loan amount
+MARKED ANSWER: B
+RATIONALE: Discount points are factored into APR calculations as part of the total financing cost, causing the APR to exceed the nominal interest rate presented to the borrower.
+
+[financing-q08.v5] (National · financing)
+Q: When a lender charges discount points on a mortgage loan, how does the APR typically compare to the stated interest rate?
+  A : The APR is eliminated entirely when points are present
+  B : The APR is identical to the interest rate regardless of points
+  C : The APR becomes lower because points reduce the loan balance
+  D*: The APR exceeds the interest rate due to the cost of points and fees
+MARKED ANSWER: D
+RATIONALE: APR (Annual Percentage Rate) includes the nominal interest rate plus the cost of points and other fees expressed as an annualized rate, making it higher than the stated interest rate alone.
+
+[financing-q08.v6] (National · financing)
+Q: A borrower receives a mortgage quote with a 4% interest rate and 2 discount points. Which statement most accurately describes the relationship between APR and the quoted rate?
+  A : APR will be approximately 4% since points don't affect annual calculations
+  B*: APR will be higher than 4% once points and associated fees are factored in
+  C : APR will be lower than 4% because points improve the loan terms
+  D : APR will equal 0% for the first year due to point deductions
+MARKED ANSWER: B
+RATIONALE: The APR reflects the true cost of borrowing by incorporating points, origination fees, and other charges into an annualized percentage, resulting in a rate higher than the nominal interest rate.
+
+[financing-q08.v7] (National · financing)
+Q: In mortgage financing disclosures, APR and interest rate are typically different values. This difference is most commonly due to:
+  A : State and federal usury law caps limiting how high interest rates can go
+  B*: The inclusion of points, origination fees, and closing costs in the APR calculation
+  C : The APR being reset to zero after the loan closing
+  D : A requirement that APR must always be lower for consumer protection purposes
+MARKED ANSWER: B
+RATIONALE: APR includes discount points, loan origination fees, and other financing charges amortized over the loan term, which raises the APR above the nominal interest rate shown on the promissory note.
+
+[financing-q08.v8] (National · financing)
+Q: A lender advertises a 3.5% mortgage rate but the APR disclosed on the Loan Estimate is 3.75%. This difference primarily reflects:
+  A*: The cost of points, fees, and other charges included in the APR computation
+  B : An error in the lender's calculations that must be corrected immediately
+  C : A penalty applied to borrowers who fail to lock in their rate early
+  D : The lender's markup on the property appraisal fee only
+MARKED ANSWER: A
+RATIONALE: The higher APR incorporates the cost of discount points, origination fees, title fees, and other financing charges expressed as an annual rate, making the true cost of the loan higher than the stated interest rate.
+
+[financing-q08.v9] (National · financing)
+Q: When a lender quotes an APR that is higher than the stated interest rate, this difference most likely reflects:
+  A : Market conditions that will reverse before closing
+  B : An error in the lender's calculation software
+  C*: The inclusion of points, fees, and other financing costs amortized over the loan term
+  D : A penalty imposed by the Hawaii Real Estate Commission
+MARKED ANSWER: C
+RATIONALE: APR incorporates discount points, origination fees, and other closing costs expressed as an annual percentage, making it typically higher than the nominal interest rate when points are charged.
+
+[financing-q09] (National · financing)
+Q: RESPA Section 8 prohibits:
+  A : FHA loans
+  B : Prepayment
+  C*: Kickbacks among settlement providers
+  D : High interest rates
+MARKED ANSWER: C
+RATIONALE: RESPA Section 8 bans referral fees / kickbacks.
+
+[financing-q09.v1] (National · financing)
+Q: Under RESPA, which of the following practices is expressly forbidden in Section 8?
+  A : Charging origination fees
+  B*: Compensation to a title company for referring business
+  C : Using an appraisal contingency
+  D : Requiring hazard insurance
+MARKED ANSWER: B
+RATIONALE: RESPA Section 8 explicitly prohibits kickbacks and referral fees between settlement service providers, making compensation for referrals illegal regardless of the provider type.
+
+[financing-q09.v2] (National · financing)
+Q: A mortgage lender offers a real estate agent a percentage of the loan origination fee for each client referred to the lender. This violates:
+  A : Truth in Lending Act (TILA) disclosure requirements
+  B : Fair Housing Act prohibitions
+  C*: RESPA Section 8 anti-kickback provisions
+  D : State usury laws
+MARKED ANSWER: C
+RATIONALE: RESPA Section 8 specifically prohibits any payment or thing of value given as consideration for the referral of settlement business, making this referral arrangement illegal.
+
+[financing-q09.v3] (National · financing)
+Q: Which federal statute's Section 8 makes it unlawful for settlement service providers to give or receive anything of value in exchange for referrals?
+  A : Gramm-Leach-Bliley Act
+  B : Community Reinvestment Act
+  C*: Real Estate Settlement Procedures Act (RESPA)
+  D : Equal Credit Opportunity Act
+MARKED ANSWER: C
+RATIONALE: RESPA Section 8 is the specific statutory provision that prohibits kickbacks and referral fees among all parties involved in settlement transactions.
+
+[financing-q09.v4] (National · financing)
+Q: A title insurance company pays an escrow agent $500 for each new customer the escrow agent refers to the title company. This arrangement is most likely prohibited by:
+  A : The Dodd-Frank Act's consumer protection rules
+  B : Hawaii's Real Estate Commission licensing requirements
+  C : State insurance commission regulations on premium rates
+  D*: RESPA Section 8 kickback prohibitions
+MARKED ANSWER: D
+RATIONALE: RESPA Section 8 bans any payment or benefit given as compensation for referrals between settlement service providers, making this direct payment arrangement illegal.
+
+[financing-q09.v5] (National · financing)
+Q: Under RESPA Section 8, which of the following practices is strictly forbidden in real estate transactions?
+  A*: Receiving compensation for referring a client to a title company
+  B : Requiring a home inspection before closing
+  C : Charging a reasonable origination fee for loan processing
+  D : Disclosing all closing costs on the Closing Disclosure
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 prohibits referral fees and kickbacks between settlement service providers, as these undisclosed payments could inflate costs for consumers.
+
+[financing-q09.v6] (National · financing)
+Q: A real estate broker is approached by a mortgage lender offering a commission for every loan referral. What does RESPA Section 8 say about this arrangement?
+  A*: It is illegal regardless of whether the referral fee is disclosed
+  B : It is allowed as long as the fee does not exceed 10% of the loan amount
+  C : It is acceptable if both parties agree to the arrangement in writing
+  D : It is permissible if documented in the listing agreement
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 explicitly prohibits kickbacks and unearned fees between settlement service providers to prevent inflated costs and maintain transaction integrity.
+
+[financing-q09.v7] (National · financing)
+Q: Which federal regulation makes it unlawful for settlement service providers to pay each other for generating referrals?
+  A*: RESPA Section 8
+  B : The Community Reinvestment Act
+  C : FIRREA Section 1113
+  D : Regulation Z of the Truth in Lending Act
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 specifically bans referral fees, kickbacks, and unearned fees among closing service providers to protect consumers from inflated settlement costs.
+
+[financing-q09.v8] (National · financing)
+Q: A title company offers to pay an escrow agent for each customer referred to them. This transaction would violate:
+  A : The Fair Housing Act and lending discrimination guidelines
+  B : Regulation Z disclosure requirements for affiliated business arrangements
+  C : State licensing laws and appraisal independence standards
+  D*: RESPA Section 8 prohibition on kickbacks and referral fees
+MARKED ANSWER: D
+RATIONALE: RESPA Section 8 prohibits compensation payments between settlement service providers for referrals, as these undisclosed kickbacks artificially increase consumer costs.
+
+[financing-q09.v9] (National · financing)
+Q: Under RESPA Section 8, which practice is considered an illegal referral arrangement?
+  A*: A title company paying a real estate agent for sending business their way
+  B : A lender charging origination fees for loan processing
+  C : A mortgage servicer collecting monthly loan payments
+  D : A broker requiring earnest money deposits from buyers
+MARKED ANSWER: A
+RATIONALE: RESPA Section 8 explicitly prohibits kickbacks and referral fees between settlement service providers, regardless of the form or justification for the payment.
+
+[financing-q10] (National · financing)
+Q: A VA-eligible borrower typically:
+  A*: Has no down payment requirement
+  B : Must put down 20%
+  C : Cannot use VA twice
+  D : Pays PMI
+MARKED ANSWER: A
+RATIONALE: VA loans often require no down payment and never PMI.
+
+[financing-q10.v1] (National · financing)
+Q: Which of the following is a key advantage of VA financing for qualified military veterans?
+  A*: Zero down payment is typically available
+  B : A minimum 15% equity contribution is required at closing
+  C : Borrowers must obtain mortgage insurance coverage
+  D : The loan can only be used once in a lifetime
+MARKED ANSWER: A
+RATIONALE: VA loans are designed to require no down payment and eliminate PMI, making them highly accessible for eligible veterans.
+
+[financing-q10.v2] (National · financing)
+Q: A borrower with VA loan eligibility would NOT be required to:
+  A*: Pay private mortgage insurance
+  B : Provide employment verification
+  C : Disclose the property address to the lender
+  D : Obtain a VA Certificate of Eligibility
+MARKED ANSWER: A
+RATIONALE: VA loans are exempt from PMI requirements; instead, VA charges a funding fee. All other items are standard loan requirements.
+
+[financing-q10.v3] (National · financing)
+Q: When comparing VA loans to conventional financing, a VA-eligible borrower typically benefits from:
+  A : A requirement to maintain an escrow account for taxes and insurance
+  B : Mandatory hazard insurance at a higher rate than conventional loans
+  C*: Freedom from down payment and mortgage insurance obligations
+  D : A prepayment penalty that applies for the first five years
+MARKED ANSWER: C
+RATIONALE: VA loans uniquely offer no down payment requirement and no PMI, providing substantial financial advantages over conventional loans.
+
+[financing-q10.v4] (National · financing)
+Q: A VA-eligible borrower's loan application would MOST LIKELY NOT include a requirement for:
+  A : A property appraisal
+  B*: Private mortgage insurance
+  C : A valid Certificate of Eligibility
+  D : Proof of income and creditworthiness
+MARKED ANSWER: B
+RATIONALE: VA loans are prohibited from requiring PMI; the VA backing and optional funding fee serve as the guarantor, eliminating this cost.
+
+[financing-q10.v5] (National · financing)
+Q: Which of the following is a key benefit unique to VA loan programs for eligible veterans?
+  A : Exemption from property inspections
+  B : Lower interest rates than conventional loans by statute
+  C : Automatic loan approval regardless of credit
+  D*: No down payment needed in most cases
+MARKED ANSWER: D
+RATIONALE: VA loans typically require zero down payment as a primary benefit to veterans, distinguishing them from conventional and FHA loans that may require 3-20% down.
+
+[financing-q10.v6] (National · financing)
+Q: A service member with VA eligibility should understand that VA financing generally:
+  A*: Eliminates the down payment requirement
+  B : Requires 10% minimum down payment
+  C : Limits borrowers to a single property purchase
+  D : Mandates mortgage insurance premiums
+MARKED ANSWER: A
+RATIONALE: VA loans feature a zero down payment benefit, which removes the financial barrier of accumulating a large down payment fund required by most other loan types.
+
+[financing-q10.v7] (National · financing)
+Q: What is a primary distinguishing feature of VA mortgage loans compared to conventional financing?
+  A : Borrowers pay mortgage insurance annually
+  B*: Down payment is not typically required
+  C : Interest rates are set by the Department of Veterans Affairs
+  D : Veterans can only refinance once per year
+MARKED ANSWER: B
+RATIONALE: VA loans uniquely offer no down payment requirement, along with no PMI, making them one of the most affordable financing options available to eligible borrowers.
+
+[financing-q10.v8] (National · financing)
+Q: An eligible VA borrower reviewing loan terms should expect:
+  A*: No down payment obligation in most transactions
+  B : A 15% down payment minimum
+  C : A requirement to pay private mortgage insurance
+  D : Restrictions on using the benefit for investment property
+MARKED ANSWER: A
+RATIONALE: VA loan programs characteristically waive the down payment requirement for eligible veterans, reducing upfront cash needed to purchase a home compared to other loan programs.
+
+[financing-q10.v9] (National · financing)
+Q: Which of the following is a key advantage of a VA loan for an eligible veteran?
+  A : The interest rate is fixed at the federal rate
+  B : The lender will waive the appraisal requirement
+  C : Private mortgage insurance premiums are mandatory
+  D*: A down payment is typically not required
+MARKED ANSWER: D
+RATIONALE: VA loans are designed to help veterans by eliminating the down payment requirement and avoiding PMI, making homeownership more accessible.
+
+[financing-q11] (National · financing)
+Q: On an ARM, the rate equals:
+  A : Margin only
+  B : Index − margin
+  C : Just the index
+  D*: Index + margin
+MARKED ANSWER: D
+RATIONALE: Rate = Index (variable) + Margin (fixed lender spread).
+
+[financing-q11.v1] (National · financing)
+Q: Which two components, when combined, determine the interest rate charged on an adjustable-rate mortgage?
+  A : The margin alone, adjusted annually
+  B*: The market index and the lender's margin
+  C : The appraisal value and the debt-to-income ratio
+  D : The prime rate and the loan origination fee
+MARKED ANSWER: B
+RATIONALE: An ARM rate is calculated by adding the lender's fixed margin to the variable market index; the index fluctuates while the margin remains constant throughout the loan term.
+
+[financing-q11.v2] (National · financing)
+Q: A borrower with an ARM wants to understand how her interest rate is calculated. Her lender tells her the current index is 3% and the margin is 2.5%. What is her interest rate?
+  A : 3% (index only)
+  B*: 5.5% (index plus margin)
+  C : 0.5% (index minus margin)
+  D : 2.5% (margin only)
+MARKED ANSWER: B
+RATIONALE: The ARM rate formula is Index + Margin; therefore 3% + 2.5% = 5.5%, demonstrating how the variable index and fixed margin combine to produce the final rate.
+
+[financing-q11.v3] (National · financing)
+Q: In explaining an ARM to a client, which statement accurately describes the relationship between the index, margin, and the resulting interest rate?
+  A*: The interest rate is determined by adding the index to the margin
+  B : The interest rate is simply whatever the lender's margin is set at
+  C : The interest rate equals the margin subtracted from the index
+  D : The interest rate equals the index regardless of the margin
+MARKED ANSWER: A
+RATIONALE: The correct ARM formula is Rate = Index + Margin; the index changes with market conditions while the margin is a fixed spread set by the lender at origination.
+
+[financing-q11.v4] (National · financing)
+Q: When discussing ARM mechanics with a consumer, you explain that the interest rate will adjust periodically. The rate adjustment is based on which calculation?
+  A : The new margin percentage applied to the previous rate
+  B : The margin value only, with no index component
+  C : The index divided by the margin
+  D*: The current market index value plus the lender's fixed margin
+MARKED ANSWER: D
+RATIONALE: Each ARM adjustment recalculates using the current index value added to the constant margin; the index may change but the margin component remains fixed.
+
+[financing-q11.v5] (National · financing)
+Q: When calculating the interest rate on an adjustable-rate mortgage, a lender combines two components. Which of the following correctly identifies those components?
+  A : The appraisal value and the underwriting adjustment
+  B : The annual percentage rate and the origination fee
+  C : The discount point percentage and the loan-to-value ratio
+  D*: The benchmark rate and the lender's markup
+MARKED ANSWER: D
+RATIONALE: An ARM rate is determined by adding the benchmark index (which fluctuates) to the lender's markup or spread, commonly called the margin.
+
+[financing-q11.v6] (National · financing)
+Q: An ARM borrower wants to understand what makes up their adjustable rate. If the index is currently 2% and the lender's spread is 2.5%, what is the resulting interest rate?
+  A : 2%
+  B : 0.5%
+  C : 2.5%
+  D*: 4.5%
+MARKED ANSWER: D
+RATIONALE: The ARM rate equals the index plus the margin: 2% + 2.5% = 4.5%; the margin remains constant while the index adjusts.
+
+[financing-q11.v7] (National · financing)
+Q: Which component of an ARM interest rate is set by the lender and does NOT change throughout the loan term?
+  A*: The margin, which is the lender's fixed spread
+  B : The rate cap, which adjusts annually
+  C : The initial teaser rate, which is subsidized
+  D : The index rate, which is tied to market conditions
+MARKED ANSWER: A
+RATIONALE: The margin is the lender's static profit spread that never changes; the index component varies with market conditions and is added to this fixed margin.
+
+[financing-q11.v8] (National · financing)
+Q: A borrower's ARM adjusts when the index changes. To find the new rate after adjustment, a loan servicer must:
+  A : Multiply the index by the margin percentage
+  B*: Add the fixed margin to the new index value
+  C : Use only the published index without any additions
+  D : Subtract the margin from the current index
+MARKED ANSWER: B
+RATIONALE: The new ARM rate is always calculated by adding the constant margin to the current index; this simple addition formula applies at each adjustment period.
+
+[financing-q11.v9] (National · financing)
+Q: When calculating the interest rate on an adjustable-rate mortgage (ARM), which two components must be combined?
+  A : The index and the points paid at origination
+  B : The margin alone, adjusted annually
+  C*: The index and the margin
+  D : The margin and the discount points
+MARKED ANSWER: C
+RATIONALE: An ARM's interest rate is determined by adding the lender's fixed margin to the variable index rate. The index fluctuates with market conditions while the margin remains constant throughout the loan term.
+
+[laws-of-agency-q00] (National · laws-of-agency)
+Q: COALD stands for:
+  A : Confidence, Obedience, Accuracy, Loyalty, Diligence
+  B : Conduct, Order, Authority, Liability, Documentation
+  C : Communication, Obligation, Audit, Loyalty, Disclosure
+  D*: Care, Obedience, Accounting, Loyalty, Disclosure
+MARKED ANSWER: D
+RATIONALE: COALD = the five fiduciary duties.
+
+[laws-of-agency-q00.v1] (National · laws-of-agency)
+Q: Which acronym correctly identifies the five fiduciary duties that a real estate licensee must uphold?
+  A*: Care, Obedience, Accounting, Loyalty, Disclosure
+  B : Communication, Obligation, Audit, Loyalty, Disclosure
+  C : Confidence, Obedience, Accuracy, Loyalty, Diligence
+  D : Conduct, Order, Authority, Liability, Documentation
+MARKED ANSWER: A
+RATIONALE: COALD represents Care, Obedience, Accounting, Loyalty, and Disclosure—the core fiduciary duties required of Hawaii real estate licensees.
+
+[laws-of-agency-q00.v2] (National · laws-of-agency)
+Q: A broker in Hawaii needs to remember her principal fiduciary obligations. Which of the following correctly spells out COALD?
+  A*: Care, Obedience, Accounting, Loyalty, Disclosure
+  B : Compliance, Obedience, Authority, Liability, Documentation
+  C : Care, Organization, Accounting, Law, Disclosure
+  D : Conduct, Obligation, Audit, Loyalty, Disclosure
+MARKED ANSWER: A
+RATIONALE: COALD is the mnemonic for the five fiduciary duties: Care, Obedience, Accounting, Loyalty, and Disclosure that all licensees must perform.
+
+[laws-of-agency-q00.v3] (National · laws-of-agency)
+Q: The five fiduciary duties required of Hawaii real estate agents are best remembered by which acronym?
+  A*: COALD
+  B : COACH
+  C : COLD
+  D : CLAUD
+MARKED ANSWER: A
+RATIONALE: COALD is the standard acronym representing Care, Obedience, Accounting, Loyalty, and Disclosure—the fundamental fiduciary obligations in Hawaii real estate practice.
+
+[laws-of-agency-q00.v4] (National · laws-of-agency)
+Q: When explaining fiduciary responsibilities to a new licensee, an instructor outlines Care, Obedience, Accounting, Loyalty, and Disclosure. What acronym is being used?
+  A*: COALD
+  B : COACH
+  C : COBLA
+  D : COULD
+MARKED ANSWER: A
+RATIONALE: The acronym COALD directly corresponds to Care, Obedience, Accounting, Loyalty, and Disclosure, which are the five essential fiduciary duties.
+
+[laws-of-agency-q00.v5] (National · laws-of-agency)
+Q: Which of the following correctly identifies the five fiduciary duties represented by the acronym COALD?
+  A : Competence, Obligation, Authority, Liability, Documentation
+  B : Confidence, Obedience, Accuracy, Loyalty, Diligence
+  C*: Care, Obedience, Accounting, Loyalty, Disclosure
+  D : Conduct, Obedience, Audit, Loyalty, Disclosure
+MARKED ANSWER: C
+RATIONALE: COALD is a mnemonic for the five fiduciary duties: Care, Obedience, Accounting, Loyalty, and Disclosure. These are the core ethical and legal obligations brokers owe to their clients.
+
+[laws-of-agency-q00.v6] (National · laws-of-agency)
+Q: A real estate licensee must understand COALD, which represents:
+  A : Conduct, Order, Authority, Liability, Documentation
+  B : Communication, Obligation, Audit, Loyalty, Disclosure
+  C*: Care, Obedience, Accounting, Loyalty, Disclosure
+  D : Competence, Organization, Accuracy, Legal compliance, Diligence
+MARKED ANSWER: C
+RATIONALE: COALD stands for Care, Obedience, Accounting, Loyalty, and Disclosure—the five essential fiduciary duties that Hawaii and mainland brokers must fulfill toward their clients.
+
+[laws-of-agency-q00.v7] (National · laws-of-agency)
+Q: In Hawaii real estate practice, the acronym COALD describes the broker's:
+  A : Confidentiality, Obligation, Authority, Legal duty, Documentation
+  B : Communication, Obligation, Accountability, Loyalty, Disclosure
+  C : Conduct, Obedience, Audit, Liability, Diligence
+  D*: Care, Obedience, Accounting, Loyalty, Disclosure
+MARKED ANSWER: D
+RATIONALE: COALD is the acronym for the five fiduciary duties: Care, Obedience, Accounting, Loyalty, and Disclosure. These duties form the foundation of a broker's legal and ethical responsibilities to clients.
+
+[laws-of-agency-q00.v8] (National · laws-of-agency)
+Q: When studying broker responsibilities, what does the acronym COALD stand for?
+  A : Competence, Obligation, Accounting, Loyalty, Disclosure
+  B : Conduct, Obedience, Accuracy, Legal duty, Diligence
+  C : Confidence, Order, Authority, Loyalty, Documentation
+  D*: Care, Obedience, Accounting, Loyalty, Disclosure
+MARKED ANSWER: D
+RATIONALE: COALD represents the five fiduciary duties required of real estate brokers: Care, Obedience, Accounting, Loyalty, and Disclosure. These are core principles in Hawaii real estate law.
+
+[laws-of-agency-q00.v9] (National · laws-of-agency)
+Q: Which of the following correctly identifies the five fiduciary duties represented by the acronym COALD?
+  A : Competence, Organization, Authority, Liabilities, Documentation
+  B : Confidentiality, Obligations, Assessments, Liability, Duties
+  C*: Care, Obedience, Accounting, Loyalty, Disclosure
+  D : Candor, Oversight, Appraisal, Legal compliance, Diligence
+MARKED ANSWER: C
+RATIONALE: COALD is the established acronym for the five core fiduciary duties that Hawaii real estate licensees must perform for their clients and principals.
+
+[laws-of-agency-q01] (National · laws-of-agency)
+Q: A property manager is most typically a:
+  A*: General agent
+  B : Subagent
+  C : Special agent
+  D : Universal agent
+MARKED ANSWER: A
+RATIONALE: Property managers have broad continuing authority — general agency.
+
+[laws-of-agency-q01.v1] (National · laws-of-agency)
+Q: Which classification of agent best describes someone hired to oversee the day-to-day operations and maintenance of an apartment complex?
+  A : Universal agent with unlimited scope
+  B : Special agent limited to specific transactions
+  C*: General agent with broad, continuing authority
+  D : Subagent acting under another licensee's supervision
+MARKED ANSWER: C
+RATIONALE: Property managers exercise general agency authority because they manage ongoing operations and make decisions on behalf of the owner within their scope of employment.
+
+[laws-of-agency-q01.v2] (National · laws-of-agency)
+Q: A real estate licensee managing multiple residential units for a landlord, handling rent collection, maintenance requests, and tenant issues, operates primarily as a:
+  A*: General agent
+  B : Special agent
+  C : Limited agent
+  D : Subagent
+MARKED ANSWER: A
+RATIONALE: Property management involves broad, continuing authority over the property's operations, which is the defining characteristic of general agency.
+
+[laws-of-agency-q01.v3] (National · laws-of-agency)
+Q: The authority granted to a property manager to act on behalf of the property owner covers multiple matters and continues over time. This type of agency relationship is known as:
+  A : Exclusive agency
+  B : Special agency
+  C*: General agency
+  D : Transactional agency
+MARKED ANSWER: C
+RATIONALE: General agents possess broad authority to act across multiple property management functions on a continuing basis, unlike special agents limited to single transactions.
+
+[laws-of-agency-q01.v4] (National · laws-of-agency)
+Q: In Hawaii real estate practice, a property manager hired to oversee rental operations, authorize repairs, and collect payments would be classified as what type of agent?
+  A : Universal agent with all possible powers
+  B*: General agent with authority over multiple matters
+  C : Subagent acting under a broker's direct control
+  D : Special agent authorized for one specific purpose
+MARKED ANSWER: B
+RATIONALE: Property managers function as general agents because they exercise broad, ongoing authority over multiple aspects of property management on behalf of the owner.
+
+[laws-of-agency-q01.v5] (National · laws-of-agency)
+Q: Which type of agency relationship best describes the authority held by someone managing residential rental properties on behalf of an owner?
+  A : Special agent limited to lease negotiations only
+  B*: General agent with broad, continuing powers
+  C : Universal agent with power of attorney
+  D : Subagent acting under a broker's supervision
+MARKED ANSWER: B
+RATIONALE: Property managers exercise general agency because they have broad, continuing authority to handle multiple, recurring tasks for the owner over time.
+
+[laws-of-agency-q01.v6] (National · laws-of-agency)
+Q: A person hired to oversee daily operations, collect rent, arrange maintenance, and handle tenant relations for an apartment complex typically functions as a:
+  A : Special agent
+  B : Limited power-of-attorney agent
+  C : Subagent
+  D*: General agent
+MARKED ANSWER: D
+RATIONALE: The scope and duration of property management duties—ongoing authority across multiple property functions—constitute general agency rather than limited or special agency.
+
+[laws-of-agency-q01.v7] (National · laws-of-agency)
+Q: What classification of agent is a property manager who is authorized to act on multiple matters for the property owner on a continuous basis?
+  A : Special agent for transaction purposes
+  B : Subagent of the listing broker
+  C : Universal agent with fiduciary power
+  D*: General agent
+MARKED ANSWER: D
+RATIONALE: General agents possess continuous, broad authority to conduct multiple recurring duties; property managers fit this classification due to their ongoing operational responsibilities.
+
+[laws-of-agency-q01.v8] (National · laws-of-agency)
+Q: An individual employed to manage a condominium complex—including rent collection, maintenance coordination, and tenant screening—exercises which form of agency authority?
+  A : Subagency under the owner's broker
+  B : Universal agency over all financial decisions
+  C : Special agency limited to one specific transaction
+  D*: General agency with continuing broad powers
+MARKED ANSWER: D
+RATIONALE: Property managers hold general agency authority because their role involves broad, continuing power to handle multiple, interconnected property-related functions.
+
+[laws-of-agency-q01.v9] (National · laws-of-agency)
+Q: Which type of agency relationship does a property manager typically hold with their principal?
+  A : Special agency limited to a single transaction
+  B : Universal agency with unlimited scope
+  C : Transactional agency for lease negotiations only
+  D*: General agency with ongoing broad authority
+MARKED ANSWER: D
+RATIONALE: Property managers exercise general agency because they have continuous, wide-ranging authority to act on the principal's behalf across multiple property management duties.
+
+[laws-of-agency-q02] (National · laws-of-agency)
+Q: Dual agency requires:
+  A : No consent
+  B : Verbal consent from one party
+  C : Written consent from buyer only
+  D*: Written informed consent from both parties
+MARKED ANSWER: D
+RATIONALE: Both parties must give written informed consent.
+
+[laws-of-agency-q02.v1] (National · laws-of-agency)
+Q: When representing both the buyer and seller in the same transaction, a licensee must obtain:
+  A : Verbal permission from the seller's attorney
+  B*: Written informed consent signed by each party acknowledging the dual agency relationship
+  C : A signed agreement from the listing agent only
+  D : Oral acknowledgment from both parties that they understand the arrangement
+MARKED ANSWER: B
+RATIONALE: Hawaii real estate law requires written informed consent from both the buyer and seller before a licensee can act as a dual agent. Oral consent or consent from only one party is insufficient.
+
+[laws-of-agency-q02.v2] (National · laws-of-agency)
+Q: Under Hawaii REC regulations, if a salesperson wishes to represent both parties in a real estate transaction, what must occur before proceeding?
+  A : The licensee must obtain notarized consent from the seller
+  B : Only the buyer needs to sign an acknowledgment
+  C : The broker must file a disclosure form with the state
+  D*: Both the buyer and seller must provide written informed consent acknowledging the dual agency
+MARKED ANSWER: D
+RATIONALE: Written informed consent from both parties is the legal requirement for dual agency in Hawaii. Filing with the state, notarization, or single-party consent does not satisfy this requirement.
+
+[laws-of-agency-q02.v3] (National · laws-of-agency)
+Q: A licensee discovers that their client (the buyer) is also represented by the same brokerage as the seller. To legally proceed with this dual agency situation, the licensee should:
+  A : Request approval from the real estate commission before closing
+  B*: Obtain written informed consent from both the buyer and seller before continuing representation
+  C : Inform both parties verbally and document it in email later
+  D : Proceed only if the seller agrees, since they are the listing client
+MARKED ANSWER: B
+RATIONALE: Both parties must give written informed consent before dual agency can proceed. Verbal consent, email documentation alone, or single-party approval does not meet the legal standard.
+
+[laws-of-agency-q02.v4] (National · laws-of-agency)
+Q: What is the mandatory requirement for a real estate licensee engaged in dual agency in Hawaii?
+  A*: Written informed consent must be obtained and signed by both the buyer and the seller
+  B : Only a phone call disclosure to each party is required
+  C : The managing broker's verbal approval is sufficient
+  D : The buyer must consent; seller consent is implied by the listing agreement
+MARKED ANSWER: A
+RATIONALE: Hawaii law mandates written informed consent from both parties before a licensee can act as a dual agent. Implied consent, phone calls, or broker approval alone do not satisfy this requirement.
+
+[laws-of-agency-q02.v5] (National · laws-of-agency)
+Q: When a real estate licensee in Hawaii represents both the seller and the buyer in the same transaction, what is legally required?
+  A : File a dual agency disclosure with the Hawaii Real Estate Commission before closing
+  B : Obtain oral acknowledgment from the seller only
+  C*: Obtain documented written consent from each party acknowledging the dual representation
+  D : Receive written approval from the buyer's lender
+MARKED ANSWER: C
+RATIONALE: Dual agency in Hawaii requires written informed consent from both parties, not just oral acknowledgment or one-sided approval. The licensee must ensure both parties understand and accept the conflict.
+
+[laws-of-agency-q02.v6] (National · laws-of-agency)
+Q: A Hawaii licensee who acts as agent for both parties in a real estate transaction must obtain:
+  A : A notarized statement from one party only
+  B : Verbal permission from the party they contacted first
+  C : Approval from the listing broker before proceeding with the transaction
+  D*: Written informed consent acknowledging dual agency from both the seller and buyer
+MARKED ANSWER: D
+RATIONALE: Both parties must provide written informed consent to the dual agency arrangement; verbal consent or single-party consent is insufficient and does not meet Hawaii's legal requirements.
+
+[laws-of-agency-q02.v7] (National · laws-of-agency)
+Q: To lawfully engage in dual representation, a licensee must:
+  A : Obtain consent from whichever party has the larger financial stake
+  B*: Secure written informed consent from both parties to the dual agency arrangement
+  C : Disclose the dual agency to the Hawaii Real Estate Commission in writing before acceptance of offer
+  D : Inform both parties verbally and document it in the MLS remarks
+MARKED ANSWER: B
+RATIONALE: Written informed consent from both parties is the legal standard for dual agency; verbal disclosure or selective consent does not satisfy Hawaii's statutory requirements.
+
+[laws-of-agency-q02.v8] (National · laws-of-agency)
+Q: In Hawaii, a licensee representing both the seller and buyer in a single transaction must ensure that:
+  A : The buyer's agent is notified in writing instead of obtaining client consent
+  B*: Both parties sign a written document acknowledging and consenting to the dual agency
+  C : The seller provides written consent and the buyer provides verbal consent
+  D : Only the party paying the commission is informed of the dual representation
+MARKED ANSWER: B
+RATIONALE: Both the seller and buyer must provide written consent acknowledging the dual agency; partial consent (one written, one verbal) or notifying third parties does not substitute for full informed consent from both parties.
+
+[laws-of-agency-q02.v9] (National · laws-of-agency)
+Q: When a real estate licensee represents both the buyer and seller in the same transaction, what documentation is required?
+  A : A single disclosure form signed by the buyer is sufficient
+  B : Oral permission from the seller and written permission from the buyer
+  C : No formal documentation if the parties are aware of the arrangement
+  D*: Written acknowledgment of dual agency from each party
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires written informed consent from both parties when a licensee acts as a dual agent, ensuring each party understands the conflict and agrees in writing.
+
+[laws-of-agency-q03] (National · laws-of-agency)
+Q: The agent's duty to a non-represented customer includes:
+  A : Loyalty
+  B*: Honesty and material-fact disclosure
+  C : Negotiation on their behalf
+  D : Confidentiality
+MARKED ANSWER: B
+RATIONALE: Agents owe honesty and disclosure of known material defects to all parties.
+
+[laws-of-agency-q03.v1] (National · laws-of-agency)
+Q: When showing property to an unrepresented buyer, what obligation does the listing agent have?
+  A : Responsibility to advise the buyer on financing options
+  B*: Duty to disclose all known material facts about the property
+  C : Obligation to keep all conversations confidential from the seller
+  D : Fiduciary duty to maximize the buyer's offer
+MARKED ANSWER: B
+RATIONALE: Agents must disclose known material facts to all parties, including unrepresented customers, regardless of representation status.
+
+[laws-of-agency-q03.v2] (National · laws-of-agency)
+Q: An unrepresented customer inquires about a property defect you know exists. Your responsibility is to:
+  A*: Provide honest information and material-fact disclosure about the property condition
+  B : Demonstrate loyalty by withholding information that might deter their offer
+  C : Negotiate repairs on their behalf as a goodwill gesture
+  D : Maintain absolute confidentiality unless the buyer signs a representation agreement
+MARKED ANSWER: A
+RATIONALE: All agents must disclose known material facts honestly to unrepresented parties; this is a universal duty owed to protect the public.
+
+[laws-of-agency-q03.v3] (National · laws-of-agency)
+Q: Which of the following best describes what a licensee owes to a customer without representation?
+  A*: Honesty in all dealings and disclosure of known material information
+  B : Exclusive loyalty similar to a represented client
+  C : Commission protection and negotiation assistance
+  D : Full fiduciary duties including confidentiality and advocacy
+MARKED ANSWER: A
+RATIONALE: Non-represented customers receive honesty and material-fact disclosure but not fiduciary duties like loyalty or confidentiality.
+
+[laws-of-agency-q03.v4] (National · laws-of-agency)
+Q: A broker's salesperson is working with a walk-in customer who has not signed any buyer agency agreement. The agent must:
+  A : Treat them as a client and provide undivided loyalty
+  B : Exclusively negotiate in the customer's favor
+  C*: Disclose all known material defects and deal honestly with them
+  D : Keep information confidential to protect the transaction
+MARKED ANSWER: C
+RATIONALE: Agents owe honesty and disclosure of material facts to all parties, which is a non-negotiable duty regardless of agency status.
+
+[laws-of-agency-q03.v5] (National · laws-of-agency)
+Q: When a licensee interacts with an unrepresented party in a transaction, what obligation does the agent have?
+  A : Fiduciary loyalty to protect their interests
+  B : Keeping all transaction details confidential from the seller's agent
+  C*: Disclosure of known material facts and honest dealing
+  D : Acting as their transaction coordinator without compensation
+MARKED ANSWER: C
+RATIONALE: All agents must disclose material facts honestly to unrepresented parties, even without a client relationship; this is a statutory duty, not a fiduciary one.
+
+[laws-of-agency-q03.v6] (National · laws-of-agency)
+Q: A buyer attends an open house without representation. The listing agent's primary duty to this unrepresented buyer is to:
+  A*: Inform the buyer of material facts about the property that the agent knows
+  B : Provide exclusive market analysis and comparative pricing
+  C : Negotiate the best possible price on the buyer's behalf
+  D : Refrain from disclosing known defects to avoid liability
+MARKED ANSWER: A
+RATIONALE: Agents must disclose known material facts to all parties regardless of representation; this duty of honesty applies universally in Hawaii real estate transactions.
+
+[laws-of-agency-q03.v7] (National · laws-of-agency)
+Q: Which statement correctly describes an agent's responsibilities when working with a non-client?
+  A : The agent owes them undivided loyalty and confidentiality
+  B : The agent must act in the customer's best interest above all other parties
+  C : The agent has no obligations unless there is a signed buyer or seller agreement
+  D*: The agent must honestly disclose material defects and facts about the property
+MARKED ANSWER: D
+RATIONALE: Even without a representation agreement, licensees are required by law to provide honest information and disclose material facts to unrepresented parties.
+
+[laws-of-agency-q03.v8] (National · laws-of-agency)
+Q: An unrepresented seller contacts a listing agent before the property is listed. What is the agent's duty?
+  A : To withhold opinions about the property's condition to avoid liability
+  B : To keep all information confidential until a listing agreement is signed
+  C : To advocate exclusively for the buyer to ensure a fair market price
+  D*: To provide honest disclosure of known material property facts and defects
+MARKED ANSWER: D
+RATIONALE: Licensees must disclose known material facts honestly to all parties, including unrepresented individuals, as a fundamental ethical and legal obligation in Hawaii.
+
+[laws-of-agency-q03.v9] (National · laws-of-agency)
+Q: When working with an unrepresented third party during a transaction, what obligation does a real estate licensee have?
+  A : Full fiduciary duty identical to represented clients
+  B : Keeping all transaction details confidential from the other party's agent
+  C : Acting as a neutral intermediary to negotiate better terms for them
+  D*: Truthful disclosure of known material facts affecting the property
+MARKED ANSWER: D
+RATIONALE: Hawaii law requires licensees to disclose material facts truthfully to all parties, represented or not, though unrepresented parties do not receive fiduciary duties like loyalty or confidentiality.
+

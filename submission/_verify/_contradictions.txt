@@ -1,0 +1,6 @@
+financing-q03.v5=>B:At least 3 business days prior to closing  ||  financing-q03.v9=>B:No later than 3 business days prior to consummation
+laws-of-agency-q09.v1=>D:Universal agency with broad authority over all matters  ||  laws-of-agency-q09.v9=>C:Universal agency with broad authority over all legal matters
+transfer-of-title-q06.v1=>C:It protects the mortgagee's financial interest in the loan amount, which diminishes as the loan balance decreases  ||  transfer-of-title-q06.v5=>C:It indemnifies the mortgagee for the outstanding loan balance and diminishes as the loan principal is repaid
+transfer-of-title-q07.v5=>A:Automatically by operation of law, without probate proceedings  ||  transfer-of-title-q07.v9=>A:Automatically by operation of law without probate proceedings
+practice-of-real-estate-q00.v5=>B:Directing buyers away from certain areas based on their race or national origin  ||  practice-of-real-estate-q00.v9=>D:Directing prospective buyers toward or away from neighborhoods based on their race or national origin
+hi-professional-conduct-q13.v5=>A:A required biennial update addressing current Hawaii real estate law and regulatory changes  ||  hi-professional-conduct-q13.v9=>A:A mandatory education component that addresses current statutory and regulatory changes
