@@ -20,15 +20,33 @@ export interface TimeLog {
   deviceId: string;
   // Aggregated buckets for the profile view
   byBucket: {
-    chapters: number;     // /course, /course/[slug], /free, /free/[slug]
+    chapters: number;     // /course, /course/[slug] — the REAL paid curriculum
     flashcards: number;   // /flashcards
     math: number;         // /math
     glossary: number;     // /glossary
     quizzes: number;      // /quizzes, /quizzes/[slug]
     tutor: number;        // /tutor
-    practice: number;     // /practice
+    practice: number;     // /practice — the mock exam
+    preview: number;      // /free, /free/[slug] — free preview lessons (NOT real course)
     other: number;
   };
+}
+
+// Buckets that count toward the Hawaii 60-hour pre-license requirement.
+// Per Hawaii law the requirement is 60 hours of APPROVED pre-license
+// coursework. The free preview lessons (/free → 'preview') are a lead
+// magnet, not the approved course; the mock exam (/practice → 'practice')
+// is exam prep; 'other' is navigational chrome. All three are tracked and
+// shown to the student, but EXCLUDED from the 60-hour count so the legal
+// gate reflects only real paid-course study. (Requested by a student who
+// reported the program was combining free-practice time with real classes.)
+export const COURSE_BUCKETS = ['chapters', 'quizzes', 'flashcards', 'math', 'glossary', 'tutor'] as const;
+
+// Sum only the buckets that count toward the 60-hour state-law requirement.
+// Accepts any partial bucket map (server byBucket, local byBucket, etc.).
+export function courseSecondsFromBuckets(byBucket: Record<string, number> | null | undefined): number {
+  if (!byBucket) return 0;
+  return COURSE_BUCKETS.reduce((sum, b) => sum + (byBucket[b] ?? 0), 0);
 }
 
 export function emptyLog(): TimeLog {
@@ -39,7 +57,7 @@ export function emptyLog(): TimeLog {
     startedAt: now,
     lastSavedAt: now,
     deviceId: makeDeviceId(),
-    byBucket: { chapters: 0, flashcards: 0, math: 0, glossary: 0, quizzes: 0, tutor: 0, practice: 0, other: 0 },
+    byBucket: { chapters: 0, flashcards: 0, math: 0, glossary: 0, quizzes: 0, tutor: 0, practice: 0, preview: 0, other: 0 },
   };
 }
 
@@ -69,6 +87,7 @@ export function loadLog(): TimeLog {
         quizzes: parsed.byBucket?.quizzes ?? 0,
         tutor: parsed.byBucket?.tutor ?? 0,
         practice: parsed.byBucket?.practice ?? 0,
+        preview: parsed.byBucket?.preview ?? 0,
         other: parsed.byBucket?.other ?? 0,
       },
     };
@@ -88,7 +107,9 @@ export function saveLog(log: TimeLog): void {
 }
 
 export function pathToBucket(path: string): keyof TimeLog['byBucket'] {
-  if (path === '/free' || path.startsWith('/free/')) return 'chapters';
+  // Free preview lessons get their OWN bucket so their time is never mixed
+  // into the real-course total or the 60-hour state-law count.
+  if (path === '/free' || path.startsWith('/free/')) return 'preview';
   if (path === '/course' || path.startsWith('/course/')) return 'chapters';
   if (path.startsWith('/flashcards')) return 'flashcards';
   if (path.startsWith('/math')) return 'math';

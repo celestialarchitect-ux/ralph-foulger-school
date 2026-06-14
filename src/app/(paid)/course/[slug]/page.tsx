@@ -82,6 +82,10 @@ export default function CourseChapterPage({ params }: { params: Promise<{ slug: 
           <Highlightable blockId="intro" text={content.intro} highlights={hlFor('intro')} onAdd={handleAdd} onRemove={handleRemove}
             style={{ fontSize: 17, color: T.textDim, lineHeight: 1.55, fontStyle: 'italic', marginBottom: 24 }} />
 
+          {/* Highlighter discoverability — most students don't realize they can
+              highlight. Shown once, then dismissed permanently. */}
+          <HighlighterHint />
+
           {/* Voice player */}
           <div style={{ marginBottom: 32 }}>
             <VoicePlayer sections={[
@@ -143,6 +147,37 @@ export default function CourseChapterPage({ params }: { params: Promise<{ slug: 
         </main>
         <Footer />
       </div>
+    </div>
+  );
+}
+
+// One-time tip that teaches the highlighter. Dismissed permanently via
+// localStorage so it never nags a returning student.
+function HighlighterHint() {
+  const [show, setShow] = useState(false);
+  useEffect(() => {
+    try { setShow(window.localStorage.getItem('rfa:hl-hint-dismissed') !== '1'); } catch { /* ignore */ }
+  }, []);
+  if (!show) return null;
+  const dismiss = () => {
+    try { window.localStorage.setItem('rfa:hl-hint-dismissed', '1'); } catch { /* ignore */ }
+    setShow(false);
+  };
+  return (
+    <div style={{
+      display: 'flex', alignItems: 'center', gap: 12, flexWrap: 'wrap',
+      padding: '12px 16px', marginBottom: 24, borderRadius: 12,
+      background: 'rgba(212,160,90,0.10)', border: `1px solid ${T.amber}`,
+    }}>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke={T.amber} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden style={{ flexShrink: 0 }}>
+        <path d="M9 11l-6 6v3h3l6-6" /><path d="M14 4l6 6-9 9" /><path d="M3 21h18" />
+      </svg>
+      <span style={{ flex: 1, minWidth: 180, fontSize: 13, color: T.textDim, lineHeight: 1.5 }}>
+        <strong style={{ color: T.text }}>Tip — you can highlight.</strong> Select any sentence to mark it in your choice of color. Everything you highlight is saved to <strong style={{ color: T.text }}>your profile</strong> so you can review it anytime.
+      </span>
+      <button onClick={dismiss} style={{ ...BUTTON_3D.ghost, padding: '7px 14px', borderRadius: 8, fontSize: 12, fontWeight: 700, letterSpacing: '0.03em', cursor: 'pointer', fontFamily: 'inherit', flexShrink: 0 }}>
+        Got it
+      </button>
     </div>
   );
 }

@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
 import { getSessionUser, authConfigured, hasRole } from '@/lib/auth';
+import { COURSE_BUCKETS } from '@/lib/time-tracking';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -34,17 +35,32 @@ export async function GET() {
     },
   });
 
-  // Aggregate seconds per user in a single grouped query
-  const aggs = await db.timeEvent.groupBy({
-    by: ['userId'],
-    _sum: { seconds: true },
-  });
-  const secondsByUser = new Map<string, number>();
-  for (const a of aggs) secondsByUser.set(a.userId, a._sum.seconds ?? 0);
+  // Aggregate seconds per user. Two numbers:
+  //  • courseSeconds — real paid-course study only (the 60-hour compliance
+  //    number an instructor checks). Excludes the free preview + mock exam.
+  //  • totalSeconds — all activity, kept for context.
+  const [courseAggs, totalAggs] = await Promise.all([
+    db.timeEvent.groupBy({
+      by: ['userId'],
+      where: { bucket: { in: [...COURSE_BUCKETS] } },
+      _sum: { seconds: true },
+    }),
+    db.timeEvent.groupBy({
+      by: ['userId'],
+      _sum: { seconds: true },
+    }),
+  ]);
+  const courseByUser = new Map<string, number>();
+  for (const a of courseAggs) courseByUser.set(a.userId, a._sum.seconds ?? 0);
+  const totalByUser = new Map<string, number>();
+  for (const a of totalAggs) totalByUser.set(a.userId, a._sum.seconds ?? 0);
 
   const rows = users.map(u => ({
     ...u,
-    totalSeconds: secondsByUser.get(u.id) ?? 0,
+    // `totalSeconds` now reflects course-only study so existing admin UI shows
+    // the compliance-relevant hours; `allActivitySeconds` keeps the raw total.
+    totalSeconds: courseByUser.get(u.id) ?? 0,
+    allActivitySeconds: totalByUser.get(u.id) ?? 0,
   }));
 
   return NextResponse.json({ users: rows });

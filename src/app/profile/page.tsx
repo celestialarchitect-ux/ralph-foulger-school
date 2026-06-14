@@ -10,6 +10,7 @@ import {
   progressTo60,
   formatDuration,
   hoursDecimal,
+  courseSecondsFromBuckets,
   STATE_LAW_HOURS_REQUIRED,
 } from '@/lib/time-tracking';
 import { isHapticsEnabled, setHapticsEnabled, tap } from '@/lib/haptics';
@@ -29,7 +30,8 @@ const BUCKET_LABELS: Record<string, string> = {
   glossary: 'Glossary',
   quizzes: 'Chapter quizzes',
   tutor: 'AI Tutor',
-  practice: 'Mock exam',
+  practice: 'Mock exam (not counted)',
+  preview: 'Free practice lessons (not counted)',
   other: 'Other pages',
 };
 
@@ -134,7 +136,16 @@ export default function ProfilePage() {
 
   const { analytics, user, source } = state;
   const isServer = source === 'server';
-  const p = progressTo60(analytics.totalSeconds);
+  // The 60-hour state-law gate counts ONLY real paid-course study — never the
+  // free preview lessons or the mock exam. Those are tracked separately so the
+  // student can see them, but they don't move the legal bar.
+  const courseSeconds = courseSecondsFromBuckets(analytics.byBucket);
+  const practiceSeconds = (analytics.byBucket?.preview ?? 0) + (analytics.byBucket?.practice ?? 0);
+  const p = progressTo60(courseSeconds);
+  // Paid students with ACTIVE access no longer need the free preview — hide
+  // its shortcuts (clean slate, per student request). Free, expired, and
+  // anonymous visitors still see it.
+  const isPaid = !!user && (user.accessStatus === 'active' || user.accessStatus === 'lifetime');
   const peakDay = Math.max(1, ...analytics.last30.map(d => d.seconds));
   const last7 = analytics.last30.slice(-7);
 
@@ -204,7 +215,7 @@ export default function ProfilePage() {
       {/* TOP STAT ROW */}
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(170px, 1fr))', gap: 14, marginBottom: 22 }} data-stack-mobile="true">
         <Stat label="Today" value={formatDuration(analytics.todaySeconds, 'short') || '0m'} sub="active study" accent="ocean" live />
-        <Stat label="Total studied" value={`${hoursDecimal(analytics.totalSeconds).toFixed(1)} h`} sub={`${STATE_LAW_HOURS_REQUIRED} h required`} />
+        <Stat label="Course hours" value={`${hoursDecimal(courseSeconds).toFixed(1)} h`} sub={`${STATE_LAW_HOURS_REQUIRED} h required`} />
         <Stat label="Streak" value={`${analytics.streakDays} day${analytics.streakDays === 1 ? '' : 's'}`} sub="consecutive" accent={analytics.streakDays > 0 ? 'ocean' : 'mute'} />
         <Stat label="Status" value={p.unlocked ? 'Eligible' : `${(60 - p.hours).toFixed(1)} h to go`} sub={p.unlocked ? 'Mock exam unlocked' : 'state-law gate'} accent={p.unlocked ? 'green' : 'coral'} />
       </div>
@@ -213,7 +224,7 @@ export default function ProfilePage() {
       <div style={{ ...CARD, padding: 24, marginBottom: 22, borderLeftWidth: 4, borderLeftStyle: 'solid', borderLeftColor: p.unlocked ? T.green : T.ocean }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', flexWrap: 'wrap', gap: 12, marginBottom: 14 }}>
           <div>
-            <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, letterSpacing: '0.2em', color: T.textMute, textTransform: 'uppercase', fontWeight: 600, marginBottom: 4 }}>Hawaii state-law progress</div>
+            <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, letterSpacing: '0.2em', color: T.textMute, textTransform: 'uppercase', fontWeight: 600, marginBottom: 4 }}>Hawaii state-law progress · real course only</div>
             <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 30, fontWeight: 900, color: T.text, letterSpacing: '-0.02em', lineHeight: 1 }}>
               {p.hours.toFixed(1)} / {STATE_LAW_HOURS_REQUIRED} hours
             </div>
@@ -234,15 +245,24 @@ export default function ProfilePage() {
             </Link>
           ) : (
             <Link
-              href={analytics.lastBySection?.chapters?.path ?? analytics.lastPath ?? '/course'}
+              href={analytics.lastBySection?.chapters?.path ?? '/course'}
               style={{ ...BUTTON_3D.primary, padding: '10px 18px', borderRadius: 10, fontSize: 13, fontWeight: 700, letterSpacing: '0.04em', textDecoration: 'none' }}>
               Continue the curriculum →
             </Link>
           )}
-          <Link href="/free" style={{ ...BUTTON_3D.secondary, padding: '10px 18px', borderRadius: 10, fontSize: 13, fontWeight: 700, letterSpacing: '0.04em', textDecoration: 'none' }}>
-            Free lessons
-          </Link>
+          {/* Free preview shortcut — only for visitors / free-tier. Paid
+              students have moved past it (clean slate, per student request). */}
+          {!isPaid && (
+            <Link href="/free" style={{ ...BUTTON_3D.secondary, padding: '10px 18px', borderRadius: 10, fontSize: 13, fontWeight: 700, letterSpacing: '0.04em', textDecoration: 'none' }}>
+              Free lessons
+            </Link>
+          )}
         </div>
+        {practiceSeconds > 0 && (
+          <p style={{ marginTop: 12, marginBottom: 0, fontSize: 12, color: T.textMute, lineHeight: 1.55 }}>
+            You&apos;ve also spent <strong style={{ color: T.textDim }}>{formatDuration(practiceSeconds, 'short')}</strong> in the free practice lessons and mock exam. That time is tracked separately and <strong style={{ color: T.textDim }}>does not count</strong> toward your {STATE_LAW_HOURS_REQUIRED} state-required hours.
+          </p>
+        )}
       </div>
 
       {/* TWO-COL: WEEK BAR + TIME BY SECTION */}

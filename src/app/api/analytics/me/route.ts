@@ -78,7 +78,7 @@ export async function GET() {
   });
   const byBucket: Record<string, number> = {
     chapters: 0, flashcards: 0, math: 0, glossary: 0,
-    quizzes: 0, tutor: 0, practice: 0, other: 0,
+    quizzes: 0, tutor: 0, practice: 0, preview: 0, other: 0,
   };
   let totalSeconds = 0;
   for (const row of allBuckets) {

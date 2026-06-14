@@ -4,6 +4,7 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
 import { authConfigured, getSessionUser } from '@/lib/auth';
+import { COURSE_BUCKETS } from '@/lib/time-tracking';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -21,7 +22,10 @@ export async function GET() {
       where: { id: session.id },
       select: { id: true, name: true, firstName: true, lastName: true, createdAt: true, passedExamAt: true },
     }),
-    db.timeEvent.aggregate({ where: { userId: session.id }, _sum: { seconds: true } }),
+    // Only real paid-course study counts toward the 60-hour state requirement —
+    // exclude the free preview ('preview'), the mock exam ('practice'), and
+    // navigational 'other'.
+    db.timeEvent.aggregate({ where: { userId: session.id, bucket: { in: [...COURSE_BUCKETS] } }, _sum: { seconds: true } }),
     db.quizAttempt.findMany({
       where: { userId: session.id, kind: 'mock' },
       orderBy: { completedAt: 'asc' },

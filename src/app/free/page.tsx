@@ -1,11 +1,13 @@
 import Link from 'next/link';
 import { T, BUTTON_3D, CARD } from '@/lib/theme';
 import { Header, Footer, Backgrounds } from '@/components/Shell';
+import { RedirectPaidToCourse } from '@/components/RedirectPaidToCourse';
 import { FREE_LESSONS } from './lessons-data';
 
 export default function FreeFoundation() {
   return (
     <div style={{ minHeight: '100vh', background: T.bg, color: T.text, fontFamily: "'Inter', system-ui, sans-serif" }}>
+      <RedirectPaidToCourse />
       <Backgrounds />
       <div style={{ position: 'relative', zIndex: 10 }}>
         <Header active="/free" />

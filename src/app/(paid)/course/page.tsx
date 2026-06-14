@@ -10,8 +10,29 @@ import { Header, Footer, Backgrounds } from '@/components/Shell';
 
 export default function CoursePage() {
   const [progress, setProgress] = useState<CourseProgress | null>(null);
+  // Server-tracked last chapter the student was actually on (cross-device,
+  // survives logout). Takes precedence over the localStorage "first unread"
+  // heuristic so returning students land exactly where they left off.
+  const [resumeSlug, setResumeSlug] = useState<string | null>(null);
 
   useEffect(() => { setProgress(loadProgress()); }, []);
+
+  // Pull the most recent /course/<slug> from server analytics so the resume
+  // hero points at the student's true last position, not just the first
+  // unread chapter on this device.
+  useEffect(() => {
+    let cancelled = false;
+    fetch('/api/analytics/me', { cache: 'no-store' })
+      .then(r => (r.ok ? r.json() : null))
+      .then(data => {
+        if (cancelled || !data) return;
+        const path: string | undefined = data?.lastBySection?.chapters?.path;
+        const m = path?.match(/^\/course\/([a-z0-9-]+)/);
+        if (m) setResumeSlug(m[1]);
+      })
+      .catch(() => {/* localStorage fallback below still works */});
+    return () => { cancelled = true; };
+  }, []);
 
   if (!progress) return null;
 
@@ -22,6 +43,12 @@ export default function CoursePage() {
   const nextRead = CURRICULUM.find(c => !isChapterRead(progress, c.slug));
   const allRead = readCompleted === CURRICULUM.length;
 
+  // Resume target: server last-position wins; otherwise the first unread
+  // chapter; otherwise chapter 1. Only show the hero once they've started.
+  const resumeChapter =
+    (resumeSlug ? CURRICULUM.find(c => c.slug === resumeSlug) : null) ?? nextRead ?? null;
+  const hasStarted = readCompleted > 0 || resumeSlug !== null;
+
   const nationalChapters = CURRICULUM.filter(c => c.portion === 'national');
   const stateChapters = CURRICULUM.filter(c => c.portion === 'state');
 
@@ -31,6 +58,28 @@ export default function CoursePage() {
       <div style={{ position: 'relative', zIndex: 10 }}>
         <Header active="/course" />
         <main style={{ padding: '48px 32px', maxWidth: 1100, margin: '0 auto' }}>
+          {/* RESUME — drops the returning student exactly where they left off,
+              instead of making them scan the whole chapter list. */}
+          {hasStarted && resumeChapter && (
+            <div style={{
+              ...CARD, padding: '20px 24px', marginBottom: 24,
+              borderLeftWidth: 4, borderLeftStyle: 'solid', borderLeftColor: T.ocean,
+              display: 'flex', justifyContent: 'space-between', alignItems: 'center', gap: 16, flexWrap: 'wrap',
+            }}>
+              <div style={{ minWidth: 0 }}>
+                <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 10, letterSpacing: '0.22em', color: T.ocean, textTransform: 'uppercase', fontWeight: 700, marginBottom: 6 }}>
+                  Continue where you left off
+                </div>
+                <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 'clamp(20px, 3vw, 26px)', fontWeight: 800, color: T.text, lineHeight: 1.2 }}>
+                  Chapter {resumeChapter.number}: {resumeChapter.title}
+                </div>
+              </div>
+              <Link href={`/course/${resumeChapter.slug}`} style={{ ...BUTTON_3D.primary, padding: '13px 26px', borderRadius: 10, fontSize: 14, fontWeight: 700, letterSpacing: '0.04em', textDecoration: 'none', whiteSpace: 'nowrap' }}>
+                Resume →
+              </Link>
+            </div>
+          )}
+
           {/* Hero */}
           <div style={{ marginBottom: 32 }}>
             <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, letterSpacing: '0.22em', color: T.textMute, textTransform: 'uppercase', marginBottom: 8 }}>

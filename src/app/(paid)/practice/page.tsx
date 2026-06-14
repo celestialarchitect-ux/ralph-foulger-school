@@ -21,6 +21,7 @@ import {
   progressTo60,
   hasUnlockOverride,
   formatDuration,
+  courseSecondsFromBuckets,
   STATE_LAW_HOURS_REQUIRED,
 } from '@/lib/time-tracking';
 
@@ -42,7 +43,9 @@ export default function PracticeExam() {
   // fall back to localStorage. Server is authoritative once auth is wired.
   useEffect(() => {
     const probe = async () => {
-      let totalSeconds = 0;
+      // The gate counts ONLY real paid-course study (courseSeconds), never
+      // the free preview lessons or the mock exam itself.
+      let courseSeconds = 0;
       let serverEarlyAccess = false;
       let isAdmin = false;
       try {
@@ -53,20 +56,20 @@ export default function PracticeExam() {
         ]);
         if (summaryRes.ok) {
           const data = await summaryRes.json();
-          totalSeconds = data.totalSeconds ?? 0;
+          courseSeconds = data.courseSeconds ?? data.totalSeconds ?? 0;
           serverEarlyAccess = data.mockExamEarlyAccess === true;
         } else {
-          totalSeconds = loadLog().totalSeconds;
+          courseSeconds = courseSecondsFromBuckets(loadLog().byBucket);
         }
         if (meRes.ok) {
           const me = await meRes.json();
           isAdmin = me?.user?.isAdmin === true;
         }
       } catch {
-        totalSeconds = loadLog().totalSeconds;
+        courseSeconds = courseSecondsFromBuckets(loadLog().byBucket);
       }
-      const p = progressTo60(totalSeconds);
-      setStudiedSeconds(totalSeconds);
+      const p = progressTo60(courseSeconds);
+      setStudiedSeconds(courseSeconds);
       // Four ways to unlock the mock exam:
       //   1. admin (full access to everything — no gates)
       //   2. studiedSeconds ≥ 60h (natural gate for regular students)

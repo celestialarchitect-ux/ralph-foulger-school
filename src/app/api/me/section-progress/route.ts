@@ -253,8 +253,9 @@ function mockSectionRow(opts: {
 function chapterUsage(events: Array<{ path: string; seconds: number }>, totalChapters: number): number {
   const perChapter = new Map<string, number>();
   for (const e of events) {
-    // Match either /course/<slug> or /free/<slug>; ignore non-chapter paths.
-    const m = e.path.match(/^\/(?:course|free)\/([a-z0-9-]+)/);
+    // Match /course/<slug> ONLY — the free preview (/free/<slug>) is not the
+    // real curriculum and must not inflate chapter-reading progress.
+    const m = e.path.match(/^\/course\/([a-z0-9-]+)/);
     if (!m) continue;
     perChapter.set(m[1], (perChapter.get(m[1]) ?? 0) + e.seconds);
   }

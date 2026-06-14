@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { T, BUTTON_3D, CARD } from '@/lib/theme';
 import { Header, Footer, Backgrounds } from '@/components/Shell';
 import { LessonAudio } from '@/components/LessonAudio';
+import { RedirectPaidToCourse } from '@/components/RedirectPaidToCourse';
 import { FREE_LESSONS, getLesson, getNeighbors } from '../lessons-data';
 
 export function generateStaticParams() {
@@ -27,6 +28,7 @@ export default async function FreeLessonPage({ params }: { params: Promise<{ slu
 
   return (
     <div style={{ minHeight: '100vh', background: T.bg, color: T.text, fontFamily: "'Inter', system-ui, sans-serif" }}>
+      <RedirectPaidToCourse />
       <Backgrounds />
       <div style={{ position: 'relative', zIndex: 10 }}>
         <Header active="/free" />

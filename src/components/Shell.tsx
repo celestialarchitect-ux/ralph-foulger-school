@@ -25,7 +25,7 @@ const BROKER_NAV_ITEMS: Array<[string, string]> = [
   ['/tutor', 'AI Tutor'],
 ];
 
-interface HeaderUser { firstName?: string; name?: string; isAdmin?: boolean; tier?: string }
+interface HeaderUser { firstName?: string; name?: string; isAdmin?: boolean; tier?: string; accessStatus?: string }
 
 export function Header({ active }: { active?: string }) {
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -58,6 +58,13 @@ export function Header({ active }: { active?: string }) {
     return () => window.removeEventListener('keydown', onKey);
   }, [drawerOpen]);
 
+  // Active paid students have moved past the free preview — drop the "Free
+  // Course" entry from their nav (clean slate, per student request). Free,
+  // expired, and anonymous visitors keep it.
+  const isActivePaid = !!user && (user.accessStatus === 'active' || user.accessStatus === 'lifetime');
+  const baseNav = user?.tier === 'broker' ? BROKER_NAV_ITEMS : NAV_ITEMS;
+  const navItems = baseNav.filter(([href]) => !(isActivePaid && href === '/free'));
+
   const link = (href: string, label: string, onClick?: () => void) => {
     const isActive = active === href;
     return (
@@ -88,7 +95,7 @@ export function Header({ active }: { active?: string }) {
 
       {/* Desktop nav — broker students see broker-specific nav */}
       <nav className="rf-header-nav-desktop" style={{ gap: 18, alignItems: 'center' }}>
-        {(user?.tier === 'broker' ? BROKER_NAV_ITEMS : NAV_ITEMS).map(([href, label]) => link(href, label))}
+        {navItems.map(([href, label]) => link(href, label))}
         {user === undefined ? (
           // Auth probe in flight — reserve space so the layout doesn't jump
           <span style={{ minWidth: 96, height: 36 }} aria-hidden />
@@ -151,7 +158,7 @@ export function Header({ active }: { active?: string }) {
         role="navigation"
         aria-label="Mobile menu"
       >
-        {(user?.tier === 'broker' ? BROKER_NAV_ITEMS : NAV_ITEMS).map(([href, label]) => link(href, label, () => setDrawerOpen(false)))}
+        {navItems.map(([href, label]) => link(href, label, () => setDrawerOpen(false)))}
         {user ? (
           <Link
             href="/profile"
